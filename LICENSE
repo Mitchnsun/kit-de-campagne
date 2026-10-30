@@ -1,0 +1,110 @@
+Kit de campagne de Moi Président : licences
+Éditeur : Matthieu Compérat, sous le nom commercial Cosmic Studio
+
+Ce dépôt et ses Releases portent les deux parties du kit et les prompts de
+ses illustrations, sous des régimes différents.
+Le manifeste de chaque édition (manifest.json) reprend les crédits et la
+licence de chaque partie ; pour une édition, son manifeste fait foi.
+
+
+1. Données des Dossiers (partie « briefings »)
+
+Chaque chiffre garde la licence de sa source. Le fichier de chaque indicateur
+nomme le producteur, la publication, la licence et la date de chaque source.
+
+- La plupart des sources publiques françaises (Insee, ministères, IGN pour le
+  fond de carte ADMIN EXPRESS COG CARTO) sont sous Licence Ouverte 2.0
+  (Etalab). Toute réutilisation mentionne la source et la date de sa dernière
+  mise à jour.
+- Les données d'Eurostat sont réutilisables, y compris à des fins
+  commerciales, à condition de citer la source (« Source : Eurostat ») et de
+  signaler les modifications. Les données qu'Eurostat attribue à une autre
+  source ne sont pas réutilisables à des fins commerciales.
+  https://ec.europa.eu/eurostat/help/copyright-notice
+- Les chiffres d'autres producteurs (CITEPA, instituts de sondage…) sont cités
+  avec leur source ; aucun fichier de ces producteurs n'est redistribué.
+
+La sélection, la mise en forme et les points « À savoir » rédigés par
+l'éditeur sont publiés sous Licence Ouverte 2.0 :
+https://www.data.gouv.fr/pages/legal/licences/etalab-2.0
+Mention demandée, en plus de la source de chaque chiffre :
+« Moi Président, Kit de campagne, édition de <mois> <année> ».
+
+Les données sont des extraits datés, fournis sans garantie d'exactitude ni de
+mise à jour. Leurs producteurs n'ont ni préparé ni approuvé ce kit.
+
+
+2. Illustrations (partie « illustrations »)
+
+Les illustrations sont générées par IA ; le manifeste de chaque édition nomme
+l'outil utilisé. Cette partie couvre aussi les images de référence du dossier
+prompts/. Elles sont publiées pour être affichées dans le jeu Moi Président.
+Ce dépôt n'accorde aucune licence de réutilisation sur elles.
+
+Les scènes et les personnages sont fictifs. Toute ressemblance avec une
+personne réelle serait involontaire.
+
+
+3. Prompts (dossier prompts/)
+
+Les textes du dossier prompts/, le gabarit de prompt et les fiches de
+génération des images, sont rédigés par l'éditeur et publiés sous Licence
+Ouverte 2.0 :
+https://www.data.gouv.fr/pages/legal/licences/etalab-2.0
+Mention demandée : « Moi Président, Kit de campagne ».
+
+
+----------------------------------------------------------------------------
+
+Moi Président campaign kit: licences
+Publisher: Matthieu Compérat, trading as Cosmic Studio
+
+This repository and its Releases carry the two parts of the kit and the
+prompts of its illustrations, under different terms.
+The manifest of each edition (manifest.json) repeats the credits and the
+licence of each part; for an edition, its manifest prevails.
+
+
+1. Briefing data (part "briefings")
+
+Each figure keeps the licence of its source. The file of each indicator names
+the producer, the publication, the licence and the date of each source.
+
+- Most French public sources (Insee, ministries, IGN for the ADMIN EXPRESS
+  COG CARTO map) are under the Open Licence 2.0 (Etalab). Any reuse mentions
+  the source and the date of its last update.
+- Eurostat data may be reused, commercially too, provided the source is
+  acknowledged ("Source: Eurostat") and any changes are indicated. Data that
+  Eurostat attributes to another source may not be reused commercially.
+  https://ec.europa.eu/eurostat/help/copyright-notice
+- Figures from other producers (CITEPA, polling institutes…) are quoted with
+  their source; no file from these producers is redistributed.
+
+The selection, the layout and the "Good to know" notes written by the
+publisher are released under the Open Licence 2.0:
+https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
+Requested attribution, in addition to the source of each figure:
+"Moi Président, campaign kit, <month> <year> edition".
+
+The data are dated extracts, provided with no warranty of accuracy or of being
+up to date. Their producers neither prepared nor endorsed this kit.
+
+
+2. Illustrations (part "illustrations")
+
+The illustrations are AI-generated; the manifest of each edition names the
+tool used. This part also covers the reference images of the prompts/ folder.
+They are published to be shown in the game Moi Président. This repository
+grants no licence to reuse them.
+
+The scenes and characters are fictional. Any resemblance to a real person is
+unintended.
+
+
+3. Prompts (folder prompts/)
+
+The texts of the prompts/ folder, the prompt template and the generation
+sheets of the images, are written by the publisher and released under the
+Open Licence 2.0:
+https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
+Requested attribution: "Moi Président, campaign kit".
