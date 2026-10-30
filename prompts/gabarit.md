@@ -11,14 +11,7 @@ La direction artistique (styles, palette, cadrage, personnages) fait foi dans le
    - Les gens autour réagissent. Les détails sont ceux de 2027 : smartphones, caméras, ring lights, écrans, véhicules électriques.
    - **Dire où regarde chacun.** Quand la scène réagit au candidat, le personnage principal le regarde, c'est-à-dire regarde le spectateur. Les témoins (téléphones, caméras, une partie des badauds) visent aussi le spectateur, sans poser, et les autres continuent ce qu'ils font. Sans cette consigne, le générateur fait regarder tout le monde vers l'objectif, comme pour une photo de groupe, ou plus personne (essais de [`marketGaffe`](marketGaffe.md)).
    - **Le candidat du joueur n'a ni visage ni genre** : il est hors champ, la scène vue de sa place, ou c'est une silhouette lointaine, de dos, sans attribut genré marqué.
-2. **Le style** : celui de la catégorie de la carte, sauf si la scène en demande un autre. Un changement se note dans la fiche.
-
-   | Catégorie | Style par défaut |
-   | --- | --- |
-   | Polémique, Opportunité médiatique, Affaire, Attaque | Reportage dessiné |
-   | Crise, Coup de projecteur, Buzz, Crise d'équipe | BD semi-réaliste |
-   | Offre de soutien, Incroyable | Affiche lithographique |
-
+2. **Le style** : pour le moment, **toutes les cartes sont en reportage dessiné** (décision du 30/10/2026), avec l'image de référence jointe. L'affiche lithographique et la BD semi-réaliste restent dans le prompt, pour une image qui le demanderait plus tard. Un changement de style se note dans la fiche.
 3. **Le ton** : observateur par défaut, sinon ironique, tendu ou chaleureux selon l'événement (lignes plus bas).
 4. **Ne jamais nommer un artiste ou un dessinateur vivant** : le style se décrit, il ne s'emprunte pas.
 
