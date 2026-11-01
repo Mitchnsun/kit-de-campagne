@@ -1,10 +1,10 @@
 # `<id-de-la-carte>` · <titre de la carte>
 
-À copier en `prompts/<id-de-la-carte>.md` (par exemple `prompts/marketGaffe.md`), puis à remplir. Le prompt suit le [gabarit](gabarit.md). Supprimer cette ligne.
+À copier en `prompts/<catégorie>/<id-de-la-carte>.md` (par exemple `prompts/polemic/marketGaffe.md`), la catégorie étant le `kind` de la carte, puis à remplir. L'image va en `illustrations/<catégorie>/<id-de-la-carte>.webp`. Le prompt suit le [gabarit](../gabarit.md). Les liens de ce modèle sont ceux de la fiche une fois copiée. Supprimer cette ligne.
 
 **Validée par le PO le JJ/MM/AAAA**, au premier essai (ou à l'essai N, ou après une retouche). Elle sert telle quelle en clair et en sombre.
 
-![<titre de la carte>](<id-de-la-carte>.webp)
+![<titre de la carte>](../../illustrations/<catégorie>/<id-de-la-carte>.webp)
 
 | Champ | Valeur |
 | --- | --- |
@@ -30,7 +30,7 @@ La scène en quelques phrases : le lieu, le moment, qui fait quoi, où est le ca
 
 ## Prompt complet
 
-Dans une nouvelle conversation, avec [`oldTweet.webp`](oldTweet.webp) comme seule image de référence (ou les images jointes, dans l'ordre) :
+Dans une nouvelle conversation, avec [`oldTweet.webp`](../../illustrations/polemic/oldTweet.webp) comme seule image de référence (ou les images jointes, dans l'ordre) :
 
 ```
 Le prompt envoyé, en entier.

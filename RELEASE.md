@@ -29,13 +29,13 @@ Ne jamais supprimer une Release publiée : des joueurs peuvent encore en dépend
 ## Une fois pour toutes
 
 - Le réglage **« Enable release immutability »** est coché : _Settings › General › Releases_.
-- Le dépôt de l'app (`Mitchnsun/moi-president`) et celui-ci sont clonés côte à côte, dans le même dossier : `yarn kit:build` lit `../kit-de-campagne/prompts` par défaut. Un autre dossier se donne avec `--illustrations chemin/vers/prompts`.
+- Le dépôt de l'app (`Mitchnsun/moi-president`) et celui-ci sont clonés côte à côte, dans le même dossier : `yarn kit:build` lit `../kit-de-campagne/illustrations` par défaut. Un autre dossier se donne avec `--illustrations chemin/vers/illustrations`.
 - Dans le dépôt de l'app, Node (version de `.nvmrc`) et Yarn par Corepack sont installés : `corepack enable`, puis `yarn install`.
 - L'outil [`gh`](https://cli.github.com/) est installé et connecté, avec les droits d'écriture sur ce dépôt : `gh auth login`.
 
 ## 1. Vérifier les images
 
-Chaque image de l'édition est dans [`prompts/`](prompts/), avec sa fiche relue et validée. Elle est exportée selon le [gabarit](prompts/gabarit.md) : WebP de qualité 75, 1290 × 726 px (ou 1290 × 860 px pour une image restée en 3:2). Mettre à jour les deux dépôts :
+Chaque image de l'édition est dans [`illustrations/`](illustrations/), rangée dans le dossier de la catégorie de sa carte (`illustrations/polemic/oldTweet.webp`), et sa fiche relue et validée est au même endroit sous [`prompts/`](prompts/) (`prompts/polemic/oldTweet.md`). L'image est exportée selon le [gabarit](prompts/gabarit.md) : WebP de qualité 75, 1290 × 726 px (ou 1290 × 860 px pour une image restée en 3:2). Mettre à jour les deux dépôts :
 
 ```bash
 git -C kit-de-campagne pull
@@ -70,7 +70,7 @@ yarn kit:build --edition $EDITION --previous /tmp/kit-precedent/manifest.json
 Le script :
 
 - **vérifie l'identifiant** : `0001` sans `--previous`, sinon le numéro qui suit le plus haut du manifeste précédent, et un mois qui n'est pas avant celui de la dernière Release. Un numéro sauté ou répété, ou un `--previous` oublié, fait échouer le script ;
-- **vérifie chaque image** : un WebP de 1290 × 726 ou 1290 × 860 px, 400 Kio au plus. Une image hors règle fait échouer le script, qui dit pourquoi ;
+- **vérifie chaque image** : un WebP de 1290 × 726 ou 1290 × 860 px, 400 Kio au plus, rangé dans le dossier de la catégorie de sa carte. Une image hors règle, ou rangée ailleurs, fait échouer le script, qui dit pourquoi. Dans la Release, les images sont à plat : le manifeste ne connaît pas les dossiers ;
 - **copie les images et écrit `manifest.json`** dans `dist/kit/`, ou dans le dossier donné par `--out`, puis donne le nombre d'images et leur poids total en Mo ;
 - **relit le manifeste comme l'app le lira** : un manifeste que l'app refuserait (une adresse hors des Releases de ce dépôt, une version mal écrite) fait échouer le script, et rien n'est à publier ;
 - **liste les cartes du jeu sans image**, sans échouer : une carte sans image reste jouable ;
