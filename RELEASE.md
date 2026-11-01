@@ -6,7 +6,7 @@ Chaque édition du kit de campagne est une **Release** de ce dépôt. Le jeu lit
 https://github.com/Mitchnsun/kit-de-campagne/releases/latest/download/manifest.json
 ```
 
-Les Releases sont **immuables** : une fois publiée, une Release ne change plus, ni ses fichiers ni son tag. Une erreur ne se corrige donc pas sur place : elle se corrige par une révision (voir « Corriger une édition publiée »). Le service du kit, dans le dépôt de l'app, est décrit dans le ticket #154 et dans « KitProvider Context » de `docs/ARCHITECTURE.md`.
+Les Releases sont **immuables** : une fois publiée, une Release ne change plus, ni ses fichiers ni son tag. Une erreur ne se corrige donc pas sur place : elle se corrige par une révision (voir « Corriger une édition publiée »). Le service du kit est décrit dans le dépôt de l'app, à la section « KitProvider Context » de `docs/ARCHITECTURE.md`.
 
 ## Ce qu'une Release contient
 
@@ -25,7 +25,7 @@ Ne jamais supprimer une Release publiée : des joueurs peuvent encore en dépend
 ## Une fois pour toutes
 
 - Le réglage **« Enable release immutability »** est coché : _Settings › General › Releases_.
-- Le dépôt de l'app (`Mitchnsun/moi-president`) et celui-ci sont clonés côte à côte, dans le même dossier : `yarn kit:build` lit `../kit-de-campagne/prompts` par défaut.
+- Le dépôt de l'app (`Mitchnsun/moi-president`) et celui-ci sont clonés côte à côte, dans le même dossier : `yarn kit:build` lit `../kit-de-campagne/prompts` par défaut. Un autre dossier se donne avec `--illustrations chemin/vers/prompts`.
 - Dans le dépôt de l'app, Node (version de `.nvmrc`) et Yarn par Corepack sont installés : `corepack enable`, puis `yarn install`.
 - L'outil [`gh`](https://cli.github.com/) est installé et connecté, avec les droits d'écriture sur ce dépôt : `gh auth login`.
 
@@ -61,10 +61,11 @@ yarn kit:build --edition 2027-03 --previous /tmp/kit-precedent/manifest.json
 
 Le script :
 
-- **vérifie chaque image** : un WebP de 1290 × 726 ou 1290 × 860 px, 400 Kio au plus, nommé d'après l'`id` de sa carte. Une image hors règle fait échouer le script, qui dit pourquoi ;
-- **copie les images et écrit `manifest.json`** dans `dist/kit/`, ou dans le dossier donné par `--out` ;
+- **vérifie chaque image** : un WebP de 1290 × 726 ou 1290 × 860 px, 400 Kio au plus. Une image hors règle fait échouer le script, qui dit pourquoi ;
+- **copie les images et écrit `manifest.json`** dans `dist/kit/`, ou dans le dossier donné par `--out`, puis donne le nombre d'images et leur poids total en Mo ;
+- **relit le manifeste comme l'app le lira** : un manifeste que l'app refuserait (une adresse hors des Releases de ce dépôt, une version mal écrite) fait échouer le script, et rien n'est à publier ;
 - **liste les cartes du jeu sans image**, sans échouer : une carte sans image reste jouable ;
-- **liste les images sans carte**, sans échouer : par exemple une carte d'une branche pas encore fusionnée.
+- **liste les images dont le nom n'est l'`id` d'aucune carte**, sans échouer : par exemple une carte d'une branche pas encore fusionnée. Relire la liste : une faute de frappe dans un nom y apparaît aussi, et l'image ne s'afficherait jamais.
 
 **La version minimale de l'app** est par défaut celle du dépôt de l'app, dans `package.json`. On la change avec `--min-app-version 0.2.0`, seulement quand l'édition demande une app plus récente : un nouveau format de fichier, une nouvelle partie. Les éditions précédentes restent alors proposées aux apps plus anciennes.
 
@@ -79,7 +80,7 @@ npx serve dist/kit-essai --cors -l 8080
 EXPO_PUBLIC_KIT_URL=http://localhost:8080 yarn web
 ```
 
-Sur un téléphone, remplacer `localhost` par l'adresse IP de l'ordinateur sur le réseau local. Ouvrir la page « Kit de campagne », télécharger les illustrations, puis vérifier quelques cartes. Cette copie d'essai ne se publie jamais : ses adresses sont locales.
+Sur un téléphone, remplacer `localhost` par l'adresse IP de l'ordinateur sur le réseau local. Ouvrir la page « Kit de campagne », télécharger les illustrations, puis vérifier quelques cartes. Cette copie d'essai ne se publie jamais : ses adresses sont locales, et une app publiée la refuserait (elle n'accepte que les Releases de ce dépôt, et ignore `EXPO_PUBLIC_KIT_URL`). `--base-url` ne sert qu'à cet essai.
 
 ## 4. Créer la Release en brouillon
 
@@ -135,4 +136,4 @@ Puis reprendre à l'étape 4 avec le tag `edition-2026-11-2`. La révision passe
 
 ## Plus tard : les données des Dossiers
 
-La seconde partie du kit, les données des Dossiers (#138), aura ses propres éditions dans le même manifeste. Une Release qui ne change qu'une partie garde l'autre telle quelle : avec `--previous`, ses éditions sont recopiées et pointent toujours vers la Release qui porte leurs fichiers.
+La seconde partie du kit, les données des Dossiers, aura ses propres éditions dans le même manifeste. Une Release qui ne change qu'une partie garde l'autre telle quelle : avec `--previous`, ses éditions sont recopiées et pointent toujours vers la Release qui porte leurs fichiers.
