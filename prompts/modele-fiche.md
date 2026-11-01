@@ -30,7 +30,7 @@ La scène en quelques phrases : le lieu, le moment, qui fait quoi, où est le ca
 
 ## Prompt complet
 
-Dans une nouvelle conversation, avec [`oldTweet.webp`](../../illustrations/polemic/oldTweet.webp) comme seule image de référence (ou les images jointes, dans l'ordre) :
+Dans une nouvelle conversation, avec [`oldTweet.webp`](../../illustrations/polemic/oldTweet.webp) comme seule image de référence (ou les images jointes, dans l'ordre). Pour une ressemblance voulue, les deux étapes et les phrases de la fiche sont dans le [gabarit de la ressemblance voulue](../gabarit-ressemblance.md) :
 
 ```
 Le prompt envoyé, en entier.

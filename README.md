@@ -29,7 +29,7 @@ Dans les [Releases](https://github.com/Mitchnsun/kit-de-campagne/releases) de ce
 Elles sont générées par IA. Les fichiers d'origine, lourds, ne sont pas dans le dépôt.
 
 - [`illustrations/`](illustrations/) contient l'image validée de chaque carte, telle que la Release la publie, dont [`oldTweet.webp`](illustrations/polemic/oldTweet.webp), qui sert de référence de style.
-- [`prompts/`](prompts/) contient le [gabarit de prompt](prompts/gabarit.md), le [modèle de fiche](prompts/modele-fiche.md) et la fiche de chaque image : son prompt, l'outil, la date, les retouches et la relecture.
+- [`prompts/`](prompts/) contient le [gabarit de prompt](prompts/gabarit.md), le [gabarit de la ressemblance voulue](prompts/gabarit-ressemblance.md) (un personnage aux traits d'une personne réelle, d'après une photo), le [modèle de fiche](prompts/modele-fiche.md) et la fiche de chaque image : son prompt, l'outil, la date, les retouches et la relecture.
 
 Dans les deux dossiers, images et fiches sont rangées par catégorie d'événement, sous le nom que la catégorie a dans le moteur du jeu : `illustrations/polemic/oldTweet.webp` et `prompts/polemic/oldTweet.md`.
 
@@ -90,7 +90,7 @@ In this repository's [Releases](https://github.com/Mitchnsun/kit-de-campagne/rel
 They are AI-generated. The original files, which are heavy, are not in the repository.
 
 - [`illustrations/`](illustrations/) holds the validated image of each card, as the Release publishes it, among them [`oldTweet.webp`](illustrations/polemic/oldTweet.webp), the style reference.
-- [`prompts/`](prompts/) holds the [prompt template](prompts/gabarit.md), the [sheet model](prompts/modele-fiche.md) and the sheet of each image: its prompt, the tool, the date, the retouches and the review. These working files are in French.
+- [`prompts/`](prompts/) holds the [prompt template](prompts/gabarit.md), the [likeness template](prompts/gabarit-ressemblance.md) (a character with a real person's features, from a photograph), the [sheet model](prompts/modele-fiche.md) and the sheet of each image: its prompt, the tool, the date, the retouches and the review. These working files are in French.
 
 In both folders, images and sheets are filed by event category, under the category's name in the game's engine: `illustrations/polemic/oldTweet.webp` and `prompts/polemic/oldTweet.md`. The table above gives each category's name in the game.
 

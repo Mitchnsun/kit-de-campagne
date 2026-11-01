@@ -49,29 +49,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Une ressemblance voulue
 
-Le PO peut prêter à un personnage les traits d'un proche, ou les siens, d'après une photo (première série : [`ministerResigns`](crisis/ministerResigns.md), [`donorsDinner`](support/donorsDinner.md), [`pundit`](attack/pundit.md), [`whistleblower`](breakthrough/whistleblower.md), [`firstContact`](farFetched/firstContact.md), [`stateAlgorithm`](farFetched/stateAlgorithm.md), [`comet`](farFetched/comet.md), [`sponsorThreatened`](sponsorships/sponsorThreatened.md)).
-
-- **L'accord de la personne**, confirmé par le PO, avant d'ajouter l'image au dépôt.
-- **Ni la photo ni le portrait dessiné ne vont dans ce dépôt.** La fiche dit seulement « photo de famille du PO » ou « portrait dessiné du PO », sans nom.
-- **On ne change ni la silhouette, ni le visage, ni la coiffure de la personne réelle** : la description du personnage perd « corpulent », les lunettes ou la queue de cheval qu'elle avait ([`whistleblower`](breakthrough/whistleblower.md), [`stateAlgorithm`](farFetched/stateAlgorithm.md)). On adapte plutôt le rôle à son âge, et la variété des corps passe par les autres personnages.
-- **En deux étapes**, jamais la photo jointe à la scène : jointe directement, la photo est recopiée et le visage ressort photographique ([`donorsDinner`](support/donorsDinner.md), [`pundit`](attack/pundit.md)).
-
-**Étape 1, le portrait dessiné**, dans une nouvelle conversation, avec `oldTweet.webp` puis la photo. Adapter la deuxième phrase (« this man », « this woman », l'expression, les vêtements) :
-
-```
-Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain.
-The second attached image is a family photograph. Draw a new portrait of this man, as a press illustrator or courtroom sketch artist would draw a quick likeness from life: head and shoulders, three-quarter view, on plain warm paper with no background.
-Do not trace or copy the photograph. Redraw the face from scratch and keep only what makes him recognisable: the shape of the face, the hairline and the wavy hair, the eyebrows, the nose and the smile. Everything is drawn with ink outlines, hatching and flat watercolour washes, simplified like the faces in the reference image. No photographic skin, no photographic lighting, no detail taken over from the photo's texture.
-Format: square, 1024 × 1024 px.
-```
-
-Vérifier le portrait avant la scène : s'il est déjà photographique, le régénérer, sinon la scène le sera aussi ([`whistleblower`](breakthrough/whistleblower.md)). Un portrait réussi resservira pour d'autres cartes ([`pundit`](attack/pundit.md), [`firstContact`](farFetched/firstContact.md)).
-
-**Étape 2, la scène**, dans une nouvelle conversation, avec `oldTweet.webp` puis le portrait. Ajouter cette ligne en deuxième position, remplacer « Use the attached image » par « Use the first attached image », décrire le personnage comme « the man (the woman) from the portrait », et ajouter « apart from [le personnage], » devant « no recognisable real person » :
-
-```
-Use the second attached image, a drawn portrait, only as the likeness reference for [the character]: give him (her) this man's (woman's) features, [hair] and [beard], and draw his (her) face with the same ink lines and washes as the other people in the scene. Keep the likeness through the drawing, never through photographic detail.
-```
+Le PO peut prêter à un personnage les traits d'une personne réelle, un proche ou lui-même, d'après une photo, avec son accord. Jamais la photo jointe à la scène : d'abord un portrait dessiné d'après la photo, puis la scène avec ce portrait. Ni la photo ni le portrait ne vont dans ce dépôt. Les prompts des deux étapes, les règles et les huit cartes de la première série sont dans le [gabarit de la ressemblance voulue](gabarit-ressemblance.md).
 
 ## Les lignes de ton
 
