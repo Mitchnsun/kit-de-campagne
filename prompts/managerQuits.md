@@ -10,7 +10,7 @@
 | Style | Reportage dessiné |
 | Ton | Tendu |
 | Date | 2026-10-31 |
-| Outil | ChatGPT, ChatGPT Images 2.5 ; mode et effort : non précisés |
+| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 109 Ko, sans recadrage |
 | Fichier d'origine | PNG de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |

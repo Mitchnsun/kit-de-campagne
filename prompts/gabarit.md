@@ -1,6 +1,6 @@
 # Gabarit de prompt des illustrations
 
-Pour les essais comme pour les images finales, dans ChatGPT (ChatGPT Images, le générateur d'images d'OpenAI). Chaque image a sa fiche, `prompts/<id-de-la-carte>.md`, sur le modèle de [`modele-fiche.md`](modele-fiche.md). Les 36 fiches de la première série (30 et 31/10, 01/11/2026) montrent ces règles à l'œuvre, essais écartés compris.
+Pour les essais comme pour les images finales, dans ChatGPT (ChatGPT Images, le générateur d'images d'OpenAI). La première série a été faite avec le modèle GPT Sol 6.1 en effort « light » et ChatGPT Images 2.5. Chaque image a sa fiche, `prompts/<id-de-la-carte>.md`, sur le modèle de [`modele-fiche.md`](modele-fiche.md). Les 36 fiches de la première série (30 et 31/10, 01/11/2026) montrent ces règles à l'œuvre, essais écartés compris.
 
 La direction artistique fait foi dans le ticket #159 du dépôt de l'app. Ce gabarit en reprend ce qu'il faut pour écrire un prompt, avec les leçons de la première série.
 

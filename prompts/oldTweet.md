@@ -10,7 +10,7 @@
 | Style | Reportage dessiné, trait plus esquissé que [`marketGaffe`](marketGaffe.md) |
 | Ton | Ironique |
 | Date | 2026-10-30 |
-| Outil | ChatGPT, ChatGPT Images 2.5 ; mode et effort : non précisés |
+| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 185 Ko, sans recadrage ; réexportée le 01/11/2026, après une première version en qualité 70 pour tenir 180 Ko |
 | Fichier d'origine | PNG de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |

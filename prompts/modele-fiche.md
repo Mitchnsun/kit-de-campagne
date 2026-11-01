@@ -12,7 +12,7 @@
 | Style | Reportage dessiné ; ce qui s'écarte du style, s'il y a lieu |
 | Ton | Observateur / Ironique / Tendu / Chaleureux, ou plus précis |
 | Date | AAAA-MM-JJ |
-| Outil | ChatGPT, ChatGPT Images <version> ; mode et effort : … |
+| Outil | ChatGPT avec le modèle … en effort …, et ChatGPT Images <version> |
 | Conversation | Lien de la conversation (il ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | L × H (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, NNN Ko, sans recadrage |
 | Fichier d'origine | Nom du fichier, et où il est rangé (hors du dépôt) |

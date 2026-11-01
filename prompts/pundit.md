@@ -10,7 +10,7 @@
 | Style | Reportage dessiné ; visages dessinés comme le reste, y compris celui de l'éditorialiste |
 | Ton | Ironique et tendu |
 | Date | 2026-10-31 |
-| Outil | ChatGPT, ChatGPT Images 2.5 ; mode et effort : non précisés |
+| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 165 Ko, sans recadrage ; réexportée le 01/11/2026, après une première version en qualité 76 pour tenir 180 Ko |
 | Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
