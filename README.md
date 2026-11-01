@@ -20,6 +20,7 @@ Dans les [Releases](https://github.com/Mitchnsun/kit-de-campagne/releases) de ce
 - Chaque Release contient un `manifest.json`. Il donne, pour chaque partie, son édition, la version minimale de l'app qui sait la lire, ses crédits et sa licence, et chacun de ses fichiers avec sa taille et son empreinte SHA-256. Un fichier qui n'a pas changé peut rester dans une Release précédente.
 - L'app lit le manifeste de la dernière Release : `https://github.com/Mitchnsun/kit-de-campagne/releases/latest/download/manifest.json`
 - Les Releases sont immuables : une édition publiée ne change plus. Une correction paraît dans une nouvelle édition.
+- Comment publier une édition : [`RELEASE.md`](RELEASE.md).
 - Le kit ne contient que des images et des fichiers JSON, aucun code exécutable.
 
 ## Comment les illustrations sont faites
@@ -60,6 +61,7 @@ In this repository's [Releases](https://github.com/Mitchnsun/kit-de-campagne/rel
 - Each Release holds a `manifest.json`. For each part it gives the edition, the oldest app version that can read it, its credits and licence, and every file with its size and SHA-256 hash. A file that has not changed may stay in an earlier Release.
 - The app reads the manifest of the latest Release: `https://github.com/Mitchnsun/kit-de-campagne/releases/latest/download/manifest.json`
 - Releases are immutable: a published edition never changes. A correction comes out in a new edition.
+- How to publish an edition: [`RELEASE.md`](RELEASE.md) (in French).
 - The kit holds only images and JSON files, no executable code.
 
 ### How the illustrations are made
