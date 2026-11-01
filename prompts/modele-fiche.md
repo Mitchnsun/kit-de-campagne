@@ -16,7 +16,7 @@
 | Conversation | Lien de la conversation (il ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | L × H (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, NNN Ko, sans recadrage |
 | Fichier d'origine | Nom du fichier, et où il est rangé (hors du dépôt) |
-| Première édition | `edition-AAAA-MM` |
+| Première édition | `kit-france-AAMM-NNNN` |
 
 ## Texte de la carte
 

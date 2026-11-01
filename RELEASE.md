@@ -6,11 +6,15 @@ Chaque édition du kit de campagne est une **Release** de ce dépôt. Le jeu lit
 https://github.com/Mitchnsun/kit-de-campagne/releases/latest/download/manifest.json
 ```
 
-Les Releases sont **immuables** : une fois publiée, une Release ne change plus, ni ses fichiers ni son tag. Une erreur ne se corrige donc pas sur place : elle se corrige par une révision (voir « Corriger une édition publiée »). Le service du kit est décrit dans le dépôt de l'app, à la section « KitProvider Context » de `docs/ARCHITECTURE.md`.
+Les Releases sont **immuables** : une fois publiée, une Release ne change plus, ni ses fichiers ni son tag. Une erreur ne se corrige donc pas sur place : elle se corrige par la Release suivante (voir « Corriger une édition publiée »). Le service du kit est décrit dans le dépôt de l'app, à la section « KitProvider Context » de `docs/ARCHITECTURE.md`.
 
 ## Ce qu'une Release contient
 
-- **Un tag `edition-AAAA-MM`**, le mois de l'édition : `edition-2026-11`. Une révision du même mois prend `-2`, puis `-3`, jusqu'à `-9` : `edition-2026-11-2`.
+- **Un tag `kit-france-AAMM-NNNN`**, qui est aussi l'identifiant de l'édition :
+  - `AAMM`, l'année et le mois de la Release : `2611` pour novembre 2026 ;
+  - `NNNN`, son numéro, augmenté de un à chaque Release du kit, quelle que soit la partie qui change.
+
+  Par exemple : `kit-france-2611-0001` pour la première, `kit-france-2611-0002` si la suivante sort aussi en novembre, puis `kit-france-2612-0003` en décembre. Le jeu range les éditions par numéro, et affiche « Édition de novembre 2026, n° 2 ».
 - **Les fichiers de l'édition**, à plat : une image `<id-de-la-carte>.webp` par carte d'événement.
 - **`manifest.json`**, écrit par `yarn kit:build`. Il donne pour chaque partie la liste de ses éditions, de la plus récente à la plus ancienne. Pour chaque édition, il donne :
   - la version minimale de l'app qui la lit ;
@@ -46,21 +50,26 @@ Dans le dépôt de l'app :
 cd moi-president
 ```
 
+Choisir l'identifiant : le mois de la Release, puis le numéro qui suit celui de la dernière Release. Les étapes suivantes le reprennent.
+
 **Première édition :**
 
 ```bash
-yarn kit:build --edition 2026-11
+EDITION=kit-france-2611-0001
+yarn kit:build --edition $EDITION
 ```
 
-**Édition suivante :** partir du manifeste de la dernière Release, pour garder les éditions précédentes.
+**Édition suivante :** partir du manifeste de la dernière Release, pour garder les éditions précédentes. Si la dernière est `kit-france-2611-0001` :
 
 ```bash
+EDITION=kit-france-2612-0002
 gh release download --repo Mitchnsun/kit-de-campagne --pattern manifest.json --dir /tmp/kit-precedent
-yarn kit:build --edition 2027-03 --previous /tmp/kit-precedent/manifest.json
+yarn kit:build --edition $EDITION --previous /tmp/kit-precedent/manifest.json
 ```
 
 Le script :
 
+- **vérifie l'identifiant** : `0001` sans `--previous`, sinon le numéro qui suit le plus haut du manifeste précédent, et un mois qui n'est pas avant celui de la dernière Release. Un numéro sauté ou répété, ou un `--previous` oublié, fait échouer le script ;
 - **vérifie chaque image** : un WebP de 1290 × 726 ou 1290 × 860 px, 400 Kio au plus. Une image hors règle fait échouer le script, qui dit pourquoi ;
 - **copie les images et écrit `manifest.json`** dans `dist/kit/`, ou dans le dossier donné par `--out`, puis donne le nombre d'images et leur poids total en Mo ;
 - **relit le manifeste comme l'app le lira** : un manifeste que l'app refuserait (une adresse hors des Releases de ce dépôt, une version mal écrite) fait échouer le script, et rien n'est à publier ;
@@ -74,30 +83,30 @@ Le script :
 Préparer une copie dont les fichiers sont servis par un serveur local, puis lancer l'app sur ce kit :
 
 ```bash
-yarn kit:build --edition 2026-11 --out dist/kit-essai --base-url http://localhost:8080/
+yarn kit:build --edition $EDITION --out dist/kit-essai --base-url http://localhost:8080/
 npx serve dist/kit-essai --cors -l 8080
 # dans un autre terminal
 EXPO_PUBLIC_KIT_URL=http://localhost:8080 yarn web
 ```
 
-Sur un téléphone, remplacer `localhost` par l'adresse IP de l'ordinateur sur le réseau local. Ouvrir la page « Kit de campagne », télécharger les illustrations, puis vérifier quelques cartes. Cette copie d'essai ne se publie jamais : ses adresses sont locales, et une app publiée la refuserait (elle n'accepte que les Releases de ce dépôt, et ignore `EXPO_PUBLIC_KIT_URL`). `--base-url` ne sert qu'à cet essai.
+Pour une édition suivante, ajouter le même `--previous` qu'à l'étape 2 : le numéro y est vérifié de la même façon. Sur un téléphone, remplacer `localhost` par l'adresse IP de l'ordinateur sur le réseau local. Ouvrir la page « Kit de campagne », télécharger les illustrations, puis vérifier quelques cartes. Cette copie d'essai ne se publie jamais : ses adresses sont locales, et une app publiée la refuserait (elle n'accepte que les Releases de ce dépôt, et ignore `EXPO_PUBLIC_KIT_URL`). `--base-url` ne sert qu'à cet essai.
 
 ## 4. Créer la Release en brouillon
 
 Toujours en brouillon d'abord : une Release publiée ne se modifie plus.
 
 ```bash
-gh release create edition-2026-11 --repo Mitchnsun/kit-de-campagne --target master \
-  --draft --title "Édition de novembre 2026" --notes "Les illustrations des 36 cartes d'événement."
-gh release upload edition-2026-11 dist/kit/* --repo Mitchnsun/kit-de-campagne
+gh release create $EDITION --repo Mitchnsun/kit-de-campagne --target master \
+  --draft --title "Édition de novembre 2026, n° 1" --notes "Les illustrations des 36 cartes d'événement."
+gh release upload $EDITION dist/kit/* --repo Mitchnsun/kit-de-campagne
 ```
 
-Les notes disent ce qui change pour le joueur : de nouvelles cartes illustrées, des images refaites, une version minimale de l'app plus récente.
+Le titre reprend le nom que le jeu affiche : le mois et le numéro. Les notes disent ce qui change pour le joueur : de nouvelles cartes illustrées, des images refaites, une version minimale de l'app plus récente.
 
 ## 5. Vérifier le brouillon
 
 ```bash
-gh release view edition-2026-11 --repo Mitchnsun/kit-de-campagne --json assets --jq '.assets | length'
+gh release view $EDITION --repo Mitchnsun/kit-de-campagne --json assets --jq '.assets | length'
 ```
 
 Le nombre de fichiers est celui des images, plus un pour `manifest.json`. Vérifier aussi que le manifeste joint est bien celui de `dist/kit/` : même taille, même date.
@@ -105,7 +114,7 @@ Le nombre de fichiers est celui des images, plus un pour `manifest.json`. Vérif
 ## 6. Publier
 
 ```bash
-gh release edit edition-2026-11 --repo Mitchnsun/kit-de-campagne --draft=false --latest
+gh release edit $EDITION --repo Mitchnsun/kit-de-campagne --draft=false --latest
 ```
 
 Le tag est créé à ce moment, sur `master`. La Release ne peut plus changer.
@@ -121,18 +130,19 @@ Le manifeste lu doit être celui de la nouvelle édition. Dans l'app :
 - **un joueur qui a déjà un kit** voit « Nouvelle édition » dans le tiroir, au plus tard une semaine après, ou tout de suite en ouvrant la page du kit ;
 - **un nouveau joueur** télécharge directement la nouvelle édition.
 
-Ensuite, remplir « Première édition » (`edition-2026-11`) dans la fiche de chaque image entrée dans cette édition.
+Ensuite, remplir « Première édition » (par exemple `kit-france-2611-0001`) dans la fiche de chaque image entrée dans cette édition.
 
 ## Corriger une édition publiée
 
-Une Release publiée ne se corrige pas. Pour une image fausse ou un fichier manquant, publier une révision du même mois à partir du manifeste publié :
+Une Release publiée ne se corrige pas. Pour une image fausse ou un fichier manquant, publier la Release suivante, comme une édition suivante (étape 2), même dans le même mois. Après `kit-france-2611-0001` :
 
 ```bash
-gh release download edition-2026-11 --repo Mitchnsun/kit-de-campagne --pattern manifest.json --dir /tmp/kit-precedent
-yarn kit:build --edition 2026-11-2 --previous /tmp/kit-precedent/manifest.json
+EDITION=kit-france-2611-0002
+gh release download --repo Mitchnsun/kit-de-campagne --pattern manifest.json --dir /tmp/kit-precedent
+yarn kit:build --edition $EDITION --previous /tmp/kit-precedent/manifest.json
 ```
 
-Puis reprendre à l'étape 4 avec le tag `edition-2026-11-2`. La révision passe avant l'édition qu'elle corrige. Les joueurs qui ont l'édition fautive voient « Nouvelle édition » et téléchargent la révision.
+Puis reprendre à l'étape 4. La nouvelle édition passe avant celle qu'elle corrige. Les joueurs qui ont l'édition fautive voient « Nouvelle édition » et la téléchargent ; un téléchargement qui avait échoué passe à la nouvelle.
 
 ## Plus tard : les données des Dossiers
 

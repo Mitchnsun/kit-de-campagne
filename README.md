@@ -19,7 +19,8 @@ Dans les [Releases](https://github.com/Mitchnsun/kit-de-campagne/releases) de ce
 
 - Chaque Release contient un `manifest.json`. Il donne, pour chaque partie, ses éditions, de la plus récente à la plus ancienne. Pour chacune : la version minimale de l'app qui sait la lire, ses crédits et sa licence, et chacun de ses fichiers avec sa taille et son empreinte SHA-256. Un fichier qui n'a pas changé peut rester dans une Release précédente.
 - L'app lit le manifeste de la dernière Release : `https://github.com/Mitchnsun/kit-de-campagne/releases/latest/download/manifest.json`
-- Les Releases sont immuables : une édition publiée ne change plus. Une correction paraît dans une révision du même mois (`edition-2026-11-2`).
+- Les Releases sont immuables : une édition publiée ne change plus. Une correction paraît dans la Release suivante.
+- Chaque Release porte un tag `kit-france-AAMM-NNNN` : l'année et le mois (`2611` pour novembre 2026), puis un numéro augmenté de un à chaque Release. `kit-france-2611-0001`, puis `kit-france-2611-0002` si la suivante sort aussi en novembre, puis `kit-france-2612-0003` en décembre.
 - Comment publier une édition : [`RELEASE.md`](RELEASE.md).
 - Le kit ne contient que des images et des fichiers JSON, aucun code exécutable.
 
