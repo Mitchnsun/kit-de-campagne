@@ -24,7 +24,7 @@ Dans les [Releases](https://github.com/Mitchnsun/kit-de-campagne/releases) de ce
 
 ## Comment les illustrations sont faites
 
-Elles sont générées par IA. Le dossier [`prompts/`](prompts/) contient le [gabarit de prompt](prompts/gabarit.md), la fiche de chaque image (son prompt, l'outil, la date, les retouches et la relecture) et l'image de référence de chaque style. Les fichiers d'origine, lourds, ne sont pas dans le dépôt.
+Elles sont générées par IA. Le dossier [`prompts/`](prompts/) contient le [gabarit de prompt](prompts/gabarit.md), la fiche de chaque image (son prompt, l'outil, la date, les retouches et la relecture) et l'image validée, dont [`oldTweet.webp`](prompts/oldTweet.webp), qui sert de référence de style. Les fichiers d'origine, lourds, ne sont pas dans le dépôt.
 
 ## Confidentialité
 
@@ -64,7 +64,7 @@ In this repository's [Releases](https://github.com/Mitchnsun/kit-de-campagne/rel
 
 ### How the illustrations are made
 
-They are AI-generated. The [`prompts/`](prompts/) folder holds the [prompt template](prompts/gabarit.md), the sheet of each image (its prompt, the tool, the date, the retouches and the review) and the reference image of each style. The original files, which are heavy, are not in the repository. These working files are in French.
+They are AI-generated. The [`prompts/`](prompts/) folder holds the [prompt template](prompts/gabarit.md), the sheet of each image (its prompt, the tool, the date, the retouches and the review) and the validated image, among them [`oldTweet.webp`](prompts/oldTweet.webp), the style reference. The original files, which are heavy, are not in the repository. These working files are in French.
 
 ### Privacy
 

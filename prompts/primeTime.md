@@ -12,7 +12,7 @@
 | Date | 2026-10-30 |
 | Outil | ChatGPT, ChatGPT Images 2.5 ; mode et effort : non précisés |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 55 pour rester sous 180 Ko (173 Ko) à cause de la texture, sans recadrage |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 220 Ko, sans recadrage ; réexportée le 01/11/2026, après une première version en qualité 55 pour tenir 180 Ko |
 | Fichier d'origine | PNG de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À remplir |
 
