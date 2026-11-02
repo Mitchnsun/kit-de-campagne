@@ -15,7 +15,7 @@ Les Releases sont **immuables** : une fois publiée, une Release ne change plus,
   - `NNNN`, son numéro, augmenté de un à chaque Release du kit, quelle que soit la partie qui change.
 
   Par exemple : `kit-france-2611-0001` pour la première, `kit-france-2611-0002` si la suivante sort aussi en novembre, puis `kit-france-2612-0003` en décembre. Le jeu range les éditions par numéro, et affiche « Édition de novembre 2026, n° 2 ».
-- **Les fichiers de l'édition**, à plat : une image `<id-de-la-carte>.webp` par carte d'événement.
+- **Les fichiers de l'édition**, à plat : une image `<id-de-la-carte>.webp` par carte d'événement pour les illustrations, un fichier `<id>.json` par indicateur publié pour les données des Dossiers.
 - **`manifest.json`**, écrit par `yarn kit:build`. Il donne pour chaque partie la liste de ses éditions, de la plus récente à la plus ancienne. Pour chaque édition, il donne :
   - la version minimale de l'app qui la lit ;
   - l'adresse de ses fichiers ;
@@ -29,7 +29,7 @@ Ne jamais supprimer une Release publiée : des joueurs peuvent encore en dépend
 ## Une fois pour toutes
 
 - Le réglage **« Enable release immutability »** est coché : _Settings › General › Releases_.
-- Le dépôt de l'app (`Mitchnsun/moi-president`) et celui-ci sont clonés côte à côte, dans le même dossier : `yarn kit:build` lit `../kit-de-campagne/illustrations` par défaut. Un autre dossier se donne avec `--illustrations chemin/vers/illustrations`.
+- Le dépôt de l'app (`Mitchnsun/moi-president`) et celui-ci sont clonés côte à côte, dans le même dossier : `yarn kit:build` lit `../kit-de-campagne/illustrations` et `../kit-de-campagne/briefings` par défaut, et `yarn briefings` écrit dans `../kit-de-campagne/briefings/data`. D'autres dossiers se donnent avec `--illustrations`, `--briefings` et `--out`.
 - Dans le dépôt de l'app, Node (version de `.nvmrc`) et Yarn par Corepack sont installés : `corepack enable`, puis `yarn install`.
 - L'outil [`gh`](https://cli.github.com/) est installé et connecté, avec les droits d'écriture sur ce dépôt : `gh auth login`.
 
@@ -51,6 +51,8 @@ cd moi-president
 ```
 
 Choisir l'identifiant : le mois de la Release, puis le numéro qui suit celui de la dernière Release. Les étapes suivantes le reprennent.
+
+**Les parties** : par défaut, l'édition ne prépare que les illustrations. `--parts briefings` ne prépare que les données des Dossiers (voir « Les données des Dossiers »), `--parts illustrations,briefings` les deux. Avec `--previous`, une partie laissée de côté garde ses éditions précédentes, qui pointent toujours vers la Release qui porte leurs fichiers : un joueur ne retélécharge que ce qui a changé.
 
 **Première édition :**
 
@@ -144,6 +146,20 @@ yarn kit:build --edition $EDITION --previous /tmp/kit-precedent/manifest.json
 
 Puis reprendre à l'étape 4. La nouvelle édition passe avant celle qu'elle corrige. Les joueurs qui ont l'édition fautive voient « Nouvelle édition » et la téléchargent ; un téléchargement qui avait échoué passe à la nouvelle.
 
-## Plus tard : les données des Dossiers
+## Les données des Dossiers
 
-La seconde partie du kit, les données des Dossiers, aura ses propres éditions dans le même manifeste. Une Release qui ne change qu'une partie garde l'autre telle quelle : avec `--previous`, ses éditions sont recopiées et pointent toujours vers la Release qui porte leurs fichiers.
+La seconde partie du kit a ses propres éditions dans le même manifeste. Elle se prépare ainsi, avant les étapes 2 à 7.
+
+1. **Récupérer les chiffres**, dans le dépôt de l'app : `yarn briefings --all`. Chaque script écrit `briefings/data/<id>.json` dans ce dépôt, ou échoue en disant pourquoi (une colonne, une série ou une page qui a changé) sans rien écrire pour cet indicateur. Relire ce qui a changé : `git -C ../kit-de-campagne diff --stat`, puis chaque chiffre clé.
+2. **Mettre à jour les fiches** : pour chaque indicateur dont les chiffres changent, une ligne dans « Mises à jour » de sa fiche, et la double vérification refaite sur les nouveaux chiffres. Revoir ses « À savoir » si la source signale une rupture ou une révision.
+3. **Fusionner** ces changements sur `master` par une PR de ce dépôt.
+4. **Préparer l'édition** avec la partie `briefings` :
+
+   ```bash
+   yarn kit:build --edition $EDITION --parts briefings --previous /tmp/kit-precedent/manifest.json
+   ```
+
+   Le script prend chaque indicateur publié dans l'app (`briefings/registry.ts`), réunit son instantané et ses « À savoir », et refuse l'édition s'il manque l'un des deux, si une source n'est pas celle du registre, si un « À savoir » manque dans une langue ou n'en suit pas la typographie. Un fichier d'un indicateur pas encore publié dans l'app est écarté, avec un avertissement. « Données au … », sur l'accueil des Dossiers, est la plus ancienne des dates de récupération.
+5. **La version minimale de l'app** : la première édition des données attend la version de l'app qui ouvre la zone Dossiers. La donner avec `--min-app-version`.
+
+Puis reprendre aux étapes 3 à 7. À l'essai (étape 3), ouvrir la zone Dossiers et quelques pages d'indicateurs.
