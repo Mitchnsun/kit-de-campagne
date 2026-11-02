@@ -151,6 +151,7 @@ Puis reprendre à l'étape 4. La nouvelle édition passe avant celle qu'elle cor
 La seconde partie du kit a ses propres éditions dans le même manifeste. Elle se prépare ainsi, avant les étapes 2 à 7.
 
 1. **Récupérer les chiffres**, dans le dépôt de l'app : `yarn briefings --all`. Chaque script écrit `briefings/data/<id>.json` dans ce dépôt, ou échoue en disant pourquoi (une colonne, une série ou une page qui a changé) sans rien écrire pour cet indicateur. Relire ce qui a changé : `git -C ../kit-de-campagne diff --stat`, puis chaque chiffre clé.
+   Le fond de carte ne change qu'avec un nouveau millésime des contours de l'IGN : `yarn briefings:map` le récrit alors dans `briefings/basemap/` (le millésime est dans le script, `LAYER`), et sa fiche note la mise à jour.
 2. **Mettre à jour les fiches** : pour chaque indicateur dont les chiffres changent, une ligne dans « Mises à jour » de sa fiche, et la double vérification refaite sur les nouveaux chiffres. Revoir ses « À savoir » si la source signale une rupture ou une révision.
 3. **Fusionner** ces changements sur `master` par une PR de ce dépôt.
 4. **Préparer l'édition** avec la partie `briefings` :
@@ -159,7 +160,7 @@ La seconde partie du kit a ses propres éditions dans le même manifeste. Elle s
    yarn kit:build --edition $EDITION --parts briefings --previous /tmp/kit-precedent/manifest.json
    ```
 
-   Le script prend chaque indicateur publié dans l'app (`briefings/registry.ts`), réunit son instantané et ses « À savoir », et refuse l'édition s'il manque l'un des deux, si une source n'est pas celle du registre, si un « À savoir » manque dans une langue ou n'en suit pas la typographie. Un fichier d'un indicateur pas encore publié dans l'app est écarté, avec un avertissement. « Données au … », sur l'accueil des Dossiers, est la plus ancienne des dates de récupération.
+   Le script prend chaque indicateur publié dans l'app (`briefings/registry.ts`), réunit son instantané et ses « À savoir », joint le fond de carte (`departments.json`, demandé dès qu'une carte est publiée), et refuse l'édition s'il manque l'un des deux, si une source n'est pas celle du registre, si un « À savoir » manque dans une langue ou n'en suit pas la typographie. Un fichier d'un indicateur pas encore publié dans l'app est écarté, avec un avertissement. « Données au … », sur l'accueil des Dossiers, est la plus ancienne des dates de récupération.
 5. **La version minimale de l'app** : la première édition des données attend la version de l'app qui ouvre la zone Dossiers. La donner avec `--min-app-version`.
 
 Puis reprendre aux étapes 3 à 7. À l'essai (étape 3), ouvrir la zone Dossiers et quelques pages d'indicateurs.
