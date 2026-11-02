@@ -1,0 +1,25 @@
+{
+  "id": "climateTargets",
+  "retrievedOn": "2026-11-02",
+  "sources": [
+    {
+      "producer": "Légifrance",
+      "publication": "Décret n° 2026-636 du 16 juillet 2026 relatif aux budgets carbone nationaux et à la stratégie nationale bas-carbone",
+      "publishedOn": "2026-07-18"
+    }
+  ],
+  "headline": { "series": "carbonBudget", "period": "2024", "value": 342, "trend": null },
+  "series": [
+    {
+      "id": "carbonBudget",
+      "frequency": "annual",
+      "unit": "mtCo2e",
+      "sourceId": "Décret n° 2026-636, art. 2",
+      "points": [
+        ["2024", 342],
+        ["2029", 262],
+        ["2034", 194]
+      ]
+    }
+  ]
+}
