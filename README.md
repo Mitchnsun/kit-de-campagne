@@ -47,6 +47,16 @@ Dans les deux dossiers, images et fiches sont rangées par catégorie d'événem
 | `support` | Offre de soutien |
 | `team` | Crise d'équipe |
 
+## Comment les données des Dossiers sont faites
+
+Les chiffres viennent des producteurs publics (Insee, ministères, Eurostat…). Les scripts du dépôt de l'app les récupèrent (`yarn briefings`), contrôlent ce qu'ils lisent et notent la date de récupération. Ce dépôt garde, pour chaque indicateur, sous l'identifiant qu'il a dans l'app :
+
+- [`briefings/data/`](briefings/data/) : l'instantané des chiffres (`inflation.json`), écrit par le script, ou saisi à la main quand la source n'est qu'un PDF, ce que dit sa fiche. Un instantané écrit par le script ne se retouche pas à la main ;
+- [`briefings/notes/`](briefings/notes/) : les points « À savoir », en français et en anglais, rédigés à la main ;
+- [`briefings/sheets/`](briefings/sheets/) : la fiche de l'indicateur, d'après le [modèle](briefings/sheets/modele-fiche.md) : ses sources, sa récupération et sa double vérification, faite sur d'autres publications que la source du script.
+
+`yarn kit:build --parts briefings` réunit les chiffres et les « À savoir » de chaque indicateur publié dans l'app en un seul fichier, `<id>.json`, et le relit comme l'app le lira.
+
 ## Confidentialité
 
 L'app ne contacte ce dépôt que pour le kit : une fois, au début de la première nouvelle campagne, pour le proposer ; quand le joueur ouvre sa page, le télécharge ou le met à jour ; et, une fois le kit installé, au plus une fois par semaine à l'ouverture du jeu, pour savoir si une nouvelle édition existe. Elle n'envoie ni compte, ni identifiant, ni cookie. Comme tout serveur, GitHub reçoit l'adresse IP de l'appareil qui télécharge : voir la [déclaration de confidentialité de GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement).
@@ -93,6 +103,16 @@ They are AI-generated. The original files, which are heavy, are not in the repos
 - [`prompts/`](prompts/) holds the [prompt template](prompts/gabarit.md), the [likeness template](prompts/gabarit-ressemblance.md) (a character with a real person's features, from a photograph), the [sheet model](prompts/modele-fiche.md) and the sheet of each image: its prompt, the tool, the date, the retouches and the review. These working files are in French.
 
 In both folders, images and sheets are filed by event category, under the category's name in the game's engine: `illustrations/polemic/oldTweet.webp` and `prompts/polemic/oldTweet.md`. The table above gives each category's name in the game.
+
+### How the briefing data is made
+
+The figures come from public producers (Insee, ministries, Eurostat…). The scripts of the app's repository fetch them (`yarn briefings`), check what they read and record the date of retrieval. This repository keeps, for each indicator, under its identifier in the app:
+
+- [`briefings/data/`](briefings/data/): the snapshot of the figures (`inflation.json`), written by the script, or typed in by hand when the source is only a PDF, as its sheet says. A snapshot written by the script is never edited by hand;
+- [`briefings/notes/`](briefings/notes/): the "Good to know" notes, in French and English, written by hand;
+- [`briefings/sheets/`](briefings/sheets/): the indicator's sheet, from the [model](briefings/sheets/modele-fiche.md): its sources, its retrieval and its double check, made against other publications than the script's source. These working files are in French.
+
+`yarn kit:build --parts briefings` merges the figures and the notes of each indicator published in the app into one file, `<id>.json`, and reads it back as the app will.
 
 ### Privacy
 
