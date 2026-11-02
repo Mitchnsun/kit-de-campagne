@@ -54,8 +54,9 @@ Les chiffres viennent des producteurs publics (Insee, ministères, Eurostat…).
 - [`briefings/data/`](briefings/data/) : l'instantané des chiffres (`inflation.json`), écrit par le script, ou saisi à la main quand la source n'est qu'un PDF, ce que dit sa fiche. Un instantané écrit par le script ne se retouche pas à la main ;
 - [`briefings/notes/`](briefings/notes/) : les points « À savoir », en français et en anglais, rédigés à la main ;
 - [`briefings/sheets/`](briefings/sheets/) : la fiche de l'indicateur, d'après le [modèle](briefings/sheets/modele-fiche.md) : ses sources, sa récupération et sa double vérification, faite sur d'autres publications que la source du script.
+- [`briefings/basemap/`](briefings/basemap/) : le fond de carte des 101 départements (`departments.json`), tiré des contours de l'IGN (ADMIN EXPRESS COG CARTO PE) par `yarn briefings:map`, avec sa fiche [`briefings/sheets/departments.md`](briefings/sheets/departments.md).
 
-`yarn kit:build --parts briefings` réunit les chiffres et les « À savoir » de chaque indicateur publié dans l'app en un seul fichier, `<id>.json`, et le relit comme l'app le lira.
+`yarn kit:build --parts briefings` réunit les chiffres et les « À savoir » de chaque indicateur publié dans l'app en un seul fichier, `<id>.json`, y joint le fond de carte, et relit le tout comme l'app le lira.
 
 ## Confidentialité
 
@@ -111,8 +112,9 @@ The figures come from public producers (Insee, ministries, Eurostat…). The scr
 - [`briefings/data/`](briefings/data/): the snapshot of the figures (`inflation.json`), written by the script, or typed in by hand when the source is only a PDF, as its sheet says. A snapshot written by the script is never edited by hand;
 - [`briefings/notes/`](briefings/notes/): the "Good to know" notes, in French and English, written by hand;
 - [`briefings/sheets/`](briefings/sheets/): the indicator's sheet, from the [model](briefings/sheets/modele-fiche.md): its sources, its retrieval and its double check, made against other publications than the script's source. These working files are in French.
+- [`briefings/basemap/`](briefings/basemap/): the base map of the 101 départements (`departments.json`), from the IGN's contours (ADMIN EXPRESS COG CARTO PE) through `yarn briefings:map`, with its sheet [`briefings/sheets/departments.md`](briefings/sheets/departments.md).
 
-`yarn kit:build --parts briefings` merges the figures and the notes of each indicator published in the app into one file, `<id>.json`, and reads it back as the app will.
+`yarn kit:build --parts briefings` merges the figures and the notes of each indicator published in the app into one file, `<id>.json`, adds the base map, and reads it all back as the app will.
 
 ### Privacy
 
