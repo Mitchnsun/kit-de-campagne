@@ -49,7 +49,7 @@ Dans les deux dossiers, images et fiches sont rangées par catégorie d'événem
 
 ## Confidentialité
 
-L'app ne contacte ce dépôt que pour le kit : quand le joueur ouvre sa page, le télécharge ou le met à jour, et, une fois le kit installé, au plus une fois par semaine à l'ouverture du jeu, pour savoir si une nouvelle édition existe. Elle n'envoie ni compte, ni identifiant, ni cookie. Comme tout serveur, GitHub reçoit l'adresse IP de l'appareil qui télécharge : voir la [déclaration de confidentialité de GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement).
+L'app ne contacte ce dépôt que pour le kit : une fois, au début de la première nouvelle campagne, pour le proposer ; quand le joueur ouvre sa page, le télécharge ou le met à jour ; et, une fois le kit installé, au plus une fois par semaine à l'ouverture du jeu, pour savoir si une nouvelle édition existe. Elle n'envoie ni compte, ni identifiant, ni cookie. Comme tout serveur, GitHub reçoit l'adresse IP de l'appareil qui télécharge : voir la [déclaration de confidentialité de GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Licences
 
@@ -96,7 +96,7 @@ In both folders, images and sheets are filed by event category, under the catego
 
 ### Privacy
 
-The app only contacts this repository for the kit: when the player opens its page, downloads it or updates it, and, once the kit is installed, at most once a week when the game starts, to find out whether a new edition exists. It sends no account, identifier or cookie. Like any server, GitHub receives the IP address of the device that downloads: see [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+The app only contacts this repository for the kit: once, at the start of the first new campaign, to offer it; when the player opens its page, downloads it or updates it; and, once the kit is installed, at most once a week when the game starts, to find out whether a new edition exists. It sends no account, identifier or cookie. Like any server, GitHub receives the IP address of the device that downloads: see [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ### Licences
 
