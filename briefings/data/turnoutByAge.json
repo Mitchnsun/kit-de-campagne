@@ -1,0 +1,390 @@
+{
+  "id": "turnoutByAge",
+  "retrievedOn": "2026-11-02",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Vingt ans de participation électorale",
+      "publishedOn": "2022-11-17"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Élections présidentielle et législatives de 2022 : seul un tiers des électeurs a voté à tous les tours",
+      "publishedOn": "2022-11-17"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Bilan démographique 2025 - Tableaux rétrospectifs",
+      "publishedOn": "2026-01-13"
+    }
+  ],
+  "headline": { "series": "presidential1All", "period": "2022", "value": 77.9, "trend": "down" },
+  "series": [
+    {
+      "id": "presidential1All",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 73.6],
+        ["2007", 86.2],
+        ["2012", 82.2],
+        ["2017", 81.2],
+        ["2022", 77.9]
+      ]
+    },
+    {
+      "id": "presidential1Age18to29",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 65.8],
+        ["2007", 82.1],
+        ["2012", 73.8],
+        ["2017", 71.4],
+        ["2022", 67.2]
+      ]
+    },
+    {
+      "id": "presidential1Age30to64",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 75.9],
+        ["2007", 88.9],
+        ["2012", 86.4],
+        ["2017", 85.7],
+        ["2022", 81.7]
+      ]
+    },
+    {
+      "id": "presidential1Age65plus",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 73.3],
+        ["2007", 82.3],
+        ["2012", 78.6],
+        ["2017", 78.3],
+        ["2022", 77]
+      ]
+    },
+    {
+      "id": "presidential2All",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 81.8],
+        ["2007", 86.1],
+        ["2012", 83.6],
+        ["2017", 78],
+        ["2022", 75.5]
+      ]
+    },
+    {
+      "id": "presidential2Age18to29",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 75.9],
+        ["2007", 81],
+        ["2012", 74],
+        ["2017", 67.6],
+        ["2022", 63.1]
+      ]
+    },
+    {
+      "id": "presidential2Age30to64",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 84.4],
+        ["2007", 88.8],
+        ["2012", 87.7],
+        ["2017", 81.9],
+        ["2022", 78.8]
+      ]
+    },
+    {
+      "id": "presidential2Age65plus",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 79.2],
+        ["2007", 83.3],
+        ["2012", 81.1],
+        ["2017", 76.6],
+        ["2022", 76.5]
+      ]
+    },
+    {
+      "id": "legislative1All",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 65.8],
+        ["2007", 61.6],
+        ["2012", 60.2],
+        ["2017", 52.2],
+        ["2022", 50.6]
+      ]
+    },
+    {
+      "id": "legislative1Age18to29",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 50.7],
+        ["2007", 41.9],
+        ["2012", 38.3],
+        ["2017", 30.4],
+        ["2022", 27.9]
+      ]
+    },
+    {
+      "id": "legislative1Age30to64",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 67.9],
+        ["2007", 64.8],
+        ["2012", 63.9],
+        ["2017", 53.6],
+        ["2022", 52]
+      ]
+    },
+    {
+      "id": "legislative1Age65plus",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 71.5],
+        ["2007", 68.4],
+        ["2012", 66.3],
+        ["2017", 61.5],
+        ["2022", 61]
+      ]
+    },
+    {
+      "id": "legislative2All",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 61.4],
+        ["2007", 60.9],
+        ["2012", 58.6],
+        ["2017", 45.4],
+        ["2022", 48.5]
+      ]
+    },
+    {
+      "id": "legislative2Age18to29",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 44.7],
+        ["2007", 40.2],
+        ["2012", 36.4],
+        ["2017", 24.4],
+        ["2022", 27.5]
+      ]
+    },
+    {
+      "id": "legislative2Age30to64",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 62.9],
+        ["2007", 63.6],
+        ["2012", 61.4],
+        ["2017", 45.5],
+        ["2022", 49.1]
+      ]
+    },
+    {
+      "id": "legislative2Age65plus",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "IP1929 Figure 5",
+      "points": [
+        ["2002", 69.7],
+        ["2007", 70.1],
+        ["2012", 67],
+        ["2017", 56.7],
+        ["2022", 59.1]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "systematicVote",
+      "unit": "percent",
+      "period": "2022",
+      "sourceId": "IP1928 Figure 2",
+      "values": [
+        ["age18to24", 16.4],
+        ["age25to29", 17.9],
+        ["age30to34", 19.8],
+        ["age35to39", 26.4],
+        ["age40to44", 32.5],
+        ["age45to49", 40.1],
+        ["age50to54", 41.7],
+        ["age55to59", 45],
+        ["age60to64", 46.8],
+        ["age65to69", 47.5],
+        ["age70to74", 52.8],
+        ["age75to79", 53.4],
+        ["age80to84", 48.1],
+        ["age85to89", 36.4],
+        ["age90plus", 21],
+        ["all", 36.4]
+      ]
+    },
+    {
+      "id": "intermittentVote",
+      "unit": "percent",
+      "period": "2022",
+      "sourceId": "IP1928 Figure 2",
+      "values": [
+        ["age18to24", 59.8],
+        ["age25to29", 56.8],
+        ["age30to34", 57.2],
+        ["age35to39", 55.4],
+        ["age40to44", 54.5],
+        ["age45to49", 49.1],
+        ["age50to54", 48.3],
+        ["age55to59", 45.1],
+        ["age60to64", 44],
+        ["age65to69", 43.5],
+        ["age70to74", 36],
+        ["age75to79", 33.4],
+        ["age80to84", 33.6],
+        ["age85to89", 29],
+        ["age90plus", 23.5],
+        ["all", 47.3]
+      ]
+    },
+    {
+      "id": "systematicAbstention",
+      "unit": "percent",
+      "period": "2022",
+      "sourceId": "IP1928 Figure 2",
+      "values": [
+        ["age18to24", 23.8],
+        ["age25to29", 25.3],
+        ["age30to34", 22.9],
+        ["age35to39", 18.2],
+        ["age40to44", 13],
+        ["age45to49", 10.8],
+        ["age50to54", 10],
+        ["age55to59", 9.9],
+        ["age60to64", 9.2],
+        ["age65to69", 9],
+        ["age70to74", 11.1],
+        ["age75to79", 13.2],
+        ["age80to84", 18.3],
+        ["age85to89", 34.6],
+        ["age90plus", 55.6],
+        ["all", 16.3]
+      ]
+    },
+    {
+      "id": "presidentialAtLeastOnce",
+      "unit": "percent",
+      "period": "2022",
+      "sourceId": "IP1928 Figure 3",
+      "values": [
+        ["age18to24", 74.8],
+        ["age25to29", 73.3],
+        ["age30to34", 76.1],
+        ["age35to39", 80.8],
+        ["age40to44", 86.4],
+        ["age45to49", 88.4],
+        ["age50to54", 89.1],
+        ["age55to59", 89.1],
+        ["age60to64", 90.1],
+        ["age65to69", 89.6],
+        ["age70to74", 87.7],
+        ["age75to79", 85.6],
+        ["age80to84", 79.9],
+        ["age85to89", 64.4],
+        ["age90plus", 43.2],
+        ["all", 82.6]
+      ]
+    },
+    {
+      "id": "legislativeAtLeastOnce",
+      "unit": "percent",
+      "period": "2022",
+      "sourceId": "IP1928 Figure 3",
+      "values": [
+        ["age18to24", 34.8],
+        ["age25to29", 35.3],
+        ["age30to34", 40.1],
+        ["age35to39", 48.2],
+        ["age40to44", 56.4],
+        ["age45to49", 62.4],
+        ["age50to54", 65.4],
+        ["age55to59", 69.2],
+        ["age60to64", 71.1],
+        ["age65to69", 71.8],
+        ["age70to74", 75.2],
+        ["age75to79", 73.6],
+        ["age80to84", 68.5],
+        ["age85to89", 51.3],
+        ["age90plus", 33.3],
+        ["all", 58]
+      ]
+    },
+    {
+      "id": "populationByAge",
+      "unit": "count",
+      "period": "2022",
+      "sourceId": "POP3 2022",
+      "values": [
+        ["age18to24", 5551935],
+        ["age25to29", 3785076],
+        ["age30to34", 4123517],
+        ["age35to39", 4246507],
+        ["age40to44", 4275358],
+        ["age45to49", 4345323],
+        ["age50to54", 4475648],
+        ["age55to59", 4449022],
+        ["age60to64", 4178653],
+        ["age65to69", 3903513],
+        ["age70to74", 3718853],
+        ["age75to79", 2518122],
+        ["age80to84", 1793923],
+        ["age85to89", 1352856],
+        ["age90plus", 919720]
+      ]
+    },
+    {
+      "id": "presidentialAtLeastOnceByBand",
+      "unit": "percent",
+      "period": "2022",
+      "sourceId": "IP1928 Figure 3, POP3",
+      "values": [
+        ["age18to29", 74.192],
+        ["age30to44", 81.161],
+        ["age45to59", 88.871],
+        ["age60to74", 89.178],
+        ["age75plus", 73.769]
+      ]
+    }
+  ]
+}
