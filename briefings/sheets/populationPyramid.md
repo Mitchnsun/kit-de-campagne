@@ -11,7 +11,7 @@
 | Pyramides | `pyramids` : hommes et femmes par âge révolu de 0 à la classe ouverte, pour 1991 (France hors Mayotte, « 100 ou plus »), 2006 (France hors Mayotte, « 105 ou plus ») et 2026 (France, « 105 ou plus », provisoire), les années que donne #22 en exemple ; la somme des âges égale le total de l'onglet, et 2026 égale le total de POP5 |
 | Chiffre clé | 69 081 996 habitants au 1er janvier 2026 (« 69,1 millions »), en hausse après 68,9 millions |
 | Contrôle | La pyramide de 2026 redonne la répartition des 18 ans ou plus que #22 a vérifiée : 17,4 / 23,2 / 23,8 / 21,7 / 13,9 % (18-29 / 30-44 / 45-59 / 60-74 / 75 ans ou plus) ; la vérification la retrouve par l'outil pyramide et l'Insee Première n° 2087 |
-| Règles | Le champ et la dernière classe d'âge viennent de l'onglet de chaque année ; le statut, de la mention « Estimation provisoire arrêtée à fin 2025 » de l'onglet et des « (p) » de POP5, qui doivent concorder. Les années de la pyramide sont un choix à confirmer par le PO (#22 dit « par exemple ») |
+| Règles | Le champ et la dernière classe d'âge viennent de l'onglet de chaque année ; le statut, de la mention « Estimation provisoire arrêtée à fin 2025 » de l'onglet et des « (p) » de POP5, qui doivent concorder. Les années de la pyramide (1991, 2006, la dernière) sont confirmées par le PO le 02/11/2026 (#22 disait « par exemple ») |
 | Première édition | À remplir à la publication |
 
 ## « À savoir »
