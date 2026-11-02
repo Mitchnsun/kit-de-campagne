@@ -14,7 +14,7 @@
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1673 × 940 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 239 Ko, sans recadrage ; réexportée le 01/11/2026, après une première version en qualité 45 pour tenir 180 Ko |
 | Fichier d'origine | PNG de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
-| Première édition | À remplir |
+| Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
 
