@@ -1,0 +1,161 @@
+{
+  "id": "pisaScores",
+  "retrievedOn": "2026-11-02",
+  "sources": [
+    {
+      "producer": "DEPP",
+      "publication": "PISA 2025 : les acquis des élèves de 15 ans en compréhension de l'écrit et en culture mathématique en baisse en France et dans l'OCDE",
+      "publishedOn": "2026-09-04"
+    },
+    {
+      "producer": "DEPP",
+      "publication": "PISA 2025 : en culture scientifique, le score baisse par rapport à 2015 en France comme dans l’OCDE, et les performances sont similaires entre les filles et les garçons",
+      "publishedOn": "2026-09-04"
+    }
+  ],
+  "headline": { "series": "mathematicsFrance", "period": "2025", "value": 457.7, "trend": "down" },
+  "series": [
+    {
+      "id": "readingFrance",
+      "frequency": "annual",
+      "unit": "points",
+      "sourceId": "DEPP",
+      "points": [
+        ["2000", 504.74],
+        ["2003", 496.19],
+        ["2006", 487.71],
+        ["2009", 495.62],
+        ["2012", 505.48],
+        ["2015", 499.31],
+        ["2018", 492.61],
+        ["2022", 473.85],
+        ["2025", 456.3]
+      ]
+    },
+    {
+      "id": "readingOecd",
+      "frequency": "annual",
+      "unit": "points",
+      "sourceId": "DEPP, OCDE-24",
+      "points": [
+        ["2000", 499.22],
+        ["2003", 497.14],
+        ["2006", 495.25],
+        ["2009", 498.18],
+        ["2012", 500.87],
+        ["2015", 496.73],
+        ["2018", 492.49],
+        ["2022", 481.87],
+        ["2025", 465.89]
+      ]
+    },
+    {
+      "id": "mathematicsFrance",
+      "frequency": "annual",
+      "unit": "points",
+      "sourceId": "DEPP",
+      "points": [
+        ["2003", 510.8],
+        ["2006", 495.54],
+        ["2009", 496.78],
+        ["2012", 494.98],
+        ["2015", 492.92],
+        ["2018", 495.41],
+        ["2022", 473.94],
+        ["2025", 457.7]
+      ]
+    },
+    {
+      "id": "mathematicsOecd",
+      "frequency": "annual",
+      "unit": "points",
+      "sourceId": "DEPP, OCDE-24",
+      "points": [
+        ["2003", 502.27],
+        ["2006", 501.25],
+        ["2009", 501.43],
+        ["2012", 498.96],
+        ["2015", 495.57],
+        ["2018", 496.46],
+        ["2022", 480.58],
+        ["2025", 469.71]
+      ]
+    },
+    {
+      "id": "scienceFrance",
+      "frequency": "annual",
+      "unit": "points",
+      "sourceId": "DEPP",
+      "points": [
+        ["2006", 495.2198],
+        ["2009", 498.2269],
+        ["2012", 498.9709],
+        ["2015", 494.9776],
+        ["2018", 492.9771],
+        ["2022", 487.2253],
+        ["2025", 483.4]
+      ]
+    },
+    {
+      "id": "scienceOecd",
+      "frequency": "annual",
+      "unit": "points",
+      "sourceId": "DEPP, OCDE-24",
+      "points": [
+        ["2006", 503.0809],
+        ["2009", 505.2657],
+        ["2012", 504.7747],
+        ["2015", 496.8999],
+        ["2018", 493.3093],
+        ["2022", 490.8808],
+        ["2025", 486.39]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "franceScores",
+      "unit": "points",
+      "period": "2025",
+      "sourceId": "PISA 2025",
+      "values": [
+        ["reading", 456.33],
+        ["mathematics", 457.66],
+        ["science", 483.42]
+      ]
+    },
+    {
+      "id": "franceStandardErrors",
+      "unit": "points",
+      "period": "2025",
+      "sourceId": "PISA 2025",
+      "values": [
+        ["reading", 3.24],
+        ["mathematics", 3],
+        ["science", 3.21]
+      ]
+    },
+    {
+      "id": "oecdScores",
+      "unit": "points",
+      "period": "2025",
+      "sourceId": "PISA 2025",
+      "values": [
+        ["reading", 460.9447],
+        ["mathematics", 463.0213],
+        ["science", 481.9087]
+      ]
+    },
+    {
+      "id": "oecdStandardErrors",
+      "unit": "points",
+      "period": "2025",
+      "sourceId": "PISA 2025",
+      "values": [
+        ["reading", 0.45],
+        ["mathematics", 0.42],
+        ["science", 0.44]
+      ]
+    }
+  ]
+}
