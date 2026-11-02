@@ -1,0 +1,137 @@
+{
+  "id": "financeBill",
+  "retrievedOn": "2026-11-02",
+  "sources": [
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Projet de loi de finances pour 2027, n° 3210",
+      "publishedOn": "2026-10-01"
+    }
+  ],
+  "headline": {
+    "series": "publicBalance",
+    "period": "2027",
+    "value": -5.0,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "publicBalance",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Article liminaire",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        [
+          "2025",
+          -5.1
+        ],
+        [
+          "2026",
+          -5.4
+        ],
+        [
+          "2027",
+          -5.0
+        ]
+      ]
+    },
+    {
+      "id": "publicDebt",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Article liminaire",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        [
+          "2025",
+          115.7
+        ],
+        [
+          "2026",
+          119.3
+        ],
+        [
+          "2027",
+          121.7
+        ]
+      ]
+    },
+    {
+      "id": "stateBalance",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Article 57",
+      "status": {
+        "2027": "projection"
+      },
+      "points": [
+        [
+          "2027",
+          -156.4
+        ]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "missionCredits",
+      "unit": "billionEuro",
+      "period": "2027",
+      "status": "projection",
+      "sourceId": "État B",
+      "values": [
+        [
+          "schoolEducation",
+          90.9
+        ],
+        [
+          "defence",
+          73.2
+        ],
+        [
+          "debtCharge",
+          72.4
+        ],
+        [
+          "solidarity",
+          32.2
+        ],
+        [
+          "researchHigherEducation",
+          32.1
+        ],
+        [
+          "security",
+          26.6
+        ],
+        [
+          "ecology",
+          23.4
+        ],
+        [
+          "labourEmployment",
+          18.9
+        ],
+        [
+          "justice",
+          13.4
+        ],
+        [
+          "immigration",
+          2.1
+        ],
+        [
+          "health",
+          1.8
+        ]
+      ]
+    }
+  ]
+}
