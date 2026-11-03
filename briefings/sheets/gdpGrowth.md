@@ -143,7 +143,8 @@ Presse et autres (recoupement, pas utilisés comme preuve principale) :
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, projections de la Banque de France (#25)** : relevées par le PO sur banque-france.fr, que les scripts ne peuvent pas lire. « Projections macroéconomiques intermédiaires – Septembre 2026 », mises en ligne le 15/09/2026, hypothèses de l'Eurosystème arrêtées au 19/08/2026. Croissance du PIB : 0,4 % en 2026, 0,9 % en 2027, 1,2 % en 2028. IPCH : 2,3 %, 1,9 %, 1,6 % ; hors énergie et alimentation : 1,6 %, 2,3 %, 1,9 %. Édition précédente (juin 2026) : PIB 0,5 / 0,9 / 1,2 %, IPCH 2,5 / 1,7 / 1,7 %.
+- **Double vérification** (agent Claude Sonnet, sans le site de la Banque de France) : les neuf valeurs de septembre et celles de juin sont conformes (Daf-Mag et Franceinfo lus, résumés des pages de la Banque de France). « Intermédiaires », le 15/09 et le gel au 19/08 sont conformes. Non trouvé : les conditions de réutilisation de la Banque de France (mentions légales en 403). Les projections ne sont pas encore dans le fichier : un indicateur ne peut avoir à la fois des données de script et une saisie à la main.
 
 ## Relecture
 

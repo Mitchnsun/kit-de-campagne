@@ -5,7 +5,7 @@
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `educationSpending`, partie de la page composite `schools`, dossier « Éducation », ticket #32 (statut `planned`) |
-| Données | `briefings/data/educationSpending.json`, écrit par `yarn briefings educationSpending` le 2026-11-02 |
+| Données | `briefings/data/educationSpending.json`, écrit par `yarn briefings educationSpending` le 2026-11-02, réécrit le 2026-11-03 pour la date de publication (mêmes chiffres) |
 | Source | DEPP, « En 2025, 199,2 milliards d'euros consacrés à l'éducation, soit 6,7 % du PIB », Note d'Information n° 26.42, septembre 2026 (publiée le 29/09/2026 selon Localtis, fichier daté du 23/09/2026 par son serveur), figure 1 ; Licence Ouverte |
 | Séries | `spending` : DIE en milliards d'euros constants de 2025 (`base: 2025`), 1980 à 2025 ; `shareOfGdp` : part du PIB ; 2025 provisoire (« 2025p ») |
 | Chiffre clé | 199,2 Md€ en 2025, en hausse (198,9 en euros de 2025 en 2024) |
@@ -14,7 +14,7 @@
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, relecture du PO** : la page HTML de la Note d'Information n° 26.42 (https://www.education.gouv.fr/depp/en-2025-1992-milliards-d-euros-consacres-l-education-soit-67-du-pib-506005), lue par le PO, affiche le **29/09/2026** : c'est la date de publication. Le 23/09/2026 est celle du dépôt du fichier (création 10:37, dernières modifications 14:21 et 16:54) ; la couverture dit seulement « Septembre 2026 ». Licence : voir `schools.md`.
 
 ## Relecture
 

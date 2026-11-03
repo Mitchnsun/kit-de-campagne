@@ -242,7 +242,7 @@ SDES, CCNUCC, EEA, autres
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, décision du PO** : citer le Citepa suffit. Ses conditions autorisent la reproduction en citant la source ; le kit reprend des chiffres avec la source et la date, jamais ses fichiers ni ses figures. Pas de demande au Citepa.
 
 ## Relecture
 

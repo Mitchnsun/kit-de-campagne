@@ -299,7 +299,7 @@ Recherches web (résumés de moteur, utilisées comme pistes, jamais comme preuv
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, relecture du PO** : le pied de page de toutes les pages d'education.gouv.fr dit bien « Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0 » (lien vers la Licence Ouverte). Le corps des mentions légales (mis à jour le 12/10/2025, « Droits d'auteur ») est plus restrictif : documents publics ou officiels réutilisables avec la mention « © www.education.gouv.fr - MEN », autres contenus soumis au droit d'auteur (usage non commercial et pédagogique, en citant l'origine et la date). Décision : « Licence Ouverte etalab-2.0 (mention en pied de page du site) », toujours avec la source MEN-DEPP et la date de publication. Date de la NI 26.42 : 29/09/2026 (voir `educationSpending.md`).
 
 ## Relecture
 

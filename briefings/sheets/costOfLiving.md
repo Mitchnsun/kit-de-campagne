@@ -218,7 +218,7 @@ Presse et sites secondaires :
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026** : l'écart des personnes couvertes par le RSA est expliqué par deux définitions (foyer Caf contre personnes à charge au sens du RSA, mois contre moyenne trimestrielle) : voir `socialBenefits.md`.
 
 ## Relecture
 

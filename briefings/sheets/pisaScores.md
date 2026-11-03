@@ -5,7 +5,7 @@
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `pisaScores`, partie de la page composite `schools`, dossier « Éducation », ticket #32 (statut `planned`) |
-| Données | `briefings/data/pisaScores.json`, écrit par `yarn briefings pisaScores` le 2026-11-02 |
+| Données | `briefings/data/pisaScores.json`, écrit par `yarn briefings pisaScores` le 2026-11-02, réécrit le 2026-11-03 pour la date de publication (mêmes chiffres) |
 | Sources | DEPP, Notes d'Information n° 26.40 (compréhension de l'écrit, culture mathématique) et n° 26.39 (culture scientifique), septembre 2026, PDF et XLSX ; publiées le 08/09/2026 avec les résultats de l'OCDE, fichiers datés du 04/09/2026 par leur serveur (les pages du ministère refusent les scripts) ; Licence Ouverte |
 | Séries | `readingFrance`, `readingOecd`, `mathematicsFrance`, `mathematicsOecd`, `scienceFrance`, `scienceOecd` : scores moyens depuis le premier cycle de chaque domaine, France et moyenne des 24 pays de l'OCDE présents à tous les cycles |
 | Valeurs par catégorie | 2025 : `franceScores` 456,33 / 457,66 / 483,42, `franceStandardErrors` 3,24 / 3,00 / 3,21, `oecdScores` (38 pays) 460,94 / 463,02 / 481,91, `oecdStandardErrors` 0,45 / 0,42 / 0,44 (écrit, maths, sciences) |
@@ -16,7 +16,7 @@
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, relecture du PO** : les pages HTML des deux notes (NI 26.40 : https://www.education.gouv.fr/depp/pisa-2025-les-acquis-des-eleves-de-15-ans-en-comprehension-de-l-ecrit-et-en-culture-mathematique-en-505645 ; NI 26.39 : https://www.education.gouv.fr/depp/pisa-2025-en-culture-scientifique-le-score-baisse-par-rapport-2015-en-france-comme-dans-l-ocde-et-505639), lues par le PO, affichent le **08/09/2026**, le jour des résultats de l'OCDE. Le 04/09/2026 était la date des fichiers chez leur serveur. Le script écrit désormais la date des pages ; les chiffres ne changent pas.
 
 ## Relecture
 
