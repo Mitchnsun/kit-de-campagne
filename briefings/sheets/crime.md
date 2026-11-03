@@ -7,10 +7,10 @@
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `crime`, ticket #30, dossier « Sécurité et justice » (statut `planned`) ; l'avertissement « la délinquance enregistrée n'est pas toute la délinquance » est dans les locales de l'app (PO, 02/11/2026) |
-| Données | `briefings/data/crime.json`, écrit par `yarn briefings crime` le 2026-11-02 |
+| Données | `briefings/data/crime.json`, écrit par `yarn briefings crime` le 2026-11-02, puis le 2026-11-03 avec les effectifs par département (voir « Mises à jour ») |
 | Source | SSMSI, « Bases statistiques communale, départementale et régionale de la délinquance enregistrée par la police et la gendarmerie nationales », data.gouv.fr, fichiers « REG » et « DEP » de l'édition mise à jour le 09/07/2026 ; Licence Ouverte 2.0 ; en français seulement |
 | Séries | Les 18 indicateurs des bases, France = somme des régions (métropole et DROM), annuels de 2016 à 2025, chacun dans son unité de compte (victimes, infractions, véhicules, mis en cause), dont l'usage de stupéfiants avec et hors amende forfaitaire délictuelle |
-| Valeurs par département | Pour 2025, le taux pour 1 000 habitants de chaque indicateur (pour 1 000 logements pour les cambriolages), selon le lieu de commission |
+| Valeurs par département | Pour 2025, le taux pour 1 000 habitants de chaque indicateur (pour 1 000 logements pour les cambriolages), selon le lieu de commission, et le nombre sur lequel repose chaque taux (`counts`, colonne `nombre` du fichier « DEP », dans l'unité de compte de l'indicateur) : la carte masque un taux fondé sur 1 à 4 faits (décision du PO du 03/11/2026) |
 | Chiffre clé | 975 homicides en 2025, stable (976 en 2024) |
 | Première édition | À remplir à la publication |
 
@@ -389,6 +389,7 @@ Vues seulement dans des résultats de recherche (non ouvertes) : https://www.int
 
 - **03/11/2026, relecture du PO** : l'Atlas départemental 2025 (juillet 2026, figure 1 de chaque fiche), lu par le PO, confirme les quatre taux : Aube, homicides, 1 victime pour 310 447 habitants (0,0032 ‰, p. 164) ; violences physiques intrafamiliales de l'Aube, 1 361 (4,384 ‰), de l'Aude, 1 374 pour 379 648 (3,619 ‰, p. 264), de l'Aveyron, 618 pour 279 609 (2,210 ‰, p. 266). L'Atlas repose sur la même base que le fichier et n'affiche qu'une décimale : il confirme l'extraction, pas une source indépendante.
 - **03/11/2026, décision du PO** : sur la carte, un taux fondé sur 1 à 4 faits est masqué (« secret statistique », sans couleur), comme le SSMSI le fait dans son bilan. Le fichier devra garder les effectifs par département pour appliquer la règle.
+- **03/11/2026, effectifs par département** : `yarn briefings crime` relancé ; chaque série départementale garde désormais, pour chaque département, le nombre de faits (victimes, infractions, véhicules ou mis en cause, selon l'indicateur) sur lequel repose son taux : la colonne `nombre` de la même ligne du fichier « DEP » que `taux_pour_mille` (champ `counts`). Le script échoue si un effectif n'est pas un entier, ou si un taux nul ne va pas avec un effectif nul. Comparé au fichier du 02/11, aucun autre chiffre ne change (séries, taux, chiffre clé, date de publication) ; seule la date de récupération passe au 2026-11-03. Contrôles : les effectifs redonnent ceux de l'Atlas lus par le PO (Aube : 1 homicide, 1 361 victimes de violences physiques intrafamiliales ; Aude : 1 374 ; Aveyron : 618), et leur somme par indicateur est le total France de la somme des régions (975 homicides, 4 477 tentatives, 7 913 vols avec armes, 211 596 cambriolages en 2025). En 2025, des taux fondés sur 1 à 4 faits : 35 départements pour les homicides, 7 pour les tentatives d'homicide, 10 pour les vols avec armes, aucun pour les 15 autres indicateurs ; aucun homicide enregistré en Ardèche, en Haute-Loire et en Lozère (taux et effectif nuls).
 
 ## Relecture
 
