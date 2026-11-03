@@ -1,0 +1,14 @@
+{
+  "fr": [
+    "Une personne est pauvre quand son niveau de vie est inférieur à 60\u00a0% du niveau de vie médian. Le chiffre national porte sur les personnes vivant en France métropolitaine dans un logement ordinaire (ni institution ni sans-abri), hors ménages étudiants.",
+    "Les chiffres d'une année paraissent environ 18 mois plus tard (2024 en juillet 2026). L'Insee a rétropolé la série jusqu'en 1996 à méthode constante, en neutralisant les ruptures de 2010, 2012 et 2020\u00a0; l'année 2020 reste fragile.",
+    "Le seuil est en euros constants de 2024\u00a0: 1\u00a0337\u00a0€ par mois pour une personne seule en 2024. Chaque édition change d'année de référence, donc tous les montants.",
+    "Les taux par département viennent d'une autre source (Filosofi 2023)\u00a0: ils se comparent aux 15,9\u00a0% de la France métropolitaine de la même source, pas aux 15,4\u00a0% du chiffre national. Aucun chiffre n'est diffusé pour la Guadeloupe, la Martinique, la Guyane et Mayotte."
+  ],
+  "en": [
+    "A person is poor when their standard of living is below 60% of the median. The national figure covers people living in metropolitan France in ordinary housing (neither institutions nor the homeless), outside student households.",
+    "A year's figures come out about 18 months later (2024 in July 2026). The Insee has back-cast the series to 1996 with a constant method, smoothing out the breaks of 2010, 2012 and 2020; 2020 remains fragile.",
+    "The threshold is in constant 2024 euros: €1,337 a month for a single person in 2024. Each edition moves the reference year, and so every amount.",
+    "The rates by department come from another source (Filosofi 2023): they compare with the 15.9% of metropolitan France in the same source, not with the 15.4% national figure. No figure is released for Guadeloupe, Martinique, French Guiana and Mayotte."
+  ]
+}
