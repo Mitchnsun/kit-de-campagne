@@ -1,0 +1,245 @@
+{
+  "id": "politicalTrust",
+  "retrievedOn": "2026-11-02",
+  "sources": [
+    {
+      "producer": "Sciences Po CEVIPOF",
+      "publication": "Baromètre de la confiance politique, vague 17",
+      "publishedOn": "2026-02-09",
+      "survey": {
+        "institute": "OpinionWay",
+        "sample": 3166,
+        "population": "personnes inscrites sur les listes électorales",
+        "from": "2026-01-12",
+        "to": "2026-01-28"
+      }
+    }
+  ],
+  "headline": { "series": "politicsTrust", "period": "2026", "value": 22, "trend": "down" },
+  "series": [
+    {
+      "id": "politicsTrust",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "q0v15",
+      "points": [
+        ["2025", 26],
+        ["2026", 22]
+      ]
+    },
+    {
+      "id": "mayorTrust",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Q14",
+      "points": [
+        ["2009", 65],
+        ["2010", 52],
+        ["2011", 54],
+        ["2012", 57],
+        ["2013", 61],
+        ["2014", 66],
+        ["2015", 63],
+        ["2016", 64],
+        ["2017", 55],
+        ["2018", 58],
+        ["2020", 63],
+        ["2021", 65],
+        ["2022", 65],
+        ["2023", 57],
+        ["2024", 60],
+        ["2025", 61],
+        ["2026", 60]
+      ]
+    },
+    {
+      "id": "presidentTrust",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Q14",
+      "points": [
+        ["2013", 26],
+        ["2014", 23],
+        ["2015", 29],
+        ["2016", 25],
+        ["2017", 36],
+        ["2018", 23],
+        ["2020", 30],
+        ["2021", 37],
+        ["2022", 38],
+        ["2023", 29],
+        ["2024", 29],
+        ["2025", 23],
+        ["2026", 18]
+      ]
+    },
+    {
+      "id": "assemblyTrust",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Q13",
+      "points": [
+        ["2009", 38],
+        ["2012", 28],
+        ["2013", 36],
+        ["2014", 39],
+        ["2015", 41],
+        ["2016", 42],
+        ["2017", 29],
+        ["2018", 23],
+        ["2020", 31],
+        ["2021", 38],
+        ["2022", 38],
+        ["2023", 28],
+        ["2024", 29],
+        ["2025", 24],
+        ["2026", 20]
+      ]
+    },
+    {
+      "id": "positionFarLeft",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "NOU1",
+      "points": [
+        ["2016", 9],
+        ["2017", 6],
+        ["2018", 5],
+        ["2020", 4],
+        ["2021", 5],
+        ["2022", 6],
+        ["2023", 5],
+        ["2024", 4],
+        ["2025", 4],
+        ["2026", 5]
+      ]
+    },
+    {
+      "id": "positionLeft",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "NOU1",
+      "points": [
+        ["2016", 18],
+        ["2017", 19],
+        ["2018", 19],
+        ["2020", 18],
+        ["2021", 19],
+        ["2022", 17],
+        ["2023", 22],
+        ["2024", 22],
+        ["2025", 22],
+        ["2026", 22]
+      ]
+    },
+    {
+      "id": "positionCentre",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "NOU1",
+      "points": [
+        ["2016", 19],
+        ["2017", 20],
+        ["2018", 17],
+        ["2020", 19],
+        ["2021", 17],
+        ["2022", 14],
+        ["2023", 16],
+        ["2024", 15],
+        ["2025", 15],
+        ["2026", 13]
+      ]
+    },
+    {
+      "id": "positionRight",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "NOU1",
+      "points": [
+        ["2016", 24],
+        ["2017", 26],
+        ["2018", 27],
+        ["2020", 28],
+        ["2021", 31],
+        ["2022", 32],
+        ["2023", 28],
+        ["2024", 27],
+        ["2025", 28],
+        ["2026", 25]
+      ]
+    },
+    {
+      "id": "positionFarRight",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "NOU1",
+      "points": [
+        ["2016", 13],
+        ["2017", 7],
+        ["2018", 8],
+        ["2020", 9],
+        ["2021", 7],
+        ["2022", 11],
+        ["2023", 9],
+        ["2024", 9],
+        ["2025", 10],
+        ["2026", 12]
+      ]
+    },
+    {
+      "id": "positionNoAnswer",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "NOU1",
+      "points": [
+        ["2016", 17],
+        ["2017", 22],
+        ["2018", 24],
+        ["2020", 22],
+        ["2021", 21],
+        ["2022", 20],
+        ["2023", 20],
+        ["2024", 23],
+        ["2025", 21],
+        ["2026", 23]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "institutions",
+      "unit": "percent",
+      "period": "2026",
+      "sourceId": "Q13",
+      "values": [
+        ["municipalCouncil", 58],
+        ["departmentalCouncil", 49],
+        ["regionalCouncil", 46],
+        ["courtOfAudit", 44],
+        ["constitutionalCouncil", 36],
+        ["economicSocialCouncil", 33],
+        ["europeanUnion", 29],
+        ["senate", 26],
+        ["europeanParliament", 25],
+        ["presidency", 22],
+        ["nationalAssembly", 20],
+        ["government", 17]
+      ]
+    },
+    {
+      "id": "personalities",
+      "unit": "percent",
+      "period": "2026",
+      "sourceId": "Q14",
+      "values": [
+        ["mayor", 60],
+        ["departmentalCouncillor", 44],
+        ["regionalCouncillors", 42],
+        ["deputy", 34],
+        ["europeanDeputies", 27],
+        ["primeMinister", 27],
+        ["president", 18]
+      ]
+    }
+  ]
+}
