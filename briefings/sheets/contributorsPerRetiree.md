@@ -279,6 +279,7 @@ Fichiers de lecture graphique (dans le dossier de téléchargements) : `fig23.sv
 
 - **03/11/2026, décision du PO** : écrire au COR (info@cor-retraites.fr) avant de redistribuer cette série. Elle reste dans le kit ; l'indicateur reste `planned`, donc hors des éditions, jusqu'à sa réponse.
 - **03/11/2026, réponse du COR** : par une réponse écrite du même jour, le COR autorise l'utilisation des données et la mention « COR, rapport annuel de juin 2026 », que le PO lui avait proposée. La série peut entrer dans une édition quand sa page existe ; l'indicateur reste `planned` jusque-là.
+- **03/11/2026, décision du PO** : l'intitulé de la publication devient « Rapport annuel de juin 2026 : évolutions et perspectives des retraites en France » (au lieu de « Rapport annuel du COR, juin 2026 : … »), pour que la ligne de source de l'app se lise « COR · Rapport annuel de juin 2026 : … », la mention approuvée par le COR. Le registre de l'app change avec lui (PR des pages des Dossiers).
 
 ## Relecture
 
