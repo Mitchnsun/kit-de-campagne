@@ -1,6 +1,6 @@
 # `socialBenefits` · Aides sociales (partie de la page « Pouvoir d'achat »)
 
-**Vérifiée le 02/11/2026** : foyers du RSA identiques à la moyenne de la Cnaf pour le 1er trimestre 2026 ; prime d'activité compatible (mois définitif contre moyenne provisoire). **Écart expliqué** (03/11/2026) : 3 720 310 personnes couvertes par le RSA en mars 2026 dans le jeu de données, contre 3,61 millions estimés par la Cnaf pour le 1er trimestre (environ +3 %). Le jeu compte tout le foyer Caf, chaque mois ; la Cnaf, dans ses publications sur le RSA, les personnes à charge au sens du RSA, en moyenne trimestrielle (voir « Mises à jour »). Double vérification commune aux trois parties : voir `costOfLiving.md`.
+**Vérifiée le 02/11/2026** : foyers du RSA identiques à la moyenne de la Cnaf pour le 1er trimestre 2026 ; prime d'activité compatible (mois définitif contre moyenne provisoire). **Écart expliqué** (03/11/2026) : 3 720 310 personnes couvertes par le RSA en mars 2026 dans le jeu de données, contre 3,61 millions estimés par la Cnaf pour le 1er trimestre (environ +3 %). Le jeu compte tout le foyer Caf, chaque mois ; la Cnaf, dans ses publications sur le RSA, le foyer au sens du RSA (allocataire, conjoint, enfants et autres personnes à charge au sens de cette allocation), en moyenne trimestrielle (voir « Mises à jour »). Double vérification commune aux trois parties : voir `costOfLiving.md`.
 
 | Champ | Valeur |
 | --- | --- |
