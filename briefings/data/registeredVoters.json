@@ -1,0 +1,70 @@
+{
+  "id": "registeredVoters",
+  "retrievedOn": "2026-11-02",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Caractéristiques du corps électoral",
+      "publishedOn": "2026-08-01"
+    }
+  ],
+  "headline": { "series": "voters", "period": "2026", "value": 50187093, "trend": "up" },
+  "series": [
+    {
+      "id": "voters",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "DS_ELECTORAL",
+      "points": [
+        ["2019", 47120498],
+        ["2020", 47664895],
+        ["2021", 47947555],
+        ["2022", 48803175],
+        ["2024", 49339714],
+        ["2026", 50187093]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "votersByList",
+      "unit": "count",
+      "period": "2026",
+      "sourceId": "DS_ELECTORAL",
+      "values": [
+        ["mainList", 48154748],
+        ["complementaryLists", 373681],
+        ["consularLists", 1658664]
+      ]
+    },
+    {
+      "id": "mainListByAge",
+      "unit": "count",
+      "period": "2026",
+      "sourceId": "DS_ELECTORAL",
+      "values": [
+        ["age18to24", 5546036],
+        ["age25to39", 10560844],
+        ["age40to54", 10758876],
+        ["age55to64", 7610505],
+        ["age65to79", 9837366],
+        ["age80plus", 3841121]
+      ]
+    },
+    {
+      "id": "registrationRateByAge",
+      "unit": "percent",
+      "period": "2026",
+      "sourceId": "DS_ELECTORAL",
+      "values": [
+        ["age18to24", 100],
+        ["age25to39", 97],
+        ["age40to54", 92],
+        ["age55to64", 93],
+        ["age65to79", 94],
+        ["age80plus", 93],
+        ["all", 95]
+      ]
+    }
+  ]
+}
