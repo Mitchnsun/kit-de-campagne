@@ -2,7 +2,7 @@
 
 **Vérifiée le 02/11/2026** : les valeurs saisies concordent avec les courbes du rapport de juin 2026 et de son diaporama (lecture des coordonnées des figures), et avec le texte arrondi (2,1 ; 1,8 ; 1,3). Corrigé : ce que compte le rapport (l'emploi total de la comptabilité nationale pour un retraité de droit direct, en France ou à l'étranger), 2025 marqué estimé (`provisional`) et non projeté, comme dans le rapport ; notes précisées.
 
-**À décider (PO)** : le COR permet de reproduire les notes de son secrétariat général en citant la source ; « la reproduction des autres documents est soumise à l'accord de leur auteur ou éditeur ». Le kit cite des chiffres, jamais ses fichiers ni ses figures. La vérification conseille de demander l'accord du COR (info@cor-retraites.fr) avant de redistribuer cette série, comme pour le Citepa et le CEVIPOF.
+**Réutilisation autorisée** (03/11/2026) : le COR a confirmé par écrit, à la demande du PO, que le jeu peut utiliser les données de cette série et faire figurer la mention « COR, rapport annuel de juin 2026 ». Le kit ne reprend que la série de chiffres, avec cette mention, jamais le rapport ni ses figures.
 
 | Champ | Valeur |
 | --- | --- |
@@ -278,6 +278,7 @@ Fichiers de lecture graphique (dans le dossier de téléchargements) : `fig23.sv
 ## Mises à jour
 
 - **03/11/2026, décision du PO** : écrire au COR (info@cor-retraites.fr) avant de redistribuer cette série. Elle reste dans le kit ; l'indicateur reste `planned`, donc hors des éditions, jusqu'à sa réponse.
+- **03/11/2026, réponse du COR** : par une réponse écrite du même jour, le COR autorise l'utilisation des données et la mention « COR, rapport annuel de juin 2026 », que le PO lui avait proposée. La série peut entrer dans une édition quand sa page existe ; l'indicateur reste `planned` jusque-là.
 
 ## Relecture
 
