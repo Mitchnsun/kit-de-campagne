@@ -126,7 +126,7 @@ Recherches web qui ont orienté les sources (résultats secondaires, non cités 
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, relecture du PO** : mention validée telle quelle, à afficher sous chaque carte : « Contours des départements : IGN, ADMIN EXPRESS COG CARTO PE, édition 2026, Licence Ouverte 2.0. Simplifiés pour le jeu. »
 
 ## Relecture
 

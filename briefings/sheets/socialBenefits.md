@@ -1,6 +1,6 @@
 # `socialBenefits` · Aides sociales (partie de la page « Pouvoir d'achat »)
 
-**Vérifiée le 02/11/2026** : foyers du RSA identiques à la moyenne de la Cnaf pour le 1er trimestre 2026 ; prime d'activité compatible (mois définitif contre moyenne provisoire). **Écart ouvert** : 3 720 310 personnes couvertes par le RSA en mars 2026 dans le jeu de données, contre une estimation de 3,61 millions par la Cnaf pour le 1er trimestre (environ +3 %), sans explication trouvée. Les notes ne promettent donc aucun rapprochement avec les publications de la Cnaf. Double vérification commune aux trois parties : voir `costOfLiving.md`.
+**Vérifiée le 02/11/2026** : foyers du RSA identiques à la moyenne de la Cnaf pour le 1er trimestre 2026 ; prime d'activité compatible (mois définitif contre moyenne provisoire). **Écart expliqué** (03/11/2026) : 3 720 310 personnes couvertes par le RSA en mars 2026 dans le jeu de données, contre 3,61 millions estimés par la Cnaf pour le 1er trimestre (environ +3 %). Le jeu compte tout le foyer Caf, chaque mois ; la Cnaf, dans ses publications sur le RSA, le foyer au sens du RSA (allocataire, conjoint, enfants et autres personnes à charge au sens de cette allocation), en moyenne trimestrielle (voir « Mises à jour »). Double vérification commune aux trois parties : voir `costOfLiving.md`.
 
 | Champ | Valeur |
 | --- | --- |
@@ -17,7 +17,7 @@ Non trouvé : le nombre de personnes couvertes par les aides au logement ailleur
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, écart des personnes couvertes expliqué** (sources lues par le PO). Cafdata (`s_ben_nat`, modèle de données) : chaque colonne `indnbp_*` compte le « nombre de personnes appartenant à un foyer bénéficiaire », soit tout le foyer Caf. RSA Conjoncture 2026T1 : les personnes couvertes y sont comptées « au sens du RSA » (allocataire, conjoint, enfants jusqu'à 25 ans et autres personnes à charge au sens de cette allocation), en moyenne trimestrielle ; au 3e trimestre 2025, 1,80 million d'allocataires, 194 000 conjoints et 1,56 million d'enfants ou personnes à charge, soit environ 3,56 millions. Les deux définitions diffèrent ; la raison exacte des personnes en plus n'est pas écrite par la Cnaf et n'est pas avancée. Aides au logement : la DREES (suivi mensuel de mai 2026) ne donne que des bénéficiaires, c'est-à-dire des foyers (5 539 600 en juin 2026, provisoire) ; seul Cafdata compte les personnes couvertes. Note 3 complétée.
 
 ## Relecture
 

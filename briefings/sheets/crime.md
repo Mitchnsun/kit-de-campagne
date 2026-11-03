@@ -387,7 +387,8 @@ Vues seulement dans des résultats de recherche (non ouvertes) : https://www.int
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, relecture du PO** : l'Atlas départemental 2025 (juillet 2026, figure 1 de chaque fiche), lu par le PO, confirme les quatre taux : Aube, homicides, 1 victime pour 310 447 habitants (0,0032 ‰, p. 164) ; violences physiques intrafamiliales de l'Aube, 1 361 (4,384 ‰), de l'Aude, 1 374 pour 379 648 (3,619 ‰, p. 264), de l'Aveyron, 618 pour 279 609 (2,210 ‰, p. 266). L'Atlas repose sur la même base que le fichier et n'affiche qu'une décimale : il confirme l'extraction, pas une source indépendante.
+- **03/11/2026, décision du PO** : sur la carte, un taux fondé sur 1 à 4 faits est masqué (« secret statistique », sans couleur), comme le SSMSI le fait dans son bilan. Le fichier devra garder les effectifs par département pour appliquer la règle.
 
 ## Relecture
 

@@ -435,7 +435,7 @@ Lecture pratique (sans valeur de conseil juridique) :
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, décision du PO** : écrire au CEVIPOF avant de redistribuer ces séries. Les chiffres restent dans le kit ; l'indicateur reste `planned`, donc hors des éditions, jusqu'à sa réponse.
 
 ## Relecture
 

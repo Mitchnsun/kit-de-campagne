@@ -37,7 +37,7 @@ Points d'attention :
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, relecture du PO** : l'article 2 du décret a été lu sur Légifrance (version initiale) : 342, 262 et 194 MtCO2e par an, conformes. Les deux premiers budgets y sont « révisés », celui de 2034-2038 est « fixé » pour la première fois. Le décret définit les « puits de carbone » : « émissions et absorptions du secteur de l'utilisation des terres, changement d'utilisation des terres et foresterie et absorptions de CO2 par voie technologique ». Note 2 complétée. L'article 3 donne la répartition par secteur (transports : 116, 86 et 54).
 
 ## Relecture
 

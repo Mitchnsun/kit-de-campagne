@@ -277,7 +277,7 @@ Fichiers de lecture graphique (dans le dossier de téléchargements) : `fig23.sv
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, décision du PO** : écrire au COR (info@cor-retraites.fr) avant de redistribuer cette série. Elle reste dans le kit ; l'indicateur reste `planned`, donc hors des éditions, jusqu'à sa réponse.
 
 ## Relecture
 

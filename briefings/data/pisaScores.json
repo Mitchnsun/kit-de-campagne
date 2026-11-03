@@ -1,16 +1,16 @@
 {
   "id": "pisaScores",
-  "retrievedOn": "2026-11-02",
+  "retrievedOn": "2026-11-03",
   "sources": [
     {
       "producer": "DEPP",
       "publication": "PISA 2025 : les acquis des élèves de 15 ans en compréhension de l'écrit et en culture mathématique en baisse en France et dans l'OCDE",
-      "publishedOn": "2026-09-04"
+      "publishedOn": "2026-09-08"
     },
     {
       "producer": "DEPP",
       "publication": "PISA 2025 : en culture scientifique, le score baisse par rapport à 2015 en France comme dans l’OCDE, et les performances sont similaires entre les filles et les garçons",
-      "publishedOn": "2026-09-04"
+      "publishedOn": "2026-09-08"
     }
   ],
   "headline": { "series": "mathematicsFrance", "period": "2025", "value": 457.7, "trend": "down" },
