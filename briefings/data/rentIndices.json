@@ -1,6 +1,6 @@
 {
   "id": "rentIndices",
-  "retrievedOn": "2026-11-02",
+  "retrievedOn": "2026-11-03",
   "sources": [
     {
       "producer": "Insee",
@@ -124,6 +124,7 @@
       "frequency": "quarterly",
       "unit": "index",
       "base": 2019,
+      "baseMonth": 1,
       "sourceId": "010600365",
       "points": [
         ["1986-Q4", 47.3],
@@ -292,6 +293,7 @@
       "frequency": "quarterly",
       "unit": "index",
       "base": 2019,
+      "baseMonth": 1,
       "sourceId": "010600351",
       "points": [
         ["1986-Q4", 47],
@@ -460,6 +462,7 @@
       "frequency": "quarterly",
       "unit": "index",
       "base": 2019,
+      "baseMonth": 1,
       "sourceId": "010600358",
       "points": [
         ["1986-Q4", 48],
