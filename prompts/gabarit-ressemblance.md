@@ -24,10 +24,10 @@ Comme partout dans le kit, les explications sont en français et les prompts en 
 
 ## Étape 1 : le portrait dessiné
 
-Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp) pour le style, puis la photo.
+Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`primeTime.webp`](../illustrations/media/primeTime.webp) pour le style, puis la photo.
 
 ```
-Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain.
+Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Never reuse the face or the hair of the woman in the reference.
 The second attached image is a photograph. Draw a new portrait of [this man / this woman / the man with white hair on the right of the photograph], as a press illustrator or courtroom sketch artist would draw a quick likeness from life: head and shoulders, three-quarter view, with [a calm, serious / a warm, smiling] expression, in [plain clothes, e.g. a plain dark top without the necklace], on plain warm paper with no background.[ Ignore the other people in the photograph.]
 Do not trace or copy the photograph. Redraw the face from scratch and keep only what makes [him / her] recognisable: the shape of the face, [the hair: colour, length, texture and hairline], the eyebrows, the eyes, the nose and the mouth[, the smile, the beard, the glasses]. Everything is drawn with ink outlines, hatching and flat watercolour washes, realistic and drawn from life like the faces in the reference image, never a caricature. No photographic skin, no photographic lighting, no detail taken over from the photo's texture.
 Format: square, 1024 × 1024 px.
@@ -49,7 +49,7 @@ Si la silhouette compte pour le rôle (une carrure, une grande taille), on peut 
 
 Avant la scène, le PO vérifie deux choses.
 
-1. **Le portrait est dessiné** : trait d'encre, hachures et lavis, comme les visages de `oldTweet`. Un portrait déjà photographique donne une scène où le visage l'est aussi ([`whistleblower`](breakthrough/whistleblower.md)).
+1. **Le portrait est dessiné** : trait d'encre, hachures et lavis, comme les visages de `primeTime`. Un portrait déjà photographique donne une scène où le visage l'est aussi ([`whistleblower`](breakthrough/whistleblower.md)).
 2. **Il est ressemblant**, aux yeux du PO, et si possible de la personne.
 
 Si le rendu est trop photographique, envoyer ce message dans la même conversation. Il reprend le message de correction des scènes ; il n'a pas encore été essayé sur un portrait :
@@ -68,7 +68,7 @@ Si la ressemblance se perd, régénérer dans une nouvelle conversation plutôt 
 
 ## Étape 2 : la scène
 
-Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp) pour le style, puis le portrait dessiné. La scène s'écrit avec le [gabarit de prompt](gabarit.md), avec quatre changements :
+Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`primeTime.webp`](../illustrations/media/primeTime.webp) pour le style, puis le portrait dessiné. La scène s'écrit avec le [gabarit de prompt](gabarit.md), avec quatre changements :
 
 1. la première ligne dit « the first attached image » ;
 2. la ligne de la ressemblance vient en deuxième ;
@@ -78,7 +78,7 @@ Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`old
 Le prompt complet, à copier :
 
 ```
-Use the first attached image as the style reference and copy its drawing: a realistic reportage drawing made on the spot for a newspaper, with quick, nervous pencil lines, often drawn twice, ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through. Not the same scene.
+Use the first attached image as the style reference and copy its drawing: a realistic reportage drawing made on the spot for a newspaper, with quick, nervous pencil lines, often drawn twice, ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through. Not the same scene and not the same people: never reuse the face or the hair of the woman in the reference.
 Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
 Use the second attached image, a drawn portrait, only as the likeness reference for [the role, e.g. the mayor]: give [him / her] this [man's / woman's] features, [the hair, e.g. short grey-white hair] and [light stubble / a short beard / clean-shaven], and draw [his / her] face with the same ink lines and washes as the other people in the scene. Keep the likeness through the drawing, never through photographic detail.
 This must look like a drawing made by hand on paper by a press illustrator, halfway between a quick sketch and a realistic picture: never a photograph, a film poster or a digital painting, and never a cartoon, a comic strip, a caricature or a children's book illustration. Continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no glossy highlights, no smooth gradients, in the sky and on the walls too. Colour can be rich in places, on a piece of clothing, a light or a flag, but it stays transparent and within the palette below. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
@@ -110,8 +110,8 @@ Le générateur soigne souvent le visage ressemblant plus que le reste. Dans le 
 Les phrases à reprendre, sans nom ni rien qui désigne la personne :
 
 - **« Prompt complet »** : « En deux étapes, pour que la scène ne voie jamais la photo de famille. » Puis une sous-section par étape :
-  - **Étape 1** : « Dans une nouvelle conversation, avec deux images jointes : `oldTweet.webp` pour le style, puis une photo de famille du PO. Le portrait obtenu n'est pas dans ce dépôt. »
-  - **Étape 2** : « Dans une nouvelle conversation, avec deux images jointes : `oldTweet.webp` pour le style, puis le portrait dessiné de l'étape 1 pour la ressemblance de [rôle]. »
+  - **Étape 1** : « Dans une nouvelle conversation, avec deux images jointes : `primeTime.webp` pour le style, puis une photo de famille du PO. Le portrait obtenu n'est pas dans ce dépôt. »
+  - **Étape 2** : « Dans une nouvelle conversation, avec deux images jointes : `primeTime.webp` pour le style, puis le portrait dessiné de l'étape 1 pour la ressemblance de [rôle]. »
   - **Avec un portrait déjà fait**, une seule étape : « … puis le portrait dessiné déjà fait pour [`<carte>`](../<catégorie>/<carte>.md), d'après une photo de famille du PO, pour la ressemblance de [rôle]. »
 - **« Décisions prises sur cette image »** : « **[Le rôle] reprend les traits d'une photo de famille fournie par le PO**, avec l'accord de la personne, confirmé par le PO (JJ/MM/AAAA). Ni la photo ni le portrait dessiné ne sont dans ce dépôt. » Puis ce que le rôle a changé pour suivre la personne : l'âge, la silhouette, un autre personnage modifié pour ne pas lui ressembler.
 - **« Relecture »** : « Aucun sosie d'une personne réelle, hors la ressemblance voulue de [rôle]. »

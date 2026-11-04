@@ -80,3 +80,5 @@ Faite et validée par le PO le 30/10/2026, sur l'essai 2.
 ## Régénération annulée (04/11/2026)
 
 Le PO avait demandé de régénérer l'image pour alléger les bureaux. Le même jour, après un premier essai de régénération trop dépouillé avec `mayorsCandidate.webp` comme référence ([`inflatedInvoices`](../affair/inflatedInvoices.md)), il a fait de cette image la référence du style à nouveau : elle reste telle quelle, et son trait sert de modèle au [gabarit](../gabarit.md).
+
+Plus tard le même jour, après douze régénérations faites avec elle, le PO a choisi [`primeTime`](../media/primeTime.md) comme référence, pour un trait plus propre et plus calme ([`privateJet`](privateJet.md), [`ruralMayors`](../support/ruralMayors.md)). Cette image reste telle quelle.
