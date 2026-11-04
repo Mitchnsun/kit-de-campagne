@@ -45,6 +45,19 @@ Format: square, 1024 × 1024 px.
 
 Si la silhouette compte pour le rôle (une carrure, une grande taille), on peut demander un portrait à mi-corps : remplacer « head and shoulders, three-quarter view » par « half-length, from the head to the waist, three-quarter view, keeping [his / her] build ». Cela n'a pas encore été essayé.
 
+### Plusieurs portraits d'un coup
+
+Le PO peut faire tous les portraits d'une série dans une seule conversation (04/11/2026) : la référence de style d'abord, puis les photos, numérotées dans l'ordre où elles sont jointes. Le prompt nomme chaque personne par sa photo et sa place, et demande une image carrée par personne, l'une après l'autre. Si le générateur n'en fait qu'une par réponse, on écrit « next » pour la suivante. Une même personne sur deux photos donne deux portraits : le PO garde le meilleur.
+
+```
+Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Never reuse the face or the hair of the woman in the reference.
+The other attached images are photographs, numbered in the order they are attached: photo 1 is the second attached image, photo 2 the third, and so on. Draw [N] separate portraits, each one as its own square image, 1024 × 1024 px, in this order:
+1. [The person, e.g. the man on the left of photo 1]: [what makes him or her recognisable], [expression], in [plain clothes].
+2. …
+For each portrait: draw a new likeness as a press illustrator or courtroom sketch artist would from life, head and shoulders, three-quarter view, at the same age as in the photograph, on plain warm paper with no background. Ignore everyone else in the photographs. Do not trace or copy the photographs: redraw each face from scratch and keep only what makes the person recognisable: the shape of the face, the hair (colour, length, texture and hairline), the eyebrows, the eyes, the nose, the mouth, the smile and the beard. Everything is drawn with ink outlines, hatching and flat watercolour washes, realistic and drawn from life like the faces in the reference image, never a caricature. No photographic skin, no photographic lighting, no detail taken over from the photos' texture, no readable text anywhere, nothing from the prints on the clothes.
+If you can only make one image per answer, make portrait 1 now, then the next one each time I write "next".
+```
+
 ## Vérifier le portrait
 
 Avant la scène, le PO vérifie deux choses.
