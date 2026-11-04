@@ -24,7 +24,7 @@ Comme partout dans le kit, les explications sont en français et les prompts en 
 
 ## Étape 1 : le portrait dessiné
 
-Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`mayorsCandidate.webp`](../illustrations/sponsorships/mayorsCandidate.webp) pour le style (`oldTweet.webp` jusqu'au 04/11/2026), puis la photo.
+Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp) pour le style, puis la photo.
 
 ```
 Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain.
@@ -49,7 +49,7 @@ Si la silhouette compte pour le rôle (une carrure, une grande taille), on peut 
 
 Avant la scène, le PO vérifie deux choses.
 
-1. **Le portrait est dessiné** : trait d'encre, hachures et lavis, comme les visages de `mayorsCandidate`. Un portrait déjà photographique donne une scène où le visage l'est aussi ([`whistleblower`](breakthrough/whistleblower.md)).
+1. **Le portrait est dessiné** : trait d'encre, hachures et lavis, comme les visages de `oldTweet`. Un portrait déjà photographique donne une scène où le visage l'est aussi ([`whistleblower`](breakthrough/whistleblower.md)).
 2. **Il est ressemblant**, aux yeux du PO, et si possible de la personne.
 
 Si le rendu est trop photographique, envoyer ce message dans la même conversation. Il reprend le message de correction des scènes ; il n'a pas encore été essayé sur un portrait :
@@ -68,7 +68,7 @@ Si la ressemblance se perd, régénérer dans une nouvelle conversation plutôt 
 
 ## Étape 2 : la scène
 
-Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`mayorsCandidate.webp`](../illustrations/sponsorships/mayorsCandidate.webp) pour le style, puis le portrait dessiné. La scène s'écrit avec le [gabarit de prompt](gabarit.md), avec quatre changements :
+Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp) pour le style, puis le portrait dessiné. La scène s'écrit avec le [gabarit de prompt](gabarit.md), avec quatre changements :
 
 1. la première ligne dit « the first attached image » ;
 2. la ligne de la ressemblance vient en deuxième ;
@@ -78,10 +78,10 @@ Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`may
 Le prompt complet, à copier :
 
 ```
-Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
-Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+Use the first attached image as the style reference and copy its drawing: quick, nervous pencil lines, often drawn twice, loose ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through everywhere. Not the same scene.
+Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
 Use the second attached image, a drawn portrait, only as the likeness reference for [the role, e.g. the mayor]: give [him / her] this [man's / woman's] features, [the hair, e.g. short grey-white hair] and [light stubble / a short beard / clean-shaven], and draw [his / her] face with the same ink lines and washes as the other people in the scene. Keep the likeness through the drawing, never through photographic detail.
-This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+This must look like a drawing made by hand on paper, never like a photograph, a film poster or a digital painting: the people are drawn with pencil and ink lines and washes, not modelled; continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no dense colour, no glossy highlights, no smooth gradients, in the sky and on the walls too. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
 Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
 
 Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. [SCENE, written with the prompt template. The character with the likeness: "In the right (or left) third, [the role], the [man / woman] from the portrait, in [his / her] [sixties], in [clothes], [action], looking at the viewer, [his / her] face above mid-height." The other people described one by one, none of them like the person from the portrait. Nothing on [the objects of the scene] is readable.]
@@ -92,7 +92,7 @@ Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A44
 
 Tone: [observant / ironic / tense / warm, with the light that goes with it]
 
-Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere ([the objects of the scene] stay unreadable); no captions or speech bubbles; no logos or political party colours; apart from [the role], no recognisable real person and no lookalike of a real politician [or of the trade in the scene]; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere ([the objects of the scene] stay unreadable); no captions or speech bubbles; no logos or political party colours; apart from [the role], no recognisable real person and no lookalike of a real politician [or of the trade in the scene]; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
 
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
@@ -110,8 +110,8 @@ Le générateur soigne souvent le visage ressemblant plus que le reste. Dans le 
 Les phrases à reprendre, sans nom ni rien qui désigne la personne :
 
 - **« Prompt complet »** : « En deux étapes, pour que la scène ne voie jamais la photo de famille. » Puis une sous-section par étape :
-  - **Étape 1** : « Dans une nouvelle conversation, avec deux images jointes : `mayorsCandidate.webp` pour le style, puis une photo de famille du PO. Le portrait obtenu n'est pas dans ce dépôt. »
-  - **Étape 2** : « Dans une nouvelle conversation, avec deux images jointes : `mayorsCandidate.webp` pour le style, puis le portrait dessiné de l'étape 1 pour la ressemblance de [rôle]. »
+  - **Étape 1** : « Dans une nouvelle conversation, avec deux images jointes : `oldTweet.webp` pour le style, puis une photo de famille du PO. Le portrait obtenu n'est pas dans ce dépôt. »
+  - **Étape 2** : « Dans une nouvelle conversation, avec deux images jointes : `oldTweet.webp` pour le style, puis le portrait dessiné de l'étape 1 pour la ressemblance de [rôle]. »
   - **Avec un portrait déjà fait**, une seule étape : « … puis le portrait dessiné déjà fait pour [`<carte>`](../<catégorie>/<carte>.md), d'après une photo de famille du PO, pour la ressemblance de [rôle]. »
 - **« Décisions prises sur cette image »** : « **[Le rôle] reprend les traits d'une photo de famille fournie par le PO**, avec l'accord de la personne, confirmé par le PO (JJ/MM/AAAA). Ni la photo ni le portrait dessiné ne sont dans ce dépôt. » Puis ce que le rôle a changé pour suivre la personne : l'âge, la silhouette, un autre personnage modifié pour ne pas lui ressembler.
 - **« Relecture »** : « Aucun sosie d'une personne réelle, hors la ressemblance voulue de [rôle]. »
