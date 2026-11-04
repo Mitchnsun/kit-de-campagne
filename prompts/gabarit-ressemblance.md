@@ -31,7 +31,6 @@ Use the first attached image as the style reference: the same pencil and ink dra
 The second attached image is a photograph. Draw a new portrait of [this man / this woman / the man with white hair on the right of the photograph], as a press illustrator or courtroom sketch artist would draw a quick likeness from life: head and shoulders, three-quarter view, with [a calm, serious / a warm, smiling] expression, in [plain clothes, e.g. a plain dark top without the necklace], on plain warm paper with no background.[ Ignore the other people in the photograph.]
 Do not trace or copy the photograph. Redraw the face from scratch and keep only what makes [him / her] recognisable: the shape of the face, [the hair: colour, length, texture and hairline], the eyebrows, the eyes, the nose and the mouth[, the smile, the beard, the glasses]. Everything is drawn with ink outlines, hatching and flat watercolour washes, simplified like the faces in the reference image. No photographic skin, no photographic lighting, no detail taken over from the photo's texture.
 Format: square, 1024 × 1024 px.
-File name: name the image file "[the card's French title] (portrait).png".
 ```
 
 À remplir :
@@ -96,7 +95,6 @@ Tone: [observant / ironic / tense / warm, with the light that goes with it]
 Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere ([the objects of the scene] stay unreadable); no captions or speech bubbles; no logos or political party colours; apart from [the role], no recognisable real person and no lookalike of a real politician [or of the trade in the scene]; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
 
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
-File name: name the image file "[the card's French title].png", the title of the event.
 ```
 
 ### Si le visage ressort plus fini que les autres

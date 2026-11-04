@@ -97,5 +97,4 @@ Tone: gently ironic, low golden late-afternoon sun, soft and pale, long shadows 
 Constraints: realistic proportions; the only person is the pilot, barely visible, drawn with ink lines like the rest, with no photographic detail; no readable text anywhere (signs, registration numbers and screens stay blank); no captions or speech bubbles; no logos or political party colours; no recognisable real person; no explicit violence; no photographic rendering, no 3D look, no glossy reflections, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
 
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
-File name: name the image file "Le jet privé.png", the title of the event.
 ```
