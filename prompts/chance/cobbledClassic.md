@@ -52,7 +52,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **Le coureur vainqueur reprend les traits d'un portrait dessiné fourni par le PO** (04/11/2026), le même que le jeune reporter de [`taxReturn`](../rendezvous/taxReturn.md) : il passe du lointain au premier plan, casque à la main, pour qu'on voie son visage, et le cadreur passe dans le tiers gauche. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
+- **Le coureur vainqueur reprend les traits d'un portrait dessiné fourni par le PO** (04/11/2026), peut-être la même personne que le jeune reporter de [`taxReturn`](../rendezvous/taxReturn.md), à confirmer par le PO : il passe du lointain au premier plan, casque à la main, pour qu'on voie son visage, et le cadreur passe dans le tiers gauche. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
 
 ## Essais écartés
 
