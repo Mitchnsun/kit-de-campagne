@@ -1,19 +1,19 @@
 # `viralSpeech` · Un discours qui décolle
 
-**Validée par le PO le 31/10/2026**, à l'essai 2. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 2 de la régénération, dans le trait d'`oldTweet` (la première version avait été validée le 31/10/2026, à l'essai 2). Elle sert telle quelle en clair et en sombre.
 
 ![Un discours qui décolle](../../illustrations/breakthrough/viralSpeech.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `viralSpeech`, catégorie `breakthrough` (Coup de projecteur) |
-| Style | Reportage dessiné ; visages dessinés comme le reste |
+| Style | Reportage dessiné, trait d'`oldTweet` |
 | Ton | Chaleureux et vibrant |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 163 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 209 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -109,3 +109,18 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 ### Essais de la régénération
 
 - **Essai 1** (04/11/2026), avec `oldTweet.webp` comme référence : la salle et les six personnages du premier plan étaient justes, mais une quinzaine de personnes remplissaient la salle (huit invités assis qui applaudissaient derrière le premier rang), et des visages tiraient vers la BD (le barbu, la dame au déambulateur). Écarté par le PO avec la dérive de `danceVideo` ; le prompt suivant prend les lignes communes du dessin de presse réaliste et insiste sur les chaises vides.
+- **Essai 2** (04/11/2026), avec `oldTweet.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 2.
+
+- [x] Aucun texte lisible : le badge du militant, une carte au bout d'un cordon, est vierge ; rien aux murs.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : les six personnages du premier plan alignés face à l'estrade, un peu comme pour une photo de groupe, ce qui laisse lire toutes les chaises vides ; le badge en carte au cordon plutôt qu'en macaron.
