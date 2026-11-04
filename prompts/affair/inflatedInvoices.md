@@ -1,19 +1,19 @@
 # `inflatedInvoices` · Factures gonflées
 
-**Validée par le PO le 31/10/2026**, à l'essai 3. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 2 de la régénération, dans le trait d'`oldTweet` (la première version avait été validée le 31/10/2026, à l'essai 3). Elle sert telle quelle en clair et en sombre.
 
 ![Factures gonflées](../../illustrations/affair/inflatedInvoices.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `inflatedInvoices`, catégorie `affair` (Affaire) |
-| Style | Reportage dessiné ; visages dessinés comme le reste |
+| Style | Reportage dessiné, trait d'`oldTweet` ; visages dessinés, un peu modelés comme dans la référence |
 | Ton | Ironique |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1670 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 235 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1671 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 211 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -142,3 +142,18 @@ File name: name the image file "Factures gonflées.png", the title of the event.
 ### Essais de la régénération
 
 - **Essai 1** (04/11/2026), avec `mayorsCandidate.webp` comme référence et la règle de « trois ou quatre objets au plus » : les visages étaient enfin dessinés comme le reste, mais le hangar sortait presque vide, ouvert comme une cour, avec des contours en pointillés et une texture mouchetée sur les vestes. Le jeune enquêteur avait disparu et l'enquêteur chauve photographiait les chaises au lieu de les compter. Écarté par le PO, qui revient au style d'`oldTweet` et à un décor qui garde les détails dont la scène a besoin.
+- **Essai 2** (04/11/2026), avec `oldTweet.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 2.
+
+- [x] Aucun texte lisible : ni sur les cartons, ni sur les factures, ni sur les flight-cases, la rubalise ou les drapeaux.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Les petits drapeaux tricolores sont du matériel de meeting. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : des hachures diagonales assez régulières sur les vestes et les flight-cases, comme sur les vêtements d'`oldTweet` ; un patron qui sourit d'un air content de lui plus que d'un sourire jaune, ce qui garde l'ironie ; le jeune enquêteur qui vise un peu devant lui plutôt que dans le carton.
