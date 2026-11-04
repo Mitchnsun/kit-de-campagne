@@ -82,6 +82,7 @@ Faite le 03/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 ## Mises à jour
 
 - **03/11/2026, décisions du PO** : le 2d tour des législatives de 2024 ajouté ; la part du candidat en tête dans chaque département ; les libellés des nuances dans les textes de l'app ; la nuance de deux candidats de Polynésie corrigée au 1er tour (UG 8 995 226, REG 310 727) ; seuls les comptes du 1er tour des législatives par nuance changent pour les tours déjà là.
+- **04/11/2026, décisions du PO (Mitchnsun/moi-president#246)** : les neuf familles du jeu. « Droite nationale » devient « Extrême droite » (`farRight`), « Gauche sociale » redevient « Gauche radicale » ; Arthaud, Poutou, la nuance EXG et les listes LEXG passent en Extrême gauche (`farLeft`), Dupont-Aignan et la nuance DSV en Droite souverainiste (`sovereigntistRight`). Fichier regénéré par `yarn briefings pastElections` ; seules les familles et la date de récupération changent, les voix sont les mêmes. Les totaux par famille de « Ce que donne le fichier » sont recalculés sur les voix du fichier.
 
 ## Relecture
 
