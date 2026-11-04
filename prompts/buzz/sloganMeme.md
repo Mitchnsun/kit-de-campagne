@@ -67,3 +67,34 @@ Faite et validée par le PO le 31/10/2026, après la retouche.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 2/3 et les détails à 3/3 : peinture numérique finie, visages modelés, lumière chaude dense, quai brillant aux reflets mouillés, rame floue et lumineuse comme en mouvement. Une quinzaine de voyageurs, plusieurs téléphones avec le chat, des panneaux de station et du carrelage remplissent la moitié droite. Le PO a décidé de régénérer l'image, avec ce commentaire : « on garde la densité de la foule, ça reste le métro parisien ».
+
+**Ce qui reste.** L'idée du mème : l'affiche au chat à lunettes noires qui cache la tête, la veste sombre sans col, les gribouillis qui couvrent le slogan. L'ado au selfie dans le tiers gauche, la vieille dame qui secoue la tête, les deux étudiants qui rient, et la foule dense du quai, avec les téléphones qui montrent le chat.
+
+**Ce qui change.** Le rendu, et le dessin de la foule : elle reste, mais esquissée en silhouettes (têtes, épaules, sacs à dos) au lieu de visages modelés un à un. Quatre personnages seulement sont dessinés plus à fond, devant l'affiche. La rame est dessinée nette, sans flou, et le quai sans reflets mouillés.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A Paris metro platform in the morning rush hour in 2027, the day the candidate's slogan has become a meme. On the tiled wall, a large campaign poster of the player's candidate: the candidate's whole head, hair included, is covered by a sticker of a cartoon cat wearing sunglasses, the body under it wears a plain dark collarless jacket with nothing that shows a man or a woman, and the slogan band at the bottom is covered with doodles, arrows and stickers, so that no word can be read. In the left third, a teenager in a red hoodie takes a selfie in front of the poster, pulling a face, his face above mid-height. Next to him, a woman in her seventies in a beige coat looks up at the poster and shakes her head; two students laugh behind her, one pointing at the poster. These four are drawn with ink lines and flat washes, a little more than the rest. The platform stays crowded, because this is the Paris metro at rush hour: commuters of all ages stand shoulder to shoulder all the way to the right half of the frame, but they are only sketched, as loose silhouettes of heads, shoulders and backpacks in a few ink lines and pale washes, with simple faces and no detail, some glancing at smartphones whose screens show the same cartoon cat in different colours. At the far right, a metro train stands at the platform, drawn sharp with a few straight lines, no motion blur. Nothing on the poster, the screens or the station signs is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: gently ironic, postures slightly exaggerated but never the faces, cool underground light on warm cream tiles.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the poster, the screens and the station signs stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person and no lookalike of a real politician; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

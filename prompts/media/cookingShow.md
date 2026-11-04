@@ -65,3 +65,34 @@ Faite et validée par le PO le 31/10/2026.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 3/3 : c'est un autre style, une peinture numérique finie presque publicitaire, avec des reflets brillants sur la poêle, le couteau, la bouteille d'huile et les casseroles en cuivre, des légumes rendus comme une photo, un visage de chef modelé, une vapeur en halo, et aucun papier visible. Le cadre est un des plus chargés de la série : gradins d'une quinzaine de spectateurs, projecteurs, deux caméras, casseroles suspendues, plantes, et au premier plan torchon, planche, légumes, couteau, tomates, basilic, huile, moulin à poivre, ustensiles, citrons, ail. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** Le moment : le plan de travail du candidat vu depuis sa place, hors champ, le grand chef à droite qui tend sa cuillère en bois avec un sourire amusé en regardant le spectateur, la poêle qui fume un peu trop entre eux, la planche aux légumes coupés n'importe comment et le couteau posé, le public qui rit.
+
+**Ce qui change.** Le public tombe de quinze spectateurs à six ou sept, esquissés en quelques traits. Sortent du décor : les projecteurs, la deuxième caméra, les casseroles suspendues, les plantes, le torchon, la bouteille d'huile, le moulin à poivre, les ustensiles, les citrons et l'ail. Restent la planche, le couteau, la poêle et une caméra. Le chef reçoit une coupe (boucles argentées, menton mal rasé) et un visage dessiné comme le reste, sans modelé ; la vapeur devient quelques boucles au crayon.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. The set of a popular cooking show, live, in 2027, seen from the place of the player's candidate at the cooking counter, who stays off-camera: in the foreground, only a wooden cutting board with a few clumsily chopped vegetables and a knife laid down, drawn flat with ink lines and a pale wash, no shine on the blade. In the right third, the star chef, a broad-shouldered man in his sixties with short silver curls and a stubbled chin, in a white chef's jacket, leans on the counter with a wooden spoon in one hand and looks at the viewer with an amused, encouraging grin, his face above mid-height. On the stove between them, a pan smokes a little too much, the smoke drawn as a few loose pencil curls. Behind the stove, six or seven spectators on tiered benches are only sketched in a few quick ink strokes and pale washes, laughing and looking at the viewer: among them a heavy-set bearded man, a young woman with long dark hair, an older woman with a white bob. One television camera on a tripod points at the viewer on the left. Everything else of the studio is bare paper with a few pencil lines and a warm wash. Nothing on the set or the camera is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: warm and gently ironic, soft afternoon-like studio light, warm pastels.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the set, the camera and the screens stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician or television chef; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

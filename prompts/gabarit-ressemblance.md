@@ -24,7 +24,7 @@ Comme partout dans le kit, les explications sont en français et les prompts en 
 
 ## Étape 1 : le portrait dessiné
 
-Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp) pour le style, puis la photo.
+Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`mayorsCandidate.webp`](../illustrations/sponsorships/mayorsCandidate.webp) pour le style (`oldTweet.webp` jusqu'au 04/11/2026), puis la photo.
 
 ```
 Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain.
@@ -49,7 +49,7 @@ Si la silhouette compte pour le rôle (une carrure, une grande taille), on peut 
 
 Avant la scène, le PO vérifie deux choses.
 
-1. **Le portrait est dessiné** : trait d'encre, hachures et lavis, comme les visages de `oldTweet`. Un portrait déjà photographique donne une scène où le visage l'est aussi ([`whistleblower`](breakthrough/whistleblower.md)).
+1. **Le portrait est dessiné** : trait d'encre, hachures et lavis, comme les visages de `mayorsCandidate`. Un portrait déjà photographique donne une scène où le visage l'est aussi ([`whistleblower`](breakthrough/whistleblower.md)).
 2. **Il est ressemblant**, aux yeux du PO, et si possible de la personne.
 
 Si le rendu est trop photographique, envoyer ce message dans la même conversation. Il reprend le message de correction des scènes ; il n'a pas encore été essayé sur un portrait :
@@ -68,7 +68,7 @@ Si la ressemblance se perd, régénérer dans une nouvelle conversation plutôt 
 
 ## Étape 2 : la scène
 
-Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp) pour le style, puis le portrait dessiné. La scène s'écrit avec le [gabarit de prompt](gabarit.md), avec quatre changements :
+Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`mayorsCandidate.webp`](../illustrations/sponsorships/mayorsCandidate.webp) pour le style, puis le portrait dessiné. La scène s'écrit avec le [gabarit de prompt](gabarit.md), avec quatre changements :
 
 1. la première ligne dit « the first attached image » ;
 2. la ligne de la ressemblance vient en deuxième ;
@@ -79,6 +79,7 @@ Le prompt complet, à copier :
 
 ```
 Use the first attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
 Use the second attached image, a drawn portrait, only as the likeness reference for [the role, e.g. the mayor]: give [him / her] this [man's / woman's] features, [the hair, e.g. short grey-white hair] and [light stubble / a short beard / clean-shaven], and draw [his / her] face with the same ink lines and washes as the other people in the scene. Keep the likeness through the drawing, never through photographic detail.
 This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
 Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
@@ -109,8 +110,8 @@ Le générateur soigne souvent le visage ressemblant plus que le reste. Dans le 
 Les phrases à reprendre, sans nom ni rien qui désigne la personne :
 
 - **« Prompt complet »** : « En deux étapes, pour que la scène ne voie jamais la photo de famille. » Puis une sous-section par étape :
-  - **Étape 1** : « Dans une nouvelle conversation, avec deux images jointes : `oldTweet.webp` pour le style, puis une photo de famille du PO. Le portrait obtenu n'est pas dans ce dépôt. »
-  - **Étape 2** : « Dans une nouvelle conversation, avec deux images jointes : `oldTweet.webp` pour le style, puis le portrait dessiné de l'étape 1 pour la ressemblance de [rôle]. »
+  - **Étape 1** : « Dans une nouvelle conversation, avec deux images jointes : `mayorsCandidate.webp` pour le style, puis une photo de famille du PO. Le portrait obtenu n'est pas dans ce dépôt. »
+  - **Étape 2** : « Dans une nouvelle conversation, avec deux images jointes : `mayorsCandidate.webp` pour le style, puis le portrait dessiné de l'étape 1 pour la ressemblance de [rôle]. »
   - **Avec un portrait déjà fait**, une seule étape : « … puis le portrait dessiné déjà fait pour [`<carte>`](../<catégorie>/<carte>.md), d'après une photo de famille du PO, pour la ressemblance de [rôle]. »
 - **« Décisions prises sur cette image »** : « **[Le rôle] reprend les traits d'une photo de famille fournie par le PO**, avec l'accord de la personne, confirmé par le PO (JJ/MM/AAAA). Ni la photo ni le portrait dessiné ne sont dans ce dépôt. » Puis ce que le rôle a changé pour suivre la personne : l'âge, la silhouette, un autre personnage modifié pour ne pas lui ressembler.
 - **« Relecture »** : « Aucun sosie d'une personne réelle, hors la ressemblance voulue de [rôle]. »

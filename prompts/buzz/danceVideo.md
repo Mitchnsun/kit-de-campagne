@@ -65,3 +65,34 @@ Faite et validée par le PO le 31/10/2026, sur l'essai 2.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 3/3 : c'est un autre style, une peinture numérique finie aux visages photographiques (la mariée, les deux ados), une lumière dorée saturée, des halos de guirlandes et des confettis lumineux en bokeh, des reflets brillants sur la robe et le parquet, sans trait d'encre visible ni papier. Le cadre est plein : une quinzaine d'invités, guirlandes et fleurs au plafond, boule à facettes, tables dressées avec bougies, parquet couvert de confettis. Avec `donorsDinner`, c'est l'image la plus loin du style. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** Le moment et les quatre personnages que la revue veut garder : la mariée à droite qui rit aux éclats en regardant le spectateur, les deux ados qui filment, l'oncle qui applaudit, la tante qui se cache les yeux. Le candidat reste hors champ, la scène vue de la piste.
+
+**Ce qui change.** La salle n'est qu'esquissée : une guirlande, la boule à facettes et le parquet, le reste en papier nu, avec quelques silhouettes pâles pour les autres invités. Sortent du décor : les fleurs, les tables et leurs bougies, les halos et le bokeh ; les confettis restent quelques-uns, dessinés à l'encre. Chaque personnage est redécrit (coiffure, robe, âge) pour des visages dessinés et distincts.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A family wedding party in a village hall in France, late at night in 2027. The scene is seen from the middle of the dance floor, where the player's candidate is dancing very clumsily and stays off-camera: in the foreground, only the plain wooden floor drawn with a few long lines and a few scattered confetti. In the right third, the bride, the candidate's cousin, a woman in her thirties with dark curly hair pinned up with a few small flowers, in a simple lace wedding dress, laughs out loud and looks at the viewer, her face above mid-height. On the left, two teenagers film the viewer with their smartphones: a lanky boy of sixteen with a mop of black curls and a loose white shirt, and a round-faced girl of fifteen with long wavy light-brown hair in a green dress, both laughing. In the middle, an uncle in his fifties, stocky, with short black hair, a white shirt with rolled sleeves and a loosened blue tie, claps and looks at the viewer; next to him, an elderly aunt in her seventies with a silver wave of hair, a pearl necklace and a navy dress hides her eyes behind one hand in mock embarrassment, peeking between her fingers. Behind them, a few more guests are only pale loose silhouettes, with a single string of lights and a small disco ball drawn in a few lines; the rest of the hall is bare warm paper. Nothing on the phones is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: warm and gently ironic, festive night light from the string of lights and the disco ball, warm pastels.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the phones and the decorations stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

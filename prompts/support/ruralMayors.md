@@ -66,3 +66,34 @@ Faite et validée par le PO le 31/10/2026.
 - [x] Aucune couleur de parti. Les écharpes tricolores et le drapeau de la mairie sont permis. Les maires sont variés par l'âge, le corps et le visage, moins par l'origine, ce que le PO accepte.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 2/3 et les détails à 2/3 : peinture numérique finie aux couleurs denses (feuillage orange et jaune saturé, ciel bleu plein, train bleu vif) et visages modelés. La place est complète : mairie à horloge, platanes, gare et train, église, collines, jardinières, feuilles au sol, table au premier plan. Les cinq maires posent en rang face à l'objectif, la photo de groupe que la règle 3 du gabarit veut éviter. Le PO a décidé de régénérer l'image, avec ce commentaire : « là c'est voulu qu'il regarde l'objectif ».
+
+**Ce qui reste.** Le moment, les cinq maires en écharpe tricolore et leurs cinq descriptions, la porte-parole au dossier dans le tiers droit, la table avec le thermos et les gobelets au premier plan. Les cinq regardent bien le spectateur (le candidat, hors champ) : le PO le veut.
+
+**Ce qui change.** Le rendu, plus léger et moins saturé, et la mise en scène : les maires restent en grappe lâche, à des profondeurs différentes, deux d'entre eux à demi tournés l'un vers l'autre, au lieu de poser en rang. La place est esquissée : la mairie et son drapeau, un platane, la gare en quelques traits. Sortent l'église, les collines, la poste, les jardinières, le train et les feuilles au sol.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. The small square of a French village on a sunny autumn morning in 2027, in front of the old town hall and school building, a pale stone house with a clock and a tricolour flag, no lettering on its front, only suggested with a few lines and a light wash. The player's candidate has come to meet a collective of rural mayors and stays off-camera: in the foreground, only the edge of a folding table with a thermos of coffee and paper cups. Behind it, one golden plane tree, and far away a few pencil lines for a small country railway station. Five mayors wearing their tricolour sashes over everyday clothes stand in a loose, informal cluster at different depths, not in a row and not posing for a group photograph: two of them are half turned towards each other, as if their discussion has just stopped, and all five look at the viewer, waiting for an answer, at ease and in no hurry. In the right third, their spokeswoman, a stocky farmer in her sixties with short white hair and a waxed jacket, holds a thick folder of demands against her chest and looks at the viewer with a frank, demanding smile, her face above mid-height. Around her: a very tall, thin old man with a flat cap and a walking stick, a young mayor with a red beard and round glasses, a round mayor with a grey moustache and a bomber jacket, and a small woman in her forties with a black bob and a long scarf. Nothing on the building, the folder or the flag is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: warm, soft autumn sun, long shadows on the square, a few golden leaves, with the blue, white and red of the sashes and the flag as the only saturated colours.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the building, the folder and the flag stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person and no lookalike of a real politician; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

@@ -65,3 +65,34 @@ Faite et validée par le PO le 31/10/2026.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées, y compris dans leurs corps.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 2/3 : c'est un autre style, une photo à peine retouchée, avec le visage de la déléguée syndicale photographique, des bâtiments, des cheminées et un ciel rendus comme une photo, un sol mouillé aux reflets et la fumée du brasero, sans lavis transparent ni papier. Une vingtaine d'ouvriers sont dessinés en entier, avec banderoles, grille, usine et cheminées, gyrophare et équipe de télé avec perche : la foule est le sujet, mais tout le fond est détaillé. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** La scène et le moment : les grilles de l'usine un matin gris, la déléguée syndicale du tiers gauche, corpulente, mains dans les poches, qui regarde le spectateur avec gravité, le brasero, la banderole, l'équipe de télé. Les corps variés, que la revue juge réussis, sont gardés et nommés un par un : le grand barbu au ventre, la petite trapue, l'apprenti dégingandé, l'ouvrier voûté aux cheveux gris.
+
+**Ce qui change.** La foule passe d'une vingtaine d'ouvriers à huit, en deux ou trois petits groupes, tracés à l'encre sous un lavis plat. L'usine est esquissée en quelques traits (un bâtiment bas, deux cheminées) sous un ciel de lavis gris ; plus de gyrophare, de sol mouillé aux reflets ni de grille détaillée ; une seule banderole ; l'équipe de télé se réduit à un cameraman et sa perche.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. The gates of a large factory in eastern France, on a cold, overcast morning in 2027, the day the group announced its closure: eight hundred jobs threatened. The player's candidate has come to meet the workers and stays off-camera: in the foreground, only the half-open metal gate, drawn with a few straight ink lines and a rust-coloured wash. In the left third, a union delegate, a heavy-set woman in her forties with dark curly hair pinned up, in a dark work jacket and a grey scarf, hands in her pockets, looks at the viewer with a grave, challenging face, her face above mid-height. Behind her, only eight workers stand in two or three small groups, drawn with loose ink lines and flat washes, with the real bodies of people who have done physical work for years: a big, broad-shouldered bearded man with a belly under his overalls, a short stocky woman with a green scarf, a tall lanky young apprentice, a grey-haired worker with a heavy frame and a slight stoop, one slim older man in a cap; some look at the viewer, others talk quietly or stare at the factory. Next to them, a rusty brazier smokes gently, its glow the only warm touch. On the fence, a single handmade banner, daubed with loose strokes and no letters. On the right, a television cameraman films the viewer, a boom microphone above him. The factory is only suggested: a long low building and two cold chimneys in a few pencil lines under a pale grey wash for the sky, the paper bare below. Nothing on the banner or the building is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: tense, cold grey morning light, the only warm touch the glow of the brazier.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the banner and the building stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

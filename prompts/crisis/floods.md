@@ -67,3 +67,34 @@ Faite et validée par le PO le 31/10/2026.
 - [x] Aucune couleur de parti, aucun symbole officiel. Pas de blessé.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 2/3 et les détails à 2/3 : la scène est claire, mais c'est une peinture numérique finie sous une texture en pointillés (le muret du premier plan est fait de petits carreaux réguliers, comme un filtre), avec un ciel dramatique peint, une couverture de survie brillante et des visages modelés. Le canot est d'un orange vif hors palette, sans équivalent dans les neuf couleurs du gabarit. Toute la rue du village est peinte jusqu'au fond (platanes, façades et balcons, réverbères, clocher, cyprès, collines, débris dans l'eau) : le fond n'est jamais suggéré. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** Le moment : le matin après la crue, vu depuis le vieux pont, le canot de secours qui arrive vers la droite, la pompière à la barre qui lève les yeux vers le spectateur, le vieil homme à la barbe blanche enveloppé dans une couverture de survie avec son chien, le bénévole roux qui tend une bouteille d'eau depuis le pont.
+
+**Ce qui change.** Le canot devient brique (`#B5523B`), plus orange. Le village se réduit à un clocher, trois ou quatre façades et des platanes, en quelques traits ; sortent du décor les balcons, réverbères, cyprès, collines et débris. Le muret du premier plan est tracé en longues lignes sous un lavis, sans carreaux réguliers ni pointillés ; l'eau et le ciel sont des lavis plats ; la couverture de survie est d'un or pâle, sans reflet.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A village in south-western France, the morning after historic floods in 2027. The main street has become a brown river up to the ground-floor windows; the village is only suggested, in a few pencil lines and pale washes, with the paper left bare: a church tower, three or four stone façades with shutters and a row of plane trees, no more. The scene is seen from the old stone bridge where the water stops, the player's candidate staying off-camera: in the foreground, only the wet stone parapet of the bridge, drawn with a few long ink lines and one flat wash, no regular tile pattern and no dotted texture. In the right third, a rescue boat in brick red (#B5523B), not bright orange, comes towards the bridge: at the motor, a sturdy firefighter in her forties with short grey hair under a slate-grey helmet glances up at the viewer, her face above mid-height; in the boat, a frail old man with a white beard, wrapped in a pale gold survival blanket, holds a small dog. On the bridge, on the left, a lanky young volunteer with red curly hair leans over the parapet and hands out a bottle of water. The water is a flat wash of sand and warm grey with a few horizontal ink lines, the sky a light grey-blue wash. Nothing on the houses or the boat is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: tense and sober, grey morning light breaking through the clouds.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the houses and the boat stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician; no explicit violence, no injured person; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

@@ -61,3 +61,34 @@ Faite et validée par le PO le 31/10/2026, après la retouche.
 - [x] Aucune couleur de parti, aucun symbole officiel. Pas de violence explicite ni de blessé.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 3/3 : l'image se lit comme une photo sous un léger voile peint, avec trottoir mouillé aux reflets, brume en profondeur de champ et éclats de verre en mosaïque régulière. Le décor est l'un des plus chargés de la série : rayonnages d'épicerie pleins sur tout le tiers droit, centaines d'éclats, abribus, fourgon, passants, tours, réverbères et arbres. Le PO a décidé de régénérer l'image, avec ce commentaire : « Il faut garder tout de même la vitrine cassée ».
+
+**Ce qui reste.** Le lendemain matin, à l'aube : la vitrine brisée de l'épicerie, bien visible, la carcasse noircie de la voiture, la grand-mère qui presse l'enfant vers l'école, l'équipe de télé devant la voiture. Personne ne regarde le candidat, hors champ, avec quelques éclats de verre au premier plan.
+
+**Ce qui change.** Le rendu : un dessin de reportage léger, sans reflets ni brume. L'épicerie se réduit à sa vitrine et à un ou deux rayonnages vides, sans bouteilles ni fruits. Sortent du décor l'abribus, le fourgon de police, les passants lointains, les réverbères et les arbres ; il reste deux tours esquissées. Les éclats de verre sont peu nombreux et inégaux. La reporter disparaît : un caméraman seul filme la voiture.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A housing estate on the outskirts of a French city at dawn in 2027, the morning after several nights of riots: no fire, no fighting, no injured person, only the aftermath. The player's candidate has come and stays off-camera: in the foreground, only a few shards of glass on the pavement. In the right third, the large shattered window of a corner grocery, drawn big and clear, the glass broken into jagged pieces still hanging in the frame, the shop inside only suggested with a few lines and one or two shelves left bare. In the left third, a short, round woman in her seventies with a grey bob and a green raincoat hurries a small boy of seven, with curly dark hair and a backpack, along the pavement towards school; she looks straight ahead, her face above mid-height, and the boy looks down at the shards. In the middle, the blackened shell of a burnt car, and in front of it a lanky man in his forties with a shaved head and a dark jacket films it with a shoulder camera. Behind, only suggested with a few pencil lines and a pale wash, the outline of two tower blocks with a few lit windows in the morning haze. Nobody looks at the viewer. Nothing on the shop, the walls or the camera is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: tense and sober, cold grey dawn light, a thin haze of old smoke, the paper left bare in the sky and on the ground.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the shop, the walls and the camera stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person and no lookalike of a real politician; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

@@ -9,6 +9,7 @@ La direction artistique fait foi dans le ticket #159 du dépôt de l'app. Ce gab
 1. **La scène**, tirée du texte de la carte : un seul moment, un geste ou une réaction, en France, en 2027.
    - Le personnage principal est dans le tiers gauche ou droit de l'image, le visage au-dessus de la mi-hauteur.
    - Les détails sont ceux de 2027 : smartphones, caméras, écrans, véhicules électriques. **Un décor allégé** : plus la scène accumule d'objets, plus le générateur tire vers la photo ([`inflatedInvoices`](affair/inflatedInvoices.md)).
+   - **Trois ou quatre objets nommés au plus** dans le décor, en plus des personnages et de ce que l'histoire demande, et pas de liste d'objets : un bureau, c'est un écran et une tasse, pas une lampe, un pot à crayons, une plante, des dossiers et un téléphone. Le fond reste esquissé, même dans un studio de télévision ou une salle de réception (PO, 04/11/2026 : la revue de la première série a trouvé les images les plus chargées aussi les plus photographiques).
 2. **Les personnages, chacun décrit** : âge, corps, visage, coupe de cheveux, origine quand elle compte.
    - **Des corps variés selon le contexte**, pas seulement minces : corpulent, trapu, rond, grand, petit, sec. Sans consigne, le générateur fait des gens minces ([`factoryClosure`](crisis/factoryClosure.md)).
    - **Des visages et des coupes tous différents**, nommés un par un : sans cela, les visages se ressemblent d'une image à l'autre ([`riots`](crisis/riots.md)).
@@ -19,18 +20,20 @@ La direction artistique fait foi dans le ticket #159 du dépôt de l'app. Ce gab
 5. **Ce qui est permis** (PO, 30 et 31/10/2026) :
    - les ressemblances avec ce qui existe : interfaces, habillages de chaîne, monuments, modèles d'avions réels ;
    - les drapeaux tricolore et européen, l'écharpe tricolore et la Marianne, pour signaler un bâtiment officiel ou un élu ;
-   - un léger fondu du dessin dans le papier aux bords et dans les coins, sans large marge blanche (PO, 01/11/2026, [`firstContact`](farFetched/firstContact.md)).
+   - un léger fondu du dessin dans le papier aux bords et dans les coins, sans large marge blanche (PO, 01/11/2026, [`firstContact`](farFetched/firstContact.md)) ;
+   - **les candidats parodiés du jeu, vus de dos** : leur silhouette, leur coupe et leur allure peuvent rappeler la personne réelle qu'ils parodient, jamais leur visage (PO, 04/11/2026, [`televisedDebate`](breakthrough/televisedDebate.md)).
 6. **Ce qui reste interdit** : tout texte lisible ; un logo ou une couleur de parti ; un parti ou une association nommés ou reconnaissables ; un sosie d'une personne réelle ; le portrait d'un président réel au mur ; un vaisseau, un ordinateur ou un extraterrestre tiré d'un film connu.
-7. **Le style** : pour le moment, **toutes les cartes sont en reportage dessiné** (décision du 30/10/2026). Le trait cherche l'équilibre entre l'esquisse de [`oldTweet`](polemic/oldTweet.md) et le fini de [`marketGaffe`](polemic/marketGaffe.md). L'affiche lithographique et la BD semi-réaliste restent décrites dans #159, pour une image qui les demanderait plus tard.
+7. **Le style** : pour le moment, **toutes les cartes sont en reportage dessiné** (décision du 30/10/2026). Le trait cherche l'équilibre entre l'esquisse de [`mayorsCandidate`](sponsorships/mayorsCandidate.md) et le fini de [`marketGaffe`](polemic/marketGaffe.md) ; jusqu'au 04/11/2026, l'esquisse de référence était [`oldTweet`](polemic/oldTweet.md), régénérée depuis. L'affiche lithographique et la BD semi-réaliste restent décrites dans #159, pour une image qui les demanderait plus tard.
 8. **Le ton** : observateur par défaut, sinon ironique, tendu ou chaleureux selon l'événement (lignes plus bas), adapté à la scène et à sa lumière.
 9. **Ne jamais nommer un artiste ou un dessinateur vivant** : le style se décrit, il ne s'emprunte pas.
 
 ## Le prompt
 
-Avec [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp) comme seule image de référence, dans une nouvelle conversation. Les trois premières lignes tiennent le rendu dessiné : sans elles, le générateur revient à une photo ou à une peinture numérique sous un filtre de hachures.
+Avec [`mayorsCandidate.webp`](../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence, dans une nouvelle conversation (PO, 04/11/2026). Elle remplace [`oldTweet.webp`](../illustrations/polemic/oldTweet.webp), trop chargée, qui transmettait sa densité, et régénérée depuis. Jamais une image qui porte une ressemblance voulue, comme [`sponsorThreatened`](sponsorships/sponsorThreatened.md) : la référence peut passer ses visages à l'image. Les quatre premières lignes tiennent le rendu dessiné et le décor allégé : sans elles, le générateur revient à une photo ou à une peinture numérique sous un filtre de hachures, et recopie la densité de la référence.
 
 ```
 Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
 This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
 Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
 
