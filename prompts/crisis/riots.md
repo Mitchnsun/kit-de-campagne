@@ -1,19 +1,19 @@
 # `riots` · Nuits d'émeutes
 
-**Validée par le PO le 31/10/2026**, après une retouche du PO. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 1 de la régénération, dans le trait d'`oldTweet` (la première version avait été validée le 31/10/2026, après une retouche du PO). Elle sert telle quelle en clair et en sombre.
 
 ![Nuits d'émeutes](../../illustrations/crisis/riots.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `riots`, catégorie `crisis` (Crise) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait d'`oldTweet` |
 | Ton | Tendu et sobre |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 210 Ko, sans recadrage ; réexportée le 01/11/2026, après une première version en qualité 60 pour tenir 180 Ko |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 207 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -92,3 +92,21 @@ Constraints: realistic proportions, natural expressions, never cartoonish or car
 
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
+
+### Essais de la régénération
+
+- **Essai 1** (04/11/2026), avec `oldTweet.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 1.
+
+- [x] Aucun texte lisible : rien sur l'épicerie, les murs, la caméra ni le fourgon de police, qui n'a aucune inscription.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : une grand-mère plus grande et plus mince que la « petite femme ronde » du prompt.
