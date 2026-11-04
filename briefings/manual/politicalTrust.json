@@ -4,14 +4,61 @@
   "sources": [
     {
       "producer": "Sciences Po CEVIPOF",
-      "publication": "Baromètre de la confiance politique, vague 17",
+      "publication": "Baromètre de la confiance politique, vague 17, 2026",
       "publishedOn": "2026-02-09",
       "survey": {
         "institute": "OpinionWay",
         "sample": 3166,
         "population": "personnes inscrites sur les listes électorales",
+        "populationEn": "people registered on the electoral rolls",
+        "drawnFrom": {
+          "sample": 3445,
+          "population": "personnes représentatives de la population française âgée de 18 ans et plus",
+          "populationEn": "people representative of the French population aged 18 and over"
+        },
         "from": "2026-01-12",
-        "to": "2026-01-28"
+        "to": "2026-01-28",
+        "sponsor": "Sciences Po CEVIPOF",
+        "supporters": [
+          "CMA France",
+          "CESE",
+          "EDF",
+          "Intériale",
+          "LUISS",
+          "Institut de l'Entreprise",
+          "SNSPA"
+        ],
+        "mode": "online",
+        "sampling": "quota",
+        "margin": "0,7 à 1,7\u00a0point au plus pour un échantillon de 3\u00a0500 répondants",
+        "publishedBy": "Sciences Po CEVIPOF",
+        "questions": [
+          {
+            "id": "q0v15",
+            "text": "D'une manière générale, avez-vous confiance dans la politique\u00a0?"
+          },
+          {
+            "id": "Q13",
+            "text": "Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes\u00a0:",
+            "items": { "assemblyTrust": "L'Assemblée nationale" }
+          },
+          {
+            "id": "Q14",
+            "text": "Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes\u00a0:",
+            "items": {
+              "mayorTrust": "Le ou la maire de votre commune",
+              "presidentTrust": "Le président de la République actuel"
+            }
+          },
+          {
+            "id": "NOU1",
+            "text": "Sur une échelle de 0 à 10, où 0 correspond à la gauche et 10 correspond à la droite, où diriez-vous que vous vous situez\u00a0?"
+          }
+        ],
+        "notice": {
+          "kind": "report",
+          "url": "https://www.sciencespo.fr/cevipof/sites/sciencespo.fr.cevipof/files/Barometre_confiance_CEVIPOFVague17_fev2026_vd1.pdf"
+        }
       }
     }
   ],
