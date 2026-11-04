@@ -2,15 +2,15 @@
 
 **Vérifiée le 02/11/2026** : toutes les valeurs saisies sont conformes. Chacune a été lue dans le rapport de sa vague, puis recoupée par l'écart publié dans la vague suivante. Notes corrigées : le plus bas (les partis, 15 %), le plus haut (le maire, parmi les élus seulement), la marge d'incertitude telle qu'OpinionWay l'écrit, « la seule mesure » limitée au rapport publié.
 
-**À décider (PO)** : le baromètre n'a ni licence ni règle de citation propre. Seules s'appliquent la clause générale des Termes légaux de Sciences Po (« toute utilisation ou reproduction […] strictement interdite […] sauf accord préalable et écrit ») et la mention « © 2026 SCIENCES PO » en pied de site. Le kit cite des chiffres publiés, jamais les fichiers ni les graphiques. La vérification conseille d'écrire au CEVIPOF pour lever le doute avant de redistribuer ces séries.
+**Réutilisation autorisée** (04/11/2026) : le baromètre n'a ni licence ni règle de citation propre, seulement la clause générale des Termes légaux de Sciences Po (« toute utilisation ou reproduction […] strictement interdite […] sauf accord préalable et écrit »). Sciences Po CEVIPOF a donné cet accord par écrit le 04/11/2026, à la demande du PO, à condition de faire figurer la mention « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague n, Année, OpinionWay », ici « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague 17, 2026, OpinionWay ». L'app l'écrit telle quelle partout où elle cite la source (bloc de source, ligne « En vrai » des cartes, feuille d'aperçu). Le kit ne reprend que les chiffres, avec cette mention, jamais le rapport ni ses graphiques.
 
 | Champ | Valeur |
 | --- | --- |
-| Indicateur | `politicalTrust`, seconde partie du ticket #144, dossier « Institutions » (statut `planned`), nature `survey` : marqué « sondage » avec l'institut, l'échantillon et les dates (PO, 02/11/2026) |
+| Indicateur | `politicalTrust`, seconde partie du ticket #144, dossier « Institutions » (statut `published` depuis le 04/11/2026), nature `survey` : marqué « sondage » avec l'institut, l'échantillon et les dates (PO, 02/11/2026), et ses « Mentions du sondage » (section plus bas) |
 | Données | `briefings/manual/politicalTrust.json`, saisi à la main le 2026-11-02 depuis les rapports des vagues 1 à 17 |
-| Source | Sciences Po CEVIPOF, Baromètre de la confiance politique, vague 17, publiée le 09/02/2026 ; OpinionWay, 3 166 inscrits sur les listes électorales (sur 3 445 personnes de 18 ans et plus), en ligne, méthode des quotas, terrain du 12 au 28 janvier 2026 ; citation seulement ; en français seulement |
-| Séries | `politicsTrust` : confiance dans la politique, 2025 et 2026 ; `mayorTrust` : confiance dans le maire de sa commune (Q14), 2009 à 2026 ; `presidentTrust` : dans le président de la République en exercice (Q14), 2013 à 2026 (question non posée en décembre 2012, valeurs de 2009 à 2011 non saisies) ; `assemblyTrust` : dans l'Assemblée nationale (Q13), 2009 à 2026 (question non posée en 2010 et 2011) ; `positionFarLeft` à `positionNoAnswer` : auto-positionnement de 0 à 10 regroupé en blocs (0-1, 2-4, 5, 6-8, 9-10) et sans réponse, 2016 à 2026 |
-| Valeurs par catégorie | 2026 : `institutions` (Q13, 12 institutions, de 58 % pour le conseil municipal à 17 % pour le gouvernement) et `personalities` (Q14, 7 élus, de 60 % pour le maire à 18 % pour le président de la République) |
+| Source | Sciences Po CEVIPOF, « Baromètre de la confiance politique, vague 17, 2026 » (la publication porte l'année, pour que la ligne de source de l'app se lise comme la mention demandée), publiée le 09/02/2026 ; OpinionWay, 3 166 inscrits sur les listes électorales (sur 3 445 personnes de 18 ans et plus), en ligne, méthode des quotas, terrain du 12 au 28 janvier 2026 ; citation avec la mention « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague 17, 2026, OpinionWay » (accord écrit du 04/11/2026) ; en français seulement |
+| Séries | `politicsTrust` : confiance dans la politique, 2025 et 2026 ; `mayorTrust` : confiance dans « le ou la maire de votre commune » (Q14), 2009 à 2026 ; `presidentTrust` : dans le président de la République en exercice (Q14), 2013 à 2026 (question non posée en décembre 2012, valeurs de 2009 à 2011 non saisies) ; `assemblyTrust` : dans l'Assemblée nationale (Q13), 2009 à 2026 (question non posée en 2010 et 2011) ; `positionFarLeft` à `positionNoAnswer` : auto-positionnement de 0 à 10 regroupé en blocs (0-1, 2-4, 5, 6-8, 9-10) et sans réponse, 2016 à 2026 |
+| Valeurs par catégorie | 2026 : `institutions` (Q13, 12 institutions, de 58 % pour le conseil municipal à 17 % pour le gouvernement) et `personalities` (Q14, 7 élus, de 60 % pour « le ou la maire de votre commune » à 18 % pour le président de la République) |
 | Chiffre clé | 22 % des inscrits ont confiance dans la politique en 2026, en baisse (26 % en 2025) |
 | Première édition | À remplir à la publication |
 
@@ -19,6 +19,27 @@ Chaque point porte l'année du libellé de sa vague dans le rapport de la vague 
 À actualiser : à chaque vague (une par an, publiée en février). Le PDF de la vague 17 a été remplacé le 13/03/2026 pour y ajouter la Roumanie ; les chiffres de la France n'ont pas changé.
 
 Source secondaire à écarter : la page du CESE du 24/02/2014 donne 65 % pour le maire en décembre 2013 ; le rapport de la vague 5 donne 61 %, la valeur saisie.
+
+## Mentions du sondage
+
+Recherche du 04/11/2026, sur le web : ce que la loi n° 77-808 du 19 juillet 1977 fait dire à la reprise d'un sondage (recherche juridique du 27/10/2026, tickets #145 et #176 de l'app), tel que l'app l'affiche dans le bloc « Mentions du sondage » de la page et de la feuille d'aperçu (planche `LEG-9-dossiers`). Ces faits sont dans `briefings/manual/politicalTrust.json` (`sources[0].survey`) ; les mots autour sont ceux de l'app.
+
+| Mention | Valeur saisie | Source | Verdict |
+| --- | --- | --- | --- |
+| Institut | OpinionWay | [V17 p.1 et p.3][V17] ; pieds de page « OpinionWay pour Sciences Po » | Confirmé |
+| Commanditaire | Sciences Po CEVIPOF ; affiché « avec le soutien de CMA France, CESE, EDF, Intériale, LUISS, Institut de l'Entreprise et SNSPA », les sept partenaires de la couverture (« Avec le soutien de : ») | [V17 p.1][V17] ; [PAGEBARO][PAGEBARO] (« grâce à nos partenaires (en 2026 : … ») | Confirmé. Aucun document n'emploie le mot « commanditaire » ; le marché public de 2026 (JO du 30/06/2026) montre que le CEVIPOF est le donneur d'ordre. Ni Fondation Jean-Jaurès ni Institut Montaigne, qui figurent sur les notices d'une autre enquête (panel électoral Ipsos) |
+| Échantillon et population | 3 166 personnes inscrites sur les listes électorales, sur un échantillon de 3 445 personnes représentatif de la population française âgée de 18 ans et plus | [V17 p.3][V17] | Confirmé. L'étude couvre cinq pays (10 313 personnes) : les 3 166 sont l'échantillon français |
+| Méthode | En ligne (CAWI), méthode des quotas (sexe, âge, CSP, région, taille d'agglomération), norme ISO 20252 | [V17 p.3][V17] | Confirmé |
+| Terrain | Du 12 au 28 janvier 2026 (France) | [V17 p.3][V17] | Confirmé |
+| Questions posées | q0v15 : « D'une manière générale, avez-vous confiance dans la politique ? » ; Q13 : « Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes : » (item « L'Assemblée nationale » pour `assemblyTrust`) ; Q14 : même formule pour « les personnalités politiques suivantes : » (items « Le ou la maire de votre commune » pour `mayorTrust`, « Le président de la République actuel » pour `presidentTrust`) ; NOU1 : « Sur une échelle de 0 à 10, où 0 correspond à la gauche et 10 correspond à la droite, où diriez-vous que vous vous situez ? » | [V17 p.27, 28, 31 et 76][V17] | Confirmé. Ce sont les libellés de la vague 17, cités pour les séries qui remontent plus loin |
+| Marge d'erreur | « 0,7 à 1,7 point au plus pour un échantillon de 3 500 répondants », citée telle qu'OpinionWay l'écrit | [V17 p.3][V17] | Confirmé. Le rapport ne donne aucune marge pour 3 166 répondants : l'app n'en calcule pas |
+| Première publication | Le 09/02/2026, par Sciences Po CEVIPOF (article du site du CEVIPOF) | [A17][A17] ; présentation au CESE en séance plénière le 10/02/2026 [CESE17][CESE17] | Confirmé. Le PDF actuel date du 13/03/2026 (Roumanie ajoutée) |
+| Notice | Aucune notice de ce baromètre sur commission-des-sondages.fr : l'app le dit, et lie le rapport des résultats de la vague 17 (le PDF d'OpinionWay pour le CEVIPOF) | [NOTICES][NOTICES] (liste de 2026, janvier à novembre : aucune entrée CEVIPOF ou Sciences Po ; les seules notices CEVIPOF sont d'enquêtes Ipsos) | Non trouvée. Réserve : les années 2025 et antérieures n'ont pas pu être parcourues (HTTP 500) |
+
+Champ de la Commission des sondages : son communiqué du 14/09/2026 étend la loi, à partir du 15/09/2026, aux enquêtes sur les propositions, mesures, sujets, thèmes ou questions débattus dans la campagne de l'élection présidentielle de 2027, indépendamment des intentions de vote [COMM][COMM]. Le baromètre est antérieur (09/02/2026) et mesure la confiance générale ; sa reprise par le jeu après le 15/09/2026 reste une question d'appréciation de la Commission (interprétation, pas un texte). L'app affiche donc toutes les mentions de l'article 2 et cache le sondage pendant le silence des deux tours, du vendredi 0 h au dimanche 20 h (16-18 avril et 30 avril-2 mai 2027).
+
+[NOTICES]: https://commission-des-sondages.fr/notices/
+[COMM]: https://www.commission-des-sondages.fr/hist/communiques/communique-sondages-elections-presidentielles-14-septembre-2026.htm
 
 ## Double vérification
 
@@ -72,9 +93,9 @@ Deux précisions sur le PDF de la vague 17 :
 
 ---
 
-### 2. Confiance dans le maire de la commune (Q14)
+### 2. Confiance dans le ou la maire de la commune (Q14)
 
-Question Q14 : « Avez-vous très confiance, plutôt confiance… dans les personnalités politiques suivantes : le maire de votre commune ». La valeur est « très confiance + plutôt confiance ». Le chiffre d'origine est lu dans le tableau « % Confiance » de la vague indiquée ; « Δ » = delta de la vague suivante ramené à la valeur de cette vague.
+Question Q14 : « Avez-vous très confiance, plutôt confiance… dans les personnalités politiques suivantes : Le ou la maire de votre commune » (libellé corrigé le 04/11/2026 d'après le rapport de la vague 17, p. 31 : la vérification écrivait « le maire de votre commune »). La valeur est « très confiance + plutôt confiance ». Le chiffre d'origine est lu dans le tableau « % Confiance » de la vague indiquée ; « Δ » = delta de la vague suivante ramené à la valeur de cette vague.
 
 | Élément | Valeur saisie | Valeur trouvée | Source (URL) | Verdict |
 |---|---|---|---|---|
@@ -437,11 +458,14 @@ Lecture pratique (sans valeur de conseil juridique) :
 
 - **03/11/2026, décision du PO** : écrire au CEVIPOF avant de redistribuer ces séries. Les chiffres restent dans le kit ; l'indicateur reste `planned`, donc hors des éditions, jusqu'à sa réponse.
 - **04/11/2026, demande envoyée** : le PO a écrit au CEVIPOF (Sciences Po) pour lui demander son accord sur la reprise des séries et sur la mention « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague n, OpinionWay ». En attente de sa réponse ; l'indicateur reste `planned`.
+- **04/11/2026, réponse du CEVIPOF** : Sciences Po CEVIPOF donne son accord écrit à la reprise des séries, à condition de faire figurer la mention « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague n, Année, OpinionWay », ici « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague 17, 2026, OpinionWay ». Le PO décide de publier l'indicateur (`published` dans le registre de l'app, ticket #144).
+- **04/11/2026, mention** : l'intitulé de la publication devient « Baromètre de la confiance politique, vague 17, 2026 » (au lieu de « … vague 17 »), et l'app ajoute l'institut (`survey.institute`) : sa ligne de source se lit « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague 17, 2026, OpinionWay », dans l'ordre de la mention. Le registre de l'app change avec lui.
+- **04/11/2026, mentions du sondage** : le fichier saisi reçoit les mentions de la loi de 1977 (commanditaire et partenaires, population en anglais, échantillon d'origine, mode et méthode, marge telle qu'OpinionWay l'écrit, première publication, questions par identifiant et items des séries, rapport des résultats faute de notice), vérifiées le même jour (section « Mentions du sondage »). Libellé du maire corrigé dans la fiche et les « À savoir » : « le ou la maire de votre commune ».
 
 ## Relecture
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [x] La licence de chaque source vérifiée, et la mention qu'elle demande.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande : accord écrit de Sciences Po CEVIPOF du 04/11/2026, mention « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague 17, 2026, OpinionWay ».
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.
