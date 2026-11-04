@@ -20,7 +20,7 @@
 
 > **Le doyen du marathon**
 >
-> Au marathon de Paris, vous attendez à l'arrivée un proche qui court. Un coureur de 78 ans, qui n'a jamais manqué une édition, passe la ligne devant vous, et la foule se tourne vers vous.
+> Au marathon de Paris, vous attendez à l'arrivée un proche qui court. Un coureur de 92 ans, qui n'a jamais manqué une édition, passe la ligne devant vous, et la foule se tourne vers vous.
 
 ## Le moment choisi
 
@@ -51,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **Le doyen a 92 ans** (PO, 04/11/2026) : en 2026, le doyen réel du marathon de Paris avait 92 ans ; l'image suit cet âge, plus juste que les 78 ans du texte de la carte.
+- **Le doyen a 92 ans** (PO, 04/11/2026) : en 2026, le doyen réel du marathon de Paris avait 92 ans ; l'image suit cet âge, et le texte de la carte est passé de 78 à 92 ans dans la PR #297 de l'app.
 
 ## Essais écartés
 
