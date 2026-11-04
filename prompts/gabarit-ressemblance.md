@@ -133,7 +133,7 @@ Les phrases à reprendre, sans nom ni rien qui désigne la personne :
 
 | Carte | Rôle | Comment | Ce qu'on en retient |
 | --- | --- | --- | --- |
-| [`ministerResigns`](crisis/ministerResigns.md) | Le secrétaire d'État | Photo jointe à la scène, avant la méthode | Le visage ressort presque photographique |
+| [`ministerResigns`](crisis/ministerResigns.md) | Le secrétaire d'État | Photo jointe à la scène, avant la méthode | Le visage ressort presque photographique ; régénérée le 04/11/2026 avec son propre portrait dessiné, fait d'après la même photo |
 | [`donorsDinner`](support/donorsDinner.md) | L'hôte | Photo de groupe jointe à la scène, la personne désignée par sa place | Rendu très réaliste, gardé par le PO ; c'est ce qui a mené aux deux étapes |
 | [`pundit`](attack/pundit.md) | L'éditorialiste | Les deux étapes, au premier essai | La méthode de référence ; le portrait a resservi |
 | [`whistleblower`](breakthrough/whistleblower.md) | La lanceuse d'alerte | Les deux étapes ; le rôle perd « corpulente » et les lunettes | Le visage reste presque photographique : vérifier le portrait avant la scène |
