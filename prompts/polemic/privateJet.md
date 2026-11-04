@@ -67,3 +67,34 @@ Faite et validée par le PO le 30/10/2026.
 - [x] Aucune couleur de parti, aucun symbole officiel. Le jet ressemble à un vrai modèle d'avion d'affaires, ce que le PO a autorisé.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 1/3 : c'est la plus photographique de la série, un rendu de photo ou une image 3D à peine teintée. Le jet a des reflets brillants, le tarmac est en miroir, le coucher de soleil orange est dense, et le grillage du premier plan est flou comme sur une photo (voulu par la fiche, mais le gabarit actuel interdit le flou). Il n'y a ni trait d'encre ni papier. Le décor, lui, est léger : le jet, la passerelle, un tapis, le terminal vitré et quelques oliviers et cyprès. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** L'idée de la photo volée à travers le grillage : le jet seul sur le tarmac d'un petit aéroport privé de luxe, vu en trois quarts dans les deux tiers droits, sa passerelle baissée sur un court tapis, le pilote à peine deviné derrière le pare-brise, le terminal vitré aux lumières chaudes au fond, un soleil bas. Personne d'autre : la scène montre le jet, pas les gens.
+
+**Ce qui change.** Le rendu : le jet dessiné à l'encre, avec ses contours et un lavis clair, sans reflets brillants, le tarmac en papier nu avec quelques traits et de longues ombres, le ciel en lavis ocre pâle au lieu du coucher de soleil dense. **Le grillage du premier plan est dessiné net**, chaque maille à l'encre, au lieu d'être flou : c'est lui qui dit « photo prise de l'extérieur ». Le décor se limite au jet, au grillage, au terminal et à deux oliviers en bacs, avec la campagne esquissée au fond.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A small private jet waits alone on the tarmac of a small, luxurious private airport at the end of the afternoon in 2027. The jet stands in the right two thirds of the frame, in three-quarter view, its boarding stairs lowered onto a short carpet. Behind the cockpit windows, a pilot can just be made out, waiting, drawn with a few ink lines. There is nobody else anywhere: no passengers, no staff, no onlookers. In the background on the left, a low, elegant private terminal with tall glass windows and warm lights inside, and two olive trees in large planters; beyond it, flat countryside only suggested with a few pencil lines under a pale ochre wash of low sun. The tarmac is bare warm paper with a few pencil lines and long soft shadows, no reflections. The scene is seen from just behind the airport's wire fence, like a photo taken from outside: the chain-link fence in the foreground is drawn sharp, every wire and post in ink lines, not blurred. Everything is quiet and a little too perfect. Nothing on the jet, the terminal or the tarmac is readable: no registration number, no logos.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: gently ironic, low golden late-afternoon sun, soft and pale, long shadows on the empty tarmac.
+
+Constraints: realistic proportions; the only person is the pilot, barely visible, drawn with ink lines like the rest, with no photographic detail; no readable text anywhere (signs, registration numbers and screens stay blank); no captions or speech bubbles; no logos or political party colours; no recognisable real person; no explicit violence; no photographic rendering, no 3D look, no glossy reflections, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```

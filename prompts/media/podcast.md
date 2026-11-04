@@ -65,3 +65,34 @@ Faite et validée par le PO le 31/10/2026.
 - [x] Aucune couleur de parti, aucun symbole officiel.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 2/3 : c'est un autre style, une peinture numérique finie et saturée. Le casque et le bras du micro ont des reflets métalliques brillants, les bougies et la lampe font des halos, le visage de l'animatrice est modelé, le pull orange est dense, la lueur bleue des LED est marquée, et le papier ne se voit nulle part : le rendu d'une photo d'intérieur retouchée. Le décor est chargé : canapé et coussins, plantes, lampe, bougies, deux caméras sur pied, panneaux acoustiques, tapis, régie vitrée et sa productrice, et au premier plan un micro et un casque très détaillés. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** Le petit studio de podcast au début de l'entretien, vu depuis le fauteuil d'invité du candidat (hors champ) : le gros micro sur son bras et le casque sur la table en bois au premier plan, et l'animatrice du tiers droit, mug à la main, qui se renverse sur sa chaise et regarde le candidat avec un sourire curieux et un peu provocant. L'animatrice garde l'allure de l'image actuelle, que le PO a gardée : une quarantaine d'années, cheveux courts et bouclés, pull orange ample, casque sur les oreilles. Une seule plante.
+
+**Ce qui change.** Le rendu : micro et casque dessinés à l'encre sans reflets métalliques, le visage de l'animatrice comme le reste du dessin, un pull en aplats, des lavis clairs et du papier nu. Le décor sort : canapé, coussins, tapis, panneaux acoustiques, bougies, deuxième caméra, régie vitrée et productrice. Il reste une plante, une lampe chaude et une seule petite caméra au voyant rouge, et la lueur bleue des LED disparaît. Le prompt dit désormais l'âge réel de l'animatrice, qu'il avait fixé à tort à la fin de la vingtaine.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`mayorsCandidate.webp`](../../illustrations/sponsorships/mayorsCandidate.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference: the same pencil and ink drawing with loose watercolour washes and warm paper grain. Not the same scene.
+Copy its rendering, not its density: a light setting, with at most three or four objects in the background besides the people and what the story needs, each only suggested with a few lines; large areas of bare warm paper; no shelves, desks or walls filled with things.
+This must look like a drawing made by hand on paper, never like a photograph or a film poster: the people are drawn with ink lines and flat washes, not modelled; the background is only suggested with a few pencil lines and light, transparent washes, so that the warm paper shows through; the drawing may fade lightly into the bare paper at the edges and in the corners, as on a sketchbook page, the fade staying narrow, without a wide white margin. Lighter and less saturated than a painting: no dense colour, no glossy highlights, no hatching filter laid over a finished image. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp with ink lines, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A small, cosy podcast studio in 2027, a star show among the under-thirties, at the very start of a three-hour interview with no editing. The scene is seen from the guest's seat of the player's candidate, who stays off-camera: in the foreground, only a large microphone on its arm and a pair of headphones on the wooden table. In the right third, the host, a woman in her early forties with short dark curly hair, warm olive skin and brown eyes, headphones on and an oversized rust-orange sweater over jeans, leans back in her chair with one hand around a white mug and looks at the viewer with a curious, slightly challenging smile, her face above mid-height. Behind her, only one large leafy plant, one warm lamp, and one small camera on a tripod with a small red recording light, pointing at the viewer. The rest of the studio is only suggested with a few pencil lines and a light wash, leaving the warm paper bare. Nothing on the walls, the mug or the camera is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: observant and relaxed, warm lamp light, soft and pale.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (walls, mugs and the camera stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician or podcaster; no explicit violence; no photographic rendering, no blur or bokeh, no hatching filter over a finished digital painting, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```
