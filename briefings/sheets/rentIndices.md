@@ -15,7 +15,7 @@
 
 ## Mises à jour
 
-Aucune.
+- **03/11/2026, décision du PO** : les trois ILH sont en base 100 en janvier 2019 (l'indice du 4e trimestre 2018 vaut janvier 2019, vérifié dans `costOfLiving.md`) : chaque série porte `baseMonth: 1` à côté de `base: 2019`, et la page écrit « Base 100 en janvier 2019 ». Fichier regénéré par `yarn briefings rentIndices` ; seuls `baseMonth` et la date de récupération changent.
 
 ## Relecture
 
