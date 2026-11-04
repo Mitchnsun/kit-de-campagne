@@ -51,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **Le grand chandelier retiré** (PO, 04/11/2026) : le PO l'a enlevé du prompt avant de générer, il prenait trop de place. Hanoukka se lit par le rabbin et son livre, les kippas, la chorale, les beignets et les élus. Le titre de la carte parle de l'allumage des bougies, que l'image ne montre plus : un écart voulu.
+- **Le grand chandelier retiré** (PO, 04/11/2026) : le PO l'a enlevé de l'image, il prenait trop de place ; le prompt ci-dessus le décrit encore, à retirer pour refaire l'image. Hanoukka se lit par le rabbin et son livre, les kippas, la chorale, les beignets et les élus. Le titre de la carte parle de l'allumage des bougies, que l'image ne montre plus : un écart voulu.
 
 ## Essais écartés
 
