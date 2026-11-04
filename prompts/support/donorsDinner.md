@@ -92,6 +92,7 @@ Use the first attached image as the style reference: the same pencil and ink dra
 The second attached image is a photograph. Draw a new portrait of the white-haired man on the right of the photograph, as a press illustrator or courtroom sketch artist would draw a quick likeness from life: head and shoulders, three-quarter view, with a warm, satisfied smile, in a plain dark turtleneck, on plain warm paper with no background. Ignore the other people in the photograph.
 Do not trace or copy the photograph. Redraw the face from scratch and keep only what makes him recognisable: the shape of the face, the short white hair and its hairline, the eyebrows, the eyes, the nose, the mouth and the smile. Everything is drawn with ink outlines, hatching and flat watercolour washes, simplified like the faces in the reference image. No photographic skin, no photographic lighting, no detail taken over from the photo's texture.
 Format: square, 1024 × 1024 px.
+File name: name the image file "Un dîner de donateurs (portrait).png".
 ```
 
 **Étape 2 : la scène.** Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`oldTweet.webp`](../../illustrations/polemic/oldTweet.webp) pour le style, puis le portrait dessiné de l'étape 1 pour la ressemblance de l'hôte.
@@ -114,4 +115,5 @@ Tone: gently ironic, warm candlelight and a little gold, everything a little too
 Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the cheque and the place card stay unreadable); no captions or speech bubbles; no logos or political party colours; apart from the host, no recognisable real person and no lookalike of a real politician or businessman; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
 
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+File name: name the image file "Un dîner de donateurs.png", the title of the event.
 ```
