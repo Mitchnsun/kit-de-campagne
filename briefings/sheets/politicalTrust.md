@@ -436,6 +436,7 @@ Lecture pratique (sans valeur de conseil juridique) :
 ## Mises à jour
 
 - **03/11/2026, décision du PO** : écrire au CEVIPOF avant de redistribuer ces séries. Les chiffres restent dans le kit ; l'indicateur reste `planned`, donc hors des éditions, jusqu'à sa réponse.
+- **04/11/2026, demande envoyée** : le PO a écrit au CEVIPOF (Sciences Po) pour lui demander son accord sur la reprise des séries et sur la mention « Sciences Po CEVIPOF, Baromètre de la confiance politique, vague n, OpinionWay ». En attente de sa réponse ; l'indicateur reste `planned`.
 
 ## Relecture
 
