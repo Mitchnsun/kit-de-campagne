@@ -142,3 +142,4 @@ Les phrases à reprendre, sans nom ni rien qui désigne la personne :
 | [`comet`](farFetched/comet.md) | Un astronome | Les deux étapes ; le doctorant devient un astronome de la soixantaine | Le rôle suit l'âge de la personne |
 | [`sponsorThreatened`](sponsorships/sponsorThreatened.md) | Le maire | Le portrait de `comet` | L'adjoint devient une adjointe, pour ne pas avoir deux hommes de la soixantaine côte à côte |
 | [`podcast`](media/podcast.md) | L'animatrice | Un portrait dessiné fourni par le PO : l'étape 2 seule (04/11/2026) | Le rôle prend les cheveux longs et ondulés du portrait ; la présentatrice de `primeTime`, gardée telle quelle, s'en distingue par ses cheveux lissés au brushing |
+| [`womensDay`](rendezvous/womensDay.md) | La porte-parole | Un portrait dessiné fourni par le PO : l'étape 2 seule (04/11/2026) | Le rôle prend l'âge et les cheveux courts et bouclés du portrait ; la syndicaliste et l'étudiante gardent des coupes distinctes |
