@@ -52,7 +52,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **Le maire reprend les traits d'un portrait dessiné fourni par le PO** (04/11/2026), peut-être la même personne que le secrétaire d'État de [`ministerResigns`](../crisis/ministerResigns.md), à confirmer par le PO : le visage large, les cheveux bruns coiffés en arrière, rasé de près, à la place des cheveux gris et des lunettes du premier prompt. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
+- **Le maire reprend les traits d'un portrait dessiné fourni par le PO** (04/11/2026), la même personne que le secrétaire d'État de [`ministerResigns`](../crisis/ministerResigns.md), confirmé par le PO : le visage large, les cheveux bruns coiffés en arrière, rasé de près, à la place des cheveux gris et des lunettes du premier prompt. Avec l'accord de la personne, confirmé par le PO (04/11/2026). Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
 
 ## Essais écartés
 
