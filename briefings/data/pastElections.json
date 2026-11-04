@@ -1,6 +1,6 @@
 {
   "id": "pastElections",
-  "retrievedOn": "2026-11-03",
+  "retrievedOn": "2026-11-04",
   "sources": [
     {
       "producer": "Ministère de l'Intérieur, data.gouv.fr",
@@ -59,9 +59,9 @@
       "expressed": 35132947,
       "contenders": [
         { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 9783058 },
-        { "name": "Marine LE PEN", "number": 5, "family": "nationalRight", "votes": 8133828 },
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 8133828 },
         { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 7712520 },
-        { "name": "Éric ZEMMOUR", "number": 6, "family": "nationalRight", "votes": 2485226 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 2485226 },
         { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 1679001 },
         { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 1627853 },
         { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 1101387 },
@@ -69,12 +69,12 @@
         {
           "name": "Nicolas DUPONT-AIGNAN",
           "number": 12,
-          "family": "nationalRight",
+          "family": "sovereigntistRight",
           "votes": 725176
         },
         { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 616478 },
-        { "name": "Philippe POUTOU", "number": 11, "family": "radicalLeft", "votes": 268904 },
-        { "name": "Nathalie ARTHAUD", "number": 1, "family": "radicalLeft", "votes": 197094 }
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 268904 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 197094 }
       ],
       "leaders": {
         "10": ["Marine LE PEN", 32.95],
@@ -192,7 +192,7 @@
       "expressed": 32057325,
       "contenders": [
         { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 18768639 },
-        { "name": "Marine LE PEN", "number": 2, "family": "nationalRight", "votes": 13288686 }
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 13288686 }
       ],
       "leaders": {
         "10": ["Marine LE PEN", 51.68],
@@ -309,23 +309,23 @@
       "invalid": 267803,
       "expressed": 32057946,
       "contenders": [
-        { "name": "RN", "nuance": "RN", "family": "nationalRight", "votes": 9379092 },
+        { "name": "RN", "nuance": "RN", "family": "farRight", "votes": 9379092 },
         { "name": "UG", "nuance": "UG", "family": "radicalLeft", "votes": 8995226 },
         { "name": "ENS", "nuance": "ENS", "family": "center", "votes": 6425707 },
         { "name": "LR", "nuance": "LR", "family": "right", "votes": 2106166 },
-        { "name": "UXD", "nuance": "UXD", "family": "nationalRight", "votes": 1251125 },
+        { "name": "UXD", "nuance": "UXD", "family": "farRight", "votes": 1251125 },
         { "name": "DVD", "nuance": "DVD", "family": "right", "votes": 1172482 },
         { "name": "DVG", "nuance": "DVG", "family": "socialDemocrat", "votes": 490898 },
         { "name": "DVC", "nuance": "DVC", "family": "center", "votes": 391423 },
-        { "name": "EXG", "nuance": "EXG", "family": "radicalLeft", "votes": 366594 },
+        { "name": "EXG", "nuance": "EXG", "family": "farLeft", "votes": 366594 },
         { "name": "REG", "nuance": "REG", "family": "unaligned", "votes": 310727 },
-        { "name": "REC", "nuance": "REC", "family": "nationalRight", "votes": 238934 },
+        { "name": "REC", "nuance": "REC", "family": "farRight", "votes": 238934 },
         { "name": "HOR", "nuance": "HOR", "family": "center", "votes": 231667 },
         { "name": "ECO", "nuance": "ECO", "family": "ecologist", "votes": 182478 },
         { "name": "UDI", "nuance": "UDI", "family": "right", "votes": 163072 },
         { "name": "DIV", "nuance": "DIV", "family": "unaligned", "votes": 142871 },
-        { "name": "DSV", "nuance": "DSV", "family": "nationalRight", "votes": 90110 },
-        { "name": "EXD", "nuance": "EXD", "family": "nationalRight", "votes": 59679 },
+        { "name": "DSV", "nuance": "DSV", "family": "sovereigntistRight", "votes": 90110 },
+        { "name": "EXD", "nuance": "EXD", "family": "farRight", "votes": 59679 },
         { "name": "SOC", "nuance": "SOC", "family": "socialDemocrat", "votes": 29242 },
         { "name": "RDG", "nuance": "RDG", "family": "socialDemocrat", "votes": 12434 },
         { "name": "FI", "nuance": "FI", "family": "radicalLeft", "votes": 12224 },
@@ -447,11 +447,11 @@
       "invalid": 392957,
       "expressed": 27279713,
       "contenders": [
-        { "name": "RN", "nuance": "RN", "family": "nationalRight", "votes": 8744080 },
+        { "name": "RN", "nuance": "RN", "family": "farRight", "votes": 8744080 },
         { "name": "UG", "nuance": "UG", "family": "radicalLeft", "votes": 7004725 },
         { "name": "ENS", "nuance": "ENS", "family": "center", "votes": 6313808 },
         { "name": "LR", "nuance": "LR", "family": "right", "votes": 1474650 },
-        { "name": "UXD", "nuance": "UXD", "family": "nationalRight", "votes": 1364964 },
+        { "name": "UXD", "nuance": "UXD", "family": "farRight", "votes": 1364964 },
         { "name": "DVD", "nuance": "DVD", "family": "right", "votes": 980818 },
         { "name": "DVG", "nuance": "DVG", "family": "socialDemocrat", "votes": 401063 },
         { "name": "REG", "nuance": "REG", "family": "unaligned", "votes": 288202 },
@@ -461,8 +461,8 @@
         { "name": "DIV", "nuance": "DIV", "family": "unaligned", "votes": 38025 },
         { "name": "ECO", "nuance": "ECO", "family": "ecologist", "votes": 37808 },
         { "name": "SOC", "nuance": "SOC", "family": "socialDemocrat", "votes": 26343 },
-        { "name": "EXD", "nuance": "EXD", "family": "nationalRight", "votes": 23217 },
-        { "name": "DSV", "nuance": "DSV", "family": "nationalRight", "votes": 18672 },
+        { "name": "EXD", "nuance": "EXD", "family": "farRight", "votes": 23217 },
+        { "name": "DSV", "nuance": "DSV", "family": "sovereigntistRight", "votes": 18672 },
         { "name": "FI", "nuance": "FI", "family": "radicalLeft", "votes": 8361 }
       ],
       "leaders": {
@@ -584,7 +584,7 @@
           "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
           "number": 5,
           "nuance": "LRN",
-          "family": "nationalRight",
+          "family": "farRight",
           "votes": 7765936
         },
         {
@@ -626,7 +626,7 @@
           "name": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
           "number": 3,
           "nuance": "LREC",
-          "family": "nationalRight",
+          "family": "farRight",
           "votes": 1353127
         },
         {
@@ -668,14 +668,14 @@
           "name": "L'EUROPE CA SUFFIT !",
           "number": 24,
           "nuance": "LEXD",
-          "family": "nationalRight",
+          "family": "farRight",
           "votes": 229190
         },
         {
           "name": "LUTTE OUVRIERE - LE CAMP DES TRAVAILLEURS",
           "number": 19,
           "nuance": "LEXG",
-          "family": "radicalLeft",
+          "family": "farLeft",
           "votes": 121281
         },
         {
@@ -703,7 +703,7 @@
           "name": "POUR UN MONDE SANS FRONTIERES NI PATRONS, URGENCE REVOLUTION !",
           "number": 22,
           "nuance": "LEXG",
-          "family": "radicalLeft",
+          "family": "farLeft",
           "votes": 37434
         },
         {
@@ -766,14 +766,14 @@
           "name": "FORTERESSE EUROPE - LISTE D'UNITE NATIONALISTE",
           "number": 26,
           "nuance": "LEXD",
-          "family": "nationalRight",
+          "family": "farRight",
           "votes": 5096
         },
         {
           "name": "\"POUR LE PAIN, LA PAIX, LA LIBERTÉ !\" PRÉSENTÉE PAR LE PARTI DES TRAVAILLEURS",
           "number": 23,
           "nuance": "LEXG",
-          "family": "radicalLeft",
+          "family": "farLeft",
           "votes": 4120
         },
         {
@@ -801,7 +801,7 @@
           "name": "NON À L'UE ET À L'OTAN, COMMUNISTES POUR LA PAIX ET LE PROGRÈS SOCIAL",
           "number": 28,
           "nuance": "LEXG",
-          "family": "radicalLeft",
+          "family": "farLeft",
           "votes": 3078
         },
         {
@@ -815,7 +815,7 @@
           "name": "PARTI REVOLUTIONNAIRE COMMUNISTES",
           "number": 9,
           "nuance": "LEXG",
-          "family": "radicalLeft",
+          "family": "farLeft",
           "votes": 1497
         },
         {
