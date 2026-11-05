@@ -20,7 +20,7 @@
 
 > **Déclaration de revenus : la transparence**
 >
-> La déclaration de revenus s'ouvre en ligne. À l'approche du premier tour, une journaliste demande aux candidats s'ils rendront la leur publique.
+> La déclaration de revenus s'ouvre en ligne. À l'approche du premier tour, une journaliste demande aux candidats s'ils rendront publics leurs revenus et leur patrimoine.
 
 ## Le moment choisi
 

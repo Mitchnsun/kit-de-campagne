@@ -20,7 +20,7 @@
 
 > **Grippe : les urgences débordent**
 >
-> L'épidémie de grippe sature les urgences : brancards dans les couloirs, pharmacies à court de médicaments, soignants épuisés. Vos propres permanences se vident de leurs bénévoles malades.
+> L'épidémie de grippe sature les urgences et épuise les soignants. Vos propres permanences se vident de leurs bénévoles malades.
 
 ## Le moment choisi
 
