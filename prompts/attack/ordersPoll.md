@@ -1,6 +1,6 @@
 # `ordersPoll` · Un sondage commandé pour vous nuire
 
-**À générer.** Prompt prêt le 05/11/2026, pas encore d'image validée.
+**Validée par le PO le 05/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
 
 ![Un sondage commandé pour vous nuire](../../illustrations/attack/ordersPoll.webp)
 
@@ -9,12 +9,12 @@
 | Carte | `ordersPoll`, catégorie `attack` (Attaque), carte ajoutée par la PR #297 de l'app |
 | Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Ironique et tendu |
-| Date | À remplir |
+| Date | 2026-11-05 |
 | Outil | ChatGPT Images |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | À remplir |
-| Fichier d'origine | À remplir |
-| Première édition | À remplir |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 229 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Première édition | La prochaine Release qui suit le merge de la PR #297 de l'app |
 
 ## Texte de la carte
 
@@ -51,11 +51,11 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Aucune pour l'instant.
+Aucune.
 
 ## Essais écartés
 
-Aucun pour l'instant.
+Aucun.
 
 ## Retouches
 
@@ -63,4 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire sur l'image validée.
+Faite et validée par le PO le 05/11/2026.
+
+- [x] Aucun texte lisible : la tablette et la télévision n'ont que des barres, une flèche rouge et des points ; rien n'est lisible sur l'ordinateur, les tracts, l'affiche vierge, la carte ni les cartons.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : les épingles de la carte sont rouges et bleues, sans lien avec un parti ; la bénévole qui colle l'affiche est de dos.
