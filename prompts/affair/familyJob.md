@@ -1,6 +1,6 @@
 # `familyJob` · Un poste pour un proche
 
-**À générer.** Prompt prêt le 05/11/2026, pas encore d'image validée.
+**Validée par le PO le 05/11/2026**, à l'essai 2, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
 
 ![Un poste pour un proche](../../illustrations/affair/familyJob.webp)
 
@@ -9,12 +9,12 @@
 | Carte | `familyJob`, catégorie `affair` (Affaire), carte ajoutée par la PR #297 de l'app |
 | Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Ironique et amer |
-| Date | À remplir |
+| Date | 2026-11-05 |
 | Outil | ChatGPT Images |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | À remplir |
-| Fichier d'origine | À remplir |
-| Première édition | À remplir |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 156 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Première édition | La prochaine Release qui suit le merge de la PR #297 de l'app |
 
 ## Texte de la carte
 
@@ -51,11 +51,11 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Aucune pour l'instant.
+Aucune.
 
 ## Essais écartés
 
-Aucun pour l'instant.
+- Essai 1, le 05/11/2026 : la même scène, mais des contours en pointillés sur les bureaux, le fauteuil et la grille des salaires, et une texture tachetée posée sur les meubles, comme un filtre. Corrigé dans la même conversation par le message de correction du [gabarit](../gabarit.md#quand-le-rendu-dérive), avec une phrase de plus sur les contours continus et la texture ; la scène et les personnages n'ont pas bougé.
 
 ## Retouches
 
@@ -63,4 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire sur l'image validée.
+Faite et validée par le PO le 05/11/2026.
+
+- [x] Aucun texte lisible : la grille des salaires n'a que des gribouillis, le planning que des aimants de couleur ; rien n'est lisible sur les dossiers, les dessins, le badge ni le cargo.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : l'animateur porte un sweat bleu marine plutôt qu'un sweat clair ; le trophée de football est doré, sans inscription.

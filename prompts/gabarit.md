@@ -69,7 +69,7 @@ Le PO peut prêter à un personnage les traits d'une personne réelle, un proche
 
 Le générateur revient souvent à une photo, à une peinture numérique sous un filtre de hachures, à une affiche de film ou à un premier plan flou. Dans l'ordre :
 
-1. **Un message de correction, dans la même conversation**, qui garde la scène et ne change que le rendu (il a suffi pour [`starEndorsement`](breakthrough/starEndorsement.md) et [`ghostAssistants`](affair/ghostAssistants.md)) :
+1. **Un message de correction, dans la même conversation**, qui garde la scène et ne change que le rendu (il a suffi pour [`starEndorsement`](breakthrough/starEndorsement.md), [`ghostAssistants`](affair/ghostAssistants.md) et [`familyJob`](affair/familyJob.md), où il ajoutait : « Every outline is a continuous pencil or ink line: no dotted or dashed outlines anywhere, and no mottled or speckled texture laid over the furniture ») :
 
    ```
    Keep the same scene, the same people, the same places and the same poses, but match the rendering of the reference image much more closely: a quick reportage drawing on warm paper, pencil and ink lines, loose watercolour washes, plenty of white paper showing through, lighter and less saturated overall; no photographic rendering, no hatching filter over a finished digital painting; every face is drawn like the clothes, with an ink outline, a few hatching strokes and flat watercolour washes. Everything else stays the same: nothing readable, exactly five fingers on every visible hand.
