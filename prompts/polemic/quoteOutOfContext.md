@@ -1,6 +1,6 @@
 # `quoteOutOfContext` · Une phrase hors contexte
 
-**À générer.** Prompt prêt le 05/11/2026, pas encore d'image validée.
+**Validée par le PO le 05/11/2026**, à l'essai 2, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
 
 ![Une phrase hors contexte](../../illustrations/polemic/quoteOutOfContext.webp)
 
@@ -9,12 +9,12 @@
 | Carte | `quoteOutOfContext`, catégorie `polemic` (Polémique), carte ajoutée par la PR #297 de l'app |
 | Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Ironique, gêné |
-| Date | À remplir |
+| Date | 2026-11-05 |
 | Outil | ChatGPT Images |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | À remplir |
-| Fichier d'origine | À remplir |
-| Première édition | À remplir |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 227 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Première édition | La prochaine Release qui suit le merge de la PR #297 de l'app |
 
 ## Texte de la carte
 
@@ -55,7 +55,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Essais écartés
 
-Aucun pour l'instant.
+- Essai 1, le 04/11/2026 : sur la télévision et sur le téléphone, une silhouette de dos en costume aux cheveux courts, qui genrait le candidat. Écarté par le PO ; le prompt ne montre plus personne à l'écran.
 
 ## Retouches
 
@@ -63,4 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire sur l'image validée.
+Faite et validée par le PO le 05/11/2026.
+
+- [x] Aucun texte lisible : la télévision et le téléphone n'ont qu'une flèche de boucle et une onde coupée ; une ligne de pseudo-lettres minuscules sur le bord de la télévision reste illisible à la taille de l'app ; rien n'est lisible sur les affiches, la vitrine ni les gilets.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : les habitués sont assis à une table et non au comptoir ; plusieurs clients regardent le candidat, comme le prompt le demande, mais seule la serveuse est de face ; l'écran de la télévision a un rendu plus net et plus plat que le reste, comme un écran.
