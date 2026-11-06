@@ -1,19 +1,19 @@
 # `comet` · Une comète à votre nom
 
-**Validée par le PO le 01/11/2026**, à l'essai 2. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 1 de la régénération, dans le trait de `primeTime` (la première version avait été validée le 01/11/2026, à l'essai 2). Elle sert telle quelle en clair et en sombre.
 
 ![Une comète à votre nom](../../illustrations/farFetched/comet.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `comet`, catégorie `farFetched` (Incroyable) |
-| Style | Reportage dessiné ; visages un peu plus finis que le reste ; le dessin s'efface légèrement dans le papier aux bords |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Émerveillé, chaleureux et un peu comique |
-| Date | 2026-11-01 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-11-01) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 218 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 181 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -117,3 +117,53 @@ Faite et validée par le PO le 01/11/2026, sur l'essai 2.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées par l'âge, le corps, l'origine et la mobilité.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 1/3 et les détails à 1/3 : le rendu dessiné tient, mais elle relève une légère dérive, des visages plus finis que le reste (déjà vu par le PO), un ciel étoilé et une comète en lueur numérique lisse, un oculaire métallique au reflet net. Elle trouve la coupole dessinée en entier (rails, armature du télescope, armoires d'instruments aux voyants rouges, écran), à la limite du chargé. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** La scène et le moment : la nuit sous la coupole, l'oculaire au premier plan, la comète dans la fente, la cheffe d'équipe qui trinque, l'astronome à ses côtés (la ressemblance voulue, avec le même portrait), le technicien à l'écran, l'astronome émérite en fauteuil sous sa couverture. Les cinq personnages, leurs âges, leurs corps et leurs regards ne bougent pas.
+
+**Ce qui change.** Le rendu, en dessin de presse réaliste dans le trait de [`primeTime`](../media/primeTime.md) (PO, 04/11/2026). La coupole reste, esquissée au crayon et au lavis, parce qu'elle dit l'observatoire : ses nervures courbes, le grand télescope et sa monture, les armoires d'instruments aux voyants rouges, l'écran du technicien, et par la fente les sommets des Pyrénées sous le ciel. L'oculaire du premier plan est tracé sans reflet métallique ; la comète et le ciel sont des lavis d'or et de marine avec quelques points d'encre, sans lueur numérique lisse. Les visages restent dessinés comme le reste, celui de l'astronome comme celui du technicien. Une première version de cette section, écrite avec la règle de « trois ou quatre objets au plus », réduisait la coupole à quelques lignes courbes et deux veilleuses ; elle a été reprise quand le PO a demandé de ne pas trop simplifier les scènes.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec deux images jointes, dans cet ordre : [`primeTime.webp`](../../illustrations/media/primeTime.webp) pour le style, puis le portrait dessiné déjà fait pour [`comet`](comet.md), d'après une photo de famille du PO, pour la ressemblance de l'astronome. Une seule étape : le portrait existe déjà, chez le PO, hors de ce dépôt.
+
+```
+Use the first attached image as the style reference and copy its drawing: a realistic reportage drawing made on the spot for a newspaper, with quick, nervous pencil lines, often drawn twice, ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through. Not the same scene and not the same people: never reuse the face or the hair of the woman in the reference.
+Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
+Use the second attached image, a drawn portrait, only as the likeness reference for the astronomer next to the head of the team: give him this man's features, short grey-white hair and light stubble, and draw his face with the same ink lines and washes as the other people in the scene. Keep the likeness through the drawing, never through photographic detail.
+This must look like a drawing made by hand on paper by a press illustrator, halfway between a quick sketch and a realistic picture: never a photograph, a film poster or a digital painting, and never a cartoon, a comic strip, a caricature or a children's book illustration. Continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no glossy highlights, no smooth gradients, in the sky and on the walls too. Colour can be rich in places, on a piece of clothing, a light or a flag, but it stays transparent and within the palette below. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
+People are drawn from life with realistic anatomy and proportions, like in the reference: faces shaped with pencil lines, hatching and light washes, a little more finished than the background but never photographic (no photographic skin, no airbrushed or digital-painting look). Expressions stay natural and restrained, even in laughter or tears: no exaggerated grins, no wide-open mouths full of teeth, no rubbery or cartoonish faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. Inside the dome of a mountain observatory in the French Pyrenees, late at night in 2027. The astronomers who have just discovered a comet have invited the player's candidate to tell them they are naming it after the candidate. The candidate stays off-camera: in the foreground, only the eyepiece of a small telescope turned towards the viewer, waiting to be looked through, drawn in a few clear ink lines, with no metallic shine. Through the open slit of the dome, the starry night sky and the comet, a bright head with a long golden tail, drawn with loose washes of gold on navy and a few ink dots for the stars, never a smooth digital glow, above the snowy peaks of the Pyrenees. The dome is sketched in pencil and light washes: its curved ribs, the big telescope on its mount, cabinets of instruments with small red lights, and dim red night-lights. In the right third, the head of the team, a short, round woman in her sixties with wild grey curls held up by a pencil, a thick woollen jumper and fingerless gloves, beams at the viewer and raises a paper cup of hot chocolate in a toast, her face above mid-height. Next to her, an astronomer of the team, the man from the portrait, in his sixties, in a down jacket, also smiles at the viewer, warm and a little proud; his face is drawn with the same pencil lines and washes as the technician's face. At a small computer on the left, a stocky young technician in his twenties with dark skin, a red woollen beanie and a short beard grins at a screen showing a small picture of the comet. Wrapped in a plaid blanket in his wheelchair, an emeritus astronomer, a thin man in his eighties with a white goatee, looks up at the comet through the slit in wonder. Nothing on the screen, the notes or the cups is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: wonder, warm with a touch of humour, the deep blue night, the dim red lights of the dome and the golden glow of the comet.
+
+Constraints: realistic proportions, natural expressions, never cartoonish or caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (screen, notes and cups stay unreadable); no captions or speech bubbles; no logos or political party colours; apart from the astronomer from the portrait, no recognisable real person and no lookalike of a real politician or scientist; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```
+
+### Essais de la régénération
+
+- **Essai 1** (04/11/2026), avec `primeTime.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 1.
+
+- [x] Aucun texte lisible : rien sur l'écran, les instruments ni le gobelet.
+- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de l'astronome, d'après le portrait dessiné déjà fait pour cette carte (photo de famille du PO, avec l'accord de la personne).
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : l'oculaire du premier plan, l'objet du candidat, a disparu au profit du bord d'une table ; la cheffe d'équipe tend son gobelet sans le lever en toast.

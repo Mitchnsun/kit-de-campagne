@@ -1,19 +1,19 @@
 # `viralSpeech` · Un discours qui décolle
 
-**Validée par le PO le 31/10/2026**, à l'essai 2. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 2 de la régénération, dans le trait d'`oldTweet` (la première version avait été validée le 31/10/2026, à l'essai 2). Elle sert telle quelle en clair et en sombre.
 
 ![Un discours qui décolle](../../illustrations/breakthrough/viralSpeech.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `viralSpeech`, catégorie `breakthrough` (Coup de projecteur) |
-| Style | Reportage dessiné ; visages dessinés comme le reste |
+| Style | Reportage dessiné, trait d'`oldTweet` |
 | Ton | Chaleureux et vibrant |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 163 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 209 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -74,3 +74,53 @@ Faite et validée par le PO le 31/10/2026, sur l'essai 2.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 2/3 et les détails à 2/3 : peinture numérique finie, lumière jaune dense des suspensions, visages modelés et presque photographiques (l'aide-soignante qui pleure, le jeune militant), chaises et charpente peintes en entier. Une vingtaine de personnes, plusieurs rangs de chaises pliantes, des guirlandes, quatre suspensions, des fenêtres, une porte et des panneaux : le fond est tout dessiné, alors que la carte parle d'une salle à moitié vide. Les mains de l'homme à la queue de cheval qui applaudit se confondent. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** Le moment : la salle des fêtes vue de l'estrade, le pupitre bon marché et le vieux micro au câble scotché au premier plan, les présents debout et émus, le jeune militant qui filme dans le tiers gauche, l'aide-soignante qui s'essuie les yeux, la vieille dame au déambulateur, le barbu à la main sur le cœur, l'ado voilée, l'homme à la queue de cheval. Tout le monde regarde le candidat, hors champ : c'est voulu, ils écoutent le discours.
+
+**Ce qui change.** Le rendu, dans le trait d'[`oldTweet`](../polemic/oldTweet.md) (PO, 04/11/2026), et le nombre : neuf personnes au plus, dont deux ou trois silhouettes au fond, au lieu d'une vingtaine. La salle des fêtes reste reconnaissable, esquissée : la charpente en bois, deux suspensions, les guirlandes de papier, les hautes fenêtres sur la nuit et la porte du fond. La salle à moitié vide se lit par les rangs de chaises pliantes, nombreux et presque tous vides, plus que par le papier nu ; sortent les panneaux et les tableaux aux murs. Les mains de l'homme qui applaudit sont jointes devant la poitrine et dessinées simplement. Une première version de cette section, écrite avec la règle de « trois ou quatre objets au plus », réduisait la salle à quelques rangs et à une seule suspension ; elle a été reprise quand le PO a demandé de ne pas trop simplifier les scènes.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`oldTweet.webp`](../../illustrations/polemic/oldTweet.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference and copy its drawing: a realistic reportage drawing made on the spot for a newspaper, with quick, nervous pencil lines, often drawn twice, ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through. Not the same scene.
+Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
+This must look like a drawing made by hand on paper by a press illustrator, halfway between a quick sketch and a realistic picture: never a photograph, a film poster or a digital painting, and never a cartoon, a comic strip, a caricature or a children's book illustration. Continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no glossy highlights, no smooth gradients, in the sky and on the walls too. Colour can be rich in places, on a piece of clothing, a light or a flag, but it stays transparent and within the palette below. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
+People are drawn from life with realistic anatomy and proportions, like in the reference: faces shaped with pencil lines, hatching and light washes, a little more finished than the background but never photographic (no photographic skin, no airbrushed or digital-painting look). Expressions stay natural and restrained, even in laughter or tears: no exaggerated grins, no wide-open mouths full of teeth, no rubbery or cartoonish faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A small-town village hall in France, on a weekday evening in 2027, during a campaign meeting, seen from the little stage where the player's candidate is speaking, the candidate staying off-camera: in the foreground, only the top of a cheap lectern and an old microphone on a stand, its cable held with tape. The hall is half empty: behind the people in front, many rows of folding chairs, almost all of them unoccupied, sketched quickly in pencil. The village hall is recognisable but sketched loosely with light washes: an exposed wooden roof frame, two hanging ceiling lamps, paper garlands, tall windows on the night and a wooden double door at the back, nothing on the walls. And yet, tonight, something is happening: the few people in the room are on their feet, moved, all looking at the viewer. In the left third, in the aisle, a young activist with a buzz cut and a plain campaign badge films the viewer with his smartphone held sideways, his eyes shining, his face above mid-height. Around him, five more people: an old woman standing up with the help of her walker; a big bearded man in a lumberjack shirt, his hand on his heart; a teenage girl in a headscarf with a wide smile; a man in his fifties with long grey hair in a ponytail, clapping, his two hands drawn simply together in front of his chest; a short, round woman in a nurse's tunic, wiping her eyes. At the back, only three small standing figures near the door. Nobody else in the hall, nobody seated: nine people in all, and every other chair is empty. Nothing on the walls, the badge or the screens is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: warm and stirring, soft yellow light from the two ceiling lamps, a sense of a moment that tips in a half-empty hall.
+
+Constraints: realistic proportions, natural expressions, never cartoonish or caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the walls, the badge and the screens stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person and no lookalike of a real politician; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```
+
+### Essais de la régénération
+
+- **Essai 1** (04/11/2026), avec `oldTweet.webp` comme référence : la salle et les six personnages du premier plan étaient justes, mais une quinzaine de personnes remplissaient la salle (huit invités assis qui applaudissaient derrière le premier rang), et des visages tiraient vers la BD (le barbu, la dame au déambulateur). Écarté par le PO avec la dérive de `danceVideo` ; le prompt suivant prend les lignes communes du dessin de presse réaliste et insiste sur les chaises vides.
+- **Essai 2** (04/11/2026), avec `oldTweet.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 2.
+
+- [x] Aucun texte lisible : le badge du militant, une carte au bout d'un cordon, est vierge ; rien aux murs.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : les six personnages du premier plan alignés face à l'estrade, un peu comme pour une photo de groupe, ce qui laisse lire toutes les chaises vides ; le badge en carte au cordon plutôt qu'en macaron.

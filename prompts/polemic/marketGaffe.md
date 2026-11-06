@@ -1,19 +1,19 @@
 # `marketGaffe` · Gaffe au marché
 
-**Essai de validation du reportage dessiné** (#159, K6.1) : **validé par le PO le 30/10/2026**, sur l'essai 4. L'image, [`marketGaffe.webp`](../../illustrations/polemic/marketGaffe.webp), est la référence du reportage dessiné, à joindre aux prompts suivants de ce style. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 06/11/2026**, à l'essai 1 de la régénération, dans le trait de `primeTime` (la première version avait été validée le 30/10/2026, sur l'essai 4 de l'essai de validation du reportage dessiné (#159, K6.1), qui servait de référence aux prompts suivants de ce style). Elle sert telle quelle en clair et en sombre.
 
-![Gaffe au marché, essai 4 validé](../../illustrations/polemic/marketGaffe.webp)
+![Gaffe au marché](../../illustrations/polemic/marketGaffe.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `marketGaffe`, catégorie `polemic` (Polémique) |
-| Style | Reportage dessiné (style par défaut de la catégorie) |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Ironique |
-| Date | 2026-10-30 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-06 (première version : 2026-10-30) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 164 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO (emplacement à remplir). L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 172 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -98,3 +98,52 @@ Faite et validée par le PO le 30/10/2026, sur l'essai 4.
 - [x] Aucune couleur de parti, aucun logo, aucun symbole officiel. Des personnes variées.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (06/11/2026)
+
+**Pourquoi.** Le PO l'a marquée « à régénérer » dans la revue du 06/11/2026 : c'est l'essai de validation du reportage dessiné, d'avant `primeTime`, et son trait ne suit plus celui de la série.
+
+**Ce qui reste.** La passante à la baguette qui vient de demander le prix du pain et regarde le candidat, sourcils levés, mi-amusée mi-incrédule ; le boulanger qui se détourne pour rire ; les téléphones levés et la caméra de presse qui disent que la scène va tourner en boucle.
+
+**Ce qui change.** Le trait de [`primeTime`](../media/primeTime.md) et le gabarit en vigueur : le marché de Saintes sur les quais de la Charente, l'arc de Germanicus sur l'autre rive, des origines nommées, un premier plan sur l'étal.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`primeTime.webp`](../../illustrations/media/primeTime.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference and copy its drawing: a realistic reportage drawing made on the spot for a newspaper, with quick, nervous pencil lines, often drawn twice, ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through. Not the same scene and not the same people: never reuse the face or the hair of the woman in the reference.
+Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
+This must look like a drawing made by hand on paper by a press illustrator, halfway between a quick sketch and a realistic picture: never a photograph, a film poster or a digital painting, and never a cartoon, a comic strip, a caricature or a children's book illustration. Continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no glossy highlights, no smooth gradients, in the sky and on the walls too. Colour can be rich in places, on a piece of clothing, a light or a flag, but it stays transparent and within the palette below. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
+People are drawn from life with realistic anatomy and proportions, like in the reference: faces shaped with pencil lines, hatching and light washes, a little more finished than the background but never photographic (no photographic skin, no airbrushed or digital-painting look). Expressions stay natural and restrained, even in laughter or tears: no exaggerated grins, no wide-open mouths full of teeth, no rubbery or cartoonish faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. The Saturday-morning market of Saintes, in Charente-Maritime, on the quays of the Charente, on a bright, cold morning in early 2027: a passer-by has just asked the player's candidate the price of a baguette, and the candidate's answer, very far from the real price, is already being filmed and will play on a loop on social media. The scene is seen from the place of the candidate, who stays off-camera, just after the answer: in the foreground, only the corner of the bread stall with a wicker basket of baguettes and a little blackboard with only chalk doodles. In the right third, the passer-by, a small, round woman in her sixties with dyed copper-red hair, a quilted coat and a wicker basket, a baguette tucked under her arm, looks straight at the viewer with her eyebrows raised, half amused and half incredulous, her face above mid-height. Behind the bread stall, the baker, a tall bald man in his forties of Senegalese origin with a flour-dusted apron, turns away to hide a laugh behind his hand. Around them, sketched in pencil and light washes: shoppers who have turned round, a man in his thirties with a beard and a bike helmet holding up his smartphone to film, a teenage girl with braids filming too, an elderly man with a cane and a flat basket of oysters, a young mother with a pushchair; a press camerawoman of Kurdish origin with a camera on her shoulder framing the scene; the market stalls under striped awnings, crates of oysters, cabbages and leeks, bottles with plain labels. Behind them, the pale limestone houses of Saintes with their tall shuttered windows and tiled roofs, the Charente with its stone bridge, and on the other bank the Roman arch of Germanicus in honey-coloured stone under a clear winter sky. Only the passer-by looks straight at the viewer. Nothing on the blackboard, the price tags, the bottles, the phones or the camera is readable, and no logo of a real TV channel or brand appears.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: gently ironic, the bright, low winter sun on the pale stone with long shadows, and the golden crust of the baguettes as the warm note.
+
+Constraints: realistic proportions, natural expressions, never cartoonish or caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the blackboard, the price tags, the bottles, the phones and the camera stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician, and no logo of a real TV channel or brand; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```
+
+### Essais de la régénération
+
+- **Essai 1** (06/11/2026), avec `primeTime.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 06/11/2026, sur l'essai 1.
+
+- [x] Aucun texte lisible : l'ardoise n'a qu'un gribouillis à la craie, les bouteilles des étiquettes vides ; rien n'est lisible sur les téléphones ni sur la caméra.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : le vieil homme porte une casquette plate ; la cadreuse et le pont sont un peu plus loin que demandé ; le panier de la passante est plein de choux et de poireaux.

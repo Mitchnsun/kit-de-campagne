@@ -1,19 +1,19 @@
 # `inflatedInvoices` · Factures gonflées
 
-**Validée par le PO le 31/10/2026**, à l'essai 3. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 2 de la régénération, dans le trait d'`oldTweet` (la première version avait été validée le 31/10/2026, à l'essai 3). Elle sert telle quelle en clair et en sombre.
 
 ![Factures gonflées](../../illustrations/affair/inflatedInvoices.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `inflatedInvoices`, catégorie `affair` (Affaire) |
-| Style | Reportage dessiné ; visages dessinés comme le reste |
+| Style | Reportage dessiné, trait d'`oldTweet` ; visages dessinés, un peu modelés comme dans la référence |
 | Ton | Ironique |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1670 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 235 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1671 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 211 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -106,3 +106,53 @@ Faite et validée par le PO le 31/10/2026, sur l'essai 3.
 - [x] Aucune couleur de parti. Les petits drapeaux tricolores sont du matériel de meeting. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 1/3 et les détails à 3/3 : le prompt revu a sauvé le rendu, mais elle relève encore une légère dérive (une texture de griffures diagonales uniforme sur toutes les vestes et les caisses, des visages du patron et de l'enquêteur chauve plus modelés que le reste, un ciel d'aube en dégradé lisse par la porte). C'est le cadre le plus encombré parmi les images restées dans le style : murs de flight-cases et de structures, rayonnages rouges, chariot de chaises, rouleaux de moquette, caisses de drapeaux, filet de ballons, carton de factures, presse dehors ; les quatre personnages s'y perdent à la taille de l'application. Le PO a décidé de régénérer l'image, avec ce commentaire : « ok on allège un peu mais on veut tout de même un hangar fourni ».
+
+**Ce qui reste.** La scène et le moment : la perquisition à l'aube, le patron rond du tiers droit avec son gobelet et son sourire jaune, l'enquêteur chauve qui compte les chaises au compteur manuel, l'enquêtrice rousse qui emporte un carton, le jeune enquêteur barbu qui photographie les factures, personne ne regardant le spectateur. **Le hangar reste fourni**, comme le PO l'a demandé : les chaises sur leur chariot, les flight-cases empilés le long des murs, quelques tours de structure métallique, le filet de ballons, les rouleaux de moquette et les caisses de petits drapeaux disent le matériel des meetings, donc ce qu'on a pu surfacturer.
+
+**Ce qui change.** Le rendu suit le trait d'[`oldTweet`](../polemic/oldTweet.md), la référence : traits de crayon nerveux, hachures d'encre dans les ombres, lavis transparents, tout le matériel esquissé et jamais fini. Les vestes sont dessinées au crayon et au lavis, sans texture de griffures uniforme ; l'aube est un lavis léger, pas un dégradé lisse. Sortent seulement ce qui ne faisait que remplir : les rayonnages rouges, la moquette étoilée au sol et la voiture. La presse dehors reste derrière la rubalise, en quelques silhouettes rapides. Le prompt précise que l'enquêteur chauve tient le compteur et pas d'appareil photo : à l'essai 1 de la régénération, il avait pris l'appareil du jeune enquêteur, qui avait disparu.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`oldTweet.webp`](../../illustrations/polemic/oldTweet.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference and copy its drawing: quick, nervous pencil lines, often drawn twice, loose ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through everywhere. Not the same scene.
+Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
+This must look like a drawing made by hand on paper, never like a photograph, a film poster or a digital painting: the people are drawn with pencil and ink lines and washes, not modelled; continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no dense colour, no glossy highlights, no smooth gradients, in the sky and on the walls too. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
+Faces are drawn exactly like the clothes and the background: ink outlines, a few hatching strokes and flat watercolour washes for the skin, with the same level of detail as the rest of the drawing. No photographic skin, no realistic wrinkles or pores, no airbrushed or digital-painting look on the faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. The warehouse of the events company that stages the player's candidate's rallies, at dawn in 2027, during a search by financial investigators: the company is suspected of inflating its invoices. The candidate does not appear. The warehouse is crammed with the gear of campaign rallies, all sketched loosely in pencil with light washes: tall stacks of folding chairs on a trolley, black flight cases piled up along the walls, a few metal truss towers, a net full of white balloons under the ceiling, rolled-up carpets on the floor and open crates of small French tricolour flags. In the right third, the boss of the company, a round man in his fifties with a big belly under his blazer, a tan and a carefully trimmed salt-and-pepper beard, woken up early, in tracksuit trousers and a gold watch, holds a paper cup of coffee and watches the investigators with a pale, forced, embarrassed smile, his face above mid-height. In the centre, an older investigator, a bald Black man with grey stubble and reading glasses, in a dark jacket, holds a small metal hand tally counter and clicks it with his thumb as he counts the chairs of a stack one by one, utterly unimpressed; he has no camera. On the left, a tall investigator in her forties with short cropped red hair and a parka carries out a full archive box. In the left foreground, crouching by an open box of invoices, a young, stocky investigator in his late twenties with a short black beard and a backpack photographs the invoices with a camera, looking down at them. The clothes are drawn with quick pencil lines and washes, like the clothes in the reference, without an even scratchy texture. Through the open rolling door, a plain industrial estate in the pale blue dawn, drawn as a loose light wash, where a television crew and press photographers, a few quick figures, wait behind a red-and-white tape. Nobody looks at the viewer. Nothing on the boxes, the invoices, the cases, the tape or the flags is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: dry irony, cold light inside and blue dawn outside, a hangover feeling.
+
+Constraints: realistic proportions, expressive but not caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the boxes, the invoices, the cases, the tape and the flags stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician or businessman; no explicit violence, no weapons or handcuffs; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```
+
+### Essais de la régénération
+
+- **Essai 1** (04/11/2026), avec `mayorsCandidate.webp` comme référence et la règle de « trois ou quatre objets au plus » : les visages étaient enfin dessinés comme le reste, mais le hangar sortait presque vide, ouvert comme une cour, avec des contours en pointillés et une texture mouchetée sur les vestes. Le jeune enquêteur avait disparu et l'enquêteur chauve photographiait les chaises au lieu de les compter. Écarté par le PO, qui revient au style d'`oldTweet` et à un décor qui garde les détails dont la scène a besoin.
+- **Essai 2** (04/11/2026), avec `oldTweet.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 2.
+
+- [x] Aucun texte lisible : ni sur les cartons, ni sur les factures, ni sur les flight-cases, la rubalise ou les drapeaux.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Les petits drapeaux tricolores sont du matériel de meeting. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : des hachures diagonales assez régulières sur les vestes et les flight-cases, comme sur les vêtements d'`oldTweet` ; un patron qui sourit d'un air content de lui plus que d'un sourire jaune, ce qui garde l'ironie ; le jeune enquêteur qui vise un peu devant lui plutôt que dans le carton.

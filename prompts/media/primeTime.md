@@ -79,3 +79,9 @@ Faite et validée par le PO le 30/10/2026, sur l'essai 2.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération annulée (04/11/2026)
+
+Le PO avait demandé de régénérer l'image, pour un rendu plus dessiné et une présentatrice qui fasse penser au journal du soir sans copier personne. Après la régénération des premières images de la série, il a décidé de garder l'image actuelle telle quelle. Les présentatrices des autres cartes restent décrites pour s'en écarter : celle qu'on voit à la télévision dans [`leakedChat`](../team/leakedChat.md) (pixie roux, lunettes rondes, veste moutarde), l'animatrice de [`pundit`](../attack/pundit.md) (chignon noir, frange, veste vert sauge) et l'animatrice de [`podcast`](podcast.md), aux longs cheveux ondulés et libres, face aux cheveux lissés au brushing de celle-ci.
+
+**Référence de style depuis le 04/11/2026.** Le PO l'a préférée à `oldTweet` après deux essais ([`privateJet`](../polemic/privateJet.md), [`ruralMayors`](../support/ruralMayors.md)) : un trait plus propre et plus calme, des lavis clairs et chauds. Comme sa présentatrice évoque le type des présentatrices du journal du soir, la première ligne des prompts interdit de reprendre son visage ou sa coiffure ([gabarit](../gabarit.md)).

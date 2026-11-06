@@ -1,19 +1,19 @@
 # `leakedChat` · Messages compromettants
 
-**Validée par le PO le 31/10/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 1 de la régénération, dans le trait de `primeTime` (la première version avait été validée le 31/10/2026, au premier essai). Elle sert telle quelle en clair et en sombre.
 
 ![Messages compromettants](../../illustrations/team/leakedChat.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `leakedChat`, catégorie `team` (Crise d'équipe) |
-| Style | Reportage dessiné, rendu plus réaliste : visages presque photographiques, comme [`primeTime`](../media/primeTime.md) |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Tendu |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 133 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 164 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -69,3 +69,52 @@ Faite et validée par le PO le 31/10/2026.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées. Le gilet jaune est accepté.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 2/3 : c'est un autre style, une photo à peine filtrée. Les visages sont photographiques (la patronne, le vieil homme au téléphone, le jeune ouvrier), le zinc et le percolateur ont des reflets brillants, les bouteilles sont rendues comme sur une photo et la salle a de la profondeur, avec presque aucun trait d'encre. Le décor est chargé (étagère de bouteilles, tireuses, percolateur, verres, télévision, tableaux, portemanteau, chaises, deux clients au comptoir, la rue par la vitrine), et la présentatrice de la télévision reprend, en petit, le type de `primeTime` et de `pundit`. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** Le café-bar de petite ville le matin, la patronne bras croisés au comptoir (tiers droit) avec son reproche glacial, le vieux monsieur qui tend son téléphone, le jeune ouvrier au gilet jaune (accepté par le PO), un client au comptoir, la télévision au mur avec le journal, et au premier plan le café intact sur le zinc. Les trois personnages qui regardent le candidat sont les mêmes.
+
+**Ce qui change.** Le rendu, en dessin de presse réaliste dans le trait de [`primeTime`](../media/primeTime.md) (PO, 04/11/2026) : le zinc sans reflets (un lavis gris et quelques lignes), aucun visage photographique. Le café-bar reste un vrai bistrot, esquissé : le zinc, le percolateur et deux tireuses à bière, l'étagère de bouteilles et de verres, la télévision au mur, quelques tables et chaises de bistrot, deux suspensions, et par la vitrine la rue de la petite ville avec un clocher. Deux clients au comptoir. Sortent les tableaux aux murs et le portemanteau. **La présentatrice de la télévision change de visage** pour ne rappeler ni `primeTime` ni `pundit` : une jeune femme de trente ans environ aux cheveux roux cuivré coupés très court (coupe pixie), au visage rond, avec des lunettes rondes en écaille et une veste jaune moutarde, sur un plateau au bandeau vierge. Une première version de cette section, écrite avec la règle de « trois ou quatre objets au plus », réduisait le bistrot au zinc, à une table et à une étagère ; elle a été reprise quand le PO a demandé de ne pas trop simplifier les scènes.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`primeTime.webp`](../../illustrations/media/primeTime.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference and copy its drawing: a realistic reportage drawing made on the spot for a newspaper, with quick, nervous pencil lines, often drawn twice, ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through. Not the same scene and not the same people: never reuse the face or the hair of the woman in the reference.
+Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
+This must look like a drawing made by hand on paper by a press illustrator, halfway between a quick sketch and a realistic picture: never a photograph, a film poster or a digital painting, and never a cartoon, a comic strip, a caricature or a children's book illustration. Continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no glossy highlights, no smooth gradients, in the sky and on the walls too. Colour can be rich in places, on a piece of clothing, a light or a flag, but it stays transparent and within the palette below. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
+People are drawn from life with realistic anatomy and proportions, like in the reference: faces shaped with pencil lines, hatching and light washes, a little more finished than the background but never photographic (no photographic skin, no airbrushed or digital-painting look). Expressions stay natural and restrained, even in laughter or tears: no exaggerated grins, no wide-open mouths full of teeth, no rubbery or cartoonish faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. A small-town café-bar in France, on a weekday morning in 2027, the day after screenshots of the candidate's team chat leaked: the candidate's advisers mocked their own voters. The player's candidate has just walked in for a campaign visit and stays off-camera: in the foreground, only the edge of the zinc counter with a cup of coffee nobody has touched. In the right third, behind the counter, the owner, a woman in her sixties with grey-brown hair pinned up loosely, a tired, firm face with thin lips, a rust-red sweater and a dark blue apron, stands with her arms crossed and looks at the viewer with cold reproach, her face above mid-height. At a small wooden table on the left, an old man in his late seventies, lean, of North African origin, with short white hair and deep-set eyes, in a navy jacket over a checked shirt, holds up his smartphone towards the viewer, its screen showing a few blank chat bubbles, and looks at the viewer with a stern, hurt face. Behind him a young worker in his early twenties, tall, with short curly blond hair, a high-visibility yellow vest over a grey hoodie, his hands in his pockets, looks at the viewer and shakes his head. At the bar, two regulars: a stocky man in his fifties with a flat cap and a tweed jacket, seen half from behind, looks up at the wall television, and a tall man in his forties with greying curly hair and a brown jacket stares into his glass. The television shows a morning news programme with a blank banner: the presenter on it is a woman of about thirty with a very short copper-red pixie cut, a round face, round tortoiseshell glasses and a mustard-yellow jacket. The café is a real small-town bistro, sketched loosely in pencil and light washes: behind the owner, an espresso machine, two beer taps and shelves of bottles and glasses; a few wooden tables and bistro chairs, two hanging lamps, and through the front window the little town's street with a church tower. No paintings on the walls and no coat rack. Only the owner, the old man and the young worker look at the viewer. Nothing on the screens, the bottles, the shelf, the walls or the shopfronts across the street is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: tense, pale morning light through the café windows, warm light over the bar.
+
+Constraints: realistic proportions, natural expressions, never cartoonish or caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (screens, bottles, walls and shop signs stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```
+
+### Essais de la régénération
+
+- **Essai 1** (04/11/2026), avec `primeTime.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 1.
+
+- [x] Aucun texte lisible : le téléphone ne montre que deux bulles vides, le bandeau de la télévision est vierge, les bouteilles n'ont pas d'étiquette lisible, rien sur les façades de la rue.
+- [x] Aucun sosie d'une personne réelle ; la présentatrice à la télévision (pixie roux, lunettes rondes, veste moutarde) ne reprend ni `primeTime` ni `pundit`.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : c'est le jeune au gilet jaune qui tend le téléphone, et le vieil homme qui croise les bras, l'inverse du prompt : la scène se lit de la même façon ; le jeune ne secoue pas la tête.

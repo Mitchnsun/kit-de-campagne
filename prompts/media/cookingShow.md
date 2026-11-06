@@ -1,19 +1,19 @@
 # `cookingShow` · Une émission de cuisine
 
-**Validée par le PO le 31/10/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 04/11/2026**, à l'essai 1 de la régénération, dans le trait d'`oldTweet` (la première version avait été validée le 31/10/2026, au premier essai). Elle sert telle quelle en clair et en sombre.
 
 ![Une émission de cuisine](../../illustrations/media/cookingShow.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `cookingShow`, catégorie `media` (Opportunité médiatique) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait d'`oldTweet` |
 | Ton | Chaleureux, avec une pointe d'ironie |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-04 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 206 Ko, sans recadrage ; réexportée le 01/11/2026, après une première version en qualité 60 pour tenir 180 Ko |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 170 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -65,3 +65,52 @@ Faite et validée par le PO le 31/10/2026.
 - [x] Aucune couleur de parti, aucun symbole officiel. Des personnes variées.
 - [x] En 3:2 : rien d'important dans les 80 px du haut et du bas. Sans objet ici : l'image est en 16:9.
 - [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+## Régénération demandée (04/11/2026)
+
+**Pourquoi.** La revue de la première série note le style à 3/3 et les détails à 3/3 : c'est un autre style, une peinture numérique finie presque publicitaire, avec des reflets brillants sur la poêle, le couteau, la bouteille d'huile et les casseroles en cuivre, des légumes rendus comme une photo, un visage de chef modelé, une vapeur en halo, et aucun papier visible. Le cadre est un des plus chargés de la série : gradins d'une quinzaine de spectateurs, projecteurs, deux caméras, casseroles suspendues, plantes, et au premier plan torchon, planche, légumes, couteau, tomates, basilic, huile, moulin à poivre, ustensiles, citrons, ail. Le PO a décidé de régénérer l'image.
+
+**Ce qui reste.** Le moment : le plan de travail du candidat vu depuis sa place, hors champ, le grand chef à droite qui tend sa cuillère en bois avec un sourire amusé en regardant le spectateur, la poêle qui fume un peu trop entre eux, la planche aux légumes coupés n'importe comment et le couteau posé, le public qui rit.
+
+**Ce qui change.** Le rendu, en dessin de presse réaliste dans le trait d'[`oldTweet`](../polemic/oldTweet.md) (PO, 04/11/2026), sans aucun reflet brillant sur la poêle, le couteau ni le cuivre, et la vapeur en quelques boucles au crayon. Le plateau reste celui d'une grande émission, esquissé : une douzaine de spectateurs en gradins dessinés vite, deux caméras, la rampe de projecteurs, les casseroles de cuivre suspendues et quelques pots d'herbes. Sur le plan de travail restent la planche aux légumes mal coupés, le couteau, la poêle, un bol de tomates, une bouteille d'huile et un moulin à poivre ; sortent le torchon, les ustensiles, les citrons et l'ail. Le chef garde sa coupe (boucles argentées, menton mal rasé). Une première version de cette section, écrite avec la règle de « trois ou quatre objets au plus », réduisait le public à six ou sept et le plateau à une caméra ; elle a été reprise quand le PO a demandé de ne pas trop simplifier les scènes.
+
+### Prompt de régénération
+
+Dans une nouvelle conversation, avec [`oldTweet.webp`](../../illustrations/polemic/oldTweet.webp) comme seule image de référence.
+
+```
+Use the attached image as the style reference and copy its drawing: a realistic reportage drawing made on the spot for a newspaper, with quick, nervous pencil lines, often drawn twice, ink hatching in the shadows, transparent watercolour washes that spill a little over the lines, and the warm paper showing through. Not the same scene.
+Like in the reference, the setting can be full when the story needs it, with the things that say where we are and what is happening, but each one is sketched with a few pencil lines and a light wash, never rendered or finished, and the drawing gets looser and paler towards the edges until it fades into the bare paper.
+This must look like a drawing made by hand on paper by a press illustrator, halfway between a quick sketch and a realistic picture: never a photograph, a film poster or a digital painting, and never a cartoon, a comic strip, a caricature or a children's book illustration. Continuous lines, never dotted or dashed outlines; no uniform texture, speckles or hatching filter laid over the picture; no glossy highlights, no smooth gradients, in the sky and on the walls too. Colour can be rich in places, on a piece of clothing, a light or a flag, but it stays transparent and within the palette below. The fade into the paper at the edges stays narrow, without a wide white margin. No blur and no depth-of-field effect: everything, the foreground included, is drawn sharp, like a sketch made on the spot.
+People are drawn from life with realistic anatomy and proportions, like in the reference: faces shaped with pencil lines, hatching and light washes, a little more finished than the background but never photographic (no photographic skin, no airbrushed or digital-painting look). Expressions stay natural and restrained, even in laughter or tears: no exaggerated grins, no wide-open mouths full of teeth, no rubbery or cartoonish faces.
+
+Editorial illustration, landscape 16:9 (1536 × 864 px), the scene filling the frame, with only a light fade into the paper at the edges. The set of a popular cooking show, live, in 2027, seen from the place of the player's candidate at the cooking counter, who stays off-camera: in the foreground, a wooden cutting board with clumsily chopped vegetables and a knife laid down, next to a bowl of tomatoes, a bottle of olive oil and a pepper mill, all drawn with pencil lines and light washes, no shine on the blade or the bottle. In the right third, the star chef, a broad-shouldered man in his sixties with short silver curls and a stubbled chin, in a white chef's jacket, leans on the counter with a wooden spoon in one hand and looks at the viewer with an amused, encouraging grin, his face above mid-height. On the stove between them, a pan smokes a little too much, the smoke drawn as a few loose pencil curls. Behind the stove, about a dozen spectators on tiered benches, drawn quickly with realistic faces only roughed in, laugh and look at the viewer: among them a heavy-set bearded man, a young woman with long dark hair, an older woman with a white bob. The studio is sketched loosely in pencil and light washes: two television cameras on tripods with their operators, one on each side, a rig of studio lights above, a few copper pans hanging over the counter with no shine, and a few pots of herbs. Nothing on the set, the bottle or the cameras is readable.
+
+Style: Reportage drawing made on the spot, like a press illustrator or courtroom sketch artist: pencil and ink with loose watercolour washes, lively unfinished lines, white paper showing through.
+
+Palette: navy #13203F, vellum #F5EFE1, gold #A9802A, brick #B5523B, ochre #D9A441, sage #8FA58A, slate #5E7186, sand #DCC8A4, warm grey #8C8279; use 4 to 6 of them, subtle warm paper grain.
+
+Tone: warm and gently ironic, soft afternoon-like studio light, warm muted colours.
+
+Constraints: realistic proportions, natural expressions, never cartoonish or caricatured faces, drawn like the rest of the illustration and never photographic; people of varied ages, genders, origins and body types (heavy, stocky, round, tall, short, wiry, not only slim), each with a distinct face and haircut (no two people alike), drawn with respect and never as a joke; anatomically correct hands with exactly five fingers, few hands visible, the others in pockets, behind objects or out of frame; no readable text anywhere (the set, the bottle, the cameras and the screens stay unreadable); no captions or speech bubbles; no logos or political party colours; no recognisable real person, no lookalike of a real politician or television chef; no explicit violence; no photographic rendering, no blur or bokeh, no dotted outlines, no texture or hatching filter over the picture, no oil-paint texture, no wide white margin or frame (a light fade into the paper at the edges is fine).
+
+Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
+```
+
+### Essais de la régénération
+
+- **Essai 1** (04/11/2026), avec `oldTweet.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 04/11/2026, sur l'essai 1.
+
+- [x] Aucun texte lisible : la bouteille d'huile n'a pas d'étiquette, rien sur les caméras ni sur le plateau.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : le pot d'ustensiles et le torchon, restés alors que le prompt les retirait ; un léger reflet sur les casseroles de cuivre ; un public au sourire un peu uniforme.
