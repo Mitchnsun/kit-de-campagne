@@ -1,6 +1,6 @@
 # `euSummit` · Un sommet européen extraordinaire
 
-**À générer.** Prompt prêt le 05/11/2026, pas encore d'image validée.
+**Validée par le PO le 06/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
 
 ![Un sommet européen extraordinaire](../../illustrations/abroad/euSummit.webp)
 
@@ -9,12 +9,12 @@
 | Carte | `euSummit`, catégorie `abroad` (International), carte ajoutée par la PR #297 de l'app |
 | Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Tendu et concret |
-| Date | À remplir |
+| Date | 2026-11-06 |
 | Outil | ChatGPT Images |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | À remplir |
-| Fichier d'origine | À remplir |
-| Première édition | À remplir |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 243 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Première édition | La prochaine Release qui suit le merge de la PR #297 de l'app |
 
 ## Texte de la carte
 
@@ -56,7 +56,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Essais écartés
 
-Aucun pour l'instant.
+Aucun.
 
 ## Retouches
 
@@ -64,4 +64,14 @@ Aucune.
 
 ## Relecture
 
-À faire sur l'image validée.
+Faite et validée par le PO le 06/11/2026.
+
+- [x] Aucun texte lisible : la facture n'a que des lignes grises et le cercle rouge ; rien n'est lisible sur la radio, la caisse, les étiquettes ni la vitrine, et une minuscule plaque sous la télévision reste illisible à la taille de l'app.
+- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de la jeune apprentie, d'après un portrait dessiné fourni par le PO ; l'accord de la personne reste à confirmer par le PO. Les chefs d'État de la télévision sont des silhouettes génériques en costume, sans drapeau ni visage reconnaissable, une vingtaine de pixels à la taille de l'app.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : la table du sommet est vue de plus près que demandé, les silhouettes un peu plus grandes ; l'hôtel de ville peint est vu au bord d'une place mouillée.
