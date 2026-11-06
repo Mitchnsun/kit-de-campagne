@@ -1,19 +1,19 @@
 # `teachersUnion` · Un syndicat enseignant
 
-**Validée par le PO le 31/10/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 06/11/2026**, à l'essai 1 de la régénération, dans le trait de `primeTime` (la première version avait été validée le 31/10/2026, au premier essai). Elle sert telle quelle en clair et en sombre.
 
 ![Un syndicat enseignant](../../illustrations/support/teachersUnion.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `teachersUnion`, catégorie `support` (Offre de soutien) |
-| Style | Reportage dessiné ; visages dessinés comme le reste |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Chaleureux, avec une pointe d'ironie |
-| Date | 2026-10-31 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-06 (première version : 2026-10-31) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, 166 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO, partagé aussi dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 236 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -97,3 +97,21 @@ Constraints: realistic proportions, natural expressions, never cartoonish or car
 
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
+
+### Essais de la régénération
+
+- **Essai 1** (06/11/2026), avec `primeTime.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 06/11/2026, sur l'essai 1.
+
+- [x] Aucun texte lisible : la carte de l'Europe n'a aucun nom, la liste et les cahiers n'ont que des lignes ; rien n'est lisible sur le tableau blanc, l'ordinateur, le dossier ni les dessins.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : sur la carte, les terres sont en bleu et la mer en sable, à l'inverse de l'usage ; le thermos a un reflet métallique un peu brillant ; les dessins d'élèves montrent un phare, une vague et un voilier.
