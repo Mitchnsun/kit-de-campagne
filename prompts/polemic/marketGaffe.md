@@ -1,19 +1,19 @@
 # `marketGaffe` · Gaffe au marché
 
-**Essai de validation du reportage dessiné** (#159, K6.1) : **validé par le PO le 30/10/2026**, sur l'essai 4. L'image, [`marketGaffe.webp`](../../illustrations/polemic/marketGaffe.webp), est la référence du reportage dessiné, à joindre aux prompts suivants de ce style. Elle sert telle quelle en clair et en sombre.
+**Régénérée et validée par le PO le 06/11/2026**, à l'essai 1 de la régénération, dans le trait de `primeTime` (la première version avait été validée le 30/10/2026, sur l'essai 4 de l'essai de validation du reportage dessiné (#159, K6.1), qui servait de référence aux prompts suivants de ce style). Elle sert telle quelle en clair et en sombre.
 
-![Gaffe au marché, essai 4 validé](../../illustrations/polemic/marketGaffe.webp)
+![Gaffe au marché](../../illustrations/polemic/marketGaffe.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `marketGaffe`, catégorie `polemic` (Polémique) |
-| Style | Reportage dessiné (style par défaut de la catégorie) |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Ironique |
-| Date | 2026-10-30 |
-| Outil | ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5 |
+| Date | 2026-11-06 (première version : 2026-10-30) |
+| Outil | ChatGPT Images (première version : ChatGPT avec le modèle GPT Sol 6.1 en effort « light », et ChatGPT Images 2.5) |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 164 Ko, sans recadrage |
-| Fichier d'origine | PNG de ChatGPT, chez le PO (emplacement à remplir). L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 172 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0001` |
 
 ## Texte de la carte
@@ -129,3 +129,21 @@ Constraints: realistic proportions, natural expressions, never cartoonish or car
 
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
+
+### Essais de la régénération
+
+- **Essai 1** (06/11/2026), avec `primeTime.webp` comme référence et le prompt ci-dessus : **validé par le PO**.
+
+### Relecture de la régénération
+
+Faite et validée par le PO le 06/11/2026, sur l'essai 1.
+
+- [x] Aucun texte lisible : l'ardoise n'a qu'un gribouillis à la craie, les bouteilles des étiquettes vides ; rien n'est lisible sur les téléphones ni sur la caméra.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : le vieil homme porte une casquette plate ; la cadreuse et le pont sont un peu plus loin que demandé ; le panier de la passante est plein de choux et de poireaux.
