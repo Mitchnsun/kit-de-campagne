@@ -52,7 +52,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **Le jeune militant écologiste reprend les traits d'un portrait dessiné fourni par le PO** (05/11/2026) : ses cheveux bruns épais en bataille, ses yeux bleus, ses taches de rousseur, rasé de près, à la place de la barbe rousse et du bonnet du premier prompt. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
+- **Le jeune militant écologiste reprend les traits d'un portrait dessiné fourni par le PO** (05/11/2026) : ses cheveux bruns épais en bataille, ses yeux bleus, ses taches de rousseur, rasé de près, à la place de la barbe rousse et du bonnet du premier prompt. L'accord de la personne est confirmé par le PO (06/11/2026). Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
 
 ## Essais écartés
 
@@ -67,7 +67,7 @@ Aucune.
 Faite et validée par le PO le 05/11/2026.
 
 - [x] Aucun texte lisible : les tracts et le badge sont vierges, les affiches ne portent que des signes « % », l'homme-sandwich que des pictogrammes (recyclage, feuille, planète, sapins) ; aucune enseigne.
-- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue du jeune militant, d'après un portrait dessiné fourni par le PO ; l'accord de la personne reste à confirmer par le PO.
+- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue du jeune militant, d'après un portrait dessiné fourni par le PO ; l'accord de la personne est confirmé par le PO (06/11/2026).
 - [x] Le candidat du joueur est hors champ.
 - [x] Mains, visages et foules sans défaut visible à 343 px de large.
 - [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.

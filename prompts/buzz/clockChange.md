@@ -52,7 +52,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **L'horloger à la retraite reprend les traits d'un portrait dessiné fourni par le PO** (05/11/2026) : ses cheveux blancs épais et ondulés, ses yeux bruns, ses rides, une barbe blanche de quelques jours, à la place du bouc blanc et de l'origine arménienne du premier prompt, et le sourire du portrait, la bouche à peine ouverte. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
+- **L'horloger à la retraite reprend les traits d'un portrait dessiné fourni par le PO** (05/11/2026) : ses cheveux blancs épais et ondulés, ses yeux bruns, ses rides, une barbe blanche de quelques jours, à la place du bouc blanc et de l'origine arménienne du premier prompt, et le sourire du portrait, la bouche à peine ouverte. L'accord de la personne est confirmé par le PO (06/11/2026). Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
 
 ## Essais écartés
 
@@ -67,7 +67,7 @@ Aucune.
 Faite et validée par le PO le 05/11/2026.
 
 - [x] Aucun texte lisible : le réveil, l'horloge du clocher et la montre n'ont que des traits, sans chiffres ; rien n'est lisible sur les étals, le micro ni les façades.
-- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de l'horloger à la retraite, d'après un portrait dessiné fourni par le PO ; l'accord de la personne reste à confirmer par le PO.
+- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de l'horloger à la retraite, d'après un portrait dessiné fourni par le PO ; l'accord de la personne est confirmé par le PO (06/11/2026).
 - [x] Le candidat du joueur est hors champ.
 - [x] Mains, visages et foules sans défaut visible à 343 px de large.
 - [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.

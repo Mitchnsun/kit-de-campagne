@@ -52,7 +52,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **La jeune apprentie reprend les traits d'un portrait dessiné fourni par le PO** (06/11/2026) : ses cheveux bruns courts, épais et très bouclés, ses yeux bruns, ses sourcils droits et son petit sourire en coin. Elle garde le bandana rouge du premier prompt (PO), pas le col roulé rouge du portrait, et passe au tiers gauche, le visage bien visible, pour que la ressemblance se lise. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
+- **La jeune apprentie reprend les traits d'un portrait dessiné fourni par le PO** (06/11/2026) : ses cheveux bruns courts, épais et très bouclés, ses yeux bruns, ses sourcils droits et son petit sourire en coin. Elle garde le bandana rouge du premier prompt (PO), pas le col roulé rouge du portrait, et passe au tiers gauche, le visage bien visible, pour que la ressemblance se lise. L'accord de la personne est confirmé par le PO (06/11/2026). Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne.
 
 ## Essais écartés
 
@@ -67,7 +67,7 @@ Aucune.
 Faite et validée par le PO le 06/11/2026.
 
 - [x] Aucun texte lisible : la facture n'a que des lignes grises et le cercle rouge ; rien n'est lisible sur la radio, la caisse, les étiquettes ni la vitrine, et une minuscule plaque sous la télévision reste illisible à la taille de l'app.
-- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de la jeune apprentie, d'après un portrait dessiné fourni par le PO ; l'accord de la personne reste à confirmer par le PO. Les chefs d'État de la télévision sont des silhouettes génériques en costume, sans drapeau ni visage reconnaissable, une vingtaine de pixels à la taille de l'app.
+- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de la jeune apprentie, d'après un portrait dessiné fourni par le PO ; l'accord de la personne est confirmé par le PO (06/11/2026). Les chefs d'État de la télévision sont des silhouettes génériques en costume, sans drapeau ni visage reconnaissable, une vingtaine de pixels à la taille de l'app.
 - [x] Le candidat du joueur est hors champ.
 - [x] Mains, visages et foules sans défaut visible à 343 px de large.
 - [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.

@@ -74,7 +74,7 @@ Faite et validée par le PO le 31/10/2026.
 
 **Ce qui change.** Le rendu, en dessin de presse réaliste dans le trait d'[`oldTweet`](../polemic/oldTweet.md) (PO, 04/11/2026) : micro et casque dessinés au crayon sans reflets métalliques, aucun halo de lumière. Le studio cosy reste, esquissé, parce qu'il dit le podcast : le canapé de cuir et ses coussins, deux plantes, le lampadaire, les panneaux acoustiques, un tapis, deux petites caméras aux voyants rouges, et derrière la vitre la régie avec sa productrice au casque. Sortent les bougies et la lueur bleue des LED. Le prompt dit l'âge réel de l'animatrice, qu'il avait fixé à tort à la fin de la vingtaine. Une première version de cette section, écrite avec la règle de « trois ou quatre objets au plus », réduisait le studio à une plante, une lampe et une caméra ; elle a été reprise quand le PO a demandé de ne pas trop simplifier les scènes.
 
-**Une ressemblance voulue** (PO, 04/11/2026). L'animatrice reprend les traits d'un portrait dessiné fourni par le PO : ses longs cheveux ondulés châtain clair remplacent la coupe courte bouclée de l'image actuelle. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne. Une seule étape, comme pour [`stateAlgorithm`](../farFetched/stateAlgorithm.md) : le portrait est déjà dessiné.
+**Une ressemblance voulue** (PO, 04/11/2026). L'animatrice reprend les traits d'un portrait dessiné fourni par le PO : ses longs cheveux ondulés châtain clair remplacent la coupe courte bouclée de l'image actuelle. L'accord de la personne est confirmé par le PO (06/11/2026). Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne. Une seule étape, comme pour [`stateAlgorithm`](../farFetched/stateAlgorithm.md) : le portrait est déjà dessiné.
 
 ### Prompt de régénération
 
@@ -109,7 +109,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 Faite et validée par le PO le 04/11/2026, sur l'essai 1.
 
 - [x] Aucun texte lisible : rien sur les murs, le mug, les caméras ni le portable de la régie.
-- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de l'animatrice, d'après un portrait dessiné fourni par le PO ; l'accord de la personne reste à confirmer par le PO.
+- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de l'animatrice, d'après un portrait dessiné fourni par le PO ; l'accord de la personne est confirmé par le PO (06/11/2026).
 - [x] Le candidat du joueur n'apparaît pas.
 - [x] Mains, visages et foules sans défaut visible à 343 px de large.
 - [x] Aucune couleur de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.

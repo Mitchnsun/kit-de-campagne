@@ -52,7 +52,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **La porte-parole reprend les traits d'un portrait dessiné fourni par le PO** (04/11/2026) : ses cheveux courts, épais et bouclés remplacent la coupe du premier prompt. L'accord de la personne est à confirmer par le PO avant la validation de l'image. Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne. Une seule étape : le portrait est déjà dessiné.
+- **La porte-parole reprend les traits d'un portrait dessiné fourni par le PO** (04/11/2026) : ses cheveux courts, épais et bouclés remplacent la coupe du premier prompt. L'accord de la personne est confirmé par le PO (06/11/2026). Le portrait n'est pas dans ce dépôt, et la fiche ne nomme personne. Une seule étape : le portrait est déjà dessiné.
 - **Quelques touches de violet sourd** pour les foulards et les rubans du cortège, hors de la palette : c'est la couleur de la journée, celle d'aucun parti (PO, 04/11/2026).
 
 ## Essais écartés
@@ -68,7 +68,7 @@ Aucune.
 Faite et validée par le PO le 04/11/2026.
 
 - [x] Aucun texte lisible : les pancartes et la banderole ne portent que des symboles (signe de Vénus, cœur, balance, poing levé), le questionnaire et le badge sont vierges, rien sur les façades.
-- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de la porte-parole, d'après un portrait dessiné fourni par le PO ; l'accord de la personne reste à confirmer par le PO.
+- [x] Aucun sosie d'une personne réelle autre que la ressemblance voulue de la porte-parole, d'après un portrait dessiné fourni par le PO ; l'accord de la personne est confirmé par le PO (06/11/2026).
 - [x] Le candidat du joueur est hors champ.
 - [x] Mains, visages et foules sans défaut visible à 343 px de large.
 - [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.

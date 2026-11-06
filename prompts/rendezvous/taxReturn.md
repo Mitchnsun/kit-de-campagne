@@ -52,7 +52,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- **La journaliste et le jeune reporter reprennent les traits de deux portraits dessinés fournis par le PO** (04/11/2026) : elle, de longs cheveux ondulés châtain roux et des taches de rousseur ; lui, des boucles brunes mi-longues et une barbe de trois jours. L'accord des deux personnes est à confirmer par le PO avant la validation de l'image. Les portraits ne sont pas dans ce dépôt, et la fiche ne nomme personne. Une seule étape : les portraits sont déjà dessinés.
+- **La journaliste et le jeune reporter reprennent les traits de deux portraits dessinés fournis par le PO** (04/11/2026) : elle, de longs cheveux ondulés châtain roux et des taches de rousseur ; lui, des boucles brunes mi-longues et une barbe de trois jours. L'accord des deux personnes est confirmé par le PO (06/11/2026). Les portraits ne sont pas dans ce dépôt, et la fiche ne nomme personne. Une seule étape : les portraits sont déjà dessinés.
 - **Le cadreur est noir et la photographe asiatique** (PO, 04/11/2026), à la place des deux personnages du premier prompt.
 
 ## Essais écartés
@@ -68,7 +68,7 @@ Aucune.
 Faite et validée par le PO le 04/11/2026.
 
 - [x] Aucun texte lisible : le formulaire n'a que des cases et des colonnes vides, la carte de presse et le badge sont vierges, rien sur les stores du café ni sur la porte.
-- [x] Aucun sosie d'une personne réelle autre que les ressemblances voulues de la journaliste et du jeune reporter, d'après deux portraits dessinés fournis par le PO ; l'accord des deux personnes reste à confirmer par le PO.
+- [x] Aucun sosie d'une personne réelle autre que les ressemblances voulues de la journaliste et du jeune reporter, d'après deux portraits dessinés fournis par le PO ; l'accord des deux personnes est confirmé par le PO (06/11/2026).
 - [x] Le candidat du joueur est hors champ.
 - [x] Mains, visages et foules sans défaut visible à 343 px de large.
 - [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
