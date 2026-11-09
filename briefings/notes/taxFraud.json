@@ -1,0 +1,42 @@
+{
+  "fr": [
+    "L'écart de TVA de la Commission européenne va, selon elle, de l'exploitation légale des failles à la fraude organisée à grande échelle, et compte aussi les erreurs et les faillites. La Cour des comptes cite une fourchette de la DGFiP, entre 6 et 10 Md€, soit 4 à 5 % de la TVA collectée.",
+    "Les résultats annoncés du contrôle fiscal sont des sommes rappelées, pas encaissées, et se rapportent à plusieurs exercices antérieurs. Les recettes encaissées une année comprennent les recouvrements de cette année-là, quel que soit leur millésime.",
+    "Le chiffre de 80 à 100 Md€ de fraude fiscale, d'origine syndicale, repose sur des données de 2012 ou 2013. Selon la Cour des comptes, son périmètre se rapproche davantage de l'écart fiscal que de la fraude."
+  ],
+  "en": [
+    "The European Commission's VAT gap ranges, in its words, from the legal exploitation of loopholes to organised large-scale fraud, and also counts errors and bankruptcies. The Cour des comptes cites a range from the DGFiP, between €6 and €10 billion, or 4 to 5% of the VAT collected.",
+    "The announced results of tax audits are sums claimed, not collected, and relate to several earlier years. The revenue collected in a year includes that year's recoveries, whatever their vintage.",
+    "The figure of €80 to €100 billion of tax fraud, from a trade union, rests on data from 2012 or 2013. According to the Cour des comptes, its scope is closer to the tax gap than to fraud."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la fraude fiscale représente 80 à 100 milliards par an.",
+        "answer": "La Cour des comptes écrit qu'aucune estimation fiable n'existe : « nul ne peut aujourd'hui se hasarder à affirmer que ce montant est proche de 30 ou de 130 Md€ ». Son Premier président juge ce chiffre « au minimum une approximation, voire une affirmation gratuite »."
+      },
+      {
+        "heard": "On entend que le fisc a récupéré un record de 17 milliards.",
+        "answer": "La Cour des comptes distingue les sommes rappelées des sommes encaissées : en 2024, 17,4 Md€ de droits rappelés et de crédits d'impôt non remboursés, pour 11,4 Md€ effectivement encaissés (12,2 Md€ en 2015)."
+      },
+      {
+        "heard": "On entend que la fraude à la TVA représente des dizaines de milliards.",
+        "answer": "La Commission européenne estime l'écart de TVA de la France à 12,1 Md€ en 2023, soit 5,6 % de la TVA due. Cet écart comprend la fraude, mais aussi les erreurs et les faillites."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that tax fraud amounts to €80 to €100 billion a year.",
+        "answer": "The Cour des comptes writes that no reliable estimate exists: “no one can venture to assert today that this amount is close to €30 or €130 billion”. Its First President calls the figure “at the very least an approximation, or even a gratuitous claim”."
+      },
+      {
+        "heard": "You hear that the tax authorities recovered a record €17 billion.",
+        "answer": "The Cour des comptes tells the sums claimed from the sums collected: in 2024, €17.4 billion of taxes reassessed and tax credits not refunded, for €11.4 billion actually collected (€12.2 billion in 2015)."
+      },
+      {
+        "heard": "You hear that VAT fraud amounts to tens of billions.",
+        "answer": "The European Commission estimates France's VAT gap at €12.1 billion in 2023, or 5.6% of the VAT due. This gap includes fraud, but also errors and bankruptcies."
+      }
+    ]
+  }
+}
