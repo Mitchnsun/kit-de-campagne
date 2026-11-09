@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "Selon la Cour des comptes (rapport public annuel 2025), le taux d'emploi des jeunes « a augmenté de six points entre 2017 et 2023. L'essor de l'alternance explique, à lui seul, plus de la moitié de cette hausse. » Sa note de janvier 2025 écrit « environ la moitié ». La Cour parle d'emploi, pas de chômage.",
+    "La Cour des comptes ajoute : « Or le lien de causalité entre l'effort financier de l'État et l'amélioration de l'emploi des jeunes est incertain. D'une part, la conjoncture économique reste le principal déterminant de l'accès des jeunes à l'emploi. »",
+    "Les entrées viennent d'une seule édition de l'Insee (2026) : chaque édition révise les années d'avant (2024 valait 881,0 milliers dans l'édition 2025). Les apprentis de la DEPP sont des inscrits en CFA, pas les contrats que compte la Dares (1 015 200 fin 2025).",
+    "La dépense de 3 435 M€ en 2025 et de 3 973 M€ en 2024 est celle du programme 103 ; avec les 78 M€ du programme 364, 2024 vaut 4 052 M€ (calculé). Le barème donne des montants maximums, proratisés à la durée du contrat ; 6 000 € au plus pour un apprenti en situation de handicap."
+  ],
+  "en": [
+    "According to the Cour des comptes (2025 annual public report), the employment rate of young people “rose by six points between 2017 and 2023. The growth of work-study explains, on its own, more than half of this rise.” Its note of January 2025 writes “about half”. The Cour speaks of employment, not unemployment.",
+    "The Cour des comptes adds: “Yet the causal link between the State’s financial effort and the improvement in youth employment is uncertain. On the one hand, the economic situation remains the main determinant of young people’s access to employment.”",
+    "The entries come from one edition of the Insee (2026): each edition revises the years before (2024 was 881.0 thousand in the 2025 edition). The DEPP’s apprentices are enrolled in training centres, not the contracts the Dares counts (1,015,200 at the end of 2025).",
+    "The spending of €3,435 million in 2025 and €3,973 million in 2024 is that of programme 103; with the €78 million of programme 364, 2024 comes to €4,052 million (calculated). The scale gives maximum amounts, prorated to the length of the contract; €6,000 at most for an apprentice with a disability."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que l'apprentissage, c'est surtout pour les CAP.",
+        "answer": "Au 31 décembre 2025, 61,6 % des apprentis (628 436 sur 1 020 373) préparent un diplôme de l'enseignement supérieur et 17,3 % un CAP (DEPP). Parmi les nouveaux contrats du secteur privé, la part du supérieur est passée de 33,9 % en 2015 à 61,4 % en 2023 (Cour des comptes, d'après la Dares)."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that apprenticeships are mostly for the CAP.",
+        "answer": "On 31 December 2025, 61.6% of apprentices (628,436 out of 1,020,373) are preparing a higher education qualification and 17.3% a CAP (DEPP). Among the new contracts of the private sector, the share of higher education rose from 33.9% in 2015 to 61.4% in 2023 (Cour des comptes, from the Dares)."
+      }
+    ]
+  }
+}

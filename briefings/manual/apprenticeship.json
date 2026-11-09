@@ -1,0 +1,164 @@
+{
+  "id": "apprenticeship",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Dares",
+      "publication": "Emplois aidés, Emploi, chômage, revenus du travail, édition 2026",
+      "publishedOn": "2026-07-02"
+    },
+    {
+      "producer": "DEPP",
+      "publication": "L'apprentissage au 31 décembre 2025 : une baisse des effectifs de 2,8 % par rapport à 2024, Note d'information n° 26.35",
+      "publishedOn": "2026-07-15"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Apprentis au 31 décembre 2023",
+      "publishedOn": "2025-10-13"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Les mesures d'aide exceptionnelles : une sortie de crise à achever pour le budget de l'État",
+      "publishedOn": "2025-01-09"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Part des emplois aidés dans l'emploi des jeunes de moins de 26 ans - Apprentissage",
+      "publishedOn": "2026-05-27"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Note de l'exécution budgétaire 2025, mission Travail, emploi et administration des ministères sociaux",
+      "publishedOn": "2026-04-27"
+    },
+    {
+      "producer": "DILA, entreprendre.service-public.fr",
+      "publication": "Aides à l'embauche en contrat d'apprentissage",
+      "publishedOn": "2026-07-22"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Rapport public annuel 2025 : les politiques publiques en faveur des jeunes, synthèses",
+      "publishedOn": "2025-03-19"
+    }
+  ],
+  "headline": {
+    "series": "entries",
+    "period": "2025",
+    "value": 846900,
+    "trend": "down"
+  },
+  "series": [
+    {
+      "id": "entries",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Figure 1a",
+      "points": [
+        ["2023", 851800],
+        ["2024", 890300],
+        ["2025", 846900]
+      ]
+    },
+    {
+      "id": "apprentices",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2011", 436334],
+        ["2012", 438143],
+        ["2013", 424348],
+        ["2014", 405882],
+        ["2015", 405205],
+        ["2016", 412266],
+        ["2017", 429906],
+        ["2018", 448127],
+        ["2019", 478803],
+        ["2020", 629635],
+        ["2021", 834063],
+        ["2022", 953590],
+        ["2023", 1021453],
+        ["2024", 1049965],
+        ["2025", 1020373]
+      ]
+    },
+    {
+      "id": "higherShareOfNewContracts",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2015", 33.9],
+        ["2020", 56.1],
+        ["2022", 61.2],
+        ["2023", 61.4]
+      ]
+    },
+    {
+      "id": "shareOfYouthEmployment",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "010596076",
+      "breaks": ["2020"],
+      "points": [
+        ["2010", 15.8],
+        ["2011", 16.6],
+        ["2012", 17.0],
+        ["2013", 16.3],
+        ["2014", 15.8],
+        ["2015", 15.5],
+        ["2016", 16.0],
+        ["2017", 15.8],
+        ["2018", 15.5],
+        ["2019", 17.1],
+        ["2020", 23.8],
+        ["2021", 26.8],
+        ["2022", 28.3],
+        ["2023", 28.7],
+        ["2024", 29.5]
+      ]
+    },
+    {
+      "id": "hiringAidSpending",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Tableau 7",
+      "points": [
+        ["2024", 3.973],
+        ["2025", 3.435]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "levels",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "Figure 2",
+      "values": [
+        ["higherEducation", 61.6],
+        ["cap", 17.3]
+      ]
+    },
+    {
+      "id": "smallFirms",
+      "unit": "euro",
+      "period": "2026",
+      "values": [
+        ["upToLevel4", 5000],
+        ["level5", 4500],
+        ["upToLevel7", 2000]
+      ]
+    },
+    {
+      "id": "largeFirms",
+      "unit": "euro",
+      "period": "2026",
+      "values": [
+        ["upToLevel4", 2000],
+        ["level5", 1500],
+        ["upToLevel7", 750]
+      ]
+    }
+  ]
+}

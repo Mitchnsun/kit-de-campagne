@@ -1,0 +1,161 @@
+{
+  "id": "youthEurope",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Eurostat",
+      "publication": "Unemployment by sex and age - annual data",
+      "publishedOn": "2026-11-06"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Youth unemployment ratio by NUTS 2 region",
+      "publishedOn": "2026-10-30"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Young persons neither in employment nor in education and training by labour status (NEET rates)",
+      "publishedOn": "2026-10-30"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Unemployment by sex and age - monthly data",
+      "publishedOn": "2026-11-05"
+    }
+  ],
+  "headline": {
+    "series": "franceRate",
+    "period": "2025",
+    "value": 19.8,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "franceRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "une_rt_a",
+      "points": [
+        ["2015", 26.2],
+        ["2016", 26.0],
+        ["2017", 23.6],
+        ["2018", 22.1],
+        ["2019", 20.8],
+        ["2020", 21.6],
+        ["2021", 18.9],
+        ["2022", 17.4],
+        ["2023", 17.3],
+        ["2024", 18.8],
+        ["2025", 19.8]
+      ]
+    },
+    {
+      "id": "euRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "une_rt_a",
+      "points": [
+        ["2015", 22.4],
+        ["2016", 20.7],
+        ["2017", 18.6],
+        ["2018", 16.7],
+        ["2019", 15.7],
+        ["2020", 17.6],
+        ["2021", 16.7],
+        ["2022", 14.6],
+        ["2023", 14.6],
+        ["2024", 15.0],
+        ["2025", 15.2]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "unemployment",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "une_rt_a",
+      "values": [
+        ["romania", 26.1],
+        ["spain", 24.9],
+        ["sweden", 24.3],
+        ["finland", 21.8],
+        ["estonia", 20.7],
+        ["italy", 20.6],
+        ["france", 19.8],
+        ["portugal", 19.5],
+        ["luxembourg", 19.4],
+        ["greece", 19.1],
+        ["croatia", 18.3],
+        ["belgium", 17.4],
+        ["slovakia", 15.3],
+        ["latvia", 14.8],
+        ["lithuania", 14.1],
+        ["hungary", 13.9],
+        ["denmark", 13.8],
+        ["cyprus", 13.5],
+        ["bulgaria", 13.1],
+        ["poland", 12.2],
+        ["slovenia", 12.1],
+        ["ireland", 11.8],
+        ["austria", 11.5],
+        ["czechia", 10.4],
+        ["malta", 9.6],
+        ["netherlands", 8.8],
+        ["germany", 7.1]
+      ]
+    },
+    {
+      "id": "ratio",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "yth_empl_140",
+      "values": [
+        ["sweden", 13.9],
+        ["finland", 11.7],
+        ["denmark", 9.6],
+        ["estonia", 8.9],
+        ["france", 8.5],
+        ["spain", 8.4],
+        ["europeanUnion", 6.2],
+        ["italy", 4.6],
+        ["germany", 3.9]
+      ]
+    },
+    {
+      "id": "neet",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "edat_lfse_20",
+      "values": [
+        ["romania", 19.2],
+        ["bulgaria", 13.8],
+        ["greece", 13.6],
+        ["italy", 13.3],
+        ["france", 12.9],
+        ["lithuania", 12.4],
+        ["spain", 11.5],
+        ["estonia", 11.2],
+        ["finland", 11.2],
+        ["slovakia", 11.1],
+        ["latvia", 11.0],
+        ["croatia", 10.8],
+        ["cyprus", 10.6],
+        ["hungary", 10.6],
+        ["austria", 10.3],
+        ["belgium", 9.8],
+        ["germany", 9.5],
+        ["poland", 9.2],
+        ["luxembourg", 9.0],
+        ["denmark", 8.9],
+        ["malta", 8.5],
+        ["ireland", 8.1],
+        ["czechia", 8.0],
+        ["portugal", 8.0],
+        ["slovenia", 7.6],
+        ["sweden", 5.9],
+        ["netherlands", 5.3]
+      ]
+    }
+  ]
+}

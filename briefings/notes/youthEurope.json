@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "En 2025, le taux de chômage des 15-24 ans est de 19,8 % en France et de 15,2 % dans l'UE à 27 (Eurostat) : le 7e plus élevé des 27 (rang calculé), derrière la Roumanie, l'Espagne, la Suède, la Finlande, l'Estonie et l'Italie. Pour 2025, le taux français d'Eurostat est celui de l'Insee.",
+    "Rapporté à toute la population des 15-24 ans, le ratio de chômage est de 8,5 % en France et de 6,2 % dans l'UE à 27 : le 5e des 27 (rang calculé). C'est la même mesure que la part de chômage de l'Insee (8,5 % en 2025), pas le taux.",
+    "En 2025, 12,9 % des 15-29 ans ne sont ni en emploi, ni en études, ni en formation en France, contre 11,0 % dans l'UE à 27 : le 5e des 27 (rang calculé). Ce NEET annuel d'Eurostat n'est pas le NEET trimestriel de l'Insee.",
+    "Eurostat signale une définition différente pour la France. Son taux mensuel des moins de 25 ans (21,9 % pour la France en septembre 2026) est une estimation d'Eurostat, pas le taux trimestriel de l'Insee : ne pas les rapprocher."
+  ],
+  "en": [
+    "In 2025, the unemployment rate of the 15-24 is 19.8% in France and 15.2% in the EU of 27 (Eurostat): the seventh highest of the 27 (rank calculated), after Romania, Spain, Sweden, Finland, Estonia and Italy. For 2025, Eurostat’s French rate is the Insee’s.",
+    "Related to the whole population aged 15-24, the unemployment ratio is 8.5% in France and 6.2% in the EU of 27: the fifth of the 27 (rank calculated). It is the same measure as the Insee’s unemployment share (8.5% in 2025), not the rate.",
+    "In 2025, 12.9% of the 15-29 are neither in employment nor in education or training in France, against 11.0% in the EU of 27: the fifth of the 27 (rank calculated). This annual NEET of Eurostat is not the Insee’s quarterly NEET.",
+    "Eurostat flags a different definition for France. Its monthly rate of the under-25 (21.9% for France in September 2026) is an estimate of Eurostat, not the Insee’s quarterly rate: do not set them side by side."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la France a le pire chômage des jeunes d'Europe.",
+        "answer": "En 2025, le taux de chômage des 15-24 ans est de 19,8 % en France, contre 15,2 % dans l'UE à 27 (Eurostat). La France a le 7e taux le plus élevé des 27 États membres (classement calculé) : la Roumanie (26,1 %), l'Espagne (24,9 %), la Suède (24,3 %), la Finlande (21,8 %), l'Estonie (20,7 %) et l'Italie (20,6 %) sont au-dessus. Rapporté à la population des 15-24 ans, le ratio de chômage est de 8,5 % en France contre 6,2 % dans l'UE, au 5e rang (calculé). Eurostat signale une définition différente pour la France."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that France has the worst youth unemployment in Europe.",
+        "answer": "In 2025, the unemployment rate of the 15-24 is 19.8% in France, against 15.2% in the EU of 27 (Eurostat). France has the seventh highest rate of the 27 member states (ranking calculated): Romania (26.1%), Spain (24.9%), Sweden (24.3%), Finland (21.8%), Estonia (20.7%) and Italy (20.6%) are above it. Related to the population aged 15-24, the unemployment ratio is 8.5% in France against 6.2% in the EU, fifth (calculated). Eurostat flags a different definition for France."
+      }
+    ]
+  }
+}
