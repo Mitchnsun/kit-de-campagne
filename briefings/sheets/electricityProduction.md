@@ -1,25 +1,25 @@
 # `electricityProduction` · Électricité (partie du mix électrique)
 
-**Vérifiée le 02/11/2026** : double vérification sur le web, valeurs de 2025 conformes (section « Double vérification ») ; avant d'entrer dans le kit, la source scindée en deux (le rapport cité, ses données sous Licence Ouverte) et la note sur la part bas-carbone précisée (conventions de RTE).
+**Vérifiée le 02/11/2026** : double vérification sur le web, valeurs de 2025 conformes (section « Double vérification ») ; avant d'entrer dans le kit, la source scindée en deux (le rapport cité, ses données sous Licence Ouverte) et la note sur la part bas-carbone précisée (conventions de RTE). Complétée le 09/11/2026 : la part du nucléaire, conforme au Bilan 2025 (section 8).
 
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `electricityProduction`, partie « Électricité » de la page composite `electricityMix`, dossier « Écologie et énergie » (`ecology`), ticket #29 de l'app (statut `planned`) ; l'autre partie, `energyMix` (SDES), viendra plus tard |
-| Données | `briefings/data/electricityProduction.json`, écrit par `yarn briefings electricityProduction` le 2026-11-02 |
+| Données | `briefings/data/electricityProduction.json`, écrit par `yarn briefings electricityProduction` le 2026-11-02, puis le 2026-11-09 (part du nucléaire, #307) |
 | Sources | RTE, « Bilan électrique 2025 », https://analysesetdonnees.rte-france.com/bilan-electrique-2025/synthese (anglais : « Annual Electricity Review 2025 », https://analysesetdonnees.rte-france.com/en/annual-review-2025/keyfindings), cité (mentions légales de RTE : réutilisation « sous réserve de mentionner la source ») ; RTE (ODRÉ), « Production nationale annuelle par filière (2012 à 2025) », Licence Ouverte v2.0, modifié le 25/02/2026, le jour de la publication du Bilan |
-| Séries | `lowCarbonShare` : part bas-carbone de la production, 95,2 % en 2025, lue dans le texte du Bilan (« Cela représente 95,2 % de l'électricité produite sur le territoire métropolitain ») ; `total`, `nuclear`, `hydro`, `wind`, `solar`, `bioenergy`, `fossil` : production par filière en TWh, 2012 à 2025 |
+| Séries | `lowCarbonShare` : part bas-carbone de la production, 95,2 % en 2025, lue dans le texte du Bilan (« Cela représente 95,2 % de l'électricité produite sur le territoire métropolitain ») ; `total`, `nuclear`, `hydro`, `wind`, `solar`, `bioenergy`, `fossil` : production par filière en TWh, 2012 à 2025 ; `nuclearShare` : part du nucléaire dans la production, en %, 2012 à 2025 (68,1 % en 2025), calculée par le script (#307) |
 | Chiffre clé | 95,2 % d'électricité bas-carbone en 2025, la part de RTE citée telle quelle (#29) ; une seule année, pas de tendance |
-| Règles | Le script s'arrête si le texte du Bilan ne dit plus la part, ou si le Bilan et les données ne sont pas de la même année. Recalculée depuis ODRÉ, la part vaudrait 96,6 % hors fossiles ou 94,6 % sans les bioénergies : l'écart tient aux conventions de RTE (la moitié des déchets ménagers comptée renouvelable, 70 % du pompage des STEP retranché de l'hydraulique) |
+| Règles | Le script s'arrête si le texte du Bilan ne dit plus la part, ou si le Bilan et les données ne sont pas de la même année. Recalculée depuis ODRÉ, la part vaudrait 96,6 % hors fossiles ou 94,6 % sans les bioénergies : l'écart tient aux conventions de RTE (la moitié des déchets ménagers comptée renouvelable, 70 % du pompage des STEP retranché de l'hydraulique). La part du nucléaire, elle, est calculée : `production_nucleaire` / `production_totale` × 100, au dixième, chaque année ; le script échoue sur une année sans total |
 | Première édition | À remplir à la publication |
 
 ## « À savoir »
 
-1. Mix électrique et mix énergétique : SDES, Chiffres clés de l'énergie, édition 2026 (30/09/2026, données 2025 provisoires), pétrole 38 %, électricité 27 %, gaz 18 % de la consommation finale.
-2. Les conventions de RTE : note du graphique de la part bas-carbone et glossaire du Bilan (« par convention, 50 % des déchets ménagers sont considérés comme renouvelables »).
-3. Consommation 2025 : 451,2 TWh corrigés ; solde exportateur 92,3 TWh, record pour la deuxième année ; périmètre « France métropolitaine et Corse ».
-4. « Le plus faible observé depuis près de 75 ans » vise la production d'origine fossile (18,7 TWh), « depuis le début des années 1950 » (page Production du Bilan) ; le fichier ODRÉ commençant en 2012 ne le montre pas : la note l'attribue à RTE.
+1. Part de l'électricité, pas de l'énergie : la part du nucléaire, 68,1 % de la production en 2025, se lit dans la série `nuclearShare` (373,0 / 547,5) et dans le Bilan électrique 2025 de RTE (page Production : « 68,1 % en 2025 ») ; mix énergétique : SDES, Chiffres clés de l'énergie, édition 2026 (30/09/2026, données 2025 provisoires), pétrole 38 %, électricité 27 %, gaz 18 % de la consommation finale.
+2. Le piège du débat de 2007 : transcription du débat du 2 mai 2007 (Vie publique), Nicolas Sarkozy : « La moitié de notre électricité est d'origine nucléaire », Ségolène Royal : « Non, 17 % seulement de l'électricité » (mots relevés dans la transcription par une vérification sur les sources primaires, le 09/11/2026, que l'agent de cette mise à jour n'a pas relue ; l'échange, 50 % contre 17 %, est aussi rapporté par World Nuclear News, « French candidates slip up on nuclear facts »). La part réelle : Annales des Mines, « Faits et chiffres pour 2007 », électricité (Réalités industrielles, août 2008) : « La production totale nette d'électricité s'élève à 544,4 TWh […]. Elle se répartit en 418,6 TWh nucléaires (76,9 %) ». La note donne la production nette, celle de la source ; elle ne dit pas ce que chacun pensait mesurer.
+3. Les conventions de RTE : note du graphique de la part bas-carbone et glossaire du Bilan (« par convention, 50 % des déchets ménagers sont considérés comme renouvelables »).
+4. Consommation 2025 : 451,2 TWh corrigés ; solde exportateur 92,3 TWh, record pour la deuxième année ; périmètre « France métropolitaine et Corse ».
 
-Non repris : les écarts de 0,1 à 0,2 TWh entre le fichier et les Bilans d'origine pour 2012 et 2024 (révision de la série par RTE, probablement) ; le fioul 2025 à 1,7 TWh dans le texte de RTE, 1,6 dans sa figure et dans ODRÉ (somme cohérente avec 18,7).
+Non repris : les écarts de 0,1 à 0,2 TWh entre le fichier et les Bilans d'origine pour 2012 et 2024 (révision de la série par RTE, probablement) ; le fioul 2025 à 1,7 TWh dans le texte de RTE, 1,6 dans sa figure et dans ODRÉ (somme cohérente avec 18,7). Retiré le 09/11/2026, pour garder quatre points : « la production d'origine fossile (18,7 TWh en 2025) la plus faible depuis le début des années 1950, selon RTE » (sa vérification reste en section 5, note 4).
 
 À actualiser : le Bilan électrique 2026, vers février 2027.
 
@@ -240,9 +240,23 @@ Vues uniquement dans des résultats de moteur de recherche (non ouvertes, pas ut
 - https://www.statistiques.developpement-durable.gouv.fr/infographies/9286 (infographie SDES « Données sur l'énergie en 2025 »)
 - Résultats de recherche Banque des Territoires, Selectra, Opera Énergie : source des 26,2 TWh vers l'Italie (non vérifié) et de la date du 25 février.
 
+### 8. Part du nucléaire (ajoutée le 09/11/2026)
+
+Faite le 09/11/2026 par un agent Claude (modèle Opus), sur les pages du Bilan électrique de RTE, pas sur l'API ODRÉ que lit le script.
+
+| Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
+| --- | --- | --- | --- | --- |
+| Part du nucléaire 2025 | 68,1 % (373,0 / 547,5) | « la forte part de la production nucléaire dans le mix électrique français (entre 63 et 77 % sur les dix dernières années, 68,1 % en 2025) » | Bilan électrique 2025, page Production | Conforme |
+| Fourchette des dernières années | de 62,5 % (2022) à 76,5 % (2015) sur 2015-2025 ; 72,4 % au plus sur 2016-2025 | « entre 63 et 77 % sur les dix dernières années » | Bilan électrique 2025, page Production | Conforme à l'arrondi (RTE compte onze ans, 2015 compris) |
+| Part du nucléaire 2024 | 67,1 % (361,7 / 539,3) | « En 2024, la filière nucléaire a représenté 65 % du mix de production français » | Bilan électrique 2024, page Production | Écart : 361,7 TWh rapportés au total de ce même Bilan (539 TWh) font 67,1 % ; le chiffre de 65 % n'a pas d'explication sur la page. Le kit ne le reprend pas : la note et le chiffre clé portent sur 2025 |
+| Part du nucléaire 2007 (« À savoir » 2) | hors fichier (la série commence en 2012) | 418,6 TWh sur 544,4 TWh nets, 76,9 % | Annales des Mines, « Faits et chiffres pour 2007 », électricité (PDF, lu avec `pdftotext`) | Conforme |
+| Mots du débat de 2007 (« À savoir » 2) | cités | Relevés dans la transcription de Vie publique par une vérification sur les sources primaires ; l'échange (50 % contre 17 %) rapporté par World Nuclear News | Vie publique (non relue par l'agent) ; World Nuclear News | Conforme (citation relevée, non relue ici) |
+
+Pages consultées le 09/11/2026 : https://analysesetdonnees.rte-france.com/bilan-electrique-2025/production ; https://analysesetdonnees.rte-france.com/bilan-electrique-2024/production ; https://annales.org/ri/2008/ri-aout-2008/Electricite.pdf ; https://www.world-nuclear-news.org/articles/french-candidates-slip-up-on-nuclear-facts (vu dans un moteur de recherche).
+
 ## Mises à jour
 
-Aucune.
+- **09/11/2026** (#307) : série `nuclearShare` ajoutée par le script, l'instantané récrit par `yarn briefings electricityProduction` (les autres séries et les dates des sources ne changent pas, seule la date de récupération) ; la page la montre dans une vue « Part du nucléaire » et à côté du chiffre clé. « À savoir » 1 récrit (la part du nucléaire, de l'électricité et non de l'énergie consommée), 2 ajouté (le débat de 2007), l'ancien 4 retiré (voir « À savoir »). Vérification : section 8.
 
 ## Relecture
 
