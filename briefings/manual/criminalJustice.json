@@ -1,0 +1,221 @@
+{
+  "id": "criminalJustice",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Les chiffres clés de la Justice, édition 2026",
+      "publishedOn": "2026-10-28"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Justice – France, portrait social",
+      "publishedOn": "2025-11-18"
+    },
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Infostat Justice n° 207",
+      "publishedOn": "2026-03-31"
+    },
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Références statistiques Justice 2026, fiches 12.1 et 12.3",
+      "publishedOn": "2026-07-15"
+    },
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Infos Rapides Justice n° 41",
+      "publishedOn": "2026-06-01"
+    },
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Infos Rapides Justice n° 37",
+      "publishedOn": "2026-04-01"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Personnel in the criminal justice system by sex",
+      "publishedOn": "2026-04-29"
+    },
+    {
+      "producer": "Gouvernement",
+      "publication": "Projet annuel de performances 2026, mission Sécurités",
+      "publishedOn": "2025-10-10"
+    }
+  ],
+  "headline": {
+    "series": "penalResponseRate",
+    "period": "2025",
+    "value": 87.8,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "penalResponseRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2025", 87.8]]
+    },
+    {
+      "id": "authorUnknownShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2024", 67]]
+    },
+    {
+      "id": "prosecutedShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2024", 54]]
+    },
+    {
+      "id": "firmPrisonShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "status": { "2024": "provisional" },
+      "points": [
+        ["2017", 25],
+        ["2024", 24]
+      ]
+    },
+    {
+      "id": "quantumMean",
+      "frequency": "annual",
+      "unit": "count",
+      "status": { "2024": "provisional" },
+      "points": [
+        ["2017", 8],
+        ["2024", 11]
+      ]
+    },
+    {
+      "id": "quantumMedian",
+      "frequency": "annual",
+      "unit": "count",
+      "status": { "2024": "provisional" },
+      "points": [["2024", 6]]
+    },
+    {
+      "id": "executedImmediately",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2025", 58]]
+    },
+    {
+      "id": "executedWithinYear",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2025", 78]]
+    },
+    {
+      "id": "executedWithinFiveYears",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2020", 90]]
+    },
+    {
+      "id": "adjustedBeforePrison",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2025", 41]]
+    },
+    {
+      "id": "reconvictedOneYear",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2021", 34.2]]
+    },
+    {
+      "id": "reconvictedTwoYears",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2020", 47.5]]
+    },
+    {
+      "id": "reconvictedFiveYears",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2017", 61.7]]
+    },
+    {
+      "id": "judges",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "OC2612A",
+      "points": [["2024", 7654]]
+    },
+    {
+      "id": "judgesPerHundredThousand",
+      "frequency": "annual",
+      "unit": "ratio",
+      "sourceId": "OC2612A",
+      "points": [["2024", 11.15]]
+    },
+    {
+      "id": "policeJobCeiling",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Programme 176",
+      "status": { "2026": "projection" },
+      "points": [
+        ["2025", 152690],
+        ["2026", 153286]
+      ]
+    },
+    {
+      "id": "gendarmerieJobCeiling",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Programme 152",
+      "status": { "2026": "projection" },
+      "points": [
+        ["2025", 103077],
+        ["2026", 103079]
+      ]
+    },
+    {
+      "id": "justiceBudget",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2024", 11.8268],
+        ["2025", 12.3803]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "recordMisdemeanours",
+      "unit": "percent",
+      "period": "2025",
+      "status": "provisional",
+      "values": [
+        ["legalRecidivism", 21.4],
+        ["reiteration", 23.6],
+        ["either", 45]
+      ]
+    },
+    {
+      "id": "recordFelonies",
+      "unit": "percent",
+      "period": "2025",
+      "status": "provisional",
+      "values": [
+        ["legalRecidivism", 10.6],
+        ["reiteration", 23.1],
+        ["either", 33.7]
+      ]
+    },
+    {
+      "id": "sentenceLengthShares",
+      "unit": "percent",
+      "period": "2026-01",
+      "values": [
+        ["upToOneYear", 30],
+        ["oneToTwoYears", 23],
+        ["twoToFiveYears", 24],
+        ["overFiveYears", 23]
+      ]
+    }
+  ]
+}

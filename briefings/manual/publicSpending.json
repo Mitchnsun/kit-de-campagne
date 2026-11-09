@@ -1,0 +1,210 @@
+{
+  "id": "publicSpending",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Dépenses des administrations publiques ventilées par fonction en 2024",
+      "publishedOn": "2026-03-27"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Dépenses et recettes des administrations publiques en 2025",
+      "publishedOn": "2026-08-28"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Dépenses des administrations publiques par fonction (CFAP)",
+      "publishedOn": "2026-10-21"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Euro area government deficit at 3.0% and EU at 3.1% of GDP",
+      "publishedOn": "2026-10-21"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "EU and euro area tax-to-GDP ratio up in 2025",
+      "publishedOn": "2026-10-29"
+    },
+    {
+      "producer": "OCDE",
+      "publication": "Revenue Statistics 2025",
+      "publishedOn": "2025-12-01"
+    },
+    {
+      "producer": "Direction du budget",
+      "publication": "Projet annuel de performances 2027, Pouvoirs publics",
+      "publishedOn": "2026-10-01"
+    }
+  ],
+  "headline": {
+    "series": "socialProtection",
+    "period": "2024",
+    "value": 693.0,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "socialProtection",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Tableau 3.301",
+      "status": {
+        "2024": "provisional"
+      },
+      "points": [["2024", 693.0]]
+    },
+    {
+      "id": "totalSpending",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Tableau 3.301",
+      "status": {
+        "2024": "provisional"
+      },
+      "points": [["2024", 1671.8]]
+    },
+    {
+      "id": "assemblyBudget",
+      "frequency": "annual",
+      "unit": "euro",
+      "status": {
+        "2027": "projection"
+      },
+      "points": [
+        ["2025", 629260000],
+        ["2027", 642950000]
+      ]
+    },
+    {
+      "id": "senateBudget",
+      "frequency": "annual",
+      "unit": "euro",
+      "status": {
+        "2027": "projection"
+      },
+      "points": [
+        ["2025", 358750000],
+        ["2027", 383343590]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "byFunction",
+      "unit": "billionEuro",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "Tableau 3.301",
+      "values": [
+        ["socialProtection", 693.0],
+        ["health", 261.2],
+        ["generalServices", 181.1],
+        ["economicAffairs", 166.1],
+        ["education", 148.6],
+        ["defence", 54.2],
+        ["publicOrder", 52.1],
+        ["recreationCulture", 43.1],
+        ["housing", 42.1],
+        ["environment", 30.3]
+      ]
+    },
+    {
+      "id": "functionsFrance",
+      "unit": "percent",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "gov_10a_exp",
+      "values": [
+        ["socialProtection", 23.7],
+        ["oldAge", 13.4],
+        ["health", 8.9],
+        ["generalServices", 6.2],
+        ["economicAffairs", 5.7],
+        ["education", 5.1],
+        ["defence", 1.9],
+        ["publicOrder", 1.8]
+      ]
+    },
+    {
+      "id": "functionsEu",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "gov_10a_exp",
+      "values": [
+        ["socialProtection", 19.5],
+        ["oldAge", 10.6],
+        ["health", 7.3],
+        ["generalServices", 6.0],
+        ["economicAffairs", 5.3],
+        ["education", 4.7],
+        ["defence", 1.5],
+        ["publicOrder", 1.7]
+      ]
+    },
+    {
+      "id": "deficit",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["france", 5.1],
+        ["italy", 3.1],
+        ["germany", 2.9],
+        ["spain", 2.4],
+        ["europeanUnion", 3.1]
+      ]
+    },
+    {
+      "id": "debt",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["france", 115.7],
+        ["italy", 136.7],
+        ["spain", 100.5],
+        ["germany", 62.8],
+        ["europeanUnion", 81.5]
+      ]
+    },
+    {
+      "id": "spending",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["france", 57.3],
+        ["finland", 57.5],
+        ["italy", 51.1],
+        ["germany", 50.1],
+        ["europeanUnion", 49.4]
+      ]
+    },
+    {
+      "id": "taxesEu",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["france", 46.0],
+        ["belgium", 44.7],
+        ["denmark", 44.3],
+        ["austria", 43.9],
+        ["germany", 41.4],
+        ["europeanUnion", 40.7]
+      ]
+    },
+    {
+      "id": "taxesOecd",
+      "unit": "percent",
+      "period": "2024",
+      "values": [
+        ["france", 43.5],
+        ["denmark", 45.2],
+        ["austria", 43.4],
+        ["germany", 38.0],
+        ["unitedKingdom", 34.4],
+        ["unitedStates", 25.6],
+        ["oecdAverage", 34.1]
+      ]
+    }
+  ]
+}

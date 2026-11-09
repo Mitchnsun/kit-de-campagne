@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Service-public.gouv.fr ne date pas ses barèmes du RSA et de la prime d'activité, ni son Smic net : ses pages indiquent seulement la date de leur vérification (1er avril 2026 pour le RSA, 1er juin 2026 pour la prime d'activité et le Smic). Le Smic net y est donné « à titre indicatif ».",
+    "Le RSA est un montant maximal, versé par foyer et diminué de ses ressources. Si le foyer touche une aide au logement, est hébergé gratuitement ou est propriétaire, un forfait logement est ajouté à ses ressources, donc retiré du RSA. L'Aspa est aussi un montant maximal, brut.",
+    "La condition de 5 ans de titre de séjour permettant de travailler est l'une des conditions de séjour possibles pour un étranger hors Union européenne, pas la seule. Elle vaut pour le RSA comme pour la prime d'activité ; pour le RSA, elle ne s'applique pas aux Algériens.",
+    "Les 4 418 500 allocations de minima sociaux versées fin 2024 ne sont pas autant de personnes : une personne peut en cumuler plusieurs. Le RSA couvre 3 658 700 personnes (allocataires, conjoints et personnes à charge) : ce nombre ne se compare pas à ses 1 840 200 allocataires."
+  ],
+  "en": [
+    "Service-public.gouv.fr does not date its RSA and activity bonus scales, nor its net Smic: its pages only give the date they were checked (1 April 2026 for the RSA, 1 June 2026 for the activity bonus and the Smic). The net Smic is given there “as an indication”.",
+    "The RSA is a maximum amount, paid per household and reduced by its resources. If the household receives housing aid, is housed free of charge or owns its home, a housing flat rate is added to its resources, and so taken off the RSA. The Aspa is also a maximum amount, gross.",
+    "Five years of a residence permit allowing work is one of the possible residence conditions for a non-EU foreign national, not the only one. It applies to the RSA as to the activity bonus; for the RSA, it does not apply to Algerian nationals.",
+    "The 4,418,500 minimum social benefit allowances paid at the end of 2024 are not as many people: one person can receive several. The RSA covers 3,658,700 people (recipients, partners and dependants): this number does not compare with its 1,840,200 recipients."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend qu'on gagne plus au RSA qu'en travaillant au Smic.",
+        "answer": "Selon service-public.gouv.fr, le RSA d'une personne seule est au plus de 651,69 € par mois (573,49 € avec le forfait logement, calculé). Le Smic net est de 1 477,93 € à titre indicatif, soit 2,3 fois le RSA (calculé), avant la prime d'activité. Ce calcul compare un salaire net à un minimum social, pas deux revenus disponibles."
+      },
+      {
+        "heard": "On entend que les étrangers touchent le RSA dès leur arrivée.",
+        "answer": "Selon service-public.gouv.fr, un étranger hors Union européenne doit, sauf exceptions (carte de résident, réfugiés, apatrides, protection subsidiaire), avoir depuis au moins 5 ans un titre de séjour permettant de travailler pour toucher le RSA. La condition ne s'applique pas aux Algériens. La même condition de 5 ans existe pour la prime d'activité."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that you earn more on the RSA than working on the Smic.",
+        "answer": "According to service-public.gouv.fr, the RSA of a single person is at most €651.69 a month (€573.49 with the housing flat rate, calculated). The net Smic is €1,477.93 as an indication, or 2.3 times the RSA (calculated), before the activity bonus. This calculation sets a net wage against a minimum social benefit, not two disposable incomes."
+      },
+      {
+        "heard": "You hear that foreigners get the RSA as soon as they arrive.",
+        "answer": "According to service-public.gouv.fr, a non-EU foreign national must, with exceptions (resident card, refugees, stateless people, subsidiary protection), have held for at least 5 years a residence permit allowing work to receive the RSA. The condition does not apply to Algerian nationals. The same 5-year condition exists for the activity bonus."
+      }
+    ]
+  }
+}

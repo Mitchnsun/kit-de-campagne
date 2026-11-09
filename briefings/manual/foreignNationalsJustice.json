@@ -1,0 +1,102 @@
+{
+  "id": "foreignNationalsJustice",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Références statistiques Justice 2026, fiche 12.2",
+      "publishedOn": "2026-07-15"
+    },
+    {
+      "producer": "Ministère de l'Intérieur",
+      "publication": "Réponse à la question écrite n° 9474, Journal officiel du 2 décembre 2025",
+      "publishedOn": "2025-12-02"
+    },
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Les chiffres clés de la Justice, édition 2026",
+      "publishedOn": "2026-10-28"
+    },
+    {
+      "producer": "Ministère de la Justice",
+      "publication": "Infos Rapides Justice n° 37",
+      "publishedOn": "2026-04-01"
+    }
+  ],
+  "headline": {
+    "series": "foreignIncarceratedShare",
+    "period": "2026-01",
+    "value": 22.6,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "foreignIncarceratedShare",
+      "frequency": "monthly",
+      "unit": "percent",
+      "sourceId": "Figure 4b",
+      "points": [["2026-01", 22.6]]
+    },
+    {
+      "id": "foreignReleasedShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2021", 27.9]]
+    },
+    {
+      "id": "foreignReoffending",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Figure 2",
+      "points": [
+        ["2016", 25.2],
+        ["2021", 31.1]
+      ]
+    },
+    {
+      "id": "frenchReoffending",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Figure 2",
+      "points": [
+        ["2016", 35.2],
+        ["2021", 35.5]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "suspectsForeignShare",
+      "unit": "percent",
+      "period": "2024",
+      "values": [
+        ["homicide", 18],
+        ["assault", 20],
+        ["sexualViolence", 13],
+        ["armedRobbery", 22],
+        ["violentTheft", 30],
+        ["burglary", 38]
+      ]
+    },
+    {
+      "id": "convictedByNationality",
+      "unit": "percent",
+      "period": "2025",
+      "status": "provisional",
+      "values": [
+        ["french", 83],
+        ["foreign", 17]
+      ]
+    },
+    {
+      "id": "incarceratedByNationality",
+      "unit": "percent",
+      "period": "2026-01",
+      "sourceId": "Figure 4b",
+      "values": [
+        ["french", 77.4],
+        ["foreign", 22.6]
+      ]
+    }
+  ]
+}

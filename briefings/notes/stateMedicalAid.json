@@ -1,0 +1,52 @@
+{
+  "fr": [
+    "Selon service-public.gouv.fr, l'AME permet aux étrangers en situation irrégulière d'accéder aux soins. Il faut résider en France depuis plus de 3 mois et ne pas dépasser un plafond de ressources : 10 421 € par an pour une personne seule en métropole.",
+    "Selon service-public.gouv.fr, l'AME prend en charge à 100 % les soins dans la limite des tarifs de la Sécurité sociale. Certains frais en sont exclus, comme les cures thermales ; certains soins non urgents attendent 9 mois après l'admission. Les mineurs restent couverts à 100 % dans tous les cas.",
+    "Ces règles sont lues sur service-public.gouv.fr (pages vérifiées entre avril et juin 2026) : les textes de loi n'ont pas pu être ouverts sur Légifrance. Selon le projet annuel de performances 2027, deux décrets du 6 février 2026 renforcent les contrôles.",
+    "Selon le projet annuel de performances 2027, les dépenses hospitalières font 65 % de la dépense, pour 15 % des bénéficiaires. Il ne dit pas si les 1 340 M€ comprennent les soins urgents, que la Direction de la Sécurité sociale présente à part (132 M€ en 2024)."
+  ],
+  "en": [
+    "According to service-public.gouv.fr, the AME gives foreigners in an irregular situation access to healthcare. They must have lived in France for more than 3 months and stay under an income ceiling: €10,421 a year for a single person in metropolitan France.",
+    "According to service-public.gouv.fr, the AME covers 100% of care within the tariffs of the Sécurité sociale. Some costs are excluded, such as spa treatments; some non-urgent care waits 9 months after admission. Minors remain covered at 100% in all cases.",
+    "These rules are read on service-public.gouv.fr (pages checked between April and June 2026): the legal texts could not be opened on Légifrance. According to the 2027 annual performance plan, two decrees of 6 February 2026 strengthen the checks.",
+    "According to the 2027 annual performance plan, hospital spending makes up 65% of the spending, for 15% of the beneficiaries. It does not say whether the €1,340 million include urgent care, which the Direction de la Sécurité sociale presents separately (€132 million in 2024)."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que l'AME coûte des milliards et offre des soins gratuits illimités aux clandestins.",
+        "answer": "Selon le projet annuel de performances 2027, l'AME de droit commun comptait 454 111 bénéficiaires fin 2025 et sa dépense a été de 1 340 M€ en 2025 ; selon la Direction de la Sécurité sociale, elle représentait 0,3 % des dépenses de l'État en 2024. Selon service-public.gouv.fr, elle prend en charge à 100 % les soins dans la limite des tarifs de la Sécurité sociale, avec des exclusions et un délai de 9 mois pour certains soins non urgents."
+      },
+      {
+        "heard": "On entend que les étrangers touchent le RSA dès leur arrivée.",
+        "answer": "Selon service-public.gouv.fr, un étranger doit avoir depuis au moins 5 ans un titre de séjour permettant de travailler, ou relever d'une des situations listées (carte de résident, réfugié, apatride, protection subsidiaire)."
+      },
+      {
+        "heard": "On entend que les immigrés touchent le minimum vieillesse sans avoir jamais cotisé.",
+        "answer": "Selon service-public.gouv.fr, l'ASPA demande de façon continue depuis au moins 10 ans un titre de séjour autorisant à travailler, ou une des situations listées (réfugié, apatride, protection subsidiaire, ressortissant de l'EEE ou de la Suisse, certaines nationalités)."
+      },
+      {
+        "heard": "On entend qu'il suffit d'une loi pour réserver les aides aux Français ou imposer 5 ans de résidence.",
+        "answer": "Le 11 avril 2024, le Conseil constitutionnel a jugé contraire à la Constitution une condition de 5 ans de résidence ou de 30 mois d'activité imposée aux étrangers non européens en situation régulière pour des prestations dont les aides au logement, les prestations familiales et l'APA. Il a aussi écrit qu'une condition de durée est possible si elle ne prive pas de garanties légales les exigences constitutionnelles. Sa décision portait sur une proposition de loi référendaire."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the AME costs billions and offers unlimited free care to illegal immigrants.",
+        "answer": "According to the 2027 annual performance plan, the ordinary AME had 454,111 beneficiaries at the end of 2025 and its spending was €1,340 million in 2025; according to the Direction de la Sécurité sociale, it made up 0.3% of State spending in 2024. According to service-public.gouv.fr, it covers 100% of care within the tariffs of the Sécurité sociale, with exclusions and a 9-month wait for some non-urgent care."
+      },
+      {
+        "heard": "You hear that foreigners receive the RSA as soon as they arrive.",
+        "answer": "According to service-public.gouv.fr, a foreigner must have held for at least 5 years a residence permit allowing them to work, or be in one of the situations listed (resident card, refugee, stateless person, subsidiary protection)."
+      },
+      {
+        "heard": "You hear that immigrants receive the minimum old-age pension without ever having paid in.",
+        "answer": "According to service-public.gouv.fr, the ASPA requires holding continuously for at least 10 years a residence permit allowing one to work, or one of the situations listed (refugee, stateless person, subsidiary protection, national of the EEA or Switzerland, certain nationalities)."
+      },
+      {
+        "heard": "You hear that a law is enough to reserve benefits for the French or to impose 5 years of residence.",
+        "answer": "On 11 April 2024, the Conseil constitutionnel ruled unconstitutional a condition of 5 years of residence or 30 months of activity imposed on non-European foreigners in a regular situation for benefits including housing aid, family benefits and the APA. It also wrote that a condition of duration is possible if it does not deprive the constitutional requirements of legal guarantees. Its decision concerned a referendum bill."
+      }
+    ]
+  }
+}

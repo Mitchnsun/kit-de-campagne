@@ -1,0 +1,60 @@
+{
+  "fr": [
+    "Les étapes n'ont ni la même unité ni la même année : des affaires pour les parquets (4,2 millions traitées en 2024), des auteurs pour la réponse pénale (2025), des condamnations pour les peines. Leurs chiffres ne s'enchaînent pas, et aucun pourcentage n'est calculé d'une étape à l'autre.",
+    "« Mise à exécution » comprend l'aménagement de peine. Selon le ministère de la Justice, la hausse de 15 points de l'exécution immédiate depuis 2020 tient à l'aménagement ab initio automatique prévu par la loi. Les aménagements accordés en cours de détention ne sont pas comptés dans les 41 %.",
+    "La récidive légale et la réitération regardent le passé des condamnés de 2025 ; le taux des sortants de prison regarde leur devenir, au sens large (toute nouvelle condamnation), sur des cohortes différentes : 2021 à un an, 2020 à deux ans, 2017 à cinq ans. Les deux mesures ne se comparent pas.",
+    "Les plafonds d'emplois sont des emplois autorisés (loi de finances 2025, projet de loi de finances 2026), pas des effectifs réels ; la loi de finances 2026 votée n'a pas été vérifiée. La série des juges d'Eurostat présente une rupture entre 2015 et 2017."
+  ],
+  "en": [
+    "The steps share neither unit nor year: cases for the prosecutors (4.2 million dealt with in 2024), perpetrators for the penal response (2025), convictions for the sentences. Their figures do not chain, and no percentage is calculated from one step to the next.",
+    "“Enforcement” includes sentence adjustment. According to the ministry of Justice, the 15-point rise in immediate enforcement since 2020 comes from the automatic adjustment from the outset provided for by law. Adjustments granted during detention are not counted in the 41%.",
+    "Legal recidivism and repeat offending look at the past of the people convicted in 2025; the rate of those released from prison looks at their future, in the broad sense (any new conviction), over different cohorts: 2021 within a year, 2020 within two years, 2017 within five years. The two measures do not compare.",
+    "The job ceilings are authorised jobs (2025 finance act, 2026 finance bill), not actual staff; the 2026 finance act as passed was not checked. Eurostat's series of judges has a break between 2015 and 2017."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la justice est laxiste, que presque personne ne va en prison et que les peines ne sont pas exécutées.",
+        "answer": "Selon le ministère de la Justice, 24 % des condamnations pour délit de 2024 (données provisoires) sont de la prison ferme, avec un quantum moyen de 11 mois contre 8 en 2017. En 2025, 58 % des peines de prison ferme sont mises à exécution immédiatement et 78 % à un an ; 90 % de celles devenues exécutoires en 2020 l'ont été dans les cinq ans. « Mise à exécution » comprend l'aménagement de peine : 41 % des peines mises à exécution en 2025 ont été aménagées ou converties avant toute incarcération."
+      },
+      {
+        "heard": "On entend que la justice classe sans suite sept plaintes sur dix.",
+        "answer": "Selon l'Insee, d'après le ministère de la Justice, plus de sept affaires sur dix traitées par les parquets en 2024 sont non poursuivables, et dans 67 % de ces cas l'auteur n'a pas été identifié. Pour les auteurs des affaires poursuivables, le taux de réponse pénale est de 87,8 % en 2025 selon le ministère de la Justice : poursuites, mesures alternatives réussies et compositions pénales."
+      },
+      {
+        "heard": "On entend que ce sont toujours les mêmes : les récidivistes.",
+        "answer": "Selon le ministère de la Justice, parmi les condamnés pour délit de 2025, 21,4 % sont en récidive légale et 23,6 % sont réitérants (données provisoires). Parmi les sortants de prison, 34,2 % sont de nouveau condamnés dans l'année (sortants de 2021) et 61,7 % dans les cinq ans (sortants de 2017). Ce sont deux mesures différentes : la première regarde le passé des condamnés, la seconde le devenir des sortants."
+      },
+      {
+        "heard": "On entend que la France manque de juges et de policiers.",
+        "answer": "Selon Eurostat, la France compte 7 654 juges professionnels en 2024, soit 11,15 pour 100 000 habitants ; les définitions nationales diffèrent d'un pays à l'autre. Le projet de loi de finances 2026 fixe les plafonds d'emplois à 153 286 ETPT pour la police nationale et 103 079 pour la gendarmerie, contre 152 690 et 103 077 dans la loi de finances 2025 : ce sont des emplois autorisés, pas des effectifs réels."
+      },
+      {
+        "heard": "On entend que les prisons sont pleines de petits délinquants, ou de grands criminels.",
+        "answer": "Selon le ministère de la Justice, au 1er janvier 2026, près de 30 % des 80 000 personnes écrouées et condamnées purgent une peine ferme d'un an ou moins, 23 % une peine de 1 à 2 ans, 24 % une peine de 2 à 5 ans et 23 % une peine de plus de 5 ans. Ces condamnés écroués comprennent des personnes non détenues."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the justice system is lenient, that hardly anyone goes to prison and that sentences are not enforced.",
+        "answer": "According to the ministry of Justice, 24% of the convictions for misdemeanours in 2024 (provisional data) are unsuspended prison sentences, with a mean length of 11 months against 8 in 2017. In 2025, 58% of prison sentences are enforced immediately and 78% within a year; 90% of those enforceable in 2020 were enforced within five years. “Enforcement” includes sentence adjustment: 41% of the sentences enforced in 2025 were adjusted or converted before any imprisonment."
+      },
+      {
+        "heard": "You hear that the justice system drops seven complaints out of ten.",
+        "answer": "According to the Insee, after the ministry of Justice, more than seven in ten cases dealt with by prosecutors in 2024 cannot be prosecuted, and in 67% of these the perpetrator was not identified. For the perpetrators in cases that can be prosecuted, the penal response rate is 87.8% in 2025 according to the ministry of Justice: prosecutions, successful alternative measures and penal settlements."
+      },
+      {
+        "heard": "You hear that it is always the same people: reoffenders.",
+        "answer": "According to the ministry of Justice, among the people convicted of a misdemeanour in 2025, 21.4% are legal recidivists and 23.6% are repeat offenders (provisional data). Among the people released from prison, 34.2% are convicted again within a year (released in 2021) and 61.7% within five years (released in 2017). These are two different measures: the first looks at the past of the convicted, the second at what becomes of those released."
+      },
+      {
+        "heard": "You hear that France lacks judges and police officers.",
+        "answer": "According to Eurostat, France has 7,654 professional judges in 2024, or 11.15 per 100,000 inhabitants; national definitions differ from one country to another. The 2026 finance bill sets the job ceilings at 153,286 full-time equivalents for the national police and 103,079 for the gendarmerie, against 152,690 and 103,077 in the 2025 finance act: these are authorised jobs, not actual staff."
+      },
+      {
+        "heard": "You hear that prisons are full of petty offenders, or of serious criminals.",
+        "answer": "According to the ministry of Justice, on 1 January 2026, nearly 30% of the 80,000 convicted people committed to prison are serving a sentence of a year or less, 23% a sentence of 1 to 2 years, 24% of 2 to 5 years and 23% of more than 5 years. These convicted people committed to prison include people who are not detained."
+      }
+    ]
+  }
+}

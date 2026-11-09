@@ -1,0 +1,44 @@
+{
+  "fr": [
+    "Le taux de protection de l'Ofpra rapporte ses décisions d'accord aux accords et aux rejets de l'année : les irrecevabilités sont comptées dans les rejets, les clôtures exclues. Pour 2024, le rapport de l'Ofpra écrit 38,8 % dans son tableau et 38,9 % dans son texte.",
+    "La CNDA juge les recours contre les rejets de l'Ofpra : en 2025, 12 391 décisions de protection sur 53 086 décisions. Selon elle, la part des rejets de l'Ofpra contestés devant elle est passée de 84 % à 87 %.",
+    "Le taux synthétique de 52,1 % est publié par la DGEF, qui ne détaille pas sa formule : il réunit les protections accordées par l'Ofpra et par la CNDA, soit 78 782 personnes protégées en 2025 (78 783 selon l'Ofpra).",
+    "Les rapports pour 100 000 habitants et les parts de décisions positives sont calculés d'après Eurostat, qui ne les publie pas. La part calculée pour la France (40,0 %) et le taux de l'Ofpra (41,2 %) ne reposent pas sur le même décompte des décisions."
+  ],
+  "en": [
+    "Ofpra's protection rate sets its decisions to grant against the grants and rejections of the year: inadmissibility decisions count as rejections, closures are left out. For 2024, Ofpra's report gives 38.8% in its table and 38.9% in its text.",
+    "The CNDA rules on appeals against Ofpra's rejections: in 2025, 12,391 decisions granting protection out of 53,086 decisions. According to the CNDA, the share of Ofpra's rejections appealed before it rose from 84% to 87%.",
+    "The overall rate of 52.1% is published by the DGEF, which does not detail its formula: it brings together the protection granted by Ofpra and by the CNDA, or 78,782 people protected in 2025 (78,783 according to Ofpra).",
+    "The rates per 100,000 inhabitants and the shares of positive decisions are calculated from Eurostat, which does not publish them. The share calculated for France (40.0%) and Ofpra's rate (41.2%) do not rest on the same count of decisions."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que 90 % des demandeurs d'asile sont déboutés.",
+        "answer": "En 2025, l'Ofpra a accordé une protection dans 41,2 % de ses décisions et la CNDA dans 23,3 % des siennes ; la DGEF publie un taux synthétique de 52,1 %."
+      },
+      {
+        "heard": "On entend que la France accueille le plus de demandeurs d'asile d'Europe et accorde l'asile plus facilement que les autres.",
+        "answer": "D'après les chiffres d'Eurostat, la France est en 2025 la 3e de l'UE en volume de primo-demandeurs d'asile et la 9e sur 27 par habitant (calculé) : 169 pour 100 000 habitants, contre 149 dans l'UE. En première instance, 40,0 % des décisions sont positives en France et 39,1 % dans l'UE (calculé)."
+      },
+      {
+        "heard": "On entend que les demandeurs d'asile touchent plus qu'un retraité.",
+        "answer": "Selon le projet annuel de performances 2027 du Gouvernement, l'allocation pour demandeur d'asile serait versée en 2027 à 65 944 personnes en moyenne par mois, pour un montant moyen de 212 € par mois et par personne. C'est une prévision budgétaire."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that 90% of asylum seekers are rejected.",
+        "answer": "In 2025, Ofpra granted protection in 41.2% of its decisions and the CNDA in 23.3% of its own; the DGEF publishes an overall rate of 52.1%."
+      },
+      {
+        "heard": "You hear that France takes in the most asylum seekers in Europe and grants asylum more easily than the others.",
+        "answer": "From Eurostat's figures, in 2025 France is 3rd in the EU by number of first-time asylum applicants and 9th out of 27 per inhabitant (calculated): 169 per 100,000 inhabitants, against 149 in the EU. At first instance, 40.0% of decisions are positive in France and 39.1% in the EU (calculated)."
+      },
+      {
+        "heard": "You hear that asylum seekers receive more than a pensioner.",
+        "answer": "According to the Government's 2027 annual performance plan, the asylum seeker allowance would be paid in 2027 to 65,944 people on average each month, at an average of €212 a month per person. This is a budget forecast."
+      }
+    ]
+  }
+}

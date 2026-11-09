@@ -1,0 +1,100 @@
+{
+  "id": "minimumIncomes",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "DILA, service-public.gouv.fr",
+      "publication": "RSA : demandeur de 25 ans et plus",
+      "publishedOn": "2026-04-01"
+    },
+    {
+      "producer": "DILA, service-public.gouv.fr",
+      "publication": "Smic (salaire minimum interprofessionnel de croissance)",
+      "publishedOn": "2026-06-01"
+    },
+    {
+      "producer": "DILA, service-public.gouv.fr",
+      "publication": "Prime d'activité : salarié ou fonctionnaire",
+      "publishedOn": "2026-06-01"
+    },
+    {
+      "producer": "DILA, service-public.gouv.fr",
+      "publication": "Allocation de solidarité aux personnes âgées (Aspa)",
+      "publishedOn": "2026-06-23"
+    },
+    {
+      "producer": "DREES",
+      "publication": "Minima sociaux, RSA et prime d'activité",
+      "publishedOn": "2025-12-03"
+    }
+  ],
+  "headline": {
+    "series": "rsaSingle",
+    "period": "2026",
+    "value": 651.69,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "rsaSingle",
+      "frequency": "annual",
+      "unit": "euro",
+      "points": [["2026", 651.69]]
+    },
+    {
+      "id": "allowances",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [["2024", 4418500]]
+    },
+    {
+      "id": "rsaCoveredPeople",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [["2024", 3658700]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "singlePerson",
+      "unit": "euro",
+      "period": "2026",
+      "values": [
+        ["rsaSingle", 651.69],
+        ["aspaSingle", 1043.59],
+        ["smicNet", 1477.93]
+      ]
+    },
+    {
+      "id": "calculation",
+      "unit": "euro",
+      "period": "2026",
+      "values": [
+        ["housingFlat", 78.2],
+        ["activityBonusFlat", 638.28]
+      ]
+    },
+    {
+      "id": "recipients",
+      "unit": "count",
+      "period": "2024",
+      "values": [
+        ["rsa", 1840200],
+        ["aah", 1397800],
+        ["oldAgeMinimum", 754500],
+        ["ass", 265000]
+      ]
+    },
+    {
+      "id": "spending",
+      "unit": "billionEuro",
+      "period": "2024",
+      "values": [
+        ["rsa", 12.358],
+        ["aah", 13.839],
+        ["oldAgeMinimum", 4.586],
+        ["total", 33.291]
+      ]
+    }
+  ]
+}

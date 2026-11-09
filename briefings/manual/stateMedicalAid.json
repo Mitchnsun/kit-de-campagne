@@ -1,0 +1,75 @@
+{
+  "id": "stateMedicalAid",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Gouvernement",
+      "publication": "Projet annuel de performances 2027, mission Santé",
+      "publishedOn": "2026-09-30"
+    },
+    {
+      "producer": "Direction de la Sécurité sociale",
+      "publication": "Les Comptes de la Sécurité sociale, juin 2025, fiche 3.3 L'Aide médicale de l'État",
+      "publishedOn": "2025-06-26"
+    },
+    {
+      "producer": "DILA (service-public.gouv.fr)",
+      "publication": "Qu'est-ce que l'aide médicale de l'État (AME) ?",
+      "publishedOn": "2026-04-01"
+    },
+    {
+      "producer": "DILA (service-public.gouv.fr)",
+      "publication": "RSA : demandeur de 25 ans et plus",
+      "publishedOn": "2026-04-01"
+    },
+    {
+      "producer": "DILA (service-public.gouv.fr)",
+      "publication": "Allocation de solidarité aux personnes âgées (Aspa)",
+      "publishedOn": "2026-06-23"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2024-6 RIP du 11 avril 2024",
+      "publishedOn": "2024-04-11"
+    }
+  ],
+  "headline": {
+    "series": "beneficiaries",
+    "period": "2025",
+    "value": 454111,
+    "trend": "down"
+  },
+  "series": [
+    {
+      "id": "beneficiaries",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2024", 465208],
+        ["2025", 454111]
+      ]
+    },
+    {
+      "id": "spending",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2025", 1.34]]
+    },
+    {
+      "id": "requestedCredits",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Action 02",
+      "status": {
+        "2027": "projection"
+      },
+      "points": [["2027", 1.2083]]
+    },
+    {
+      "id": "shareOfStateSpending",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2024", 0.3]]
+    }
+  ]
+}

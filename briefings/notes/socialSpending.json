@@ -1,0 +1,44 @@
+{
+  "fr": [
+    "Les prestations de 2024 sont des données semi-définitives de la DREES, en euros courants et tous régimes ; la santé comprend l'invalidité et les accidents du travail. La vieillesse-survie en représente 45,7 % et la santé 36,4 % (calculé).",
+    "Le RSA socle pèse 1,3 % des prestations (calculé : 11,98 Md€ sur 933,2 Md€), sur le périmètre des comptes de la protection sociale. Les données de la DREES sur les minima sociaux, qui comptent la prime de Noël et les indus, donnent au RSA un montant plus élevé.",
+    "Les chiffres d'Eurostat de 2024 sont provisoires, pour la France comme pour l'UE. Le total en % du PIB compte les prestations et les frais de fonctionnement : il dépasse les seules prestations (31,79 % du PIB en France). Les fonctions montrées ne comprennent pas l'invalidité.",
+    "Le déficit des régimes de base de la sécurité sociale et du Fonds de solidarité vieillesse (FSV) atteint 0,7 point de PIB en 2025. Les montants de 2026 et 2027 sont des prévisions de la Commission des comptes, faites avant les mesures de la loi de financement pour 2027."
+  ],
+  "en": [
+    "The benefits of 2024 are semi-definitive figures from the DREES, in current euros and for all schemes; health includes disability and accidents at work. Old age and survivors account for 45.7% of them and health for 36.4% (calculated).",
+    "The basic RSA weighs 1.3% of benefits (calculated: €11.98 billion out of €933.2 billion), within the scope of the social protection accounts. The DREES's data on minimum social benefits, which count the Christmas bonus and overpayments, give the RSA a higher amount.",
+    "Eurostat's 2024 figures are provisional, for France as for the EU. The total in % of GDP counts benefits and running costs: it exceeds benefits alone (31.79% of GDP in France). The functions shown leave out disability.",
+    "The deficit of the basic social security schemes and the old-age solidarity fund (FSV) reaches 0.7 point of GDP in 2025. The amounts of 2026 and 2027 are forecasts of the Commission des comptes, made before the measures of the 2027 financing act."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que le RSA coûte une fortune et que l'assistanat plombe les comptes.",
+        "answer": "Selon les comptes de la protection sociale de la DREES, le RSA socle représente 11,98 Md€ en 2024 sur 933,2 Md€ de prestations de protection sociale, soit 1,3 % (calculé). Les pensions pèsent bien davantage : 426,7 Md€ pour la vieillesse-survie."
+      },
+      {
+        "heard": "On entend que la France est championne d'Europe des dépenses sociales.",
+        "answer": "C'est exact selon Eurostat : en 2024, la France consacre 34,19 % du PIB à la protection sociale (chiffre provisoire), le niveau le plus élevé des 27 pays de l'Union, contre 28,42 % en moyenne. L'écart vient surtout des retraites : 14,54 % du PIB contre 12,81 % pour la vieillesse et la survie. Pour la famille, la France est sous la moyenne (2,23 % contre 2,40 %)."
+      },
+      {
+        "heard": "On entend que les arrêts maladie explosent.",
+        "answer": "Selon la Commission des comptes de la sécurité sociale, les indemnités journalières de maladie du régime général atteignent 11,1 Md€ en 2025 et ont augmenté de 5,7 % par an en moyenne entre 2019 et 2025. Elles ralentiraient en 2026 (+0,7 %, prévision), en partie parce que leur plafond de calcul a été ramené à 1,4 Smic en avril 2025. Celles des accidents du travail et maladies professionnelles augmenteraient de 12,6 % en 2026 (prévision)."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the RSA costs a fortune and that welfare is sinking the accounts.",
+        "answer": "According to the DREES's social protection accounts, the basic RSA amounts to €11.98 billion in 2024 out of €933.2 billion of social protection benefits, or 1.3% (calculated). Pensions weigh far more: €426.7 billion for old age and survivors."
+      },
+      {
+        "heard": "You hear that France is Europe's champion of social spending.",
+        "answer": "That is right according to Eurostat: in 2024, France devotes 34.19% of GDP to social protection (a provisional figure), the highest level of the 27 countries of the Union, against 28.42% on average. The gap comes mostly from pensions: 14.54% of GDP against 12.81% for old age and survivors. For the family, France is below the average (2.23% against 2.40%)."
+      },
+      {
+        "heard": "You hear that sick leave is soaring.",
+        "answer": "According to the Commission des comptes de la sécurité sociale, the general scheme's sickness daily allowances reach €11.1 billion in 2025 and rose by 5.7% a year on average between 2019 and 2025. They would slow in 2026 (+0.7%, forecast), partly because their calculation ceiling was lowered to 1.4 Smic in April 2025. Those for accidents at work and occupational diseases would rise by 12.6% in 2026 (forecast)."
+      }
+    ]
+  }
+}

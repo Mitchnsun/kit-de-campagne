@@ -1,0 +1,79 @@
+{
+  "id": "euContribution",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Direction du budget",
+      "publication": "Relations financières avec l'Union européenne, annexe au projet de loi de finances pour 2027",
+      "publishedOn": "2026-10-01"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Projet de loi de finances pour 2027, n° 3210",
+      "publishedOn": "2026-10-01"
+    }
+  ],
+  "headline": {
+    "series": "levyExecuted",
+    "period": "2025",
+    "value": 22.962,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "levyExecuted",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "PSR-UE",
+      "points": [["2025", 22.962]]
+    },
+    {
+      "id": "levyBudget",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "PSR-UE",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        ["2026", 28.44],
+        ["2027", 30.906]
+      ]
+    },
+    {
+      "id": "levyRevised",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "PSR-UE",
+      "status": {
+        "2026": "projection"
+      },
+      "points": [["2026", 28.118]]
+    },
+    {
+      "id": "euSpending",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2025", 16.4]]
+    },
+    {
+      "id": "capSpending",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2025", 9.4]]
+    },
+    {
+      "id": "netAccounting",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2025", -9.5]]
+    },
+    {
+      "id": "netCommission",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2025", -6.4]]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "removals",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Ministère de l'Intérieur (DGEF)",
+      "publication": "Les étrangers en France 2025 – Rapport au Parlement",
+      "publishedOn": "2026-09-28"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "La politique de lutte contre l'immigration irrégulière",
+      "publishedOn": "2024-01-04"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Enforcement of Immigration Legislation (migr_eil)",
+      "publishedOn": "2024-02-21"
+    },
+    {
+      "producer": "Gouvernement",
+      "publication": "Projet annuel de performances 2027, mission Immigration, asile et intégration",
+      "publishedOn": "2026-09-29"
+    }
+  ],
+  "headline": {
+    "series": "removalsExecuted",
+    "period": "2025",
+    "value": 24275,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "removalsExecuted",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2021", 12759],
+        ["2022", 14947],
+        ["2023", 16522],
+        ["2024", 21011],
+        ["2025", 24275]
+      ]
+    },
+    {
+      "id": "removalMeasures",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2021", 143226],
+        ["2022", 153042],
+        ["2023", 156434],
+        ["2024", 145107],
+        ["2025", 156180]
+      ]
+    },
+    {
+      "id": "detentionRemovalRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Indicateur 3.1",
+      "points": [
+        ["2024", 38.75],
+        ["2025", 36]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "removalsByType",
+      "unit": "count",
+      "period": "2025",
+      "values": [
+        ["forced", 15253],
+        ["assisted", 4564],
+        ["spontaneous", 4458]
+      ]
+    },
+    {
+      "id": "measuresByType",
+      "unit": "count",
+      "period": "2025",
+      "values": [
+        ["thirdCountryReturns", 137980],
+        ["readmissions", 13104],
+        ["euNationals", 5096]
+      ]
+    },
+    {
+      "id": "courtFindings",
+      "unit": "percent",
+      "period": "2022",
+      "values": [
+        ["allMeasures", 10],
+        ["enforceableOqtf", 12]
+      ]
+    },
+    {
+      "id": "forcedRateByGround",
+      "unit": "percent",
+      "period": "2022",
+      "sourceId": "Tableau n° 7",
+      "values": [
+        ["criminalConviction", 45],
+        ["publicOrderThreat", 23],
+        ["dublin", 14],
+        ["irregularEntry", 6],
+        ["permitRefusal", 2],
+        ["rejectedAsylum", 2]
+      ]
+    }
+  ]
+}

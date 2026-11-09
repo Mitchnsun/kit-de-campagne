@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "Les 5,9 millions d'agents de l'Insee comptent les contrats aidés. Selon l'Insee, ces niveaux ne sont pas totalement comparables à ceux de ses publications antérieures ; l'évolution entre 2023 et 2024 l'est : +0,6 %, soit 32 800 agents de plus.",
+    "Les agents par statut viennent de la DGAFP, hors contrats aidés : leur total, 5,85 millions, se rapproche des 5 850 900 agents hors contrats aidés de l'Insee, pas de ses 5 876 700 agents contrats aidés compris.",
+    "Les contractuels représentent 24,0 % des agents publics fin 2024, 0,7 point de plus qu'en 2023 et 7,6 points de plus que dix ans auparavant, selon l'Insee.",
+    "Selon la DGAFP, le taux d'administration est de 77 agents pour 1 000 habitants, hors militaires et hors Mayotte. La part de 19,8 % rapporte la fonction publique à tout l'emploi de 2024, salarié et non salarié, contrats aidés compris."
+  ],
+  "en": [
+    "The Insee's 5.9 million employees include subsidised contracts. According to the Insee, these levels do not fully compare with those of its earlier publications; the change between 2023 and 2024 does: +0.6%, or 32,800 more employees.",
+    "The employees by status come from the DGAFP, excluding subsidised contracts: their total, 5.85 million, is close to the Insee's 5,850,900 employees excluding subsidised contracts, not to its 5,876,700 including them.",
+    "Contract staff make up 24.0% of public employees at the end of 2024, 0.7 point more than in 2023 and 7.6 points more than ten years earlier, according to the Insee.",
+    "According to the DGAFP, the administration rate is 77 employees per 1,000 inhabitants, excluding the military and Mayotte. The share of 19.8% sets the civil service against all employment in 2024, employees and self-employed, subsidised contracts included."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend qu'il y a trop de fonctionnaires, 5,9 millions de fonctionnaires.",
+        "answer": "Selon l'Insee, la fonction publique compte 5,9 millions d'agents fin 2024, mais tous ne sont pas fonctionnaires. La DGAFP dénombre, hors contrats aidés, 3 745 800 fonctionnaires, 1 407 700 contractuels, 312 900 militaires et 381 900 agents d'autres statuts. Les contractuels font 24,0 % des agents (Insee). La fonction publique représente 19,8 % de l'emploi total, avec 77 agents pour 1 000 habitants hors militaires (DGAFP)."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that there are too many civil servants, 5.9 million civil servants.",
+        "answer": "According to the Insee, the civil service has 5.9 million employees at the end of 2024, but not all are civil servants. The DGAFP counts, excluding subsidised contracts, 3,745,800 civil servants, 1,407,700 contract staff, 312,900 military personnel and 381,900 employees of other statuses. Contract staff make up 24.0% of employees (Insee). The civil service accounts for 19.8% of total employment, with 77 employees per 1,000 inhabitants excluding the military (DGAFP)."
+      }
+    ]
+  }
+}
