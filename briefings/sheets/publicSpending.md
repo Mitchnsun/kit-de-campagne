@@ -58,6 +58,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 ## Mises à jour
 
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que la France est le pays qui dépense le plus. » ; « On entend que la France est le pays le plus taxé d'Europe, voire du monde. » ; reformulées : « On entend que l'ISF rapportait des milliards et que l'IFI ne rapporte rien. » devient « On entend que l'IFI, qui a remplacé l'ISF, ne rapporte rien. » ; « On entend que le Parlement coûte une fortune et qu'il faut supprimer des députés. » devient « On entend que le Parlement coûte une fortune. ».
+- **09/11/2026** : vue « Classement UE », à la demande du PO : les dépenses publiques (`spendingRanking`, `gov_10a_main`, `TE`, % du PIB) et les impôts et cotisations sociales nettes (`taxesRanking`, `gov_10a_taxag`) des 27 États membres en 2025, lus par l'API d'Eurostat le 09/11/2026 (mises à jour du 21/10/2026 et du 05/11/2026) et recoupés avec les deux communiqués déjà cités par la page (France 57,3 %, 2e derrière la Finlande, 57,5 % ; France 46,0 %, 1re ; Irlande dernière dans les deux cas). Égalité à 45,3 % entre la Lettonie et l'Espagne pour les dépenses.
 
 ## Relecture
 
