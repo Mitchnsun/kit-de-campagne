@@ -14,13 +14,13 @@
   "claims": {
     "fr": [
       {
-        "heard": "On entend qu'il y a trop de fonctionnaires, 5,9 millions de fonctionnaires.",
+        "heard": "On entend qu'il y a 5,9 millions de fonctionnaires.",
         "answer": "Selon l'Insee, la fonction publique compte 5,9 millions d'agents fin 2024, mais tous ne sont pas fonctionnaires. La DGAFP dénombre, hors contrats aidés, 3 745 800 fonctionnaires, 1 407 700 contractuels, 312 900 militaires et 381 900 agents d'autres statuts. Les contractuels font 24,0 % des agents (Insee). La fonction publique représente 19,8 % de l'emploi total, avec 77 agents pour 1 000 habitants hors militaires (DGAFP)."
       }
     ],
     "en": [
       {
-        "heard": "You hear that there are too many civil servants, 5.9 million civil servants.",
+        "heard": "You hear that there are 5.9 million civil servants.",
         "answer": "According to the Insee, the civil service has 5.9 million employees at the end of 2024, but not all are civil servants. The DGAFP counts, excluding subsidised contracts, 3,745,800 civil servants, 1,407,700 contract staff, 312,900 military personnel and 381,900 employees of other statuses. Contract staff make up 24.0% of employees (Insee). The civil service accounts for 19.8% of total employment, with 77 employees per 1,000 inhabitants excluding the military (DGAFP)."
       }
     ]

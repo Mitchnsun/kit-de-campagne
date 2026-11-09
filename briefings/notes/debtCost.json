@@ -26,10 +26,6 @@
         "answer": "En 2027, l'État doit rembourser 179,5 Md€ d'emprunts arrivant à échéance, qu'il finance avec de nouvelles émissions de 340,0 Md€. Chaque emprunt arrivé à échéance est donc remboursé, avec de l'argent emprunté à nouveau, et la dette totale augmente tant qu'il y a un déficit."
       },
       {
-        "heard": "On entend que la dette, c'est 50 000 € par Français.",
-        "answer": "Aucun organisme officiel ne publie ce ratio. Le calcul donne environ 50 100 € (3 460,1 Md€ pour 69,1 millions d'habitants), mais ce n'est pas une dette personnelle exigible : les administrations détiennent aussi des actifs, et la dette nette est de 3 242,7 Md€."
-      },
-      {
         "heard": "On entend que les fonctionnaires creusent la dette, ou que c'est la faute des collectivités.",
         "answer": "La rémunération des salariés de toutes les administrations publiques est de 370,0 Md€ en 2025, soit 21,6 % des dépenses publiques (calculé). Selon le Haut Conseil, entre 2026 et 2027 la hausse de la dépense viendrait pour 30 % de la charge d'intérêts et 2 % des collectivités, dans un tableau schématique."
       }
@@ -46,10 +42,6 @@
       {
         "heard": "You hear that the State never repays its debt and only pays the interest.",
         "answer": "In 2027, the State must repay €179.5 billion of loans falling due, which it finances with new issues of €340.0 billion. Each loan that falls due is therefore repaid, with money borrowed again, and the total debt rises as long as there is a deficit."
-      },
-      {
-        "heard": "You hear that the debt comes to €50,000 per French person.",
-        "answer": "No official body publishes this ratio. The calculation gives about €50,100 (€3,460.1 billion for 69.1 million inhabitants), but it is not a personal debt that can be called in: public bodies also hold assets, and the net debt is €3,242.7 billion."
       },
       {
         "heard": "You hear that civil servants are behind the debt, or that local authorities are to blame.",

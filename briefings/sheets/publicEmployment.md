@@ -26,7 +26,7 @@ Les quatre points en anglais disent la même chose que le français.
 
 L'affirmation est dans `briefings/notes/publicEmployment.json` (clé `claims`, français et anglais), reprise des affirmations relues du rapport de recherche du 09/11/2026. Source de chaque chiffre de la réponse :
 
-1. « On entend qu'il y a trop de fonctionnaires, 5,9 millions de fonctionnaires. » 5,9 millions d'agents fin 2024 : Insee Première n° 2094. 3 745 800 fonctionnaires, 1 407 700 contractuels, 312 900 militaires et 381 900 agents d'autres statuts, hors contrats aidés : DGAFP, Chiffres clés 2026. 24,0 % de contractuels : Insee. 19,8 % de l'emploi total et 77 agents pour 1 000 habitants hors militaires : DGAFP. La réponse de la recherche est réécrite pour nommer chaque producteur et dire que les statuts sont hors contrats aidés (leur somme, 5,85 millions, n'est pas les 5,9 millions de l'Insee). La presse (franceinfo, « Vrai ou faux », 08/09/2026) écrit que « les 3,7 millions … ne sont pas autant de bureaucrates » : contexte seulement, aucun chiffre repris.
+1. « On entend qu'il y a 5,9 millions de fonctionnaires. » 5,9 millions d'agents fin 2024 : Insee Première n° 2094. 3 745 800 fonctionnaires, 1 407 700 contractuels, 312 900 militaires et 381 900 agents d'autres statuts, hors contrats aidés : DGAFP, Chiffres clés 2026. 24,0 % de contractuels : Insee. 19,8 % de l'emploi total et 77 agents pour 1 000 habitants hors militaires : DGAFP. La réponse de la recherche est réécrite pour nommer chaque producteur et dire que les statuts sont hors contrats aidés (leur somme, 5,85 millions, n'est pas les 5,9 millions de l'Insee). La presse (franceinfo, « Vrai ou faux », 08/09/2026) écrit que « les 3,7 millions … ne sont pas autant de bureaucrates » : contexte seulement, aucun chiffre repris.
 
 ## Double vérification
 
@@ -47,7 +47,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : reformulées : « On entend qu'il y a trop de fonctionnaires, 5,9 millions de fonctionnaires. » devient « On entend qu'il y a 5,9 millions de fonctionnaires. ».
 
 ## Relecture
 

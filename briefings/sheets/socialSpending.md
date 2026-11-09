@@ -27,8 +27,6 @@ Les quatre points en anglais disent la même chose que le français.
 Chaque affirmation est dans `briefings/notes/socialSpending.json` (clé `claims`, français et anglais), reprise des affirmations relues du rapport de recherche du 09/11/2026. Source de chaque chiffre de la réponse :
 
 1. « On entend que le RSA coûte une fortune et que l'assistanat plombe les comptes. » 11,98 Md€ (RSA socle), 933,2 Md€ (prestations) et 426,7 Md€ (vieillesse-survie), 2024 : DREES, classeur des comptes de la protection sociale. 1,3 % : calculé (11 983,6 / 933 160,5 = 1,28 %). La phrase de la recherche sur l'ensemble des minima sociaux (33,3 Md€, fichier des dépenses de minima de la DREES) est retirée de la réponse : ce fichier n'est pas une source de cette page, et son périmètre diffère.
-2. « On entend que la France est championne d'Europe des dépenses sociales. » 34,19 % et 28,42 % du PIB (2024, provisoires) : Eurostat, tps00098 ; « le niveau le plus élevé des 27 pays de l'Union » : classement refait par la double vérification sur les 27 pays, même année, même indicateur (France 34,19, Finlande 32,91, Autriche 32,31). 14,54 / 12,81 % (vieillesse et survie) et 2,23 / 2,40 % (famille) : Eurostat, spr_exp_func. Chaque comparaison oppose la France à l'UE sur le même indicateur ; « l'écart vient surtout des retraites » est la lecture de la recherche (l'écart de la vieillesse et de la survie, 1,73 point, calculé, est le plus grand des fonctions saisies).
-3. « On entend que les arrêts maladie explosent. » 11,1 Md€ d'indemnités journalières de maladie du régime général en 2025, + 5,7 % par an en moyenne de 2019 à 2025, + 0,7 % prévu en 2026, + 12,6 % prévu pour les IJ d'accidents du travail et maladies professionnelles : CCSS, rapport d'octobre 2026, fiche 2.3, tableau des soins de ville (« IJ Maladie 11 122 11 204 0,7% 5,7% » ; « IJ AT-MP 5 515 6 208 12,6% 7,9% » ; données corrigées des jours ouvrables, régime général et anciens affiliés du RSI). Plafond ramené à 1,4 Smic depuis le 1er avril 2025 : même fiche (« Cette baisse s'explique par la modification du plafond de revenu de référence des IJ de sécurité sociale à 1,4 fois le Smic depuis le 1er avril 2025 »). La CCSS étant une source de la page, l'affirmation y est rangée ; elle n'a pas de page « Arrêts maladie » à elle.
 
 ## Double vérification
 
@@ -53,7 +51,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que la France est championne d'Europe des dépenses sociales. » ; « On entend que les arrêts maladie explosent. ».
 
 ## Relecture
 

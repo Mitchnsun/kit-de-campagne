@@ -30,8 +30,7 @@ Chaque affirmation est dans `briefings/notes/socialFraud.json` (clé `claims`, f
 2. « On entend que la fraude sociale, c'est d'abord celle des allocataires. » 52 %, 36 % et 12 % : synthèse du HCFiPS (« plus de 52 % de la fraude évaluée » ; 36 % assurés ; 12 % professionnels).
 3. « On entend que les arrêts maladie, c'est de la fraude. » 1,8 % et 230 M€ sur environ 7 000 arrêts tirés au hasard : note du HCFiPS, p. 12 (« Le taux de fraude estimé s'élève à 1,8 % (230 M€). »).
 4. « On entend que la lutte contre la fraude financera le programme. » 8 %, 53 % et 53 % en 2024 : Cour des comptes, « La sécurité sociale 2026 » (« le recouvrement des indus frauduleux est très variable »). La conclusion (« une fraude détectée n'est pas toujours recouvrée ») est une lecture de ces taux, pas une phrase de la source.
-5. « On entend que des milliards d'aides ne sont jamais réclamés. » 31 % et 66 % (estimation de 2021) : Cour des comptes, « La sécurité sociale 2026 ». Seconde main : la Cour cite le rapport annuel 2024 de la DSS sur la C2S (note 250), que la double vérification n'a pas ouvert.
-6. « On entend que les étrangers fraudent les prestations. » « La fraude à la résidence n'est pas évaluée » : Cour des comptes, « La sécurité sociale 2026 ». La réponse dit seulement que les répartitions montrées ici (par nature, par auteur, par branche) ne portent pas sur la nationalité : un constat sur la page, qui se lit dans les répartitions saisies, non une phrase de la source.
+5. « On entend que les étrangers fraudent les prestations. » « La fraude à la résidence n'est pas évaluée » : Cour des comptes, « La sécurité sociale 2026 ». La réponse dit seulement que les répartitions montrées ici (par nature, par auteur, par branche) ne portent pas sur la nationalité : un constat sur la page, qui se lit dans les répartitions saisies, non une phrase de la source.
 
 ## Double vérification
 
@@ -58,7 +57,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que des milliards d'aides ne sont jamais réclamés. ».
 
 ## Relecture
 

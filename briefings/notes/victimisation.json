@@ -14,7 +14,7 @@
   "claims": {
     "fr": [
       {
-        "heard": "On entend que la violence explose et que la délinquance est hors de contrôle.",
+        "heard": "On entend que les homicides explosent.",
         "answer": "Selon Eurostat, les homicides enregistrés valent 1,52 pour 100 000 habitants en 2008 et 1,28 en 2024 (série française sans les coups et blessures suivis de mort). Selon le SSMSI, les victimes de tentatives d'homicide enregistrées passent de 2 259 en 2016 à 4 501 en 2025 : ce sont des faits enregistrés."
       },
       {
@@ -28,7 +28,7 @@
     ],
     "en": [
       {
-        "heard": "You hear that violence is exploding and crime is out of control.",
+        "heard": "You hear that homicides are soaring.",
         "answer": "According to Eurostat, recorded homicides stand at 1.52 per 100,000 inhabitants in 2008 and 1.28 in 2024 (French series without serious assault leading to death). According to the SSMSI, recorded victims of attempted homicide go from 2,259 in 2016 to 4,501 in 2025: these are recorded offences."
       },
       {

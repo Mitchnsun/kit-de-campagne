@@ -18,11 +18,7 @@
         "answer": "Selon le projet annuel de performances 2027, l'AME de droit commun comptait 454 111 bénéficiaires fin 2025 et sa dépense a été de 1 340 M€ en 2025 ; selon la Direction de la Sécurité sociale, elle représentait 0,3 % des dépenses de l'État en 2024. Selon service-public.gouv.fr, elle prend en charge à 100 % les soins dans la limite des tarifs de la Sécurité sociale, avec des exclusions et un délai de 9 mois pour certains soins non urgents."
       },
       {
-        "heard": "On entend que les étrangers touchent le RSA dès leur arrivée.",
-        "answer": "Selon service-public.gouv.fr, un étranger doit avoir depuis au moins 5 ans un titre de séjour permettant de travailler, ou relever d'une des situations listées (carte de résident, réfugié, apatride, protection subsidiaire)."
-      },
-      {
-        "heard": "On entend que les immigrés touchent le minimum vieillesse sans avoir jamais cotisé.",
+        "heard": "On entend que les immigrés touchent le minimum vieillesse dès leur arrivée.",
         "answer": "Selon service-public.gouv.fr, l'ASPA demande de façon continue depuis au moins 10 ans un titre de séjour autorisant à travailler, ou une des situations listées (réfugié, apatride, protection subsidiaire, ressortissant de l'EEE ou de la Suisse, certaines nationalités)."
       },
       {
@@ -36,11 +32,7 @@
         "answer": "According to the 2027 annual performance plan, the ordinary AME had 454,111 beneficiaries at the end of 2025 and its spending was €1,340 million in 2025; according to the Direction de la Sécurité sociale, it made up 0.3% of State spending in 2024. According to service-public.gouv.fr, it covers 100% of care within the tariffs of the Sécurité sociale, with exclusions and a 9-month wait for some non-urgent care."
       },
       {
-        "heard": "You hear that foreigners receive the RSA as soon as they arrive.",
-        "answer": "According to service-public.gouv.fr, a foreigner must have held for at least 5 years a residence permit allowing them to work, or be in one of the situations listed (resident card, refugee, stateless person, subsidiary protection)."
-      },
-      {
-        "heard": "You hear that immigrants receive the minimum old-age pension without ever having paid in.",
+        "heard": "You hear that immigrants receive the minimum old-age pension as soon as they arrive.",
         "answer": "According to service-public.gouv.fr, the ASPA requires holding continuously for at least 10 years a residence permit allowing one to work, or one of the situations listed (refugee, stateless person, subsidiary protection, national of the EEA or Switzerland, certain nationalities)."
       },
       {

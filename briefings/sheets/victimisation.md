@@ -26,7 +26,7 @@ Le « À savoir » lu d'abord (`readFirst`, dans les textes de l'app) cite la ph
 
 Chaque affirmation est dans `briefings/notes/victimisation.json` (clé `claims`, français et anglais), reprise des affirmations relues du fichier vérifié. Source de chaque chiffre de la réponse :
 
-1. « On entend que la violence explose et que la délinquance est hors de contrôle. » 1,52 (2008) et 1,28 (2024) pour 100 000 habitants : Eurostat, `crim_off_cat`. 2 259 (2016) et 4 501 (2025) victimes de tentatives d'homicide : SSMSI, base des séries chronologiques. Le rapport des deux valeurs (1,99) est un calcul : la réponse donne les deux valeurs, pas un « doublement ».
+1. « On entend que les homicides explosent. » 1,52 (2008) et 1,28 (2024) pour 100 000 habitants : Eurostat, `crim_off_cat`. 2 259 (2016) et 4 501 (2025) victimes de tentatives d'homicide : SSMSI, base des séries chronologiques. Le rapport des deux valeurs (1,99) est un calcul : la réponse donne les deux valeurs, pas un « doublement ».
 2. « On entend que les chiffres de la délinquance montent, donc qu'il y a plus de délinquance. » 12 % et 74 % : SSMSI, présentation des bases. 114 721 (2016) et 244 301 (2022) : SSMSI, base des séries chronologiques. 643 000 (2023) : Insee, fiche « Insécurité, victimation ».
 3. « On entend que le sentiment d'insécurité ne repose sur rien, ou que tout le monde a peur. » 22 %, 21 %, 31 % et 10 % (2024) : Insee, fiche « Insécurité, victimation », figure 3 (« il arrive à 31 % des femmes de renoncer à sortir seules de chez elles, contre 10 % des hommes seulement »).
 
@@ -54,7 +54,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : reformulées : « On entend que la violence explose et que la délinquance est hors de contrôle. » devient « On entend que les homicides explosent. ».
 
 ## Relecture
 

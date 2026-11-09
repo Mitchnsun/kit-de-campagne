@@ -26,9 +26,8 @@ Les quatre points en anglais disent la même chose que le français.
 Chaque affirmation est dans `briefings/notes/stateMedicalAid.json` (clé `claims`, français et anglais). Source de chaque chiffre de la réponse :
 
 1. « On entend que l'AME coûte des milliards et offre des soins gratuits illimités aux clandestins. » 454 111 bénéficiaires fin 2025 et 1 340 M€ en 2025 : PAP 2027 Santé (« Au 31 décembre 2025, le nombre de bénéficiaires de l'AME de droit commun a baissé de -2,4 % … atteignant les 454 111 bénéficiaires » ; « pour atteindre 1 340 M€ en 2025 »). 0,3 % en 2024 : Comptes de la Sécurité sociale, fiche 3.3 (« Les dépenses de l'AME ont ainsi représenté 0,3% du total des dépenses de l'État pour cette dernière année. »). 100 %, exclusions et 9 mois : service-public.gouv.fr, F3079.
-2. « On entend que les étrangers touchent le RSA dès leur arrivée. » 5 ans et situations listées : service-public.gouv.fr, https://www.service-public.gouv.fr/particuliers/vosdroits/F19778 (« Avoir depuis au moins 5 ans un titre de séjour permettant de travailler en France (cette condition n'est pas applicable aux personnes de nationalité algérienne) »).
-3. « On entend que les immigrés touchent le minimum vieillesse sans avoir jamais cotisé. » 10 ans et situations listées : service-public.gouv.fr, https://www.service-public.gouv.fr/particuliers/vosdroits/F16871 (« Avoir de façon continue depuis au moins 10 ans un titre de séjour autorisant à travailler » ; « Être réfugié Être apatride Bénéficier de la protection subsidiaire »). La liste d'exceptions de la page est plus longue que celle de la réponse.
-4. « On entend qu'il suffit d'une loi pour réserver les aides aux Français ou imposer 5 ans de résidence. » Décision du 11 avril 2024, 5 ans ou 30 mois : Conseil constitutionnel, https://www.conseil-constitutionnel.fr/decision/2024/20246RIP.htm (cons. 13 : « … portent une atteinte disproportionnée à ces exigences. Elles sont donc contraires à la Constitution. » ; cons. 12 : une durée « ne saurait être telle qu'elle prive de garanties légales » ces exigences). La réponse dit que la décision portait sur une proposition de loi référendaire, pas sur une loi votée.
+2. « On entend que les immigrés touchent le minimum vieillesse dès leur arrivée. » 10 ans et situations listées : service-public.gouv.fr, https://www.service-public.gouv.fr/particuliers/vosdroits/F16871 (« Avoir de façon continue depuis au moins 10 ans un titre de séjour autorisant à travailler » ; « Être réfugié Être apatride Bénéficier de la protection subsidiaire »). La liste d'exceptions de la page est plus longue que celle de la réponse.
+3. « On entend qu'il suffit d'une loi pour réserver les aides aux Français ou imposer 5 ans de résidence. » Décision du 11 avril 2024, 5 ans ou 30 mois : Conseil constitutionnel, https://www.conseil-constitutionnel.fr/decision/2024/20246RIP.htm (cons. 13 : « … portent une atteinte disproportionnée à ces exigences. Elles sont donc contraires à la Constitution. » ; cons. 12 : une durée « ne saurait être telle qu'elle prive de garanties légales » ces exigences). La réponse dit que la décision portait sur une proposition de loi référendaire, pas sur une loi votée.
 
 ## Double vérification
 
@@ -57,7 +56,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que les étrangers touchent le RSA dès leur arrivée. » ; reformulées : « On entend que les immigrés touchent le minimum vieillesse sans avoir jamais cotisé. » devient « On entend que les immigrés touchent le minimum vieillesse dès leur arrivée. ».
 
 ## Relecture
 

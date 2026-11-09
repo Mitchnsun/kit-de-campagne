@@ -28,8 +28,7 @@ Chaque affirmation est dans `briefings/notes/debtCost.json` (clé `claims`, fran
 1. « On entend que les intérêts de la dette, c'est 91 milliards (ou 66, ou 72). » 65,7 Md€ en 2025 : Insee, tableau 3.201. 91 Md€ en 2027 : avis n° HCFP-2026-5, § 115. 51,6 Md€ (2025) et 72,9 Md€ (2027) : projet de loi de finances pour 2027, tableau de l'équilibre (« Charge de la dette (yc SNCF) 51,6 59,3 63,4 +4,1 72,9 »).
 2. « On entend que la charge de la dette est devenue le premier budget de l'État, devant l'Éducation et la Défense. » 72,9 ; 73,2 (Défense, 73 153 440 797 €) ; 90,9 Md€ (Enseignement scolaire, 90 859 899 196 €) : projet de loi de finances pour 2027, état B. 58,9 et 148,6 Md€ : Insee, tableau T_3301 (2024). Citation : Cour des comptes, page de la publication du 25/06/2026. Réserve : les crédits des missions comprennent les cotisations au compte « Pensions » ; l'affirmation « hors pensions, l'Éducation descend sous la charge de la dette » n'a pas été retrouvée et n'est pas reprise.
 3. « On entend que l'État ne rembourse jamais sa dette et ne paie que les intérêts. » 179,5 Md€ d'amortissements et 340,0 Md€ d'émissions en 2027 : projet de loi de finances pour 2027, tableau de financement (« le besoin de financement s'établit à 339,7 milliards d'euros »).
-4. « On entend que la dette, c'est 50 000 € par Français. » Calcul de la contre-vérification : 3 460,1 Md€ (Insee, tableau 3.101) divisés par 69,1 millions d'habitants (Insee Première n° 2087) = 50 074 €, « environ 50 100 € ». Dette nette 3 242,7 Md€ : Insee, tableau 3.103. Précaution gardée : aucun organisme officiel ne publie ce ratio, qui n'est pas une dette personnelle.
-5. « On entend que les fonctionnaires creusent la dette, ou que c'est la faute des collectivités. » 370,0 Md€ en 2025 : Insee, tableau 3.201 (ligne « Rémunération des salariés (D1) ») ; 21,6 % calculé sur 1 714,1 Md€ de dépenses (même tableau). 30 % et 2 % : avis n° HCFP-2026-5, tableau 10, que le Haut Conseil dit « mêle[r] à la fois dépenses en comptabilité nationale et budgétaire ».
+4. « On entend que les fonctionnaires creusent la dette, ou que c'est la faute des collectivités. » 370,0 Md€ en 2025 : Insee, tableau 3.201 (ligne « Rémunération des salariés (D1) ») ; 21,6 % calculé sur 1 714,1 Md€ de dépenses (même tableau). 30 % et 2 % : avis n° HCFP-2026-5, tableau 10, que le Haut Conseil dit « mêle[r] à la fois dépenses en comptabilité nationale et budgétaire ».
 
 ## Double vérification
 
@@ -60,7 +59,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que la dette, c'est 50 000 € par Français. ».
 
 ## Relecture
 

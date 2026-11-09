@@ -28,9 +28,7 @@ Chaque affirmation est dans `briefings/notes/criminalJustice.json` (clé `claims
 
 1. « On entend que la justice est laxiste, que presque personne ne va en prison et que les peines ne sont pas exécutées. » 24 % (2024, provisoire), 11 et 8 mois : Infostat Justice n° 207. 58 %, 78 % et 90 % : Références statistiques Justice 2026, fiche 12.1. 41 % : Infos Rapides Justice n° 41.
 2. « On entend que la justice classe sans suite sept plaintes sur dix. » Plus de sept sur dix et 67 % (2024) : Insee, fiche « Justice ». 87,8 % (2025) : Chiffres clés 2026, p. 4.
-3. « On entend que ce sont toujours les mêmes : les récidivistes. » 21,4 % et 23,6 % : Chiffres clés 2026, p. 21. 34,2 % et 61,7 % : Infos Rapides Justice n° 37.
-4. « On entend que la France manque de juges et de policiers. » 7 654 et 11,15 pour 100 000 habitants : Eurostat, `crim_just_job`. 153 286, 103 079, 152 690 et 103 077 ETPT : projet annuel de performances 2026. La phrase du fichier vérifié sur le tableau de bord de la Commission (« parmi les plus bas de l'Union ») est retirée : sa source n'est pas une source de la page.
-5. « On entend que les prisons sont pleines de petits délinquants, ou de grands criminels. » Près de 30 %, 23 %, 24 % et 23 % des 80 000 condamnés écroués : Références statistiques Justice 2026, fiche 12.3. La réponse du fichier vérifié citait aussi les détenus par infraction (Infos Rapides Justice n° 45) : retirés avec cette source.
+3. « On entend que les prisons sont pleines de petits délinquants, ou de grands criminels. » Près de 30 %, 23 %, 24 % et 23 % des 80 000 condamnés écroués : Références statistiques Justice 2026, fiche 12.3. La réponse du fichier vérifié citait aussi les détenus par infraction (Infos Rapides Justice n° 45) : retirés avec cette source.
 
 L'affirmation sur le narcotrafic du fichier vérifié n'est reprise sur aucune page : ses chiffres (douane, OFDT) ne sont sur aucune des trois pages du dossier.
 
@@ -59,7 +57,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que ce sont toujours les mêmes : les récidivistes. » ; « On entend que la France manque de juges et de policiers. ».
 
 ## Relecture
 

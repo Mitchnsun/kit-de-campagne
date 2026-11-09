@@ -22,14 +22,6 @@
         "answer": "Selon l'Insee, d'après le ministère de la Justice, plus de sept affaires sur dix traitées par les parquets en 2024 sont non poursuivables, et dans 67 % de ces cas l'auteur n'a pas été identifié. Pour les auteurs des affaires poursuivables, le taux de réponse pénale est de 87,8 % en 2025 selon le ministère de la Justice : poursuites, mesures alternatives réussies et compositions pénales."
       },
       {
-        "heard": "On entend que ce sont toujours les mêmes : les récidivistes.",
-        "answer": "Selon le ministère de la Justice, parmi les condamnés pour délit de 2025, 21,4 % sont en récidive légale et 23,6 % sont réitérants (données provisoires). Parmi les sortants de prison, 34,2 % sont de nouveau condamnés dans l'année (sortants de 2021) et 61,7 % dans les cinq ans (sortants de 2017). Ce sont deux mesures différentes : la première regarde le passé des condamnés, la seconde le devenir des sortants."
-      },
-      {
-        "heard": "On entend que la France manque de juges et de policiers.",
-        "answer": "Selon Eurostat, la France compte 7 654 juges professionnels en 2024, soit 11,15 pour 100 000 habitants ; les définitions nationales diffèrent d'un pays à l'autre. Le projet de loi de finances 2026 fixe les plafonds d'emplois à 153 286 ETPT pour la police nationale et 103 079 pour la gendarmerie, contre 152 690 et 103 077 dans la loi de finances 2025 : ce sont des emplois autorisés, pas des effectifs réels."
-      },
-      {
         "heard": "On entend que les prisons sont pleines de petits délinquants, ou de grands criminels.",
         "answer": "Selon le ministère de la Justice, au 1er janvier 2026, près de 30 % des 80 000 personnes écrouées et condamnées purgent une peine ferme d'un an ou moins, 23 % une peine de 1 à 2 ans, 24 % une peine de 2 à 5 ans et 23 % une peine de plus de 5 ans. Ces condamnés écroués comprennent des personnes non détenues."
       }
@@ -42,14 +34,6 @@
       {
         "heard": "You hear that the justice system drops seven complaints out of ten.",
         "answer": "According to the Insee, after the ministry of Justice, more than seven in ten cases dealt with by prosecutors in 2024 cannot be prosecuted, and in 67% of these the perpetrator was not identified. For the perpetrators in cases that can be prosecuted, the penal response rate is 87.8% in 2025 according to the ministry of Justice: prosecutions, successful alternative measures and penal settlements."
-      },
-      {
-        "heard": "You hear that it is always the same people: reoffenders.",
-        "answer": "According to the ministry of Justice, among the people convicted of a misdemeanour in 2025, 21.4% are legal recidivists and 23.6% are repeat offenders (provisional data). Among the people released from prison, 34.2% are convicted again within a year (released in 2021) and 61.7% within five years (released in 2017). These are two different measures: the first looks at the past of the convicted, the second at what becomes of those released."
-      },
-      {
-        "heard": "You hear that France lacks judges and police officers.",
-        "answer": "According to Eurostat, France has 7,654 professional judges in 2024, or 11.15 per 100,000 inhabitants; national definitions differ from one country to another. The 2026 finance bill sets the job ceilings at 153,286 full-time equivalents for the national police and 103,079 for the gendarmerie, against 152,690 and 103,077 in the 2025 finance act: these are authorised jobs, not actual staff."
       },
       {
         "heard": "You hear that prisons are full of petty offenders, or of serious criminals.",

@@ -26,10 +26,8 @@ Les quatre points en anglais disent la même chose que le français.
 
 Chaque affirmation est dans `briefings/notes/publicSpending.json` (clé `claims`, français et anglais), reprise de la recherche vérifiée du 09/11/2026 sans changer sa formulation. Source de chaque chiffre de la réponse :
 
-1. « On entend que la France est le pays qui dépense le plus. » 57,3 % (2e, derrière la Finlande à 57,5 %) et 49,4 % pour l'UE : Eurostat, communiqué du 21/10/2026 (tableau par pays, « Government expenditure ») ; rang recalculé par la contre-vérification sur l'API `gov_10a_main`. 23,7 % et 19,5 % : Eurostat, `gov_10a_exp`.
-2. « On entend que la France est le pays le plus taxé d'Europe, voire du monde. » 46,0 % et 40,7 % : Eurostat, communiqué du 29/10/2026. 43,5 % et 45,2 % (Danemark), 2e sur 36 pays disponibles : OCDE, API ; rang recalculé, la phrase de l'OCDE n'a pas pu être lue (page inaccessible).
-3. « On entend que l'ISF rapportait des milliards et que l'IFI ne rapporte rien. » 5,07 (2017), 1,85 (2018), 2,71 Md€ (2025), TVA 208,8, CSG 156,6, impôt sur le revenu 103,6 Md€ : Insee, tableau 3.217 (« Impôt sur la fortune (IFI, ex ISF) »), droits constatés de la comptabilité nationale.
-4. « On entend que le Parlement coûte une fortune et qu'il faut supprimer des députés. » 642,95 M€, 53,80 M€ et 383,34 M€ : PAP « Pouvoirs publics », p. 17-22 et 29-30. 988,0 M€ = 629,26 + 358,75 ; 0,06 % calculé sur 1 714,1 Md€ de dépenses publiques en 2025 (Insee, tableau 3.201) : deux comptabilités différentes, le mot « calculé » le dit.
+1. « On entend que l'IFI, qui a remplacé l'ISF, ne rapporte rien. » 5,07 (2017), 1,85 (2018), 2,71 Md€ (2025), TVA 208,8, CSG 156,6, impôt sur le revenu 103,6 Md€ : Insee, tableau 3.217 (« Impôt sur la fortune (IFI, ex ISF) »), droits constatés de la comptabilité nationale.
+2. « On entend que le Parlement coûte une fortune. » 642,95 M€, 53,80 M€ et 383,34 M€ : PAP « Pouvoirs publics », p. 17-22 et 29-30. 988,0 M€ = 629,26 + 358,75 ; 0,06 % calculé sur 1 714,1 Md€ de dépenses publiques en 2025 (Insee, tableau 3.201) : deux comptabilités différentes, le mot « calculé » le dit.
 
 ## Double vérification
 
@@ -59,7 +57,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que la France est le pays qui dépense le plus. » ; « On entend que la France est le pays le plus taxé d'Europe, voire du monde. » ; reformulées : « On entend que l'ISF rapportait des milliards et que l'IFI ne rapporte rien. » devient « On entend que l'IFI, qui a remplacé l'ISF, ne rapporte rien. » ; « On entend que le Parlement coûte une fortune et qu'il faut supprimer des députés. » devient « On entend que le Parlement coûte une fortune. ».
 
 ## Relecture
 

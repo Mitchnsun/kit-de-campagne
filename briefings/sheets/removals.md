@@ -30,10 +30,8 @@ Les quatre points en anglais disent la même chose que le français.
 
 Chaque affirmation est dans `briefings/notes/removals.json` (clé `claims`, français et anglais). Source de chaque chiffre de la réponse :
 
-1. « On entend que les OQTF ne sont jamais exécutées, que 7 % ou 10 % seulement le sont. » 15 400, 153 042, 10 % et 12 % : Cour des comptes, rapport de janvier 2024 (données 2022). 156 180, 24 275 et 15 253 : DGEF, rapport au Parlement 2025. La précision d'Eurostat : métadonnées `migr_eil`. Le « 7 % » (premier semestre 2022, presse) est écarté par la recherche.
-2. « On entend que les déboutés de l'asile ne partent jamais. » 2 999 éloignements forcés pour 139 516 OQTF, soit 2 % (2,15 % recalculé) : Cour des comptes, tableau n° 7 (« Débouté du droit d'asile 139 516 2 999 2% »). La réponse dit que le taux ne compte que les éloignements forcés et que le système est incomplet ; elle ne le présente pas comme « ils ne partent pas ».
-3. « On entend que les étrangers délinquants ne sont pas expulsés. » 45 % et 23 % : Cour des comptes, tableau n° 7 (« Condamnation pénale 7 225 3 273 45 % » ; « Menace à l'ordre public 27 598 6 305 23 % »). 36 % : PAP 2027, indicateur 3.1 (« nombre total de ressortissants éloignés à l'issue de leur placement en CRA divisé par le nombre total de personnes placées en CRA »).
-4. « On entend qu'il y a 1, 2 ou 3 millions de clandestins. » « est incertain » : Cour des comptes (« Le nombre d'étrangers en situation irrégulière présents en France est incertain. ») ; « avec toutefois plusieurs limites » : DGEF (« Le volume d'étrangers en situation irrégulière peut également être estimé par le biais du nombre de bénéficiaires de l'aide médicale d'État avec toutefois plusieurs limites. ») ; 175 051 interpellations : DGEF, tableau « Nombre d'interpellations » (+19 %). Les 159 460 étrangers trouvés en situation irrégulière d'Eurostat (`migr_eipre`), cités par la recherche, ne sont pas dans les sources de la page : la réponse ne les reprend pas.
+1. « On entend que les étrangers délinquants ne sont pas expulsés. » 45 % et 23 % : Cour des comptes, tableau n° 7 (« Condamnation pénale 7 225 3 273 45 % » ; « Menace à l'ordre public 27 598 6 305 23 % »). 36 % : PAP 2027, indicateur 3.1 (« nombre total de ressortissants éloignés à l'issue de leur placement en CRA divisé par le nombre total de personnes placées en CRA »).
+2. « On entend qu'il y a 1, 2 ou 3 millions de clandestins. » « est incertain » : Cour des comptes (« Le nombre d'étrangers en situation irrégulière présents en France est incertain. ») ; « avec toutefois plusieurs limites » : DGEF (« Le volume d'étrangers en situation irrégulière peut également être estimé par le biais du nombre de bénéficiaires de l'aide médicale d'État avec toutefois plusieurs limites. ») ; 175 051 interpellations : DGEF, tableau « Nombre d'interpellations » (+19 %). Les 159 460 étrangers trouvés en situation irrégulière d'Eurostat (`migr_eipre`), cités par la recherche, ne sont pas dans les sources de la page : la réponse ne les reprend pas.
 
 ## Double vérification
 
@@ -63,7 +61,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+**09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que les OQTF ne sont jamais exécutées, que 7 % ou 10 % seulement le sont. » ; « On entend que les déboutés de l'asile ne partent jamais. ».
 
 ## Relecture
 
