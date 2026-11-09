@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "Le solde de 2025 est celui que les Douanes ont publié le 6 novembre 2026 : un déficit de 65,3 Md€. Leur première publication, le 6 février 2026, donnait 69,2 Md€. Les années récentes sont révisées à chaque publication.",
+    "Le solde commercial des Douanes ne compte que les biens. Le solde des transactions courantes, mesuré par la balance des paiements, y ajoute les services et les revenus : selon Eurostat, un déficit de 11,6 Md€ en 2025, soit 0,4 % du PIB.",
+    "Selon les Douanes, d'après l'OMC, la France réalise 2,6 % des exportations mondiales de biens en 2025, 0,4 point de moins qu'en 2019 ; l'Allemagne a perdu 1,0 point. Le 4e trimestre 2025 y est estimé, et le ratio dépend du taux de change.",
+    "Les Douanes signalent deux ruptures de la série : depuis 1988, les départements d'outre-mer sont dans son champ ; depuis 1991, les lancements de satellites de Kourou sont comptés autrement. Ces deux changements réduisent les exportations."
+  ],
+  "en": [
+    "The 2025 balance is the one the French customs published on 6 November 2026: a deficit of €65.3 billion. Their first publication, on 6 February 2026, gave €69.2 billion. Recent years are revised at each publication.",
+    "The customs' trade balance counts goods only. The current account, measured by the balance of payments, adds services and income: according to Eurostat, a deficit of €11.6 billion in 2025, or 0.4% of GDP.",
+    "According to the customs, after the WTO, France made 2.6% of world exports of goods in 2025, 0.4 points less than in 2019; Germany lost 1.0 point. The fourth quarter of 2025 is estimated, and the ratio depends on the exchange rate.",
+    "The customs flag two breaks in the series: since 1988 the overseas departments are within its scope; since 1991 the satellite launches from Kourou are counted differently. Both changes reduce exports."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que le déficit commercial de la France n'a jamais été aussi grave.",
+        "answer": "Selon les Douanes, le déficit des échanges de biens est de 65,3 Md€ en 2025 (données révisées le 6 novembre 2026 ; 69,2 Md€ à la première publication). Le plus fort déficit de la série date de 2022 : 160,3 Md€. Celui de 2025 reste plus creusé qu'en 2019 (58,1 Md€). Le solde des transactions courantes, qui ajoute les services et les revenus, est un déficit de 0,4 % du PIB en 2025, selon Eurostat."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that France's trade deficit has never been so bad.",
+        "answer": "According to the French customs, the deficit in goods trade was €65.3 billion in 2025 (data revised on 6 November 2026; €69.2 billion at first publication). The largest deficit of the series dates from 2022: €160.3 billion. The 2025 deficit remains deeper than in 2019 (€58.1 billion). The current account, which adds services and income, shows a deficit of 0.4% of GDP in 2025, according to Eurostat."
+      }
+    ]
+  }
+}

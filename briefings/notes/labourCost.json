@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Le coût du travail d'Eurostat comprend les salaires et les coûts non salariaux, surtout les cotisations sociales des employeurs. Il couvre les entreprises de 10 salariés ou plus, hors agriculture et administration publique. Les chiffres de 2025 sont des estimations.",
+    "La Belgique n'a pas publié son coût de 2025 (48,2 € en 2024) : le classement des 27 est celui de 2024, où la France est 7e. En 2025, elle est 6e des 26 pays publiés. Ces rangs sont calculés à partir des chiffres d'Eurostat.",
+    "Dans l'industrie hors construction, l'Insee compte 47,7 € de l'heure en France en 2025, contre 49,8 € en Allemagne. Ce champ diffère de celui de l'ensemble de l'économie (44,3 €) : les deux chiffres ne se comparent pas.",
+    "Le coût salarial unitaire rapporte le coût du travail à la production : il dépend des salaires et de la productivité. Ses dernières années sont provisoires. En 2025, le coût horaire a augmenté de 2,0 % en France, la hausse la plus faible de la zone euro (Eurostat)."
+  ],
+  "en": [
+    "Eurostat's labour cost includes wages and non-wage costs, mainly employers' social contributions. It covers companies with 10 employees or more, excluding agriculture and public administration. The 2025 figures are estimates.",
+    "Belgium has not published its 2025 cost (€48.2 in 2024): the ranking of the 27 is that of 2024, where France is 7th. In 2025, it is 6th of the 26 countries published. These ranks are calculated from Eurostat's figures.",
+    "In industry excluding construction, the Insee counts €47.7 an hour in France in 2025, against €49.8 in Germany. This field differs from that of the whole economy (€44.3): the two figures do not compare.",
+    "The unit labour cost relates the labour cost to output: it depends on wages and on productivity. Its last years are provisional. In 2025, the hourly cost rose by 2.0% in France, the smallest rise in the euro area (Eurostat)."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la France a le coût du travail le plus élevé d'Europe.",
+        "answer": "Selon Eurostat, l'heure de travail coûte 44,3 € en France en 2025, contre 45,0 € en Allemagne et 34,9 € en moyenne dans l'UE. En 2024, dernière année publiée par les 27, la France est 7e, derrière le Luxembourg, le Danemark, la Belgique, les Pays-Bas, l'Autriche et l'Allemagne (rang calculé). Dans l'industrie, l'Insee compte 47,7 € en France contre 49,8 € en Allemagne. La part des coûts non salariaux est en revanche la plus élevée de l'UE : 32,3 %."
+      },
+      {
+        "heard": "On entend que les coûts de production ont explosé en France par rapport à l'Allemagne.",
+        "answer": "Selon Eurostat, le coût salarial unitaire, qui rapporte le coût du travail à la production, a augmenté de 28 % en France de 2010 à 2025 (indice 128,1, provisoire), contre 53 % en Allemagne (152,9, provisoire) et 36 % dans l'UE (136,4). Le Conseil national de productivité en conclut que la France a regagné en compétitivité-prix face à l'Allemagne depuis le début des années 2010, en partie parce que la position allemande s'est dégradée."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that France has the highest labour cost in Europe.",
+        "answer": "According to Eurostat, an hour of work costs €44.3 in France in 2025, against €45.0 in Germany and €34.9 on average in the EU. In 2024, the last year all 27 published, France is 7th, behind Luxembourg, Denmark, Belgium, the Netherlands, Austria and Germany (rank calculated). In industry, the Insee counts €47.7 in France against €49.8 in Germany. The share of non-wage costs, on the other hand, is the highest in the EU: 32.3%."
+      },
+      {
+        "heard": "You hear that production costs have soared in France compared with Germany.",
+        "answer": "According to Eurostat, the unit labour cost, which relates the labour cost to output, rose by 28% in France from 2010 to 2025 (index 128.1, provisional), against 53% in Germany (152.9, provisional) and 36% in the EU (136.4). The Conseil national de productivité concludes that France has regained price competitiveness against Germany since the early 2010s, partly because Germany's position has worsened."
+      }
+    ]
+  }
+}

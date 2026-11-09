@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Les investissements directs étrangers d'une année varient beaucoup avec les rachats d'entreprises et les prêts entre sociétés d'un même groupe. Le stock se compare d'un pays à l'autre en % du PIB. Chiffres de l'OCDE, d'après la Banque de France pour la France.",
+    "Business France recense 1 878 décisions d'investissement étranger en 2025 et 47 734 emplois annoncés, créés ou maintenus. Sa méthode a changé en 2025 : ces chiffres ne se comparent pas directement à ceux des années précédentes.",
+    "Les « autres impôts sur la production » (4,4 % du PIB en 2025, 2e de l'UE derrière la Suède, rang calculé) comprennent des impôts des entreprises, mais aussi la taxe foncière des ménages propriétaires de leur logement : ce n'est pas la totalité des impôts des entreprises.",
+    "Le taux de 36,13 % retenu par l'OCDE pour 2025 est un taux maximal, qui ne vaut que pour les plus grandes entreprises, soumises à une contribution exceptionnelle. Le taux normal est de 25 %. En 2024, l'OCDE retenait 25,825 %."
+  ],
+  "en": [
+    "Foreign direct investment in a year varies a great deal with company takeovers and loans between companies of the same group. The stock compares from one country to another in % of GDP. Figures from the OECD, after the Banque de France for France.",
+    "Business France counts 1,878 foreign investment decisions in 2025 and 47,734 jobs announced, created or maintained. Its method changed in 2025: these figures do not compare directly with those of earlier years.",
+    "The “other taxes on production” (4.4% of GDP in 2025, 2nd in the EU behind Sweden, rank calculated) include taxes paid by companies, but also the property tax of households that own their home: they are not all the taxes on companies.",
+    "The rate of 36.13% the OECD records for 2025 is a maximum rate, which applies only to the largest companies, subject to an exceptional contribution. The standard rate is 25%. In 2024, the OECD recorded 25.825%."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la France n'attire plus les investisseurs étrangers.",
+        "answer": "Selon l'OCDE, le stock d'investissements directs étrangers en France atteint 987,5 Md€ fin 2025, soit 34,3 % du PIB, le plus haut de sa série depuis 2019. Les flux entrants de 2025 ont en revanche été à peu près divisés par deux (calculé) : 19,4 Md€, contre 38,4 Md€ en 2024, soit 0,65 % du PIB, le plus faible des cinq pays comparés. Business France recense 1 878 décisions d'investissement en 2025, avec une méthode de comptage modifiée."
+      },
+      {
+        "heard": "On entend que les entreprises françaises paient leur électricité plus cher que leurs voisines.",
+        "answer": "Selon Eurostat, au premier semestre 2026, une entreprise consommant de 2 à 20 GWh par an paie 0,1239 € le kWh en France, contre 0,1559 € en moyenne dans l'UE et 0,1742 € en Allemagne (provisoire), hors TVA et taxes récupérables. Pour une petite entreprise (20 à 499 MWh), la France reste sous la moyenne de l'UE : 0,2049 € contre 0,2165 €. Au premier semestre 2023, la France était au-dessus : 0,2235 € contre 0,2015 €."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that France no longer attracts foreign investors.",
+        "answer": "According to the OECD, the stock of foreign direct investment in France reached €987.5 billion at the end of 2025, or 34.3% of GDP, the highest of its series since 2019. Inflows in 2025, on the other hand, were roughly halved (calculated): €19.4 billion, against €38.4 billion in 2024, or 0.65% of GDP, the lowest of the five countries compared. Business France counts 1,878 investment decisions in 2025, with a changed counting method."
+      },
+      {
+        "heard": "You hear that French companies pay more for their electricity than their neighbours.",
+        "answer": "According to Eurostat, in the first half of 2026, a company using 2 to 20 GWh a year pays €0.1239 per kWh in France, against €0.1559 on average in the EU and €0.1742 in Germany (provisional), excluding VAT and recoverable taxes. For a small company (20 to 499 MWh), France stays below the EU average: €0.2049 against €0.2165. In the first half of 2023, France was above: €0.2235 against €0.2015."
+      }
+    ]
+  }
+}
