@@ -1,0 +1,60 @@
+{
+  "fr": [
+    "La TVA à 20 % se calcule sur le prix hors TVA, accise comprise (BOFiP) : sur un litre, 12,15 centimes de TVA portent sur l'accise du gazole et 13,40 centimes sur celle du SP95-E10 (calculé). C'est la règle générale de la TVA, dont la base comprend les autres taxes.",
+    "La part des taxes vaut 1/6 + accise / prix TTC (calculé) : l'accise est fixe par litre et la TVA fait 1/6 du prix TTC. Elle baisse quand le prix monte, et ne dépasse 50 % que si le gazole coûte moins de 1,8225 € le litre et le SP95-E10 moins de 2,0106 € (calculé d'après les tarifs des Douanes).",
+    "Depuis le 1er août 2025, les régions ne modulent plus l'accise, et la majoration d'Île-de-France Mobilités a pris fin le 1er janvier 2026 (guide du ministère de la Transition écologique) : l'accise est la même dans toutes les régions continentales. La Corse garde ses tarifs (Douanes) et une TVA à 13 %.",
+    "Avant la pompe, la DGEC suit le cours du Brent (69,10 $ le baril en 2025, 123,93 $ en octobre 2026) et une marge brute de raffinage (4,22 $ le baril en 2019, 8,72 $ en 2025, 38,05 $ en août 2026) : des indicateurs de tendance en dollars, ni la marge réelle des raffineries ni une part du prix d'un litre."
+  ],
+  "en": [
+    "The 20% VAT is charged on the price before VAT, excise included (BOFiP): on a litre, 12.15 cents of VAT fall on the excise on diesel and 13.40 cents on that on SP95-E10 (calculated). This is the general rule of VAT, whose base includes the other taxes.",
+    "The share of taxes is 1/6 + excise / price including taxes (calculated): the excise is fixed per litre and VAT is 1/6 of the price including taxes. It falls when the price rises, and exceeds 50% only if diesel costs less than €1.8225 a litre and SP95-E10 less than €2.0106 (calculated from the Douanes' rates).",
+    "Since 1 August 2025, the regions no longer adjust the excise, and the Île-de-France Mobilités surcharge ended on 1 January 2026 (guide of the Ministry for the Ecological Transition): the excise is the same in every mainland region. Corsica keeps its own rates (Douanes) and a 13% VAT.",
+    "Before the pump, the DGEC follows the Brent price ($69.10 a barrel in 2025, $123.93 in October 2026) and a gross refining margin ($4.22 a barrel in 2019, $8.72 in 2025, $38.05 in August 2026): trend indicators in dollars, neither the refineries' actual margin nor a share of the price of a litre."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que l'État prend plus de la moitié du prix du carburant.",
+        "answer": "Le 30 octobre 2026, les taxes (accise et TVA) font 42,3 % du prix du gazole et 48,7 % de celui du SP95-E10 (calculé d'après la DGEC). Elles ne dépassent la moitié du prix que sous 1,8225 € le litre de gazole et 2,0106 € le litre de SP95-E10 (calculé), ce qui était le cas en 2025 : 54,3 % du prix du gazole en moyenne (calculé d'après le SDES). Et l'accise ne va pas toute à l'État : en 2024, sur 31,6 Md€ d'accise brute sur les produits pétroliers, 11,9 Md€ sont allés aux collectivités et l'État en a gardé 16,0 Md€ (ministère de la Transition écologique)."
+      },
+      {
+        "heard": "On entend que les taxes représentent environ 60 % du prix du carburant.",
+        "answer": "C'était le cas de 2019 à 2021, en moyenne annuelle : 59,0 % du prix du gazole en 2019, 65,0 % en 2020 et 59,3 % en 2021 (calculé d'après le SDES). La part est tombée à 54,3 % en 2025, puis à 42,3 % pour le gazole et à 48,7 % pour le SP95-E10 la semaine du 30 octobre 2026 (calculé d'après la DGEC ; une semaine face à des moyennes annuelles). L'accise étant fixe par litre, la part des taxes baisse quand le prix monte."
+      },
+      {
+        "heard": "On entend que, quand le prix monte, l'État s'enrichit d'autant.",
+        "answer": "L'accise est fixe par litre : 60,75 € par hectolitre de gazole en 2026 (Douanes). Seule la TVA, à 20 %, suit le prix : quand le prix TTC monte de 1 €, 1/6 va à la TVA (calculé). La part des taxes baisse donc quand le prix monte : 54,3 % du gazole en moyenne en 2025 (SDES), 42,3 % la semaine du 30 octobre 2026 (DGEC), une moyenne face à une semaine (calculé). Selon le Gouvernement, dans une réponse publiée le 2 juin 2026, les recettes liées au carburant étaient, depuis le 1er mars, inférieures à leur niveau de l'an dernier sur la même période."
+      },
+      {
+        "heard": "On entend que la hausse des prix des carburants en 2026 vient des marges des distributeurs.",
+        "answer": "Selon la DGEC, la part transport-distribution du gazole passe de 0,219 € par litre en moyenne en 2025 à 0,242 € la semaine du 30 octobre 2026, soit +0,023 €, quand le prix TTC passe de 1,619 € (moyenne 2025, SDES) à 2,371 € (DGEC), soit +0,752 € (écarts calculés ; une moyenne annuelle face à une semaine). La marge brute de raffinage suivie par la DGEC passe de 8,72 $ le baril en 2025 à 38,05 $ en août 2026. Au 10 mai 2026, le Gouvernement estimait les marges brutes de transport-distribution équivalentes à celles d'avant la crise."
+      },
+      {
+        "heard": "On entend que la France a les carburants les plus taxés d'Europe.",
+        "answer": "Le 2 novembre 2026, les taxes font 42,3 % du prix du gazole en France contre 37,2 % dans l'UE, et 48,6 % de celui de l'Euro-super 95 contre 45,9 % (calculé d'après la Commission européenne). La France est au-dessus de la moyenne, pas en tête : pour le gazole, Malte (54,3 %) et l'Italie (46,3 %) sont plus haut (calculé), et l'accise italienne, 0,623 € par litre, dépasse la française, 0,608 €. Hors taxes, le gazole français est proche de la moyenne de l'UE : 1,368 € le litre contre 1,352 €."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the State takes more than half of the price of fuel.",
+        "answer": "In the week of 30 October 2026, taxes (excise and VAT) made up 42.3% of the price of diesel and 48.7% of that of SP95-E10 (calculated from the DGEC). They exceed half of the price only below €1.8225 a litre of diesel and €2.0106 a litre of SP95-E10 (calculated), which was the case in 2025: 54.3% of the price of diesel on average (calculated from the SDES). And the excise does not all go to the State: in 2024, of €31.6 billion of gross excise on petroleum products, €11.9 billion went to local authorities and the State kept €16.0 billion (Ministry for the Ecological Transition)."
+      },
+      {
+        "heard": "You hear that taxes make up about 60% of the price of fuel.",
+        "answer": "That was the case from 2019 to 2021, on annual average: 59.0% of the price of diesel in 2019, 65.0% in 2020 and 59.3% in 2021 (calculated from the SDES). The share fell to 54.3% in 2025, then to 42.3% for diesel and 48.7% for SP95-E10 in the week of 30 October 2026 (calculated from the DGEC; a week against annual averages). As the excise is fixed per litre, the share of taxes falls when the price rises."
+      },
+      {
+        "heard": "You hear that when the price rises, the State gains just as much.",
+        "answer": "The excise is fixed per litre: €60.75 per hectolitre of diesel in 2026 (Douanes). Only VAT, at 20%, follows the price: when the price including taxes rises by €1, 1/6 goes to VAT (calculated). The share of taxes therefore falls when the price rises: 54.3% for diesel on average in 2025 (SDES), 42.3% in the week of 30 October 2026 (DGEC), an average against a week (calculated). According to the Government, in an answer published on 2 June 2026, fuel-related revenue since 1 March had been lower than last year over the same period."
+      },
+      {
+        "heard": "You hear that the rise in fuel prices in 2026 comes from the retailers' margins.",
+        "answer": "According to the DGEC, the transport-distribution share of diesel went from €0.219 a litre on average in 2025 to €0.242 in the week of 30 October 2026, or +€0.023, while the price including taxes went from €1.619 (2025 average, SDES) to €2.371 (DGEC), or +€0.752 (differences calculated; an annual average against a week). The gross refining margin the DGEC follows went from $8.72 a barrel in 2025 to $38.05 in August 2026. On 10 May 2026, the Government estimated the gross transport-distribution margins equivalent to those before the crisis."
+      },
+      {
+        "heard": "You hear that France has the most heavily taxed fuel in Europe.",
+        "answer": "On 2 November 2026, taxes made up 42.3% of the price of diesel in France against 37.2% in the EU, and 48.6% of that of Euro-super 95 against 45.9% (calculated from the European Commission). France is above the average, not at the top: for diesel, Malta (54.3%) and Italy (46.3%) are higher (calculated), and the Italian excise, €0.623 a litre, exceeds the French one, €0.608. Before taxes, French diesel is close to the EU average: €1.368 a litre against €1.352."
+      }
+    ]
+  }
+}

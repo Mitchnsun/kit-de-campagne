@@ -1,0 +1,199 @@
+{
+  "id": "stateBudget",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Projet de loi de finances pour 2027, n° 3210",
+      "publishedOn": "2026-10-01"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Projet de loi relatif aux résultats de la gestion et portant approbation des comptes de l'année 2025, n° 2694",
+      "publishedOn": "2026-04-22"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Le budget de l'État en 2025 – Résultats et gestion",
+      "publishedOn": "2026-04-22"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Le budget de l'État en 2025 – Résultats et gestion – Enseignement scolaire",
+      "publishedOn": "2026-04-22"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Le budget de l'État en 2025 – Résultats et gestion – Pensions",
+      "publishedOn": "2026-04-22"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Dépenses des administrations publiques ventilées par fonction en 2024",
+      "publishedOn": "2026-03-27"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "La situation et les perspectives des finances publiques",
+      "publishedOn": "2026-06-25"
+    }
+  ],
+  "headline": {
+    "series": "netSpending",
+    "period": "2027",
+    "value": 474.9,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "netSpending",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Exposé général, p. 14",
+      "status": {
+        "2027": "projection"
+      },
+      "points": [["2027", 474.9]]
+    },
+    {
+      "id": "netSpendingExecuted",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Exposé général, p. 14",
+      "points": [["2025", 433.8]]
+    },
+    {
+      "id": "pensionsAccount",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Graphique 2 ; état D",
+      "status": {
+        "2027": "projection"
+      },
+      "points": [
+        ["2020", 59.549],
+        ["2021", 60.394],
+        ["2022", 62.281],
+        ["2023", 64.304],
+        ["2024", 67.885],
+        ["2025", 69.337],
+        ["2027", 69.798]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "bill2027",
+      "unit": "billionEuro",
+      "period": "2027",
+      "status": "projection",
+      "sourceId": "État B",
+      "values": [
+        ["schoolEducation", 90.859899196],
+        ["financialCommitments", 74.451969739],
+        ["defence", 73.153440797],
+        ["solidarity", 32.185662632],
+        ["researchHigherEducation", 32.054506425],
+        ["security", 26.635378954],
+        ["ecology", 23.413423208],
+        ["territorialCohesion", 22.514751989],
+        ["labourEmployment", 18.851988905],
+        ["justice", 13.431798805],
+        ["publicFinanceFraud", 11.084670436],
+        ["socialPensionSchemes", 6.273093863],
+        ["territorialAdministration", 5.516702293],
+        ["france2030", 3.99987],
+        ["localAuthorities", 3.991242039],
+        ["overseas", 3.739788972],
+        ["culture", 3.649196894],
+        ["agricultureFood", 3.584788812],
+        ["economy", 3.498171479],
+        ["externalAction", 3.464380297],
+        ["developmentAid", 3.170780421],
+        ["immigration", 2.087596615],
+        ["health", 1.769033258],
+        ["veteransCommunity", 1.602537055],
+        ["sportYouth", 1.251045491],
+        ["publicAuthorities", 1.159381572],
+        ["governmentAction", 0.966444369],
+        ["stateAdvice", 0.858573124],
+        ["mediaBooks", 0.712526101],
+        ["publicService", 0.516393391],
+        ["unallocatedCredits", 0.185]
+      ]
+    },
+    {
+      "id": "executed2025",
+      "unit": "billionEuro",
+      "period": "2025",
+      "sourceId": "Article 4, II",
+      "values": [
+        ["schoolEducation", 87.74590345138],
+        ["defence", 62.12373674991],
+        ["financialCommitments", 53.17983630754],
+        ["solidarity", 30.8568691608],
+        ["researchHigherEducation", 30.58683895678],
+        ["ecology", 26.11071958139],
+        ["security", 25.78901454121],
+        ["territorialCohesion", 23.70595748038],
+        ["labourEmployment", 20.4519312608],
+        ["justice", 12.38027808949],
+        ["publicFinanceManagement", 10.69508999652],
+        ["socialPensionSchemes", 6.07076325446],
+        ["territorialAdministration", 4.77811363764],
+        ["developmentAid", 4.20298322894],
+        ["agricultureRural", 4.05132991181],
+        ["localAuthorities", 3.93019031795],
+        ["culture", 3.86754729029],
+        ["economy", 3.78368072132],
+        ["externalAction", 3.37796783847],
+        ["france2030", 3.30165194642],
+        ["overseas", 3.04116229915],
+        ["immigration", 2.05814358557],
+        ["veterans", 1.85012014328],
+        ["health", 1.53759310819],
+        ["recoveryPlan", 1.48636409332],
+        ["sportYouth", 1.35089122056],
+        ["publicAuthorities", 1.137842143],
+        ["governmentAction", 1.07147903243],
+        ["stateAdvice", 0.86424999296],
+        ["mediaBooks", 0.69348796903],
+        ["publicService", 0.59270147529]
+      ]
+    },
+    {
+      "id": "compare2025",
+      "unit": "billionEuro",
+      "period": "2025",
+      "values": [
+        ["schoolEducation", 87.74590345138],
+        ["defence", 62.12373674991],
+        ["debtCharge", 51.6]
+      ]
+    },
+    {
+      "id": "compare2027",
+      "unit": "billionEuro",
+      "period": "2027",
+      "status": "projection",
+      "values": [
+        ["schoolEducation", 90.859899196],
+        ["defence", 73.153440797],
+        ["debtCharge", 72.9]
+      ]
+    },
+    {
+      "id": "oldAgeByPayer",
+      "unit": "billionEuro",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "Tableau 3.307",
+      "values": [
+        ["socialSecurity", 314.5],
+        ["state", 68.5],
+        ["localGovernment", 8.9],
+        ["allGovernment", 392.0]
+      ]
+    }
+  ]
+}

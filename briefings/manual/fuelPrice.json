@@ -1,0 +1,268 @@
+{
+  "id": "fuelPrice",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "DGEC",
+      "publication": "Cours, prix et marges des produits pétroliers en France et dans l'Union Européenne, NPG-2026.10.30",
+      "publishedOn": "2026-11-02"
+    },
+    {
+      "producer": "DGEC",
+      "publication": "Prix des produits pétroliers",
+      "publishedOn": "2026-11-09"
+    },
+    {
+      "producer": "Douanes",
+      "publication": "Droits et taxes applicables aux produits énergétiques à compter du 1er octobre 2026",
+      "publishedOn": "2026-09-30"
+    },
+    {
+      "producer": "DGFiP",
+      "publication": "BOFiP-Impôts, BOI-TVA-BASE-10-10-20",
+      "publishedOn": "2024-10-09"
+    },
+    {
+      "producer": "SDES",
+      "publication": "Les prix des produits pétroliers poursuivent leur baisse en 2025 avant un rebond début 2026, Datalab essentiel n° 407",
+      "publishedOn": "2026-06-16"
+    },
+    {
+      "producer": "Commission européenne",
+      "publication": "Weekly Oil Bulletin",
+      "publishedOn": "2026-11-05"
+    },
+    {
+      "producer": "Ministère de la Transition écologique",
+      "publication": "Guide 2026 sur la fiscalité des énergies",
+      "publishedOn": "2026-07-22"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Réponse du Gouvernement à la question écrite n° 14066, Journal officiel du 2 juin 2026",
+      "publishedOn": "2026-06-02"
+    }
+  ],
+  "headline": {
+    "series": "dieselMonthly",
+    "period": "2026-10",
+    "value": 2.3503,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "dieselMonthly",
+      "frequency": "monthly",
+      "unit": "euro",
+      "sourceId": "Moyennes mensuelles",
+      "points": [
+        ["2026-09", 2.3255],
+        ["2026-10", 2.3503]
+      ]
+    },
+    {
+      "id": "dieselRetail",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Tableau 3",
+      "points": [
+        ["2019", 1.440462],
+        ["2020", 1.259887],
+        ["2021", 1.430117],
+        ["2022", 1.848354],
+        ["2023", 1.794777],
+        ["2024", 1.694375],
+        ["2025", 1.61856]
+      ]
+    },
+    {
+      "id": "dieselPreTax",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Tableau 3",
+      "points": [
+        ["2019", 0.591291],
+        ["2020", 0.440806],
+        ["2021", 0.58267],
+        ["2022", 0.931204],
+        ["2023", 0.886648],
+        ["2024", 0.803087],
+        ["2025", 0.73961]
+      ]
+    },
+    {
+      "id": "dieselExcise",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Tableau 3",
+      "points": [
+        ["2019", 0.609094],
+        ["2020", 0.6091],
+        ["2021", 0.609094],
+        ["2022", 0.609091],
+        ["2023", 0.608999],
+        ["2024", 0.608893],
+        ["2025", 0.60919]
+      ]
+    },
+    {
+      "id": "dieselTransport",
+      "frequency": "annual",
+      "unit": "euro",
+      "points": [
+        ["2019", 0.14],
+        ["2020", 0.162],
+        ["2021", 0.164],
+        ["2022", 0.195],
+        ["2023", 0.238],
+        ["2024", 0.208],
+        ["2025", 0.219]
+      ]
+    },
+    {
+      "id": "unleadedRetail",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Tableau 3",
+      "points": [
+        ["2019", 1.483181],
+        ["2020", 1.338552],
+        ["2021", 1.528094],
+        ["2022", 1.765292],
+        ["2023", 1.857592],
+        ["2024", 1.783671],
+        ["2025", 1.690215]
+      ]
+    },
+    {
+      "id": "unleadedPreTax",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Tableau 3",
+      "points": [
+        ["2019", 0.564083],
+        ["2020", 0.443658],
+        ["2021", 0.601704],
+        ["2022", 0.799373],
+        ["2023", 0.876402],
+        ["2024", 0.814894],
+        ["2025", 0.736821]
+      ]
+    },
+    {
+      "id": "unleadedExcise",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Tableau 3",
+      "points": [
+        ["2019", 0.671901],
+        ["2020", 0.671802],
+        ["2021", 0.671708],
+        ["2022", 0.671704],
+        ["2023", 0.671592],
+        ["2024", 0.671498],
+        ["2025", 0.671692]
+      ]
+    },
+    {
+      "id": "unleadedTransport",
+      "frequency": "annual",
+      "unit": "euro",
+      "points": [
+        ["2019", 0.147],
+        ["2020", 0.185],
+        ["2021", 0.165],
+        ["2022", 0.169],
+        ["2023", 0.241],
+        ["2024", 0.236],
+        ["2025", 0.247]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "dieselLitre",
+      "unit": "euro",
+      "period": "2026-10",
+      "values": [
+        ["refinedProduct", 1.126],
+        ["transportDistribution", 0.242],
+        ["excise", 0.6075],
+        ["vat", 0.3951]
+      ]
+    },
+    {
+      "id": "unleadedLitre",
+      "unit": "euro",
+      "period": "2026-10",
+      "values": [
+        ["refinedProduct", 0.795],
+        ["transportDistribution", 0.281],
+        ["excise", 0.6702],
+        ["vat", 0.3492]
+      ]
+    },
+    {
+      "id": "dieselWithTaxes",
+      "unit": "euro",
+      "period": "2026-11",
+      "values": [
+        ["france", 2.37062],
+        ["europeanUnion", 2.15394],
+        ["euroArea", 2.20313]
+      ]
+    },
+    {
+      "id": "dieselWithoutTaxes",
+      "unit": "euro",
+      "period": "2026-11",
+      "values": [
+        ["france", 1.36802],
+        ["europeanUnion", 1.35192]
+      ]
+    },
+    {
+      "id": "petrolWithTaxes",
+      "unit": "euro",
+      "period": "2026-11",
+      "values": [
+        ["france", 2.15805],
+        ["europeanUnion", 1.9291],
+        ["euroArea", 2.00388]
+      ]
+    },
+    {
+      "id": "petrolWithoutTaxes",
+      "unit": "euro",
+      "period": "2026-11",
+      "values": [
+        ["france", 1.10818],
+        ["europeanUnion", 1.04443]
+      ]
+    },
+    {
+      "id": "dieselExciseEurope",
+      "unit": "euro",
+      "period": "2026-11",
+      "values": [
+        ["france", 0.6075],
+        ["germany", 0.33],
+        ["spain", 0.179],
+        ["italy", 0.6229]
+      ]
+    },
+    {
+      "id": "exciseRevenue",
+      "unit": "billionEuro",
+      "period": "2024",
+      "values": [
+        ["grossExcise", 31.6],
+        ["localAuthorities", 11.9],
+        ["afitf", 1.7],
+        ["idfMobilites", 0.1],
+        ["refunds", 2],
+        ["stateNet", 16]
+      ]
+    }
+  ]
+}

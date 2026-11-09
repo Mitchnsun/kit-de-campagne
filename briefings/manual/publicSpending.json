@@ -92,6 +92,43 @@
   ],
   "breakdowns": [
     {
+      "id": "sharesFrance",
+      "unit": "percent",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "gov_10a_exp",
+      "values": [
+        ["socialProtection", 41.5],
+        ["health", 15.6],
+        ["generalServices", 10.8],
+        ["economicAffairs", 9.9],
+        ["education", 8.9],
+        ["defence", 3.2],
+        ["publicOrder", 3.1],
+        ["recreationCulture", 2.6],
+        ["housing", 2.5],
+        ["environment", 1.8]
+      ]
+    },
+    {
+      "id": "sharesEu",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "gov_10a_exp",
+      "values": [
+        ["socialProtection", 40.0],
+        ["health", 15.0],
+        ["generalServices", 12.4],
+        ["economicAffairs", 10.8],
+        ["education", 9.7],
+        ["defence", 3.0],
+        ["publicOrder", 3.5],
+        ["recreationCulture", 2.4],
+        ["housing", 1.5],
+        ["environment", 1.7]
+      ]
+    },
+    {
       "id": "byFunction",
       "unit": "billionEuro",
       "period": "2024",

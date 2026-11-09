@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Brut ou net : le total brut du budget général, 615,14 Md€ au projet pour 2027, compte 144,51 Md€ de remboursements et dégrèvements, des impôts rendus ou annulés, pas des dépenses. Déduits ceux des impôts de l'État, restent 474,9 Md€ de dépenses nettes ; en 2025, 433,8 Md€.",
+    "Un projet de loi n'est pas une loi votée : les montants de 2027 sont ceux du projet de loi de finances, que le Parlement peut modifier ; ceux de 2025, du projet de loi relatif aux résultats de la gestion (n° 2694). La Cour des comptes retrouve son total brut, 578,0 Md€.",
+    "Les crédits de paiement sont ce que l'État paie dans l'année ; les autorisations d'engagement, ce qu'il s'engage à payer, parfois sur plusieurs années (contrats d'armement). Au projet pour 2027, la Défense a 88,42 Md€ d'autorisations d'engagement et 73,15 Md€ de crédits de paiement.",
+    "Le budget de l'État verse aussi 6,07 Md€ en 2025 à des régimes spéciaux de retraite (transports terrestres, marins, mines), par la mission « Régimes sociaux et de retraite ». Au projet pour 2027, elle fait 6,27 Md€, dont 0,63 Md€ versés au compte « Pensions », pas à ces régimes."
+  ],
+  "en": [
+    "Gross or net: the general budget's gross total, €615.14bn in the 2027 bill, counts €144.51bn of tax refunds and rebates (\"remboursements et dégrèvements\"), taxes refunded or cancelled, not spending. Once those of State taxes are deducted, €474.9bn of net spending remain; in 2025, €433.8bn.",
+    "A bill is not a law passed: the 2027 amounts are those of the finance bill, which Parliament may amend; those of 2025 come from the bill on the results of the 2025 management (no. 2694). The Cour des comptes finds its gross total, €578.0bn.",
+    "Payment credits are what the State pays during the year; commitment authorisations, what it commits to pay, sometimes over several years (arms contracts). In the 2027 bill, Defence has €88.42bn of commitment authorisations and €73.15bn of payment credits.",
+    "The State budget also pays €6.07bn in 2025 to special pension schemes (land transport, seafarers, mines), through the \"Régimes sociaux et de retraite\" mission. In the 2027 bill, the mission comes to €6.27bn, of which €0.63bn goes to the \"Pensions\" account, not to those schemes."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que l'armée coûte plus que l'école.",
+        "answer": "Selon les projets de loi du Gouvernement, en crédits de paiement, ce que l'État paie dans l'année, la mission Enseignement scolaire dépasse la Défense : 87,75 contre 62,12 Md€ en 2025 et 90,86 contre 73,15 Md€ prévus pour 2027. Sans les cotisations de retraite des agents, l'écart se resserre : 64,09 contre 52,80 Md€ en 2025, 65,53 contre 63,41 Md€ en 2027 (calculé). L'inverse vaut en autorisations d'engagement votées pour 2026 (92,83 contre 89,60 Md€) : des engagements sur plusieurs années, pas des paiements de l'année."
+      },
+      {
+        "heard": "On entend que les retraites sont payées par le budget de l'État.",
+        "answer": "Selon l'Insee, sur 392,0 Md€ de dépenses publiques de vieillesse en 2024, 314,5 Md€ sont payés par les administrations de sécurité sociale et 68,5 Md€ par l'État, en comptabilité nationale. Dans son budget, l'État paie les pensions de ses fonctionnaires, de ses militaires et de ses ouvriers par le compte « Pensions » (69,34 Md€ en 2025, un chiffre de comptabilité budgétaire), et 6,07 Md€ à des régimes spéciaux. Ses agents contractuels relèvent du régime général, précise la Cour des comptes."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the army costs more than school.",
+        "answer": "According to the Government's bills, in payment credits, what the State pays during the year, the School education mission exceeds Defence: €87.75bn against €62.12bn in 2025 and €90.86bn against €73.15bn forecast for 2027. Without the staff's pension contributions, the gap narrows: €64.09bn against €52.80bn in 2025, €65.53bn against €63.41bn in 2027 (calculated). The reverse holds in commitment authorisations voted for 2026 (€92.83bn against €89.60bn): commitments over several years, not the year's payments."
+      },
+      {
+        "heard": "You hear that pensions are paid by the State budget.",
+        "answer": "According to the Insee, of €392.0bn of public old-age spending in 2024, €314.5bn is paid by the social security funds and €68.5bn by the State, in national accounts. In its budget, the State pays the pensions of its civil servants, its military and its industrial workers through the \"Pensions\" account (€69.34bn in 2025, a figure of budgetary accounting), and €6.07bn to special schemes. Its contract staff come under the general scheme, the Cour des comptes adds."
+      }
+    ]
+  }
+}
