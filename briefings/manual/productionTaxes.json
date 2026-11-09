@@ -1,0 +1,73 @@
+{
+  "id": "productionTaxes",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "DGFiP",
+      "publication": "Les impôts de production en 2024, DGFiP Statistiques n° 47",
+      "publishedOn": "2026-05-19"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Rapport relatif aux aides publiques aux entreprises, annexe au projet de loi de finances pour 2027",
+      "publishedOn": "2026-10-12"
+    }
+  ],
+  "headline": {
+    "series": "productionTaxes",
+    "period": "2024",
+    "value": 96,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "productionTaxes",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Graphique 1",
+      "points": [
+        ["2019", 91.2],
+        ["2020", 88.7],
+        ["2021", 83.1],
+        ["2022", 90.1],
+        ["2023", 92.9],
+        ["2024", 96]
+      ]
+    },
+    {
+      "id": "valueAddedShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Graphique 1",
+      "points": [
+        ["2019", 5.5],
+        ["2020", 5.7],
+        ["2021", 4.5],
+        ["2022", 4.7],
+        ["2023", 4.5],
+        ["2024", 4.4]
+      ]
+    },
+    {
+      "id": "gdpShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2019", 3.7],
+        ["2024", 3.3]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "cvaeC3s",
+      "unit": "billionEuro",
+      "period": "2024",
+      "sourceId": "Tableau 1",
+      "values": [
+        ["cvae", 3.0],
+        ["c3s", 5.3]
+      ]
+    }
+  ]
+}
