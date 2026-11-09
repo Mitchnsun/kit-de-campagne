@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "D'après ses contrôles, la DGFiP estime l'impôt sur les sociétés dû et non déclaré par les entreprises qui déclarent, hors pénalités et hors optimisation légale : erreurs ou omissions, volontaires ou non. C'est un minorant. Sa fourchette, 5,5 à 6,3 Md€, va de la plus basse à la plus haute des cinq années : pas un total.",
+    "Le Conseil d'analyse économique estime « a minima » à 4,6 Md€ par an l'impôt sur les sociétés perdu de 2009 à 2016 par les groupes de plus de dix salariés présents dans un paradis fiscal. Il ne sépare pas le légal de l'illégal, et sa méthode diffère de celle de la DGFiP : les deux ne s'additionnent ni ne se comparent.",
+    "Le STDR a régularisé de 2013 à 2017 des avoirs non déclarés à l'étranger. Ses encaissements de 2013 à 2019 font 9 773 M€, un total calculé ici sur deux sources : la Cour des comptes pour 2013 à 2016, la DGFiP pour 2017 à 2019. En octobre 2017, la Cour comptait environ 51 000 déclarations et 32 Md€ d'avoirs régularisés.",
+    "Selon la DGFiP, plus de cent États ou territoires ont transmis à la France, par l'échange automatique d'informations, des données sur plus de 11 millions de comptes financiers. Le document l'écrit pour 2025 et pour fin 2024 : l'année n'est pas sûre. Un compte signalé n'est pas une fraude."
+  ],
+  "en": [
+    "The DGFiP estimates the corporate tax due and not declared by the companies that file, from its audits, excluding penalties and legal optimisation: errors or omissions, intentional or not. It is a lower bound. Its range of €5.5 to €6.3 billion runs from the lowest to the highest of the five years: it is not a total.",
+    "The Conseil d'analyse économique estimates “at a minimum” at €4.6 billion a year the corporate tax lost from 2009 to 2016 by groups of more than ten employees present in a tax haven. It does not separate the legal from the illegal, and its method is not the DGFiP's: the two figures neither add up nor compare.",
+    "The STDR regularised undeclared assets abroad from 2013 to 2017. Its collections from 2013 to 2019 come to €9,773 million, a total calculated from two sources: the Cour des comptes for 2013 to 2016, the DGFiP for 2017 to 2019. In October 2017, the Cour counted about 51,000 returns and €32 billion of assets regularised.",
+    "According to the DGFiP, more than a hundred States or territories sent France, through the automatic exchange of information, data on more than 11 million financial accounts. The document writes this for 2025 and for the end of 2024: the year is uncertain. An account reported is not a fraud."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que les comptes cachés à l'étranger échappent totalement au fisc.",
+        "answer": "Selon la Cour des comptes, le service de traitement des déclarations rectificatives (STDR), ouvert de 2013 à 2017 pour régulariser les avoirs non déclarés à l'étranger, avait reçu environ 51 000 déclarations en octobre 2017, pour 32 Md€ d'avoirs régularisés. Ses encaissements de 2013 à 2019 font 9 773 M€, un total calculé à partir des montants de la Cour des comptes (2013 à 2016) et de la DGFiP (2017 à 2019)."
+      },
+      {
+        "heard": "On entend que la Suisse ou le Luxembourg sont sur la liste noire européenne des paradis fiscaux.",
+        "answer": "Selon le Conseil de l'Union européenne, la liste de l'UE des juridictions non coopératives à des fins fiscales compte huit juridictions au 9 octobre 2026 : les Samoa américaines, Anguilla, Guam, les Palaos, la Russie, les îles Turques-et-Caïques, les îles Vierges américaines et le Vanuatu. Ni la Suisse ni le Luxembourg n'y figurent."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that accounts hidden abroad escape the tax authorities entirely.",
+        "answer": "According to the Cour des comptes, the unit processing corrective returns (STDR), open from 2013 to 2017 to regularise undeclared assets abroad, had received about 51,000 returns by October 2017, for €32 billion of assets regularised. Its collections from 2013 to 2019 come to €9,773 million, a total calculated from the amounts of the Cour des comptes (2013 to 2016) and of the DGFiP (2017 to 2019)."
+      },
+      {
+        "heard": "You hear that Switzerland or Luxembourg are on the European blacklist of tax havens.",
+        "answer": "According to the Council of the European Union, the EU list of non-cooperative jurisdictions for tax purposes holds eight jurisdictions on 9 October 2026: American Samoa, Anguilla, Guam, Palau, Russia, the Turks and Caicos Islands, the US Virgin Islands and Vanuatu. Neither Switzerland nor Luxembourg is on it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "fr": [
+    "Ces chiffres sont le bilan de 2025 de la DGFiP et du ministère de la Justice, publié en annexe du projet de loi de finances pour 2027. Ils ne se raccordent pas aux sommes rappelées et encaissées que publie la Cour des comptes (volet « Fiscale ») : les définitions diffèrent.",
+    "Les droits et pénalités sont des sommes réclamées, erreurs de bonne foi comprises, pas encaissées. Les sommes encaissées une année viennent de contrôles de plusieurs années. Les crédits d'impôt et taxes non remboursés sont des remboursements refusés : en 2025, 4,85 Md€ concernaient les demandes d'une seule société.",
+    "Une transmission à la justice n'est pas une condamnation. Les 1 101 M€ de droits fraudés portent sur les dénonciations obligatoires et les plaintes après avis de la commission des infractions fiscales, pas sur les 2 138 dossiers. Les condamnations excluent une part des fraudes à la TVA, poursuivies comme escroqueries.",
+    "Le taux de poursuites rapporte les personnes poursuivies à celles qui ont reçu une réponse pénale. Au 1er juillet 2026, 17 conventions judiciaires d'intérêt public en matière fiscale avaient fixé 1 782 896 358 € d'amendes, sans les impôts et pénalités payés à côté. Une telle convention n'est pas une condamnation."
+  ],
+  "en": [
+    "These figures are the 2025 report of the DGFiP and of the ministry of Justice, published in an annex to the 2027 finance bill. They do not join up with the sums claimed and collected the Cour des comptes publishes (the “Tax” part): the definitions differ.",
+    "Taxes and penalties are sums claimed, good-faith errors included, not sums collected. The sums collected in a year come from audits of several years. Tax credits and taxes not refunded are refunds refused: in 2025, €4.85 billion concerned the claims of a single company.",
+    "A referral to the courts is not a conviction. The €1,101 million of evaded taxes cover the mandatory reports and the complaints after an opinion of the tax offences committee, not the 2,138 cases. The convictions leave out part of the VAT frauds, prosecuted as swindles.",
+    "The prosecution rate sets the people prosecuted against those who received a criminal justice response. On 1 July 2026, 17 judicial public interest agreements on tax matters had set €1,782,896,358 of fines, without the taxes and penalties paid beside them. Such an agreement is not a conviction."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que personne n'est jamais condamné pour fraude fiscale.",
+        "answer": "Selon le ministère de la Justice, 534 condamnations visent en 2025 au moins une infraction de fraude fiscale, dont 418 où elle est l'infraction principale. Parmi ces 418, 81,3 % comportent une peine d'emprisonnement, 17,9 % de la prison ferme en tout ou partie, et 46,2 % une amende ferme, de 68 099 € en moyenne. Ces chiffres excluent une part des fraudes à la TVA, poursuivies comme escroqueries."
+      },
+      {
+        "heard": "On entend que le fisc a récupéré 17 milliards d'euros de fraude en 2025.",
+        "answer": "Selon la DGFiP, le contrôle fiscal a produit 17,1 Md€ de droits et pénalités en 2025 : des sommes réclamées, erreurs de bonne foi comprises. Les sommes encaissées la même année sont de 11,4 Md€ et viennent de contrôles de plusieurs années. Les 8,4 Md€ de crédits d'impôt et taxes non remboursés, dont 4,85 Md€ pour une seule société, sont des remboursements refusés, pas des sommes encaissées."
+      },
+      {
+        "heard": "On entend que Bercy décide seul de qui est poursuivi pour fraude fiscale.",
+        "answer": "Depuis la loi du 23 octobre 2018, l'administration fiscale doit dénoncer au parquet les dossiers qui remplissent les critères de la loi : selon la DGFiP, 1 735 dénonciations obligatoires en 2025, sur 2 138 dossiers transmis à la justice. Pour les autres, la commission des infractions fiscales a rendu 282 avis favorables à une plainte. Ces deux voies portent sur 1 101 M€ de droits fraudés. Le ministère de la Justice explique la baisse du taux de poursuites, de 84,1 % en 2018 à 57,8 % en 2025, par les choix des parquets face à la hausse des dénonciations obligatoires."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that no one is ever convicted of tax fraud.",
+        "answer": "According to the ministry of Justice, 534 convictions in 2025 cover at least one tax fraud offence, 418 of them with it as the main offence. Of these 418, 81.3% include a prison sentence, 17.9% unsuspended prison in whole or in part, and 46.2% an unsuspended fine, of €68,099 on average. These figures leave out part of the VAT frauds, prosecuted as swindles."
+      },
+      {
+        "heard": "You hear that the tax authorities recovered €17 billion of fraud in 2025.",
+        "answer": "According to the DGFiP, tax audits produced €17.1 billion of taxes and penalties in 2025: sums claimed, good-faith errors included. The sums collected the same year come to €11.4 billion and come from audits of several years. The €8.4 billion of tax credits and taxes not refunded, €4.85 billion of them for a single company, are refunds refused, not sums collected."
+      },
+      {
+        "heard": "You hear that Bercy alone decides who is prosecuted for tax fraud.",
+        "answer": "Since the law of 23 October 2018, the tax authorities must report to the prosecutor the cases that meet the law's criteria: according to the DGFiP, 1,735 mandatory reports in 2025, out of 2,138 cases referred to the courts. For the others, the tax offences committee gave 282 opinions in favour of a complaint. These two routes cover €1,101 million of evaded taxes. The ministry of Justice explains the fall of the prosecution rate, from 84.1% in 2018 to 57.8% in 2025, by the choices of the prosecutors facing the rise of mandatory reports."
+      }
+    ]
+  }
+}

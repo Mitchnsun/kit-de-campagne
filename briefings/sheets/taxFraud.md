@@ -25,8 +25,9 @@ Les trois points en anglais (relus le 09/11/2026) disent la même chose que le f
 Chaque affirmation est dans `briefings/notes/taxFraud.json` (clé `claims`, français et anglais). Source de chaque chiffre de la réponse :
 
 1. « On entend que la fraude fiscale représente 80 à 100 milliards par an. » « Nul ne peut aujourd'hui se hasarder à affirmer que ce montant est proche de 30 ou de 130 Md€ » : Cour des comptes, rapport du 16/12/2025. « Au minimum une approximation, voire une affirmation gratuite » : Premier président, présentation à la presse du 16/12/2025. Réserve : « ce montant » est flou (écart fiscal et fraude), et la DGFiP a bien une estimation pour la TVA ; « aucune estimation fiable » traduit « absence d'estimation fiable, quasiment sans exception ».
-2. « On entend que le fisc a récupéré un record de 17 milliards. » 17,4 Md€ en 2024 (16,1 Md€ en 2015), droits rappelés et crédits d'impôt non remboursés : Cour des comptes, synthèse du 16/12/2025 (« de 16,1 Md€ à 17,4 Md€, soit une progression de 8 % en euros courants »). 11,4 Md€ encaissés en 2024 et 12,2 Md€ en 2015 : Cour des comptes, rapport du 16/12/2025. Le bilan 2025 du ministère n'a pas pu être ouvert (403) : les 17,1 Md€ et les 11,4 Md€ « de 2025 » annoncés par la recherche ne sont pas utilisés.
-3. « On entend que la fraude à la TVA représente des dizaines de milliards. » 12,1 Md€ en 2023 et 5,6 % : Commission européenne, page `vat-gap_en`. « Fraude, erreurs et faillites » : même page.
+2. « On entend que la fraude à la TVA représente des dizaines de milliards. » 12,1 Md€ en 2023 et 5,6 % : Commission européenne, page `vat-gap_en`. « Fraude, erreurs et faillites » : même page.
+
+**Retirée le 09/11/2026** : « On entend que le fisc a récupéré un record de 17 milliards. » (17,4 Md€ de droits rappelés et de crédits d'impôt non remboursés en 2024, pour 11,4 Md€ encaissés, Cour des comptes). Elle recoupait l'affirmation du volet `taxPenalties` (« le fisc a récupéré 17 milliards d'euros de fraude en 2025 »), qui répond avec le bilan de 2025 de la DGFiP, plus récent et plus complet (droits et pénalités, sommes encaissées, crédits non remboursés) : celle-là est gardée, voir `taxPenalties.md`. Les sommes rappelées et encaissées de 2015 et de 2024 restent dans la vue « Contrôle fiscal » de ce volet ; elles ne se raccordent pas aux montants de `taxPenalties` (définitions différentes, ce que dit une note de ce volet-là).
 
 ## Double vérification
 
@@ -51,7 +52,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+- 09/11/2026 : l'affirmation « le fisc a récupéré un record de 17 milliards » est retirée de `notes/taxFraud.json` (doublon de celle du volet `taxPenalties`, gardée) ; aucun chiffre du fichier n'a changé. Le bilan du contrôle fiscal de 2025 que la page du ministère bloquait est désormais lu dans le document de politique transversale annexé au PLF 2027, par le volet `taxPenalties` ; ses montants ne sont pas saisis dans ce volet.
 
 ## Relecture
 

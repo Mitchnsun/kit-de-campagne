@@ -1,0 +1,122 @@
+{
+  "id": "taxPenalties",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Gouvernement",
+      "publication": "Document de politique transversale 2027, Lutte contre l'évasion fiscale et la fraude en matière d'impositions de toutes natures et de cotisations sociales",
+      "publishedOn": "2026-10-09"
+    }
+  ],
+  "headline": {
+    "series": "dutiesPenalties",
+    "period": "2025",
+    "value": 17.135,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "dutiesPenalties",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2017", 16.148],
+        ["2018", 14.509],
+        ["2019", 12.089],
+        ["2020", 8.246],
+        ["2021", 13.44],
+        ["2022", 14.615],
+        ["2023", 15.188],
+        ["2024", 16.673],
+        ["2025", 17.135]
+      ]
+    },
+    {
+      "id": "collected",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2024", 11.442],
+        ["2025", 11.369]
+      ]
+    },
+    {
+      "id": "creditsNotRefunded",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2024", 3.4],
+        ["2025", 8.392]
+      ]
+    },
+    {
+      "id": "onSiteAudits",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2017", 47900],
+        ["2018", 48464],
+        ["2019", 45114],
+        ["2020", 22231],
+        ["2021", 39324],
+        ["2022", 40711],
+        ["2023", 40233],
+        ["2024", 39696],
+        ["2025", 39009]
+      ]
+    },
+    {
+      "id": "convictions",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2018", 672],
+        ["2019", 627],
+        ["2020", 428],
+        ["2021", 723],
+        ["2022", 731],
+        ["2023", 605],
+        ["2024", 567],
+        ["2025", 534]
+      ]
+    },
+    {
+      "id": "prosecutionRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2018", 84.1],
+        ["2019", 80.9],
+        ["2020", 75.2],
+        ["2021", 64.2],
+        ["2022", 58.5],
+        ["2023", 55.0],
+        ["2024", 52.6],
+        ["2025", 57.8]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "referralsByKind",
+      "unit": "count",
+      "period": "2025",
+      "values": [
+        ["mandatoryReports", 1735],
+        ["cifComplaints", 282],
+        ["taxPoliceComplaints", 39],
+        ["taxScamComplaints", 82]
+      ]
+    },
+    {
+      "id": "sentences",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["prison", 81.3],
+        ["firmPrison", 17.9],
+        ["fine", 46.2]
+      ]
+    }
+  ]
+}
