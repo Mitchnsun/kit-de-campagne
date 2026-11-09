@@ -14,19 +14,11 @@
   "claims": {
     "fr": [
       {
-        "heard": "On entend que l'IFI, qui a remplacé l'ISF, ne rapporte rien.",
-        "answer": "Selon l'Insee, l'impôt sur la fortune a rapporté 5,07 Md€ en 2017 (ISF), 1,85 Md€ en 2018 (première année de l'IFI) et 2,71 Md€ en 2025. Pour situer ces montants : TVA 208,8 Md€, CSG 156,6 Md€, impôt sur le revenu 103,6 Md€."
-      },
-      {
         "heard": "On entend que le Parlement coûte une fortune.",
         "answer": "Le budget 2027 de l'Assemblée nationale est de 642,95 M€ (dont 53,80 M€ d'indemnités pour 577 députés) et celui du Sénat de 383,34 M€. Les deux assemblées ont dépensé 988,0 M€ en 2025, soit environ 0,06 % de la dépense publique (calculé)."
       }
     ],
     "en": [
-      {
-        "heard": "You hear that the IFI, which replaced the ISF, brings in nothing.",
-        "answer": "According to the Insee, the wealth tax brought in €5.07 billion in 2017 (ISF), €1.85 billion in 2018 (the first year of the IFI) and €2.71 billion in 2025. To set these amounts: VAT €208.8 billion, CSG €156.6 billion, income tax €103.6 billion."
-      },
       {
         "heard": "You hear that Parliament costs a fortune.",
         "answer": "The National Assembly's 2027 budget is €642.95 million (of which €53.80 million of allowances for 577 MPs) and the Senate's €383.34 million. The two houses spent €988.0 million in 2025, or about 0.06% of public spending (calculated)."

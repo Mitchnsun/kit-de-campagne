@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "Selon la CEPEJ, en 2024, le chiffre de la France ne compte ni ses 2 225 procureurs (3,2 pour 100 000 habitants, contre une médiane de l'UE de 11,4), ni ses 22 836 juges non professionnels, ni les 445 juges professionnels qui siègent à titre occasionnel.",
+    "Les rangs sont calculés à partir de l'ordre des tableaux de la CEPEJ et d'Eurostat : aucune source ne publie de classement, et le tableau de bord de la justice de la Commission européenne précise qu'il ne présente pas de classement unique. La Suède et l'Italie sont à égalité, à 12,2 juges.",
+    "Pour la France, Eurostat précise que la police municipale est comprise dans le nombre de policiers. Le dernier chiffre de la France est celui de 2022 ; Eurostat n'a pas de chiffre de l'Italie pour cette année-là.",
+    "Eurostat compte 7 654 juges professionnels en France en 2024, soit 11,15 pour 100 000 habitants, quand la CEPEJ en compte 7 968. La page suit la CEPEJ, dont les définitions sont communes aux pays."
+  ],
+  "en": [
+    "According to the CEPEJ, in 2024 France's figure counts neither its 2,225 prosecutors (3.2 per 100,000 inhabitants, against an EU median of 11.4), nor its 22,836 non-professional judges, nor the 445 professional judges who sit on an occasional basis.",
+    "The ranks are calculated from the order of the CEPEJ's and Eurostat's tables: no source publishes a ranking, and the European Commission's justice scoreboard states that it does not present an overall single ranking. Sweden and Italy are level, at 12.2 judges.",
+    "For France, Eurostat states that the municipal police are included in the number of police officers. France's last figure is that of 2022; Eurostat has no figure for Italy that year.",
+    "Eurostat counts 7,654 professional judges in France in 2024, or 11.15 per 100,000 inhabitants, where the CEPEJ counts 7,968. The page follows the CEPEJ, whose definitions are shared by the countries."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la France a moins de policiers que ses voisins européens.",
+        "answer": "Selon Eurostat, la France compte 361,25 policiers pour 100 000 habitants en 2022, police municipale comprise : 12e des 26 pays de l'UE renseignés (rang calculé). Parmi ses voisins, l'Allemagne en compte 311,06, la Belgique 338,29, le Luxembourg 366,6 et l'Espagne 379,84 ; l'Italie n'est pas renseignée. Les définitions nationales diffèrent : ces chiffres ne se comparent pas tels quels d'un pays à l'autre."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that France has fewer police officers than its European neighbours.",
+        "answer": "According to Eurostat, France has 361.25 police officers per 100,000 inhabitants in 2022, municipal police included: 12th of the 26 EU countries with a figure (rank calculated). Among its neighbours, Germany has 311.06, Belgium 338.29, Luxembourg 366.6 and Spain 379.84; there is no figure for Italy. National definitions differ: these figures do not compare as they are from one country to another."
+      }
+    ]
+  }
+}

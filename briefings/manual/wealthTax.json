@@ -1,0 +1,123 @@
+{
+  "id": "wealthTax",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Tableau 3.217 – Principaux impôts par catégorie",
+      "publishedOn": "2026-08-28"
+    },
+    {
+      "producer": "DGFiP",
+      "publication": "L'ISF - montants et nombres des déclarations de 1999 à 2017",
+      "publishedOn": "2019-10-24"
+    },
+    {
+      "producer": "DGFiP",
+      "publication": "L'impôt sur la fortune immobilière en 2025 et en 2023, DGFiP Statistiques n° 45 et n° 23",
+      "publishedOn": "2026-04-14"
+    },
+    {
+      "producer": "France Stratégie",
+      "publication": "Comité d'évaluation des réformes de la fiscalité du capital – Rapport final",
+      "publishedOn": "2023-10-16"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "L'impôt sur la fortune immobilière",
+      "publishedOn": "2024-01-25"
+    }
+  ],
+  "headline": {
+    "series": "revenue",
+    "period": "2025",
+    "value": 2.714,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "revenue",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "T_3217",
+      "status": {
+        "2024": "semiDefinitive",
+        "2025": "provisional"
+      },
+      "points": [
+        ["1995", 1.292],
+        ["1996", 1.353],
+        ["1997", 1.529],
+        ["1998", 1.692],
+        ["1999", 1.932],
+        ["2000", 2.419],
+        ["2001", 2.645],
+        ["2002", 2.442],
+        ["2003", 2.315],
+        ["2004", 2.554],
+        ["2005", 3.023],
+        ["2006", 3.658],
+        ["2007", 4.39],
+        ["2008", 4.155],
+        ["2009", 3.58],
+        ["2010", 4.461],
+        ["2011", 4.305],
+        ["2012", 5.03],
+        ["2013", 4.372],
+        ["2014", 5.377],
+        ["2015", 5.224],
+        ["2016", 4.837],
+        ["2017", 5.068],
+        ["2018", 1.847],
+        ["2019", 2.059],
+        ["2020", 1.997],
+        ["2021", 2.025],
+        ["2022", 2.27],
+        ["2023", 2.296],
+        ["2024", 2.682],
+        ["2025", 2.714]
+      ]
+    },
+    {
+      "id": "isfTaxpayers",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["1999", 212868],
+        ["2000", 245820],
+        ["2001", 269713],
+        ["2002", 283586],
+        ["2003", 298466],
+        ["2004", 335525],
+        ["2005", 390915],
+        ["2006", 456856],
+        ["2007", 527866],
+        ["2008", 565966],
+        ["2009", 559727],
+        ["2010", 593878],
+        ["2011", 291630],
+        ["2012", 290065],
+        ["2013", 312406],
+        ["2014", 331010],
+        ["2015", 342972],
+        ["2016", 351152],
+        ["2017", 358198]
+      ]
+    },
+    {
+      "id": "ifiTaxpayers",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2018", 132720],
+        ["2019", 139150],
+        ["2020", 143340],
+        ["2021", 152690],
+        ["2022", 164000],
+        ["2023", 175980],
+        ["2024", 186100],
+        ["2025", 193600]
+      ]
+    }
+  ]
+}

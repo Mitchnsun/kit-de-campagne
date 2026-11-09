@@ -1,0 +1,60 @@
+{
+  "fr": [
+    "En 2018, l'impôt sur la fortune immobilière (IFI) a remplacé l'ISF et ne taxe que le patrimoine immobilier. De 2018 à 2022, les montants comprennent encore des restes d'ISF, surtout issus des contrôles : selon la Cour des comptes, la ligne budgétaire de l'IFI en comptait 0,7 Md€ sur 1,9 Md€ en 2018.",
+    "Le comité d'évaluation des réformes de la fiscalité du capital estimait en 2019 que le remplacement de l'ISF par l'IFI avait fait perdre 3,1 Md€ de recettes en 2018 ; pour 2022, il écrit que son coût serait « vraisemblablement supérieur à 4 milliards d'euros ». Ce sont des estimations, sous hypothèses.",
+    "Trois comptes, trois montants : en 2022, 2,27 Md€ en comptabilité nationale (Insee, droits constatés), 2,4 Md€ de recettes budgétaires (Cour des comptes, encaissements de l'année, restes d'ISF compris) et 1,83 Md€ d'avis d'IFI émis (DGFiP, hors contrôle fiscal). La page suit l'Insee.",
+    "Le chiffre de 2025 est un compte provisoire de l'Insee, celui de 2024 un compte semi-définitif : tous deux peuvent encore être révisés. Les montants sont en euros courants, sans correction de l'inflation."
+  ],
+  "en": [
+    "In 2018, the real estate wealth tax (IFI) replaced the ISF and taxes real estate assets only. From 2018 to 2022, the amounts still include remainders of the ISF, mostly from tax audits: according to the Cour des comptes, the IFI's budget line held €0.7 billion of them out of €1.9 billion in 2018.",
+    "The committee evaluating the reforms of capital taxation estimated in 2019 that replacing the ISF with the IFI had lost €3.1 billion of revenue in 2018; for 2022, it writes that its cost would be “probably more than 4 billion euros”. These are estimates, resting on assumptions.",
+    "Three accounts, three amounts: in 2022, €2.27 billion in the national accounts (Insee, accrual basis), €2.4 billion of budget revenue (Cour des comptes, cash received in the year, ISF remainders included) and €1.83 billion of IFI notices issued (DGFiP, excluding tax audits). The page follows the Insee.",
+    "The 2025 figure is a provisional account of the Insee, the 2024 figure a semi-definitive one: both may still be revised. The amounts are in current euros, not adjusted for inflation."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que l'ISF a été supprimé et qu'il n'y a plus d'impôt sur la fortune en France.",
+        "answer": "L'ISF a été remplacé en 2018 par l'impôt sur la fortune immobilière (IFI), qui ne taxe que le patrimoine immobilier. Selon la DGFiP, 193 600 foyers ont reçu un avis d'IFI en 2025, contre 358 198 déclarations d'ISF en 2017."
+      },
+      {
+        "heard": "On entend que l'IFI, qui a remplacé l'ISF, ne rapporte rien.",
+        "answer": "Selon l'Insee, l'impôt sur la fortune a rapporté 5,07 Md€ en 2017 (ISF), 1,85 Md€ en 2018 (première année de l'IFI, restes d'ISF compris) et 2,71 Md€ en 2025 (compte provisoire). Selon la DGFiP, les avis d'IFI de 2025 représentent 2,3 Md€ : un montant d'avis émis, hors contrôle fiscal, qui ne se compare pas tel quel aux comptes de l'Insee."
+      },
+      {
+        "heard": "On entend que supprimer l'ISF n'a rien coûté à l'État, ou que la mesure s'est payée toute seule.",
+        "answer": "Le comité d'évaluation des réformes de la fiscalité du capital (France Stratégie) estimait en 2019 la perte de recettes de 2018 à 3,1 milliards d'euros ; pour 2022, il écrit que le coût « serait vraisemblablement supérieur à 4 milliards d'euros ». Ses études n'ayant « pas réussi à identifier d'impact mesurable sur l'activité économique », il ne peut pas estimer un coût « dynamique » différent du coût « statique ». Ce sont des estimations."
+      },
+      {
+        "heard": "On entend que depuis la suppression de l'ISF, les contribuables fortunés reviennent en masse en France.",
+        "answer": "Le comité d'évaluation écrit que « depuis 2018, les retours de contribuables à l'IFI dépassent les départs à l'étranger », avec 380 retours contre 260 départs en moyenne de 2018 à 2021, mais que « cette évolution porte toutefois sur de petits effectifs, de l'ordre de quelques centaines ». Pour les entrepreneurs, il écrit qu'« on ne peut rigoureusement conclure à un effet causal » et que les effets trouvés « sont de faible ampleur »."
+      },
+      {
+        "heard": "On entend que la suppression de l'ISF a relancé l'investissement des entreprises.",
+        "answer": "Le comité d'évaluation a étudié les entreprises de taille intermédiaire (ETI) dont les actionnaires étaient assujettis à l'ISF : « aucun effet de l'ISF sur l'activité des ETI n'a pu être identifié ». Sur les créations d'entreprises, l'effet lui semble « davantage dû au PFU et à l'IS qu'au remplacement de l'ISF par l'IFI » (prélèvement forfaitaire unique, impôt sur les sociétés). Il conclut que « beaucoup de questions restent ouvertes »."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the ISF was abolished and that France no longer has a wealth tax.",
+        "answer": "The ISF was replaced in 2018 by the real estate wealth tax (IFI), which taxes real estate assets only. According to the DGFiP, 193,600 households received an IFI notice in 2025, against 358,198 ISF returns in 2017."
+      },
+      {
+        "heard": "You hear that the IFI, which replaced the ISF, brings in nothing.",
+        "answer": "According to the Insee, the wealth tax brought in €5.07 billion in 2017 (ISF), €1.85 billion in 2018 (the first year of the IFI, ISF remainders included) and €2.71 billion in 2025 (provisional account). According to the DGFiP, the IFI notices of 2025 amount to €2.3 billion: an amount of notices issued, excluding tax audits, which does not compare as it is with the Insee's accounts."
+      },
+      {
+        "heard": "You hear that abolishing the ISF cost the State nothing, or that the measure paid for itself.",
+        "answer": "The committee evaluating the reforms of capital taxation (France Stratégie) estimated in 2019 the revenue lost in 2018 at €3.1 billion; for 2022, it writes that the cost “would probably be more than 4 billion euros”. As its studies “did not manage to identify a measurable impact on economic activity”, it cannot estimate a “dynamic” cost different from the “static” cost. These are estimates."
+      },
+      {
+        "heard": "You hear that since the ISF was abolished, wealthy taxpayers have been coming back to France in droves.",
+        "answer": "The evaluation committee writes that “since 2018, taxpayers returning to the IFI outnumber departures abroad”, with 380 returns against 260 departures on average from 2018 to 2021, but that “this change concerns small numbers, of the order of a few hundred”. For entrepreneurs, it writes that “no causal effect can be rigorously concluded” and that the effects found “are small”."
+      },
+      {
+        "heard": "You hear that abolishing the ISF revived business investment.",
+        "answer": "The evaluation committee studied the mid-sized companies (ETI) whose shareholders were liable to the ISF: “no effect of the ISF on the activity of mid-sized companies could be identified”. On business creation, the effect seems to it “due more to the PFU and to corporation tax than to the replacement of the ISF by the IFI” (the PFU is the flat tax on capital income). It concludes that “many questions remain open”."
+      }
+    ]
+  }
+}

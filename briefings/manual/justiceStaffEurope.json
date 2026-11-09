@@ -1,0 +1,119 @@
+{
+  "id": "justiceStaffEurope",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "CEPEJ",
+      "publication": "Study on the functioning of judicial systems in the EU Member States – Facts and figures from the CEPEJ questionnaires 2014 to 2024",
+      "publishedOn": "2026-01-30"
+    },
+    {
+      "producer": "Commission européenne",
+      "publication": "The 2026 EU Justice Scoreboard",
+      "publishedOn": "2026-06-04"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Personnel in the criminal justice system by sex",
+      "publishedOn": "2026-04-29"
+    }
+  ],
+  "headline": {
+    "series": "franceJudges",
+    "period": "2024",
+    "value": 11.6,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "franceJudges",
+      "frequency": "annual",
+      "unit": "ratio",
+      "sourceId": "Table 7.1.2a",
+      "points": [
+        ["2014", 10.5],
+        ["2015", 10.5],
+        ["2016", 10.4],
+        ["2017", 10.5],
+        ["2018", 10.9],
+        ["2019", 11.1],
+        ["2020", 11.2],
+        ["2021", 11.2],
+        ["2022", 11.3],
+        ["2023", 11.1],
+        ["2024", 11.6]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "judges",
+      "unit": "ratio",
+      "period": "2024",
+      "sourceId": "Table 7.1.2a",
+      "values": [
+        ["greece", 44.4],
+        ["croatia", 42.2],
+        ["slovenia", 39.4],
+        ["luxembourg", 36.4],
+        ["bulgaria", 35.4],
+        ["austria", 29.0],
+        ["poland", 28.3],
+        ["czechia", 27.9],
+        ["hungary", 27.8],
+        ["latvia", 27.6],
+        ["slovakia", 26.3],
+        ["germany", 24.9],
+        ["lithuania", 24.7],
+        ["romania", 23.4],
+        ["finland", 21.5],
+        ["portugal", 19.4],
+        ["estonia", 18.1],
+        ["cyprus", 16.6],
+        ["netherlands", 15.2],
+        ["belgium", 14.9],
+        ["sweden", 12.2],
+        ["italy", 12.2],
+        ["france", 11.6],
+        ["spain", 11.1],
+        ["malta", 9.4],
+        ["denmark", 6.7],
+        ["ireland", 3.6]
+      ]
+    },
+    {
+      "id": "police",
+      "unit": "ratio",
+      "period": "2022",
+      "sourceId": "OC5412",
+      "values": [
+        ["cyprus", 540.78],
+        ["croatia", 536.29],
+        ["greece", 533.99],
+        ["portugal", 452.78],
+        ["bulgaria", 444.27],
+        ["malta", 407.75],
+        ["czechia", 381.09],
+        ["spain", 379.84],
+        ["hungary", 378.12],
+        ["slovakia", 377.74],
+        ["luxembourg", 366.6],
+        ["france", 361.25],
+        ["austria", 356.03],
+        ["slovenia", 347.81],
+        ["ireland", 342.51],
+        ["belgium", 338.29],
+        ["germany", 311.06],
+        ["netherlands", 291.19],
+        ["estonia", 289.16],
+        ["poland", 273.74],
+        ["lithuania", 268.64],
+        ["romania", 262.61],
+        ["latvia", 224.18],
+        ["sweden", 210.3],
+        ["denmark", 193.48],
+        ["finland", 137.49]
+      ]
+    }
+  ]
+}

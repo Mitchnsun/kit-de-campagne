@@ -1,0 +1,85 @@
+{
+  "id": "nonTakeUp",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "DREES",
+      "publication": "Estimer le non-recours au minimum vieillesse",
+      "publishedOn": "2022-10-20"
+    },
+    {
+      "producer": "Direction de la sécurité sociale",
+      "publication": "La complémentaire santé solidaire, rapport annuel 2025",
+      "publishedOn": "2025-12-09"
+    },
+    {
+      "producer": "Sénat",
+      "publication": "Rapport d'information n° 836 (2022-2023) sur la mise en œuvre de la solidarité à la source",
+      "publishedOn": "2023-07-05"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Rapport d'information n° 4158 sur l'évaluation des politiques publiques en faveur de l'accès aux droits sociaux",
+      "publishedOn": "2016-10-26"
+    },
+    {
+      "producer": "Défenseur des droits",
+      "publication": "La lutte contre la fraude aux prestations sociales à l'ère de son industrialisation",
+      "publishedOn": "2026-04-10"
+    }
+  ],
+  "headline": {
+    "series": "aspaNonTakeUp",
+    "period": "2016",
+    "value": 49.6,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "aspaNonTakeUp",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Diapositive 8",
+      "points": [["2016", 49.6]]
+    },
+    {
+      "id": "rsaNonTakeUp",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2018", 34]]
+    },
+    {
+      "id": "c2sTakeUp",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Tableau 2",
+      "points": [
+        ["2019", 54],
+        ["2020", 55],
+        ["2021", 56]
+      ]
+    },
+    {
+      "id": "c2sFreeTakeUp",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Tableau 2",
+      "points": [
+        ["2019", 67],
+        ["2020", 69],
+        ["2021", 69]
+      ]
+    },
+    {
+      "id": "c2sParticipativeTakeUp",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Tableau 2",
+      "points": [
+        ["2019", 28],
+        ["2020", 29],
+        ["2021", 34]
+      ]
+    }
+  ]
+}
