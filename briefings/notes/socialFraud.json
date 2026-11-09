@@ -31,7 +31,7 @@
       },
       {
         "heard": "On entend que les étrangers fraudent les prestations.",
-        "answer": "Selon la Cour des comptes, la fraude à la résidence n'est pas évaluée. Les répartitions de la fraude évaluée montrées ici (par nature, par auteur, par branche) ne portent pas sur la nationalité."
+        "answer": "Selon la Cour des comptes, la fraude à la résidence n'est pas évaluée. Les répartitions de la fraude évaluée montrées ici (par nature, par auteur, par branche) ne portent pas sur la nationalité. Qu'une fraude ne soit pas évaluée ne prouve ni qu'elle existe ni qui la commet : la Cour constate une absence de mesure, rien de plus."
       }
     ],
     "en": [
@@ -53,7 +53,7 @@
       },
       {
         "heard": "You hear that foreigners defraud benefits.",
-        "answer": "According to the Cour des comptes, residence fraud is not evaluated. The breakdowns of the fraud evaluated shown here (by nature, by author, by branch) do not concern nationality."
+        "answer": "According to the Cour des comptes, residence fraud is not evaluated. The breakdowns of the fraud evaluated shown here (by nature, by author, by branch) do not concern nationality. That a fraud is not evaluated proves neither that it exists nor who commits it: the Cour notes an absence of measurement, nothing more."
       }
     ]
   }

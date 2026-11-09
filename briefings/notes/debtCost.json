@@ -28,6 +28,10 @@
       {
         "heard": "On entend que les fonctionnaires creusent la dette, ou que c'est la faute des collectivités.",
         "answer": "La rémunération des salariés de toutes les administrations publiques est de 370,0 Md€ en 2025, soit 21,6 % des dépenses publiques (calculé). Selon le Haut Conseil, entre 2026 et 2027 la hausse de la dépense viendrait pour 30 % de la charge d'intérêts et 2 % des collectivités, dans un tableau schématique."
+      },
+      {
+        "heard": "On entend que chaque Français doit 50 000 € à cause de la dette publique.",
+        "answer": "La dette publique est celle des administrations, pas une dette personnelle exigible des habitants. Aucun organisme officiel ne publie ce ratio : le calcul donne environ 50 100 € (3 460,1 Md€ pour 69,1 millions d'habitants, calculé). Les administrations détiennent aussi des actifs : la dette nette est de 3 242,7 Md€."
       }
     ],
     "en": [
@@ -46,6 +50,10 @@
       {
         "heard": "You hear that civil servants are behind the debt, or that local authorities are to blame.",
         "answer": "The pay of the employees of all general government is €370.0 billion in 2025, or 21.6% of public spending (calculated). According to the High Council, between 2026 and 2027 the rise in spending would come 30% from the interest charge and 2% from local authorities, in a schematic table."
+      },
+      {
+        "heard": "You hear that every French person owes €50,000 because of the public debt.",
+        "answer": "The public debt is that of public bodies, not a personal debt the inhabitants can be called on to pay. No official body publishes this ratio: the calculation gives about €50,100 (€3,460.1 billion for 69.1 million inhabitants, calculated). Public bodies also hold assets: the net debt is €3,242.7 billion."
       }
     ]
   }

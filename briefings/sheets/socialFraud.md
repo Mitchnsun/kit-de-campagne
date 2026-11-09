@@ -58,6 +58,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 ## Mises à jour
 
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que des milliards d'aides ne sont jamais réclamés. ».
+- **09/11/2026** : l'affirmation « les étrangers fraudent les prestations » ajoute, à la demande du PO, qu'une fraude non évaluée n'est pas prouvée pour autant : la Cour constate une absence de mesure, rien de plus.
 
 ## Relecture
 

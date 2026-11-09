@@ -60,6 +60,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 ## Mises à jour
 
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que la dette, c'est 50 000 € par Français. ».
+- **09/11/2026** : l'affirmation sur la dette par habitant revient, à la demande du PO, sous la forme d'une fausse vérité (« chaque Français doit 50 000 € à cause de la dette publique ») : la dette publique est celle des administrations, pas une dette personnelle exigible des habitants ; le calcul (environ 50 100 €, 3 460,1 Md€ pour 69,1 millions d'habitants) et la dette nette (3 242,7 Md€) restent ceux de la contre-vérification.
 
 ## Relecture
 

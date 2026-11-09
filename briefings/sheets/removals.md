@@ -62,6 +62,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 ## Mises à jour
 
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que les OQTF ne sont jamais exécutées, que 7 % ou 10 % seulement le sont. » ; « On entend que les déboutés de l'asile ne partent jamais. ».
+- **09/11/2026** : l'affirmation sur le nombre de « clandestins » ajoute, à la demande du PO, que faute de mesure aucun de ces nombres ne peut être tenu pour établi : l'absence de chiffre officiel ne prouve pas l'affirmation.
 
 ## Relecture
 
