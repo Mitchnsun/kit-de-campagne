@@ -1,6 +1,6 @@
 # `suburbLine` · Le RER du matin
 
-**Validée par le PO le 05/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+**Validée par le PO le 05/11/2026**, au premier essai, avec `primeTime.webp` comme référence, puis retouchée le 08/11/2026 (l'horloge du panneau, voir les retouches). Elle sert telle quelle en clair et en sombre.
 
 ![Le RER du matin](../../illustrations/field/suburbLine.webp)
 
@@ -12,7 +12,7 @@
 | Date | 2026-11-05 |
 | Outil | ChatGPT Images |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 249 Ko, sans recadrage |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 245 Ko, sans recadrage, refait le 08/11/2026 depuis la copie retouchée de l'image d'origine que le PO a fournie |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | La prochaine Release qui suit le merge de la PR #297 de l'app |
 
@@ -20,7 +20,7 @@
 
 > **Le RER du matin**
 >
-> À six heures, sur le quai d'une gare de Seine-et-Marne, des centaines d'habitants attendent un RER annoncé en retard pour la troisième fois de la semaine. Beaucoup vivent à plus d'une heure de leur travail et disent qu'ils n'ont pas les moyens de se loger plus près.
+> À sept heures, sur le quai d'une gare de Seine-et-Marne, des centaines d'habitants attendent un RER annoncé en retard pour la troisième fois de la semaine. Beaucoup vivent à plus d'une heure de leur travail et disent qu'ils n'ont pas les moyens de se loger plus près.
 
 ## Le moment choisi
 
@@ -59,13 +59,13 @@ Aucun.
 
 ## Retouches
 
-Aucune.
+- **08/11/2026, l'horloge du panneau** (PO) : ses trois branches égales, à 120° l'une de l'autre, ne se lisaient pas comme les aiguilles d'une horloge et rappelaient le logo d'une marque automobile. Sur une copie de l'image d'origine fournie par le PO, les deux branches du bas ont été effacées et fondues dans le noir de l'écran ; une aiguille des heures, plus courte, pointe vers sept heures (le haut de l'aiguille des minutes recopié, retourné et tourné, pour garder son trait), avec un moyeu au centre : l'horloge marque sept heures, l'heure que le PO a choisie (une première retouche marquait six heures) ; le texte de la carte est passé de « À six heures » à « À sept heures » dans l'app pour qu'ils concordent (PO, 08/11/2026). Le prompt ci-dessus, celui de la génération du 05/11, dit encore six heures. Le reste de l'image est inchangé.
 
 ## Relecture
 
 Faite et validée par le PO le 05/11/2026.
 
-- [x] Aucun texte lisible : le panneau d'affichage ne montre qu'une horloge et un triangle d'alerte rouges, sans aucun mot ; rien sur les sacs, les téléphones ni l'abri, aucun logo de transport.
+- [x] Aucun texte lisible : le panneau d'affichage ne montre qu'une horloge à deux aiguilles, qui marque sept heures, et un triangle d'alerte rouges, sans aucun mot ; rien sur les sacs, les téléphones ni l'abri, aucun logo de transport.
 - [x] Aucun sosie d'une personne réelle.
 - [x] Le candidat du joueur est hors champ.
 - [x] Mains, visages et foules sans défaut visible à 343 px de large.
