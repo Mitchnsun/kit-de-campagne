@@ -1,0 +1,165 @@
+{
+  "id": "businessClimate",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "OCDE",
+      "publication": "FDI main aggregates, BMD4",
+      "publishedOn": "2026-11-09"
+    },
+    {
+      "producer": "Business France",
+      "publication": "Bilan 2025 des investissements internationaux en France",
+      "publishedOn": "2026-01-29"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Main national accounts tax aggregates",
+      "publishedOn": "2026-11-05"
+    },
+    {
+      "producer": "OCDE",
+      "publication": "Corporate income tax (CIT) - statutory and targeted small business rates",
+      "publishedOn": "2026-11-09"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Electricity prices for non-household consumers - bi-annual data",
+      "publishedOn": "2026-10-19"
+    }
+  ],
+  "headline": {
+    "series": "fdiStock",
+    "period": "2025",
+    "value": 987.4757,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "fdiStock",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "DF_FDI_AGGR_SUMM",
+      "points": [
+        ["2019", 739.9251],
+        ["2020", 776.577],
+        ["2021", 835.7049],
+        ["2022", 901.5321],
+        ["2023", 918.1785],
+        ["2024", 950.7097],
+        ["2025", 987.4757]
+      ]
+    },
+    {
+      "id": "fdiFlows",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "DF_FDI_AGGR_SUMM",
+      "points": [
+        ["2019", 11.7021],
+        ["2020", 9.9452],
+        ["2021", 27.6163],
+        ["2022", 78.1186],
+        ["2023", 38.978],
+        ["2024", 38.3664],
+        ["2025", 19.3877]
+      ]
+    },
+    {
+      "id": "electricityFrance",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "nrg_pc_205",
+      "points": [
+        ["2023", 0.2235],
+        ["2026", 0.1239]
+      ]
+    },
+    {
+      "id": "electricityEu",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "nrg_pc_205",
+      "points": [
+        ["2023", 0.2015],
+        ["2026", 0.1559]
+      ]
+    },
+    {
+      "id": "electricityGermany",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "nrg_pc_205",
+      "status": {
+        "2026": "provisional"
+      },
+      "points": [
+        ["2023", 0.2055],
+        ["2026", 0.1742]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "fdiStockShare",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["france", 34.3],
+        ["germany", 28.9],
+        ["italy", 24.1],
+        ["spain", 57.2],
+        ["unitedKingdom", 63.6]
+      ]
+    },
+    {
+      "id": "fdiFlowShare",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["france", 0.65],
+        ["germany", 1.47],
+        ["italy", 1.21],
+        ["spain", 1.27],
+        ["unitedKingdom", 1.06]
+      ]
+    },
+    {
+      "id": "productionTaxes",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "gov_10a_taxag",
+      "values": [
+        ["sweden", 10.1],
+        ["france", 4.4],
+        ["europeanUnion", 2.3],
+        ["germany", 0.9]
+      ]
+    },
+    {
+      "id": "corporateTax",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "DF_CIT",
+      "values": [
+        ["france", 36.13],
+        ["franceWithoutSurtax", 25],
+        ["malta", 35],
+        ["portugal", 30.5],
+        ["germany", 30.13],
+        ["italy", 27.81],
+        ["netherlands", 25.8]
+      ]
+    },
+    {
+      "id": "electricitySmallBusiness",
+      "unit": "euro",
+      "period": "2026",
+      "sourceId": "nrg_pc_205",
+      "values": [
+        ["france", 0.2049],
+        ["europeanUnion", 0.2165]
+      ]
+    }
+  ]
+}

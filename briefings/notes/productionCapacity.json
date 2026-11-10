@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "L'indice d'Eurostat compare le PIB par heure travaillée de chaque pays à la moyenne de l'UE, en standards de pouvoir d'achat : il compare des niveaux, pas la croissance. Les rangs sont calculés, et les chiffres de 2024 et 2025 sont provisoires.",
+    "En volume, la productivité horaire de la France est en 2025 inférieure de 0,8 % à celle de 2019, quand celle de l'UE est supérieure de 3,4 % (calculés d'après Eurostat). Selon le Conseil national de productivité, la productivité par tête resterait en 2025, en moyenne, 4,3 points sous sa tendance d'avant-Covid.",
+    "Le baromètre de l'État compte les sites industriels de plus de 20 salariés, hors outre-mer. Ses données sont provisoires : des ouvertures sont repérées après coup. Son solde de +19 sites compte les extensions et réductions ; les ouvertures et fermetures seules donnent 57 sites de moins.",
+    "La valeur ajoutée en volume est en euros de 2020, en volumes chaînés : elle se compare dans le temps et ne s'additionne pas. La France réalise 11,2 % de la valeur ajoutée manufacturière de l'UE, la 3e part après l'Allemagne et l'Italie (rang calculé)."
+  ],
+  "en": [
+    "Eurostat's index compares each country's GDP per hour worked with the EU average, in purchasing power standards: it compares levels, not growth. The ranks are calculated, and the 2024 and 2025 figures are provisional.",
+    "In volume, France's hourly productivity in 2025 is 0.8% below that of 2019, while the EU's is 3.4% above (calculated from Eurostat). According to the Conseil national de productivité, productivity per head would remain in 2025, on average, 4.3 points below its pre-Covid trend.",
+    "The State's barometer counts industrial sites with more than 20 employees, excluding the overseas territories. Its data are provisional: some openings are spotted afterwards. Its balance of +19 sites counts extensions and reductions; openings and closures alone give 57 sites fewer.",
+    "Value added in volume is in 2020 euros, as chain-linked volumes: it compares over time and does not add up. France produces 11.2% of the EU's manufacturing value added, the 3rd share after Germany and Italy (rank calculated)."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la France ne produit plus rien et que l'industrie a disparu.",
+        "answer": "Selon Eurostat, l'industrie manufacturière pèse 11,2 % de la valeur ajoutée en 2025, contre 15,8 % dans l'UE (provisoire). Sa valeur ajoutée en volume dépasse pourtant de 25 % celle de 2000 et de 7 % celle de 2019 (calculé), et l'emploi manufacturier est passé de 2,67 millions en 2017 à 2,80 millions en 2025 (provisoire). Le baromètre de l'État compte 103 ouvertures et 160 fermetures d'usines en 2025 ; avec les extensions et réductions, le solde est de +19 sites."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that France no longer produces anything and that its industry has disappeared.",
+        "answer": "According to Eurostat, manufacturing makes up 11.2% of value added in 2025, against 15.8% in the EU (provisional). Its value added in volume is nonetheless 25% above that of 2000 and 7% above that of 2019 (calculated), and manufacturing employment rose from 2.67 million in 2017 to 2.80 million in 2025 (provisional). The State's barometer counts 103 factory openings and 160 closures in 2025; with extensions and reductions, the balance is +19 sites."
+      }
+    ]
+  }
+}

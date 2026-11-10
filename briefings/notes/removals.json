@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Les mesures prononcées comptent des décisions, non des personnes : selon la Cour des comptes, certaines personnes ont plusieurs OQTF et sont comptées plusieurs fois. Les mesures de la DGEF comprennent aussi des réadmissions vers un autre État de l'UE et des renvois de ressortissants de l'UE.",
+    "Les éloignements exécutés de la DGEF comptent les majeurs partis de métropole, tous pays, Mayotte et l'outre-mer exclus. Selon la DGEF, depuis la loi du 26 janvier 2024, l'aide au retour volontaire ne peut être accordée qu'à l'appui d'une mesure d'éloignement.",
+    "Le « 10 % » de la Cour des comptes rapporte 15 400 éloignements ou départs volontaires recensés en 2022 à 153 042 mesures prononcées, dont 134 280 OQTF. La Cour note que les départs volontaires sont comptés en partie ; la DGEF évalue à 12 % l'exécution des OQTF réputées exécutoires.",
+    "Les taux par motif de la Cour des comptes, cumulés de 2019 à 2022, ne comptent que les éloignements forcés, ni retours aidés ni départs spontanés. Selon la Cour, son système d'information (GESTEL) ne couvre pas tous les éloignements forcés."
+  ],
+  "en": [
+    "The measures pronounced count decisions, not people: according to the Cour des comptes, some people have several OQTF and are counted several times. The DGEF's measures also include readmissions to another EU State and removals of EU nationals.",
+    "The DGEF's removals carried out count the adults who left metropolitan France, all countries, Mayotte and overseas excluded. According to the DGEF, since the law of 26 January 2024, assisted voluntary return may only be granted in support of a removal measure.",
+    "The “10%” of the Cour des comptes sets 15,400 removals or voluntary departures recorded in 2022 against 153,042 measures pronounced, 134,280 of them OQTF. The Cour notes that voluntary departures are only partly counted; the DGEF assesses at 12% the execution of the OQTF deemed enforceable.",
+    "The rates by ground of the Cour des comptes, totalled from 2019 to 2022, count forced removals only, neither assisted returns nor spontaneous departures. According to the Cour, its information system (GESTEL) does not cover all forced removals."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que les étrangers délinquants ne sont pas expulsés.",
+        "answer": "De 2019 à 2022, la Cour des comptes compte un taux d'éloignement forcé de 45 % pour les OQTF fondées sur une condamnation pénale et de 23 % pour celles fondées sur une menace à l'ordre public. En 2025, selon le projet annuel de performances 2027, 36 % des personnes placées en centre de rétention administrative ont été éloignées à l'issue de ce placement."
+      },
+      {
+        "heard": "On entend qu'il y a 1, 2 ou 3 millions de clandestins.",
+        "answer": "Aucun chiffre officiel du nombre d'étrangers en situation irrégulière n'est publié : la Cour des comptes écrit que ce nombre « est incertain », la DGEF qu'il peut être estimé par le nombre de bénéficiaires de l'AME, « avec toutefois plusieurs limites ». Les 175 051 interpellations comptées par la DGEF en 2025 mesurent l'activité des forces de l'ordre, non un nombre de personnes. Faute de mesure, aucun de ces nombres ne peut être tenu pour établi : l'absence de chiffre officiel ne prouve pas l'affirmation."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that foreign offenders are not deported.",
+        "answer": "From 2019 to 2022, the Cour des comptes counts a rate of forced removal of 45% for the OQTF based on a criminal conviction and of 23% for those based on a threat to public order. In 2025, according to the 2027 annual performance plan, 36% of the people placed in an administrative detention centre were removed after that placement."
+      },
+      {
+        "heard": "You hear that there are 1, 2 or 3 million illegal immigrants.",
+        "answer": "No official figure for the number of foreigners in an irregular situation is published: the Cour des comptes writes that this number “is uncertain”, the DGEF that it may be estimated from the number of AME beneficiaries, “with several limits however”. The 175,051 arrests counted by the DGEF in 2025 measure the activity of the police, not a number of people. With no measurement, none of these numbers can be taken as established: the absence of an official figure does not prove the claim."
+      }
+    ]
+  }
+}

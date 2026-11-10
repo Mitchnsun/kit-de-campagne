@@ -1,0 +1,205 @@
+{
+  "id": "productionCapacity",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Eurostat",
+      "publication": "Labour productivity per person employed and hour worked (EU27_2020=100)",
+      "publishedOn": "2026-11-05"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Labour productivity and unit labour costs - annual data",
+      "publishedOn": "2026-11-05"
+    },
+    {
+      "producer": "Conseil national de productivité",
+      "publication": "Les nouveaux contours de la productivité française",
+      "publishedOn": "2026-07-01"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Gross value added and income by main industry (NACE Rev.2 ) - annual data",
+      "publishedOn": "2026-11-05"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Employment by main industry (NACE Rev.2) - national accounts - annual data",
+      "publishedOn": "2026-10-21"
+    },
+    {
+      "producer": "Direction générale des Entreprises",
+      "publication": "Baromètre industriel de l'État – relève de mars 2026",
+      "publishedOn": "2026-03-29"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "GERD by sector of performance",
+      "publishedOn": "2026-11-03"
+    },
+    {
+      "producer": "Office européen des brevets",
+      "publication": "Demand for European patents in 2025 exceeded 200 000 for first time",
+      "publishedOn": "2026-03-24"
+    }
+  ],
+  "headline": {
+    "series": "franceProductivity",
+    "period": "2025",
+    "value": 114.6,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "franceProductivity",
+      "frequency": "annual",
+      "unit": "ratio",
+      "sourceId": "tesem160",
+      "status": {
+        "2024": "provisional",
+        "2025": "provisional"
+      },
+      "points": [
+        ["2015", 124.3],
+        ["2016", 123.7],
+        ["2017", 123.2],
+        ["2018", 122.8],
+        ["2019", 125.1],
+        ["2020", 125.0],
+        ["2021", 119.1],
+        ["2022", 113.9],
+        ["2023", 115.8],
+        ["2024", 113.9],
+        ["2025", 114.6]
+      ]
+    },
+    {
+      "id": "manufacturingVolume",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "base": 2020,
+      "sourceId": "nama_10_a10",
+      "status": {
+        "2025": "provisional"
+      },
+      "points": [
+        ["2000", 201.4654],
+        ["2019", 235.2967],
+        ["2025", 251.735]
+      ]
+    },
+    {
+      "id": "factoryNetBalance",
+      "frequency": "annual",
+      "unit": "count",
+      "status": {
+        "2025": "provisional"
+      },
+      "points": [
+        ["2024", 88],
+        ["2025", 19]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "productivityEu",
+      "unit": "ratio",
+      "period": "2025",
+      "status": "provisional",
+      "sourceId": "tesem160",
+      "values": [
+        ["ireland", 207.4],
+        ["luxembourg", 171.9],
+        ["denmark", 137.6],
+        ["belgium", 130.4],
+        ["netherlands", 125.9],
+        ["germany", 124.1],
+        ["austria", 117.3],
+        ["france", 114.6],
+        ["sweden", 108.7],
+        ["finland", 105.5],
+        ["italy", 96.2],
+        ["spain", 95.3],
+        ["slovenia", 86.1],
+        ["cyprus", 82.8],
+        ["slovakia", 82.6],
+        ["malta", 80.1],
+        ["czechia", 79.5],
+        ["romania", 76.1],
+        ["estonia", 73.5],
+        ["hungary", 70.6],
+        ["croatia", 70.4],
+        ["lithuania", 70.2],
+        ["poland", 68.4],
+        ["portugal", 66.7],
+        ["latvia", 61.0],
+        ["bulgaria", 59.2],
+        ["greece", 54.1]
+      ]
+    },
+    {
+      "id": "manufacturingShare",
+      "unit": "percent",
+      "period": "2025",
+      "status": "provisional",
+      "sourceId": "nama_10_a10",
+      "values": [
+        ["france", 11.2],
+        ["germany", 19.4],
+        ["spain", 11.7],
+        ["greece", 11.2],
+        ["europeanUnion", 15.8]
+      ]
+    },
+    {
+      "id": "euManufacturingShare",
+      "unit": "percent",
+      "period": "2025",
+      "status": "provisional",
+      "sourceId": "nama_10_a10",
+      "values": [
+        ["germany", 29.8],
+        ["italy", 12.6],
+        ["france", 11.2]
+      ]
+    },
+    {
+      "id": "factories",
+      "unit": "count",
+      "period": "2025",
+      "status": "provisional",
+      "values": [
+        ["openings", 103],
+        ["closures", 160],
+        ["extensions", 158],
+        ["reductions", 82]
+      ]
+    },
+    {
+      "id": "rdSpending",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "rd_e_gerdtot",
+      "values": [
+        ["germany", 3.12],
+        ["europeanUnion", 2.26],
+        ["france", 2.18]
+      ]
+    },
+    {
+      "id": "patents",
+      "unit": "count",
+      "period": "2025",
+      "values": [
+        ["unitedStates", 47008],
+        ["germany", 24476],
+        ["china", 22031],
+        ["japan", 21304],
+        ["southKorea", 14355],
+        ["france", 10932],
+        ["switzerland", 9914]
+      ]
+    }
+  ]
+}

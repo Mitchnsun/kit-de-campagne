@@ -1,0 +1,60 @@
+{
+  "fr": [
+    "Les intérêts mesurés par l'Insee sont ceux de toutes les administrations publiques (État, collectivités, sécurité sociale), en comptabilité nationale. La charge de la dette de l'État relève de son budget : en 2027, elle compte 8,5 Md€ de provision pour l'indexation des titres sur l'inflation, sans décaissement.",
+    "Les montants de 2026 et de 2027 sont des prévisions du Gouvernement, non votées : pour toutes les administrations, 91 Md€ d'intérêts en 2027, soit 2,9 points de PIB. Le Haut Conseil des finances publiques juge optimiste la croissance de 2027 retenue par le Gouvernement.",
+    "Selon la Cour des comptes, le taux moyen à l'émission des obligations assimilables du Trésor (OAT) est passé d'un taux nul en moyenne en 2021 à 1,70 % en 2022 et à 3,35 % en 2025. C'est le taux des emprunts nouveaux, pas le coût moyen de toute la dette, qui compte aussi des emprunts anciens.",
+    "Selon l'annexe du projet de loi de finances, une hausse d'un point de tous les taux au 1er janvier 2027 alourdirait la charge de la dette négociable de l'État de 3,4 Md€ la première année et d'environ 19 Md€ la cinquième, la dette étant refinancée peu à peu."
+  ],
+  "en": [
+    "The interest measured by the Insee is that of all general government (the State, local authorities, social security), in the national accounts. The State's debt charge is an expense of its budget: in 2027, it includes a €8.5 billion provision for the indexation of inflation-linked bonds, with no cash paid out.",
+    "The 2026 and 2027 amounts are the Government's forecasts, not voted: for all general government, €91 billion of interest in 2027, or 2.9 points of GDP. The High Council of Public Finances finds the growth the Government assumes for 2027 optimistic.",
+    "According to the Cour des comptes, the average issuance rate of fungible Treasury bonds (OAT) went from zero on average in 2021 to 1.70% in 2022 and 3.35% in 2025. It is the rate of new borrowing, not the average cost of the whole debt, which also counts older loans.",
+    "According to the finance bill's annex, a rise of one point in all rates on 1 January 2027 would add €3.4 billion to the charge of the State's negotiable debt in the first year and about €19 billion in the fifth, as the debt is refinanced bit by bit."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que les intérêts de la dette, c'est 91 milliards (ou 66, ou 72).",
+        "answer": "Ces chiffres ne mesurent pas la même chose. Toutes administrations publiques : 65,7 Md€ en 2025 (Insee), puis 91 Md€ prévus en 2027 par le Gouvernement. Budget de l'État : 51,6 Md€ en 2025, 72,9 Md€ prévus en 2027."
+      },
+      {
+        "heard": "On entend que la charge de la dette est devenue le premier budget de l'État, devant l'Éducation et la Défense.",
+        "answer": "Dans les crédits de paiement 2027 du projet de budget, la charge de la dette (72,9 Md€) est inférieure à la Défense (73,2 Md€) et à l'Enseignement scolaire (90,9 Md€), et le périmètre des missions inclut les pensions des agents. Pour toutes les administrations publiques en 2024, les opérations de dette (58,9 Md€) restent loin derrière l'enseignement (148,6 Md€). La Cour des comptes écrit pourtant que la charge de la dette « est devenue le premier budget de l'État »."
+      },
+      {
+        "heard": "On entend que l'État ne rembourse jamais sa dette et ne paie que les intérêts.",
+        "answer": "En 2027, l'État doit rembourser 179,5 Md€ d'emprunts arrivant à échéance, qu'il finance avec de nouvelles émissions de 340,0 Md€. Chaque emprunt arrivé à échéance est donc remboursé, avec de l'argent emprunté à nouveau, et la dette totale augmente tant qu'il y a un déficit."
+      },
+      {
+        "heard": "On entend que les fonctionnaires creusent la dette, ou que c'est la faute des collectivités.",
+        "answer": "La rémunération des salariés de toutes les administrations publiques est de 370,0 Md€ en 2025, soit 21,6 % des dépenses publiques (calculé). Selon le Haut Conseil, entre 2026 et 2027 la hausse de la dépense viendrait pour 30 % de la charge d'intérêts et 2 % des collectivités, dans un tableau schématique."
+      },
+      {
+        "heard": "On entend que chaque Français doit 50 000 € à cause de la dette publique.",
+        "answer": "La dette publique est celle des administrations, pas une dette personnelle exigible des habitants. Aucun organisme officiel ne publie ce ratio : le calcul donne environ 50 100 € (3 460,1 Md€ pour 69,1 millions d'habitants, calculé). Les administrations détiennent aussi des actifs : la dette nette est de 3 242,7 Md€."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the interest on the debt is €91 billion (or 66, or 72).",
+        "answer": "These figures do not measure the same thing. All general government: €65.7 billion in 2025 (Insee), then €91 billion forecast for 2027 by the Government. State budget: €51.6 billion in 2025, €72.9 billion forecast for 2027."
+      },
+      {
+        "heard": "You hear that the debt charge has become the State's largest budget, ahead of Education and Defence.",
+        "answer": "In the 2027 payment credits of the budget bill, the debt charge (€72.9 billion) is below Defence (€73.2 billion) and School education (€90.9 billion), and the missions' scope includes the staff's pensions. For all general government in 2024, debt transactions (€58.9 billion) remain far behind education (€148.6 billion). Yet the Cour des comptes writes that the debt charge “has become the State's largest budget”."
+      },
+      {
+        "heard": "You hear that the State never repays its debt and only pays the interest.",
+        "answer": "In 2027, the State must repay €179.5 billion of loans falling due, which it finances with new issues of €340.0 billion. Each loan that falls due is therefore repaid, with money borrowed again, and the total debt rises as long as there is a deficit."
+      },
+      {
+        "heard": "You hear that civil servants are behind the debt, or that local authorities are to blame.",
+        "answer": "The pay of the employees of all general government is €370.0 billion in 2025, or 21.6% of public spending (calculated). According to the High Council, between 2026 and 2027 the rise in spending would come 30% from the interest charge and 2% from local authorities, in a schematic table."
+      },
+      {
+        "heard": "You hear that every French person owes €50,000 because of the public debt.",
+        "answer": "The public debt is that of public bodies, not a personal debt the inhabitants can be called on to pay. No official body publishes this ratio: the calculation gives about €50,100 (€3,460.1 billion for 69.1 million inhabitants, calculated). Public bodies also hold assets: the net debt is €3,242.7 billion."
+      }
+    ]
+  }
+}

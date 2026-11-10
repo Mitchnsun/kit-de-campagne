@@ -1,0 +1,44 @@
+{
+  "fr": [
+    "Les arrêts liés au Covid sont hors de cette série. Selon la Cour des comptes, ils ont coûté au régime général 2,1 Md€ en 2020, 0,85 Md€ en 2021 et 1,7 Md€ en 2022. Cette année-là, la Cour dénombre 8,9 millions d'arrêts de travail pour maladie indemnisés.",
+    "La Commission des comptes de la sécurité sociale compte 11,1 Md€ d'indemnités journalières maladie du régime général en 2025, en soins de ville. La série de la Direction de la sécurité sociale écarte la grippe et les professions libérales et corrige les variations saisonnières : les deux ne se raccordent pas.",
+    "Pour un salarié du privé, l'indemnité de la Sécurité sociale vaut 50 % du salaire journalier de base, calculé sur un salaire plafonné à 1,4 Smic pour les arrêts débutés depuis le 1er avril 2025 (1,8 Smic avant), soit 42,97 € bruts par jour au plus, versés après 3 jours de carence.",
+    "Depuis le 1er septembre 2026, un premier arrêt est prescrit pour 31 jours au plus et chaque prolongation pour 62 jours, prolongeables si l'état de santé le nécessite. Depuis le 15 octobre 2026, certains arrêts de plus de 6 mois sont indemnisés 1 an au plus au lieu de 3 ans, qui restent la règle en ALD."
+  ],
+  "en": [
+    "Covid-related sick leave is outside this series. According to the Cour des comptes, it cost the general scheme €2.1 billion in 2020, €0.85 billion in 2021 and €1.7 billion in 2022. That year, the Cour counts 8.9 million periods of sick leave compensated.",
+    "The Commission des comptes de la sécurité sociale counts €11.1 billion of sickness daily allowances of the general scheme in 2025, in primary care. The series of the Direction de la sécurité sociale leaves out flu and the liberal professions and adjusts for seasonal variations: the two do not join up.",
+    "For a private-sector employee, the social security allowance is 50% of the basic daily wage, based on a wage capped at 1.4 times the Smic for leave starting since 1 April 2025 (1.8 times before), or €42.97 gross a day at most, paid after a 3-day waiting period.",
+    "Since 1 September 2026, a first sick note covers 31 days at most and each extension 62 days, which can be extended if the person's health requires it. Since 15 October 2026, some leaves of over 6 months are compensated for 1 year at most instead of 3 years, which remain the rule for long-term illnesses (ALD)."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la hausse des dépenses d'arrêts maladie vient uniquement du Covid.",
+        "answer": "Hors crise sanitaire, les indemnités journalières maladie du régime général sont passées de 6,8 Md€ en 2014 à 8,2 Md€ en 2019, avant le Covid, puis à 11,3 Md€ en 2025. La Direction de la sécurité sociale, qui publie ces montants, cite la croissance et le vieillissement de la population active, l'allongement des arrêts, la hausse des salaires et du Smic, et un recours plus fréquent aux arrêts."
+      },
+      {
+        "heard": "On entend que la Sécurité sociale paie l'arrêt maladie en totalité, dès le premier jour.",
+        "answer": "Pour un salarié du privé, l'indemnité de la Sécurité sociale vaut 50 % du salaire journalier de base, calculé sur un salaire plafonné à 1,4 Smic, soit 42,97 € bruts par jour au plus, et elle est versée après 3 jours de carence. Un complément de l'employeur ou de la convention collective peut s'y ajouter."
+      },
+      {
+        "heard": "On entend qu'un arrêt maladie n'a aucune limite de durée.",
+        "answer": "Son indemnisation a une durée maximale : 3 ans en ALD et, depuis le 15 octobre 2026, 1 an pour certains arrêts de plus de 6 mois. Depuis le 1er septembre 2026, un premier arrêt est aussi prescrit pour 31 jours au plus et chaque prolongation pour 62 jours, prolongeables si l'état de santé le nécessite."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the rise in sick leave spending comes only from Covid.",
+        "answer": "Outside the health crisis, the sickness daily allowances of the general scheme went from €6.8 billion in 2014 to €8.2 billion in 2019, before Covid, then to €11.3 billion in 2025. The Direction de la sécurité sociale, which publishes these amounts, cites the growth and ageing of the working population, longer leaves, the rise in wages and the Smic, and more frequent use of sick leave."
+      },
+      {
+        "heard": "You hear that social security pays sick leave in full, from the first day.",
+        "answer": "For a private-sector employee, the social security allowance is 50% of the basic daily wage, based on a wage capped at 1.4 times the Smic, or €42.97 gross a day at most, and it is paid after a 3-day waiting period. A top-up from the employer or the collective agreement may be added."
+      },
+      {
+        "heard": "You hear that sick leave has no time limit.",
+        "answer": "Its compensation has a maximum length: 3 years for long-term illnesses (ALD) and, since 15 October 2026, 1 year for some leaves of over 6 months. Since 1 September 2026, a first sick note also covers 31 days at most and each extension 62 days, which can be extended if the person's health requires it."
+      }
+    ]
+  }
+}

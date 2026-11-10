@@ -1,0 +1,60 @@
+{
+  "fr": [
+    "14 Md€ est un montant évalué, pas une somme détectée ni récupérable. Il ne couvre pas les micro-entrepreneurs, les indépendants « classiques », les établissements de santé ni la PUMa, et les caisses n'ont pas toutes le même millésime.",
+    "L'évaluation précédente donnait 13 Md€. Selon le HCFiPS, la hausse s'explique à 65 % par les bases, à 25 % par le périmètre et à 10 % par la prévalence de la fraude.",
+    "Les montants détectés et recouvrés comptent les fautes avec les fraudes (« préjudices subis et constatés », « indus frauduleux ou fautifs »). Le recouvrement de 2021 ne compte pas la MSA.",
+    "Selon la Cour des comptes, la fraude à la résidence n'est pas évaluée."
+  ],
+  "en": [
+    "€14 billion is an evaluated amount, not a sum detected or recoverable. It leaves out micro-entrepreneurs, “conventional” self-employed workers, health establishments and the PUMa, and the funds do not all evaluate the same year.",
+    "The previous evaluation gave €13 billion. According to the HCFiPS, 65% of the rise comes from the bases, 25% from the scope and 10% from the prevalence of fraud.",
+    "The amounts detected and recovered count errors with frauds (“losses incurred and established”, “fraudulent or erroneous overpayments”). The recovery of 2021 leaves out the MSA.",
+    "According to the Cour des comptes, residence fraud is not evaluated."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que l'État récupère 13 ou 14 milliards de fraude sociale.",
+        "answer": "14 Md€, c'est la fraude évaluée, un montant estimé, pas l'argent récupéré. En 2024, les caisses ont constaté 2,06 Md€ de fautes et fraudes, en ont évité 0,5 Md€ et ont recouvré 681 M€ d'indus frauduleux ou fautifs."
+      },
+      {
+        "heard": "On entend que la fraude sociale, c'est d'abord celle des allocataires.",
+        "answer": "Selon le HCFiPS, plus de la moitié de la fraude évaluée (52 %) porte sur les cotisations, par le travail dissimulé. Les assurés en représentent 36 % et les professionnels 12 %."
+      },
+      {
+        "heard": "On entend que les arrêts maladie, c'est de la fraude.",
+        "answer": "Sur un échantillon aléatoire d'environ 7 000 arrêts, l'Assurance maladie estime la fraude aux indemnités journalières à 1,8 %, soit 230 M€ (note du HCFiPS)."
+      },
+      {
+        "heard": "On entend que la lutte contre la fraude financera le programme.",
+        "answer": "En 2024, la Cour des comptes mesure un recouvrement des indus frauduleux de 8 % pour le travail dissimulé, et de 53 % pour l'assurance maladie comme pour la branche famille : une fraude détectée n'est pas toujours recouvrée."
+      },
+      {
+        "heard": "On entend que les étrangers fraudent les prestations.",
+        "answer": "Selon la Cour des comptes, la fraude à la résidence n'est pas évaluée. Les répartitions de la fraude évaluée montrées ici (par nature, par auteur, par branche) ne portent pas sur la nationalité. Qu'une fraude ne soit pas évaluée ne prouve ni qu'elle existe ni qui la commet : la Cour constate une absence de mesure, rien de plus."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the State recovers €13 or €14 billion of social fraud.",
+        "answer": "€14 billion is the fraud evaluated, an estimated amount, not the money recovered. In 2024, the funds established €2.06 billion of errors and frauds, avoided €0.5 billion and recovered €681 million of fraudulent or erroneous overpayments."
+      },
+      {
+        "heard": "You hear that social fraud is mostly benefit claimants’ fraud.",
+        "answer": "According to the HCFiPS, more than half of the fraud evaluated (52%) concerns contributions, through undeclared work. Insured people account for 36% and professionals for 12%."
+      },
+      {
+        "heard": "You hear that sick leave is fraud.",
+        "answer": "On a random sample of about 7,000 sick notes, health insurance estimates fraud on daily allowances at 1.8%, or €230 million (HCFiPS note)."
+      },
+      {
+        "heard": "You hear that fighting fraud will pay for the programme.",
+        "answer": "In 2024, the Cour des comptes measures the recovery of fraudulent overpayments at 8% for undeclared work, and at 53% for both health insurance and the family branch: detected fraud is not always recovered."
+      },
+      {
+        "heard": "You hear that foreigners defraud benefits.",
+        "answer": "According to the Cour des comptes, residence fraud is not evaluated. The breakdowns of the fraud evaluated shown here (by nature, by author, by branch) do not concern nationality. That a fraud is not evaluated proves neither that it exists nor who commits it: the Cour notes an absence of measurement, nothing more."
+      }
+    ]
+  }
+}

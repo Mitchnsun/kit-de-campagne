@@ -1,0 +1,182 @@
+{
+  "id": "youthUnemployment",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Au deuxième trimestre 2026, le taux de chômage augmente de 0,2 point et atteint 8,3 %, Informations rapides n° 192",
+      "publishedOn": "2026-08-07"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Une photographie du marché du travail en 2025, Insee Première n° 2096",
+      "publishedOn": "2026-03-25"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Évolution du chômage, Emploi, chômage, revenus du travail, édition 2026",
+      "publishedOn": "2026-07-02"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Inégalités face au chômage, Emploi, chômage, revenus du travail, édition 2026",
+      "publishedOn": "2026-07-02"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Chômage en phase d'insertion professionnelle, Formations et emploi, édition 2025",
+      "publishedOn": "2025-02-12"
+    },
+    {
+      "producer": "Céreq",
+      "publication": "Enquête 2024 auprès de la Génération 2021. S'insérer dans un monde instable : le diplôme reste une valeur sûre, Céreq Bref n° 487-488",
+      "publishedOn": "2026-07-07"
+    }
+  ],
+  "headline": {
+    "series": "youthRate",
+    "period": "2026-Q2",
+    "value": 21.6,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "youthRate",
+      "frequency": "quarterly",
+      "unit": "percent",
+      "sourceId": "011818548",
+      "points": [
+        ["2026-Q1", 21.2],
+        ["2026-Q2", 21.6]
+      ]
+    },
+    {
+      "id": "youthShare",
+      "frequency": "quarterly",
+      "unit": "percent",
+      "sourceId": "011818613",
+      "points": [
+        ["2026-Q1", 9.2],
+        ["2026-Q2", 9.3]
+      ]
+    },
+    {
+      "id": "youthRateYear",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2025", 19.8]]
+    },
+    {
+      "id": "youthShareYear",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2025", 8.5]]
+    },
+    {
+      "id": "rate1524",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Figure 1",
+      "points": [
+        ["2019", 20.8],
+        ["2020", 21.6],
+        ["2021", 18.9],
+        ["2022", 17.4],
+        ["2023", 17.3],
+        ["2024", 18.8],
+        ["2025", 19.8]
+      ]
+    },
+    {
+      "id": "rate2549",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Figure 1",
+      "points": [
+        ["2019", 7.6],
+        ["2020", 7.3],
+        ["2021", 7.1],
+        ["2022", 6.6],
+        ["2023", 6.8],
+        ["2024", 6.7],
+        ["2025", 6.9]
+      ]
+    },
+    {
+      "id": "rate50plus",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Figure 1",
+      "points": [
+        ["2019", 6.2],
+        ["2020", 5.4],
+        ["2021", 5.7],
+        ["2022", 5.2],
+        ["2023", 5.1],
+        ["2024", 4.9],
+        ["2025", 5.0]
+      ]
+    },
+    {
+      "id": "rateAll",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Figure 1",
+      "points": [
+        ["2019", 8.5],
+        ["2020", 8.1],
+        ["2021", 7.9],
+        ["2022", 7.3],
+        ["2023", 7.4],
+        ["2024", 7.4],
+        ["2025", 7.7]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "byDiploma",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "Figure 1",
+      "values": [
+        ["noDiploma", 14.7],
+        ["vocational", 7.6],
+        ["baccalaureate", 9.1],
+        ["bac2Plus", 5.3],
+        ["all", 7.7]
+      ]
+    },
+    {
+      "id": "afterStudies",
+      "unit": "percent",
+      "period": "2023",
+      "sourceId": "Figure 1",
+      "values": [
+        ["noDiploma", 42.4],
+        ["vocational", 17.5],
+        ["baccalaureate", 18.2],
+        ["bac2", 11.0],
+        ["bac34", 10.7],
+        ["bac5Plus", 6.8],
+        ["all", 14.2]
+      ]
+    },
+    {
+      "id": "cereq",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "Tableau 1",
+      "values": [
+        ["nonGraduate", 40],
+        ["vocational", 25],
+        ["baccalaureate", 18],
+        ["bac2", 13],
+        ["bac34", 13],
+        ["master", 9],
+        ["doctorate", 6],
+        ["all", 16]
+      ]
+    }
+  ]
+}

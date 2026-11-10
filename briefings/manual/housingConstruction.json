@@ -1,0 +1,102 @@
+{
+  "id": "housingConstruction",
+  "retrievedOn": "2026-11-10",
+  "sources": [
+    {
+      "producer": "SDES",
+      "publication": "Construction de logements : résultats à fin septembre 2026 (France entière)",
+      "publishedOn": "2026-10-28"
+    },
+    {
+      "producer": "Ministère de la Ville et du Logement",
+      "publication": "Projet de loi relance logement, dossier de presse",
+      "publishedOn": "2026-06-24"
+    }
+  ],
+  "headline": {
+    "series": "started",
+    "period": "2025",
+    "value": 268428,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "started",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "LOG_COM",
+      "points": [
+        ["2002", 342387],
+        ["2003", 363910],
+        ["2004", 414446],
+        ["2005", 464908],
+        ["2006", 493818],
+        ["2007", 488870],
+        ["2008", 398370],
+        ["2009", 345640],
+        ["2010", 412221],
+        ["2011", 430121],
+        ["2012", 382289],
+        ["2013", 357919],
+        ["2014", 336822],
+        ["2015", 340927],
+        ["2016", 369432],
+        ["2017", 433911],
+        ["2018", 400477],
+        ["2019", 385384],
+        ["2020", 369647],
+        ["2021", 422307],
+        ["2022", 397054],
+        ["2023", 302366],
+        ["2024", 264705],
+        ["2025", 268428]
+      ]
+    },
+    {
+      "id": "authorised",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "LOG_AUT",
+      "points": [
+        ["2002", 376557],
+        ["2003", 412885],
+        ["2004", 499267],
+        ["2005", 550592],
+        ["2006", 601172],
+        ["2007", 568553],
+        ["2008", 474323],
+        ["2009", 376151],
+        ["2010", 472251],
+        ["2011", 515247],
+        ["2012", 475613],
+        ["2013", 421961],
+        ["2014", 380679],
+        ["2015", 402880],
+        ["2016", 462654],
+        ["2017", 492642],
+        ["2018", 462559],
+        ["2019", 451750],
+        ["2020", 396456],
+        ["2021", 473157],
+        ["2022", 493578],
+        ["2023", 378237],
+        ["2024", 329244],
+        ["2025", 378435]
+      ]
+    },
+    {
+      "id": "authorisedTwelveMonths",
+      "frequency": "monthly",
+      "unit": "count",
+      "sourceId": "LOG_AUT",
+      "points": [["2026-09", 377834]]
+    },
+    {
+      "id": "startedTwelveMonths",
+      "frequency": "monthly",
+      "unit": "count",
+      "sourceId": "LOG_COM",
+      "points": [["2026-09", 318419]]
+    }
+  ]
+}

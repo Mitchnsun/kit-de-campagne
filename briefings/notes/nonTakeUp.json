@@ -1,0 +1,42 @@
+{
+  "fr": [
+    "Selon la DREES, les montants liés au non-recours au minimum vieillesse des personnes seules s'élèvent à 790 M€ fin 2016, soit 59 % de ce qui leur est effectivement versé ; la source ne dit pas sur quelle durée. Pour le RSA, les sommes non versées atteindraient 750 M€ par trimestre en 2018 (DREES, citée par le Sénat).",
+    "En 2016, les deux rapporteurs d'un rapport de l'Assemblée nationale estimaient le non-recours entre 2 et 3 Md€ par an, en « ordres de grandeur », face à 425 M€ de fraude sociale détectée en 2014. Une estimation de droits non demandés face à un montant détecté : les deux ne mesurent pas la même chose.",
+    "Selon la Dares, citée par le Défenseur des droits (avril 2026), le non-recours à l'assurance chômage varie entre 25 et 42 % des salariés éligibles. Ni la période ni les effectifs ne sont précisés."
+  ],
+  "en": [
+    "According to the DREES, the amounts linked to non-take-up of the minimum old-age pension by single people come to €790 million at the end of 2016, or 59% of what they are paid; the source does not say over what period. For the RSA, unpaid sums would reach €750 million a quarter in 2018 (DREES, cited by the Senate).",
+    "In 2016, the two rapporteurs of a National Assembly report estimated non-take-up at €2 to €3 billion a year, as “orders of magnitude”, against €425 million of social fraud detected in 2014. An estimate of unclaimed entitlements against a detected amount: the two do not measure the same thing.",
+    "According to the Dares, cited by the Défenseur des droits (April 2026), the non-take-up of unemployment insurance ranges from 25% to 42% of eligible employees. Neither the period nor the numbers of people are given."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que tous ceux qui ont droit au RSA le touchent.",
+        "answer": "Selon la DREES, citée par le Sénat, 34 % des foyers éligibles au RSA ne le percevaient pas, en moyenne chaque trimestre de 2018, et 20 % trois trimestres de suite. Ce sont des estimations."
+      },
+      {
+        "heard": "On entend que le non-recours ne représente presque rien en euros.",
+        "answer": "Selon la DREES, les montants liés au non-recours au minimum vieillesse des personnes seules s'élèvent à 790 M€ fin 2016, soit 59 % de ce qui leur est effectivement versé. Pour le RSA, les sommes non versées atteindraient 750 M€ par trimestre en 2018 (DREES, citée par le Sénat). Ce sont des estimations de droits non demandés."
+      },
+      {
+        "heard": "On entend que les personnes âgées modestes touchent toutes le minimum vieillesse.",
+        "answer": "Selon la DREES, 49,6 % des personnes seules éligibles au minimum vieillesse ne le percevaient pas fin 2016. Cette estimation ne couvre pas les couples."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that everyone entitled to the RSA receives it.",
+        "answer": "According to the DREES, cited by the Senate, 34% of the households eligible for the RSA did not receive it, on average each quarter of 2018, and 20% three quarters in a row. These are estimates."
+      },
+      {
+        "heard": "You hear that non-take-up amounts to almost nothing in euros.",
+        "answer": "According to the DREES, the amounts linked to the non-take-up of the minimum old-age pension by single people come to €790 million at the end of 2016, or 59% of what they are actually paid. For the RSA, the sums not paid would reach €750 million a quarter in 2018 (DREES, cited by the Senate). These are estimates of unclaimed entitlements."
+      },
+      {
+        "heard": "You hear that all elderly people on low incomes receive the minimum old-age pension.",
+        "answer": "According to the DREES, 49.6% of the single people eligible for the minimum old-age pension did not receive it at the end of 2016. This estimate does not cover couples."
+      }
+    ]
+  }
+}

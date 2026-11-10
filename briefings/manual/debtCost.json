@@ -1,0 +1,105 @@
+{
+  "id": "debtCost",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Dépenses et recettes des administrations publiques en 2025",
+      "publishedOn": "2026-08-28"
+    },
+    {
+      "producer": "Haut Conseil des finances publiques",
+      "publication": "Avis n° HCFP-2026-5 relatif aux projets de lois de finances et de financement de la sécurité sociale pour l'année 2027",
+      "publishedOn": "2026-09-25"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Projet de loi de finances pour 2027, n° 3210",
+      "publishedOn": "2026-10-01"
+    },
+    {
+      "producer": "Direction du budget",
+      "publication": "Projet annuel de performances 2027, Engagements financiers de l'État",
+      "publishedOn": "2026-10-01"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "La situation et les perspectives des finances publiques",
+      "publishedOn": "2026-06-25"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Dépenses des administrations publiques ventilées par fonction en 2024",
+      "publishedOn": "2026-03-27"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Dette et déficit publics au sens de Maastricht en 2025",
+      "publishedOn": "2026-08-28"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Bilan démographique 2025",
+      "publishedOn": "2026-01-13"
+    }
+  ],
+  "headline": {
+    "series": "apuInterest",
+    "period": "2025",
+    "value": 65.7,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "apuInterest",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Tableau 3.201, D41",
+      "status": {
+        "2024": "semiDefinitive",
+        "2025": "provisional"
+      },
+      "points": [
+        ["2022", 50.9],
+        ["2023", 53.4],
+        ["2024", 60.1],
+        ["2025", 65.7]
+      ]
+    },
+    {
+      "id": "apuInterestForecast",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Avis HCFP-2026-5, § 115",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        ["2026", 79.2],
+        ["2027", 91]
+      ]
+    },
+    {
+      "id": "stateCharge",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Charge de la dette (yc SNCF)",
+      "points": [["2025", 51.6]]
+    },
+    {
+      "id": "stateChargeForecast",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Charge de la dette (yc SNCF)",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        ["2026", 63.4],
+        ["2027", 72.9]
+      ]
+    }
+  ]
+}

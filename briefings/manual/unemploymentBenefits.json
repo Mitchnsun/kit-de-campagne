@@ -1,0 +1,96 @@
+{
+  "id": "unemploymentBenefits",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "France Travail",
+      "publication": "Demandeurs d'emploi indemnisés au 2e trimestre 2026, Statistiques et indicateurs n° 26.015",
+      "publishedOn": "2026-09-25"
+    },
+    {
+      "producer": "France Travail",
+      "publication": "Part des demandeurs d'emploi indemnisables : situation au 31 décembre 2025, Statistiques et indicateurs n° 26.014",
+      "publishedOn": "2026-09-24"
+    },
+    {
+      "producer": "France Travail",
+      "publication": "Montant moyen du droit d'allocation chômage des demandeurs d'emploi indemnisés au 30 septembre 2025, Statistiques et indicateurs n° 26.016",
+      "publishedOn": "2026-09-29"
+    },
+    {
+      "producer": "Insee, Dares",
+      "publication": "Indemnisation du chômage, Emploi, chômage, revenus du travail, édition 2026",
+      "publishedOn": "2026-07-02"
+    },
+    {
+      "producer": "Unédic",
+      "publication": "Réforme 2023 : premiers effets de la réforme de contracyclicité",
+      "publishedOn": "2025-12-17"
+    },
+    {
+      "producer": "Unédic",
+      "publication": "Effets de l'adaptation des règles d'assurance chômage à la conjoncture, version actualisée au 17 avril 2023",
+      "publishedOn": "2023-04-17"
+    }
+  ],
+  "headline": {
+    "series": "recipients",
+    "period": "2026-Q2",
+    "value": 3040400,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "recipients",
+      "frequency": "quarterly",
+      "unit": "count",
+      "status": {
+        "2026-Q2": "provisional"
+      },
+      "points": [["2026-Q2", 3040400]]
+    },
+    {
+      "id": "eligibleShare",
+      "frequency": "monthly",
+      "unit": "percent",
+      "points": [["2025-12", 67.9]]
+    },
+    {
+      "id": "paidShare",
+      "frequency": "monthly",
+      "unit": "percent",
+      "points": [["2025-12", 46.9]]
+    },
+    {
+      "id": "entitlementAmount",
+      "frequency": "monthly",
+      "unit": "euro",
+      "points": [["2025-09", 1337]]
+    },
+    {
+      "id": "paidAmount",
+      "frequency": "monthly",
+      "unit": "euro",
+      "points": [["2025-09", 1090]]
+    },
+    {
+      "id": "receivedAmount",
+      "frequency": "monthly",
+      "unit": "euro",
+      "points": [["2024-12", 1075]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "reformSavings",
+      "unit": "billionEuro",
+      "period": "2027",
+      "status": "projection",
+      "values": [
+        ["total", 4.5],
+        ["allowances", 4.2],
+        ["complementaryPensions", 0.3]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "taxEvasion",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "DGFiP",
+      "publication": "Manque à gagner en matière d'impôt sur les sociétés : à partir des données de contrôle fiscal 2015-2019, une première estimation à 6 Md€, DGFiP Analyses n° 11",
+      "publishedOn": "2026-10-13"
+    },
+    {
+      "producer": "Conseil d'analyse économique",
+      "publication": "Fiscalité internationale des entreprises : quelles réformes pour quels effets ? Les notes du CAE n° 54",
+      "publishedOn": "2019-11-15"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Les régularisations d'avoirs à l'étranger gérées par le service de traitement des déclarations rectificatives (STDR)",
+      "publishedOn": "2017-10-05"
+    },
+    {
+      "producer": "Gouvernement",
+      "publication": "Document de politique transversale 2027, Lutte contre l'évasion fiscale et la fraude en matière d'impositions de toutes natures et de cotisations sociales",
+      "publishedOn": "2026-10-09"
+    },
+    {
+      "producer": "Conseil de l'Union européenne",
+      "publication": "Council conclusions of 9 October 2026 on the revised EU list of non-cooperative jurisdictions for tax purposes",
+      "publishedOn": "2026-10-09"
+    }
+  ],
+  "headline": {
+    "series": "corporateTaxGap",
+    "period": "2019",
+    "value": 5.63,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "corporateTaxGap",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2015", 5.51],
+        ["2016", 6.28],
+        ["2017", 5.62],
+        ["2018", 5.52],
+        ["2019", 5.63]
+      ]
+    },
+    {
+      "id": "transferPricingGap",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2019", 0.864]]
+    },
+    {
+      "id": "stdrCour",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2013", 0.116],
+        ["2014", 1.914],
+        ["2015", 2.654],
+        ["2016", 2.476]
+      ]
+    },
+    {
+      "id": "stdrDgfip",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2017", 1.316],
+        ["2018", 0.939],
+        ["2019", 0.358]
+      ]
+    }
+  ]
+}

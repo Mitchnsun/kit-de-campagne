@@ -1,0 +1,65 @@
+{
+  "id": "taxFraud",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Commission européenne",
+      "publication": "VAT gap in Europe – report 2025",
+      "publishedOn": "2025-12-11"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "La lutte contre la fraude fiscale",
+      "publishedOn": "2025-12-16"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Présentation à la presse du rapport sur la lutte contre la fraude fiscale",
+      "publishedOn": "2025-12-16"
+    }
+  ],
+  "headline": {
+    "series": "vatGap",
+    "period": "2023",
+    "value": 12.121,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "vatGap",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2023", 12.121]]
+    },
+    {
+      "id": "vatGapShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2019", 6.8],
+        ["2020", 7.5],
+        ["2021", 4.2],
+        ["2022", 5.1],
+        ["2023", 5.6]
+      ]
+    },
+    {
+      "id": "auditClaimed",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2015", 16.1],
+        ["2024", 17.4]
+      ]
+    },
+    {
+      "id": "auditCollected",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [
+        ["2015", 12.2],
+        ["2024", 11.4]
+      ]
+    }
+  ]
+}

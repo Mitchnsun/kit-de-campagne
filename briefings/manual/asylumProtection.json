@@ -1,0 +1,96 @@
+{
+  "id": "asylumProtection",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Ofpra",
+      "publication": "Rapport d'activité 2025",
+      "publishedOn": "2026-07-27"
+    },
+    {
+      "producer": "CNDA",
+      "publication": "Rapport d'activité 2025",
+      "publishedOn": "2026-03-26"
+    },
+    {
+      "producer": "Ministère de l'Intérieur (DGEF)",
+      "publication": "Les étrangers en France 2025 – Rapport au Parlement",
+      "publishedOn": "2026-09-28"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Décisions de première instance sur les demandes d'asile par type de décision, nationalité, âge et sexe - données annuelles agrégées",
+      "publishedOn": "2026-10-28"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Demandeurs d'asile par type, nationalité, âge et sexe - données annuelles agrégées",
+      "publishedOn": "2026-09-03"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Population au 1er janvier",
+      "publishedOn": "2026-10-27"
+    },
+    {
+      "producer": "Gouvernement",
+      "publication": "Projet annuel de performances 2027, mission Immigration, asile et intégration",
+      "publishedOn": "2026-09-29"
+    }
+  ],
+  "headline": {
+    "series": "ofpraRate",
+    "period": "2025",
+    "value": 41.2,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "ofpraRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2024", 38.8],
+        ["2025", 41.2]
+      ]
+    },
+    {
+      "id": "cndaRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2024", 21.3],
+        ["2025", 23.3]
+      ]
+    },
+    {
+      "id": "syntheticRate",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2025", 52.1]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "applicantsPer100k",
+      "unit": "count",
+      "period": "2025",
+      "status": "provisional",
+      "sourceId": "migr_asyappctza, tps00001",
+      "values": [
+        ["france", 169],
+        ["europeanUnion", 149]
+      ]
+    },
+    {
+      "id": "firstInstancePositive",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "migr_asydcfsta",
+      "values": [
+        ["france", 40.0],
+        ["europeanUnion", 39.1]
+      ]
+    }
+  ]
+}

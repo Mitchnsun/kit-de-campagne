@@ -1,0 +1,156 @@
+{
+  "id": "victimisation",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Insécurité, victimation – France, portrait social",
+      "publishedOn": "2025-11-18"
+    },
+    {
+      "producer": "SSMSI",
+      "publication": "Présentation des bases communale, départementale et régionale de la délinquance enregistrée",
+      "publishedOn": "2026-07-08"
+    },
+    {
+      "producer": "SSMSI",
+      "publication": "Base des séries chronologiques",
+      "publishedOn": "2026-10-14"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Police-recorded offences by offence category",
+      "publishedOn": "2026-04-29"
+    }
+  ],
+  "headline": {
+    "series": "physicalViolenceVictims",
+    "period": "2023",
+    "value": 643000,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "physicalViolenceVictims",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Figure 2",
+      "points": [["2023", 643000]]
+    },
+    {
+      "id": "domesticViolenceRecorded",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2016", 114721],
+        ["2022", 244301]
+      ]
+    },
+    {
+      "id": "homicideRate",
+      "frequency": "annual",
+      "unit": "ratio",
+      "sourceId": "ICCS0101",
+      "points": [
+        ["2008", 1.52],
+        ["2020", 1.03],
+        ["2023", 1.3],
+        ["2024", 1.28]
+      ]
+    },
+    {
+      "id": "homicides",
+      "frequency": "annual",
+      "unit": "count",
+      "breaks": ["2016"],
+      "points": [
+        ["2008", 1140],
+        ["2016", 911],
+        ["2025", 975]
+      ]
+    },
+    {
+      "id": "attemptedHomicides",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2016", 2259],
+        ["2025", 4501]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "victimsDeclared",
+      "unit": "count",
+      "period": "2023",
+      "values": [
+        ["physicalViolence", 643000],
+        ["sexualViolence", 325000],
+        ["burglary", 1516000]
+      ]
+    },
+    {
+      "id": "victimsShare",
+      "unit": "percent",
+      "period": "2023",
+      "values": [
+        ["physicalViolence", 1.2],
+        ["sexualViolence", 0.6],
+        ["burglary", 2.9]
+      ]
+    },
+    {
+      "id": "insecurityWomen",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "Figure 3",
+      "values": [
+        ["neighbourhood", 25],
+        ["home", 18],
+        ["goingOutAlone", 31]
+      ]
+    },
+    {
+      "id": "insecurityMen",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "Figure 3",
+      "values": [
+        ["neighbourhood", 19],
+        ["home", 12],
+        ["goingOutAlone", 10]
+      ]
+    },
+    {
+      "id": "insecurityAll",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "Figure 3",
+      "values": [
+        ["neighbourhood", 22],
+        ["home", 15],
+        ["goingOutAlone", 21]
+      ]
+    },
+    {
+      "id": "forcesSatisfaction",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "Figure 3",
+      "values": [
+        ["nationalAction", 56],
+        ["localAction", 53]
+      ]
+    },
+    {
+      "id": "complaintRate",
+      "unit": "percent",
+      "period": "2018",
+      "values": [
+        ["sexualViolenceOutsideHousehold", 12],
+        ["burglaries", 74]
+      ]
+    }
+  ]
+}

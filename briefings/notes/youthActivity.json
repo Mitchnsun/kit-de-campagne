@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "Valeurs du 2e trimestre 2026 publiées par l'Insee le 7 août 2026 ; le 3e trimestre, publié le 10 novembre 2026, les remplacera. « Son plus haut niveau depuis 1990 » vaut pour la moyenne 2025 du taux d'activité (43,0 %), pas pour le 2e trimestre 2026 (43,1 %) : le 4e trimestre 2025 (43,5 %) est plus haut.",
+    "L'alternance de l'enquête Emploi compte les contrats d'apprentissage, les contrats de professionnalisation et les stages : ses 30,5 % de 2025 ne sont pas un nombre de contrats d'apprentissage. L'Insee relie la hausse du taux d'activité de 2021 et 2022 notamment à l'essor de l'apprentissage.",
+    "Le NEET de l'Insee (13,3 % des 15-29 ans au 2e trimestre 2026, par trimestre, Mayotte comprise) et celui d'Eurostat (12,9 % en 2025, par an) ne sont pas la même mesure : ne pas les comparer. Le plus haut point de la série de l'Insee, 15,8 %, date du 2e trimestre 2020.",
+    "Eurostat sépare les NEET qui souhaitent travailler de ceux qui ne le souhaitent pas : 4,1 % des 15-29 ans en France en 2025, autant que dans l'UE à 27. La série ne dit pas pourquoi ; elle a des ruptures en 2021 et 2024 pour la France."
+  ],
+  "en": [
+    "Values of the second quarter of 2026 published by the Insee on 7 August 2026; the third quarter, out on 10 November 2026, will replace them. “Its highest level since 1990” holds for the 2025 average of the activity rate (43.0%), not for the second quarter of 2026 (43.1%): the fourth quarter of 2025 (43.5%) is higher.",
+    "Work-study in the Labour Force Survey counts apprenticeship contracts, professionalisation contracts and internships: its 30.5% of 2025 is not a number of apprenticeship contracts. The Insee links the rise of the activity rate in 2021 and 2022 in particular to the growth of apprenticeships.",
+    "The Insee’s NEET (13.3% of the 15-29 in the second quarter of 2026, by quarter, Mayotte included) and Eurostat’s (12.9% in 2025, by year) are not the same measure: do not compare them. The highest point of the Insee’s series, 15.8%, dates from the second quarter of 2020.",
+    "Eurostat separates the NEET who want to work from those who do not: 4.1% of the 15-29 in France in 2025, as many as in the EU of 27. The series does not say why; it has breaks in 2021 and 2024 for France."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que les jeunes ne veulent plus travailler.",
+        "answer": "Aucune statistique officielle ne mesure l'envie de travailler. Le taux d'activité des 15-24 ans, qui compte ceux qui ont un emploi ou en cherchent un, est de 43,0 % en 2025, son plus haut niveau depuis 1990 selon l'Insee, contre 37,8 % en 2019 selon Eurostat ; l'Insee relie cette hausse notamment à l'apprentissage. En 2025, 4,1 % des 15-29 ans ne sont ni en emploi ni en formation et ne souhaitent pas travailler, contre 4,3 % en 2019 (Eurostat) ; la moyenne de l'UE est de 4,1 %."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that young people no longer want to work.",
+        "answer": "No official statistic measures the wish to work. The activity rate of the 15-24, which counts those who have a job or are looking for one, is 43.0% in 2025, its highest level since 1990 according to the Insee, against 37.8% in 2019 according to Eurostat; the Insee links this rise in particular to apprenticeships. In 2025, 4.1% of the 15-29 are neither in employment nor in training and do not want to work, against 4.3% in 2019 (Eurostat); the EU average is 4.1%."
+      }
+    ]
+  }
+}

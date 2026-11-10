@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "Les dépenses par fonction sont celles de 2024, dernière année publiée par l'Insee, qui donnera celles de 2025 en décembre 2026. Elles viennent du compte provisoire de 2024 ; la page Finances publiques donne le compte semi-définitif, d'où un total un peu différent.",
+    "Le ratio d'Eurostat n'est pas le taux de prélèvements obligatoires de l'Insee, que donne la page Finances publiques : Eurostat compte les cotisations sociales imputées et ne déduit pas les crédits d'impôt. Les chiffres de l'OCDE portent sur 2024, et sa moyenne n'est pas pondérée.",
+    "Les rangs comparent les 27 pays de l'Union en 2025 : ceux du déficit, de la dette et des impôts sont donnés par Eurostat, celui des dépenses est recalculé à partir de ses chiffres. Le rang de l'OCDE est recalculé sur les 36 pays disponibles pour 2024, sans le Japon ni l'Australie.",
+    "Les budgets de l'Assemblée nationale et du Sénat sont votés par chaque assemblée ; ceux de 2027 sont prévisionnels. À l'Assemblée, les charges parlementaires (350,28 M€) comprennent aussi les collaborateurs des députés (203,72 M€)."
+  ],
+  "en": [
+    "The spending by function is that of 2024, the last year the Insee has published; it will give 2025's in December 2026. It comes from the provisional account of 2024; the Public finances page gives the semi-definitive account, hence a slightly different total.",
+    "Eurostat's ratio is not the Insee's rate of compulsory levies, which the Public finances page gives: Eurostat counts imputed social contributions and does not deduct tax credits. The OECD's figures are for 2024, and its average is not weighted.",
+    "The ranks compare the 27 EU countries in 2025: those of the deficit, the debt and the taxes are given by Eurostat, that of spending is recomputed from its figures. The OECD rank is recomputed over the 36 countries available for 2024, without Japan or Australia.",
+    "The budgets of the National Assembly and the Senate are voted by each house; those of 2027 are planned. At the Assembly, the parliamentary costs (€350.28 million) also include the MPs' assistants (€203.72 million)."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que le Parlement coûte une fortune.",
+        "answer": "Le budget 2027 de l'Assemblée nationale est de 642,95 M€ (dont 53,80 M€ d'indemnités pour 577 députés) et celui du Sénat de 383,34 M€. Les deux assemblées ont dépensé 988,0 M€ en 2025, soit environ 0,06 % de la dépense publique (calculé)."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that Parliament costs a fortune.",
+        "answer": "The National Assembly's 2027 budget is €642.95 million (of which €53.80 million of allowances for 577 MPs) and the Senate's €383.34 million. The two houses spent €988.0 million in 2025, or about 0.06% of public spending (calculated)."
+      }
+    ]
+  }
+}

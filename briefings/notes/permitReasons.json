@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Les premiers titres sont délivrés pour la première fois à des ressortissants de pays tiers. Le ministère de l'Intérieur (DGEF) en compte 384 230 en 2025, chiffre provisoire d'une autre nomenclature : il ne s'additionne pas aux chiffres d'Eurostat et ne s'y mêle pas.",
+    "Le motif familial réunit plusieurs situations : familles de Français, membres de famille d'étrangers ou de ressortissants de l'UE, liens personnels et familiaux. Le regroupement familial au sens strict en est une partie : 17 812 premiers titres en 2024 selon la DGEF, dernière année détaillée.",
+    "« Autres motifs » est calculé : les autres motifs d'Eurostat moins la protection internationale (statut de réfugié et protection subsidiaire). Les rapports pour 100 000 habitants sont calculés eux aussi, avec la population au 1er janvier, provisoire ; le total de l'UE est arrondi par Eurostat.",
+    "Un visa n'est pas un titre de séjour : les 23 662 visas délivrés en 2025 au titre du regroupement familial (DGEF, toutes nationalités) ne s'ajoutent pas aux titres."
+  ],
+  "en": [
+    "First permits are issued for the first time to third-country nationals. The Ministry of the Interior (DGEF) counts 384,230 in 2025, a provisional figure of another classification: it does not add to Eurostat's figures and does not mix with them.",
+    "The family reason covers several situations: families of French nationals, family members of foreigners or of EU nationals, personal and family ties. Family reunification in the strict sense is one part of it: 17,812 first permits in 2024 according to the DGEF, the last year detailed.",
+    "“Other reasons” is calculated: Eurostat's other reasons less international protection (refugee status and subsidiary protection). The rates per 100,000 inhabitants are calculated too, with the population on 1 January, provisional; the EU total is rounded by Eurostat.",
+    "A visa is not a residence permit: the 23,662 visas issued in 2025 for family reunification (DGEF, all nationalities) do not add to the permits."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que la France distribue des titres de séjour à tour de bras, plus que ses voisins.",
+        "answer": "En 2025, Eurostat compte 377 462 premiers titres délivrés en France, soit 548 pour 100 000 habitants (calculé), contre 855 pour l'ensemble de l'UE ; la France est 21e sur 27 (calculé). La DGEF compte 384 230 premiers titres (provisoire), en hausse de 11,2 %."
+      },
+      {
+        "heard": "On entend que le regroupement familial est la première source d'immigration.",
+        "answer": "Les études sont le premier motif de premier titre depuis 2022 selon la DGEF ; en 2025, Eurostat compte 118 404 titres pour études et 90 959 pour motif familial. Le regroupement familial au sens strict représente 17 812 premiers titres en 2024 selon la DGEF."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that France hands out residence permits left, right and centre, more than its neighbours.",
+        "answer": "In 2025, Eurostat counts 377,462 first permits issued in France, or 548 per 100,000 inhabitants (calculated), against 855 for the EU as a whole; France is 21st out of 27 (calculated). The DGEF counts 384,230 first permits (provisional), up 11.2%."
+      },
+      {
+        "heard": "You hear that family reunification is the main source of immigration.",
+        "answer": "Education has been the first reason for a first permit since 2022 according to the DGEF; in 2025, Eurostat counts 118,404 permits for education and 90,959 for family reasons. Family reunification in the strict sense accounts for 17,812 first permits in 2024 according to the DGEF."
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "aidRecipients",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Rapport relatif aux aides publiques aux entreprises, annexe au projet de loi de finances pour 2027",
+      "publishedOn": "2026-10-12"
+    },
+    {
+      "producer": "Direction de la sécurité sociale",
+      "publication": "Projet de loi de financement de la sécurité sociale pour 2027, annexe 4 : présentation des mesures de réduction et d'exonération de cotisations et contributions ainsi que de leur compensation",
+      "publishedOn": "2026-10-09"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Sécurité sociale 2025, chapitre III : Maîtriser la dynamique des allègements généraux de cotisations sociales, contribuer à l'équilibre financier de la sécurité sociale",
+      "publishedOn": "2025-05-26"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Évaluation des voies et moyens, tome II, Dépenses fiscales, annexe au projet de loi de finances pour 2026",
+      "publishedOn": "2025-10-12"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Projet annuel de performances 2027, mission Recherche et enseignement supérieur, annexe au projet de loi de finances pour 2027",
+      "publishedOn": "2026-10-01"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Rapport sur les politiques nationales de recherche et de formations supérieures, annexe au projet de loi de finances pour 2027",
+      "publishedOn": "2026-10-12"
+    },
+    {
+      "producer": "France Stratégie",
+      "publication": "Évaluation du crédit d'impôt recherche, avis de la Commission nationale d'évaluation des politiques d'innovation",
+      "publishedOn": "2021-06-01"
+    },
+    {
+      "producer": "France Stratégie",
+      "publication": "Évaluation du crédit d'impôt pour la compétitivité et l'emploi. Synthèse des travaux d'approfondissement",
+      "publishedOn": "2020-09-16"
+    }
+  ],
+  "headline": {
+    "series": "generalRelief",
+    "period": "2024",
+    "value": 64.7,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "cirCost",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Fiche 200302",
+      "points": [["2024", 7.8]]
+    },
+    {
+      "id": "cirCostForecast",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Dépense fiscale 200302",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        ["2025", 7.273],
+        ["2026", 7.067],
+        ["2027", 7.382]
+      ]
+    },
+    {
+      "id": "generalRelief",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "p. 44-45",
+      "points": [["2024", 64.7]]
+    },
+    {
+      "id": "generalReliefForecast",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Tableau 6",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        ["2025", 65.0],
+        ["2026", 57.4],
+        ["2027", 52.0]
+      ]
+    },
+    {
+      "id": "generalReliefAllSchemes",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Chapitre III",
+      "status": {
+        "2024": "provisional"
+      },
+      "points": [
+        ["2014", 20.9],
+        ["2024", 77.3]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "cirBeneficiaries",
+      "unit": "percent",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "Tableau 2",
+      "values": [
+        ["sme", 81],
+        ["midCap", 16],
+        ["largeCompany", 3]
+      ]
+    },
+    {
+      "id": "cirClaim",
+      "unit": "percent",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "Tableau 2",
+      "values": [
+        ["sme", 30],
+        ["midCap", 29],
+        ["largeCompany", 41]
+      ]
+    },
+    {
+      "id": "payrollShare",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "Tableau 5",
+      "values": [
+        ["employees0to9", 11.9],
+        ["employees10to19", 6.6],
+        ["employees20to49", 9.9],
+        ["employees50to99", 7.5],
+        ["employees100to249", 10.5],
+        ["employees250to499", 7.9],
+        ["employees500plus", 45.7]
+      ]
+    },
+    {
+      "id": "generalReliefShare",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "Tableau 5",
+      "values": [
+        ["employees0to9", 24.7],
+        ["employees10to19", 12.0],
+        ["employees20to49", 15.3],
+        ["employees50to99", 9.3],
+        ["employees100to249", 10.8],
+        ["employees250to499", 6.2],
+        ["employees500plus", 21.6]
+      ]
+    }
+  ]
+}

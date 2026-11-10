@@ -1,0 +1,28 @@
+{
+  "fr": [
+    "En 2019-2020, 35 % des immigrés de 18 à 59 ans vivent en logement social, contre 11 % des personnes sans ascendance migratoire (Insee, France métropolitaine). C'est une occupation, pas une attribution, « largement liée aux moindres revenus et à l'âge plus jeune » selon l'Insee. Un immigré peut être devenu Français.",
+    "En 2024, un logement social s'obtient en 19 mois en moyenne, 39,5 mois en Île-de-France (Cour des comptes). C'est la moyenne des demandes satisfaites : elle ne dit rien de l'attente des autres. 55,1 % des demandes satisfaites le sont en moins d'un an.",
+    "La Cour des comptes juge le dénombrement des demandes « fragile » : déclaratif, avec des demandes éphémères. Fin 2024, près de 900 000 des 2,76 millions de demandes viennent de ménages déjà logés dans le parc social ; hors mutation, la demande s'élève à « près de 1,9 million ».",
+    "Le parc locatif social du RPLS (5 396 300 logements au 1er janvier 2025) ne compte ni les foyers ni les résidences sociales ; ses logements loués font 15,9 % des résidences principales. Les 17,3 % de ménages locataires d'un bailleur public, selon l'Insee, sont une autre mesure."
+  ],
+  "en": [
+    "In 2019-2020, 35% of immigrants aged 18 to 59 live in social housing, against 11% of people without a migrant background (Insee, metropolitan France). This is occupancy, not allocation, “largely linked to the lower incomes and younger age” according to the Insee (translated). An immigrant may have become French.",
+    "In 2024, a social dwelling takes 19 months on average to obtain, 39.5 months in Île-de-France (Cour des comptes). It is the average of the requests met: it says nothing of the wait of the others. 55.1% of the requests met are met in less than a year.",
+    "The Cour des comptes deems the count of requests “fragile” (translated): self-declared, with short-lived requests. At the end of 2024, nearly 900,000 of the 2.76 million requests come from households already housed in the social stock; leaving out transfers, demand is “nearly 1.9 million”.",
+    "The RPLS social rented stock (5,396,300 dwellings at 1 January 2025) counts neither hostels nor social residences; its let dwellings are 15.9% of main residences. The Insee’s 17.3% of households renting from a public landlord is another measure."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que les HLM vont d'abord aux étrangers.",
+        "answer": "Pour obtenir un logement social, « il faut en faire la demande et ne pas dépasser un revenu maximum », et une personne d'une autre nationalité doit « au minimum fournir la copie d'un titre de séjour » (service-public.gouv.fr). « Les étrangers en situation irrégulière ne peuvent demander l'accès à un logement social » (ministère de l'Intérieur, JO du 5 mars 2024). Aucun chiffre officiel des attributions de logements sociaux selon la nationalité n'est publié. Ce n'est pas parce que ce n'est pas évalué que c'est vrai."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that social housing goes to foreigners first.",
+        "answer": "To obtain social housing, “you must apply for it and not exceed a maximum income”, and a person of another nationality must “at least provide a copy of a residence permit” (service-public.gouv.fr, translated). “Foreigners in an irregular situation cannot apply for access to social housing” (Ministry of the Interior, Journal officiel of 5 March 2024, translated). No official figure of social housing allocations by nationality is published. That it is not evaluated does not make it true."
+      }
+    ]
+  }
+}

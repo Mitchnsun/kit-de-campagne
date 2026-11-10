@@ -1,0 +1,71 @@
+{
+  "id": "publicEmployment",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "L'emploi dans la fonction publique en 2024",
+      "publishedOn": "2026-02-10"
+    },
+    {
+      "producer": "DGAFP",
+      "publication": "Fonction publique, Chiffres clés, édition 2026",
+      "publishedOn": "2026-10-05"
+    }
+  ],
+  "headline": {
+    "series": "publicAgents",
+    "period": "2024",
+    "value": 5876700,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "publicAgents",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [["2024", 5876700]]
+    },
+    {
+      "id": "contractShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2024", 24.0]]
+    },
+    {
+      "id": "publicShareOfEmployment",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [["2024", 19.8]]
+    },
+    {
+      "id": "administrationRate",
+      "frequency": "annual",
+      "unit": "perThousand",
+      "points": [["2024", 77]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "bySide",
+      "unit": "count",
+      "period": "2024",
+      "values": [
+        ["state", 2587400],
+        ["territorial", 2039400],
+        ["hospital", 1249900]
+      ]
+    },
+    {
+      "id": "byStatus",
+      "unit": "count",
+      "period": "2024",
+      "values": [
+        ["civilServants", 3745800],
+        ["contractStaff", 1407700],
+        ["military", 312900],
+        ["otherStatuses", 381900]
+      ]
+    }
+  ]
+}

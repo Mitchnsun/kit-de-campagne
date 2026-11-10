@@ -1,0 +1,235 @@
+{
+  "id": "householdSpending",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Consommation effective des ménages par fonction",
+      "publishedOn": "2026-05-29"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Consommation des ménages en 2025",
+      "publishedOn": "2026-05-29"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Indice des prix à la consommation",
+      "publishedOn": "2026-02-27"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - item weights",
+      "publishedOn": "2026-10-16"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Les dépenses des ménages en France en 2017",
+      "publishedOn": "2020-09-15"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Les ménages les plus modestes dépensent davantage pour leur logement et les plus aisés pour les transports",
+      "publishedOn": "2020-09-15"
+    },
+    {
+      "producer": "Observatoire de la formation des prix et des marges des produits alimentaires",
+      "publication": "Rapport au Parlement 2026",
+      "publishedOn": "2026-09-02"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Gross domestic product (GDP) and main components per capita - annual data",
+      "publishedOn": "2026-11-05"
+    }
+  ],
+  "headline": {
+    "series": "perHead",
+    "period": "2025",
+    "value": 22410,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "perHead",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "nama_10_pc",
+      "status": {
+        "2024": "provisional",
+        "2025": "provisional"
+      },
+      "points": [
+        ["2015", 17300],
+        ["2016", 17560],
+        ["2017", 17890],
+        ["2018", 18350],
+        ["2019", 18730],
+        ["2020", 17570],
+        ["2021", 18680],
+        ["2022", 20120],
+        ["2023", 21630],
+        ["2024", 22200],
+        ["2025", 22410]
+      ]
+    },
+    {
+      "id": "perHeadConstant",
+      "frequency": "annual",
+      "unit": "euro",
+      "base": 2020,
+      "sourceId": "nama_10_pc",
+      "status": {
+        "2024": "provisional",
+        "2025": "provisional"
+      },
+      "points": [
+        ["2015", 18080],
+        ["2016", 18320],
+        ["2017", 18510],
+        ["2018", 18630],
+        ["2019", 18870],
+        ["2020", 17570],
+        ["2021", 18430],
+        ["2022", 18920],
+        ["2023", 18990],
+        ["2024", 19090],
+        ["2025", 19100]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "shares2025",
+      "unit": "percent",
+      "period": "2025",
+      "status": "provisional",
+      "values": [
+        ["housing", 28.0],
+        ["otherGoodsServices", 14.1],
+        ["transport", 12.6],
+        ["food", 12.5],
+        ["restaurants", 9.1],
+        ["recreation", 7.0],
+        ["health", 3.9],
+        ["furnishings", 3.7],
+        ["informationCommunication", 3.6],
+        ["alcoholTobacco", 3.2],
+        ["clothing", 2.8],
+        ["education", 0.8]
+      ]
+    },
+    {
+      "id": "shares1965",
+      "unit": "percent",
+      "period": "1965",
+      "values": [
+        ["housing", 15.5],
+        ["transport", 10.8],
+        ["food", 21.0],
+        ["restaurants", 5.2],
+        ["recreation", 7.2],
+        ["health", 2.3],
+        ["furnishings", 8.0],
+        ["informationCommunication", 1.5],
+        ["alcoholTobacco", 6.7],
+        ["clothing", 12.1]
+      ]
+    },
+    {
+      "id": "cpiWeights",
+      "unit": "perThousand",
+      "period": "2026",
+      "sourceId": "IPC-2025 POND",
+      "values": [
+        ["housing", 154.8],
+        ["transport", 141.4],
+        ["food", 133.8],
+        ["health", 123.7],
+        ["restaurants", 98.8],
+        ["personalCareOther", 84.9],
+        ["recreation", 73.6],
+        ["furnishings", 40.7],
+        ["insuranceFinance", 38.5],
+        ["informationCommunication", 37.7],
+        ["clothing", 32.2],
+        ["alcoholTobacco", 31.5],
+        ["education", 8.4]
+      ]
+    },
+    {
+      "id": "hicpFoodWeights",
+      "unit": "perThousand",
+      "period": "2026",
+      "sourceId": "prc_hicp_iw",
+      "values": [
+        ["france", 149.07],
+        ["germany", 128.87],
+        ["spain", 169.47],
+        ["italy", 179.04],
+        ["euroArea", 153.09],
+        ["europeanUnion", 162.79]
+      ]
+    },
+    {
+      "id": "budget2017",
+      "unit": "euro",
+      "period": "2017",
+      "sourceId": "TF106",
+      "values": [
+        ["transport", 4482],
+        ["housing", 4454],
+        ["food", 4410],
+        ["hotelsRestaurants", 1972],
+        ["total", 27408]
+      ]
+    },
+    {
+      "id": "poorest20",
+      "unit": "percent",
+      "period": "2017",
+      "values": [
+        ["housing", 22.1],
+        ["food", 18.3],
+        ["transport", 13.6],
+        ["leisureCulture", 7.2],
+        ["hotelsRestaurants", 5.2]
+      ]
+    },
+    {
+      "id": "richest20",
+      "unit": "percent",
+      "period": "2017",
+      "values": [
+        ["housing", 12.2],
+        ["food", 14.2],
+        ["transport", 17.6],
+        ["leisureCulture", 11.3],
+        ["hotelsRestaurants", 9.4]
+      ]
+    },
+    {
+      "id": "allHouseholds",
+      "unit": "percent",
+      "period": "2017",
+      "values": [
+        ["housing", 16.3],
+        ["food", 16.1],
+        ["transport", 16.4],
+        ["leisureCulture", 9.4],
+        ["hotelsRestaurants", 7.2]
+      ]
+    },
+    {
+      "id": "foodEuro",
+      "unit": "euro",
+      "period": "2021",
+      "values": [
+        ["taxes", 8.6],
+        ["imports", 11.7],
+        ["farmProduction", 13.2],
+        ["downstream", 66.5]
+      ]
+    }
+  ]
+}

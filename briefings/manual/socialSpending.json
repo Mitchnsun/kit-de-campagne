@@ -1,0 +1,126 @@
+{
+  "id": "socialSpending",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "DREES",
+      "publication": "La protection sociale en France de 1959 à 2024",
+      "publishedOn": "2026-10-23"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Dépenses de protection sociale en pourcentage du PIB",
+      "publishedOn": "2026-10-26"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Dépenses de prestations sociales par fonction",
+      "publishedOn": "2026-10-26"
+    },
+    {
+      "producer": "Commission des comptes de la sécurité sociale",
+      "publication": "Les comptes de la Sécurité sociale, octobre 2026",
+      "publishedOn": "2026-10-05"
+    }
+  ],
+  "headline": {
+    "series": "benefits",
+    "period": "2024",
+    "value": 933.1605,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "benefits",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "status": { "2024": "semiDefinitive" },
+      "points": [["2024", 933.1605]]
+    },
+    {
+      "id": "franceGdpShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "tps00098",
+      "status": { "2024": "provisional" },
+      "points": [["2024", 34.19]]
+    },
+    {
+      "id": "euGdpShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "tps00098",
+      "status": { "2024": "provisional" },
+      "points": [["2024", 28.42]]
+    },
+    {
+      "id": "basicSchemesDeficit",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "status": { "2026": "projection", "2027": "projection" },
+      "points": [
+        ["2025", 21.6],
+        ["2026", 21.0],
+        ["2027", 22.6]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "byRisk",
+      "unit": "billionEuro",
+      "period": "2024",
+      "status": "semiDefinitive",
+      "values": [
+        ["oldAgeSurvivors", 426.6988],
+        ["health", 339.4386],
+        ["family", 65.4767],
+        ["employment", 51.3013],
+        ["housing", 16.0586],
+        ["povertyExclusion", 34.1864]
+      ]
+    },
+    {
+      "id": "targeted",
+      "unit": "billionEuro",
+      "period": "2024",
+      "status": "semiDefinitive",
+      "values": [
+        ["directPensions", 359.3579],
+        ["rsaBase", 11.9836],
+        ["activityBonus", 10.5572],
+        ["total", 933.1605]
+      ]
+    },
+    {
+      "id": "franceByFunction",
+      "unit": "percent",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "spr_exp_func",
+      "values": [
+        ["oldAgeSurvivors", 14.54],
+        ["sicknessHealthCare", 9.48],
+        ["family", 2.23],
+        ["unemployment", 1.75],
+        ["housing", 0.55],
+        ["socialExclusion", 1.16]
+      ]
+    },
+    {
+      "id": "euByFunction",
+      "unit": "percent",
+      "period": "2024",
+      "status": "provisional",
+      "sourceId": "spr_exp_func",
+      "values": [
+        ["oldAgeSurvivors", 12.81],
+        ["sicknessHealthCare", 8.11],
+        ["family", 2.4],
+        ["unemployment", 1.08],
+        ["housing", 0.37],
+        ["socialExclusion", 0.6]
+      ]
+    }
+  ]
+}

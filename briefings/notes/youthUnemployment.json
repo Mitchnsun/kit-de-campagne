@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Valeurs du 2e trimestre 2026 publiées par l'Insee le 7 août 2026 ; le 3e trimestre, publié le 10 novembre 2026, les remplacera. Ce sont des estimations d'enquête : l'Insee donne ±0,3 point pour le taux d'ensemble, une marge qu'il ne publie pas pour les 15-24 ans, où elle est plus large.",
+    "Une personne en études qui ne cherche pas d'emploi est inactive : elle compte dans la part de chômage, pas dans le taux. Selon l'Insee, « peu de jeunes sont comptabilisés comme actifs » : la part de chômage est de 8,5 % chez les 15-24 ans en 2025, contre 6,2 % chez les 25-49 ans.",
+    "Les taux par diplôme de 2025 (14,7 % sans diplôme, 5,3 % à bac+2 ou plus) portent sur les actifs de tous âges. Un à quatre ans après les études, l'Insee publie le croisement par diplôme jusqu'en 2023 ; sa série depuis 1980 change de questionnaire en 2013 et 2021, et de champ en 2014 : seule 2023 est montrée.",
+    "Le Céreq suit 773 000 jeunes sortis pour la première fois du système éducatif en 2021, interrogés de septembre 2024 à janvier 2025 : 74 % sont alors en emploi. Ses évolutions sont relatives (en %), pas en points, et ses taux ne se comparent pas à ceux de l'Insee (autre population, autre date)."
+  ],
+  "en": [
+    "Values of the second quarter of 2026 published by the Insee on 7 August 2026; the third quarter, published on 10 November 2026, will replace them. They are survey estimates: the Insee gives ±0.3 points for the overall rate, a margin it does not publish for the 15-24, where it is wider.",
+    "A student who is not looking for work is inactive: they count in the unemployment share, not in the rate. According to the Insee, “few young people are counted in the labour force”: the unemployment share is 8.5% among the 15-24 in 2025, against 6.2% among the 25-49.",
+    "The 2025 rates by qualification (14.7% with no qualification, 5.3% with bac+2 or more) cover all ages. One to four years after leaving education, the Insee publishes the breakdown by qualification up to 2023; its series since 1980 changes questionnaire in 2013 and 2021, and scope in 2014: only 2023 is shown.",
+    "The Céreq follows 773,000 young people who left the education system for the first time in 2021, surveyed from September 2024 to January 2025: 74% are then in employment. Its changes are relative (in %), not in points, and its rates do not compare with the Insee’s (another population, another date)."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend qu'un jeune sur quatre est au chômage.",
+        "answer": "Au 2e trimestre 2026, le taux de chômage des 15-24 ans est de 21,6 % des actifs de cet âge (Insee), soit un peu plus d'un sur cinq (calculé). Rapportée à tous les jeunes de 15 à 24 ans, actifs ou non, la part de chômage est de 9,3 % (Insee) : beaucoup de jeunes sont en études et ne sont pas actifs. Le taux a dépassé 25 % de mi-2012 à fin 2016, avec un maximum de 28,0 % au 4e trimestre 2012 (Insee, série trimestrielle depuis 2003)."
+      },
+      {
+        "heard": "On entend que le diplôme ne protège plus du chômage.",
+        "answer": "En 2025, le taux de chômage est de 14,7 % parmi les actifs sans diplôme ou avec au plus le brevet des collèges, et de 5,3 % parmi ceux qui ont un bac+2 ou plus, tous âges confondus (Insee). Un à quatre ans après la fin des études, en 2023, il est de 42,4 % pour les peu ou pas diplômés et de 6,8 % pour les bac+5 ou plus (Insee). Trois ans après leur sortie du système éducatif en 2021, il est de 40 % pour les non-diplômés et de 9 % pour les titulaires d'un master, 16 % pour l'ensemble (Céreq, interrogation de septembre 2024 à janvier 2025)."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that one young person in four is unemployed.",
+        "answer": "In the second quarter of 2026, the unemployment rate of the 15-24 is 21.6% of the labour force of that age (Insee), a little more than one in five (calculated). Related to all young people aged 15 to 24, in the labour force or not, the unemployment share is 9.3% (Insee): many young people are studying and not in the labour force. The rate was above 25% from mid-2012 to the end of 2016, with a peak of 28.0% in the fourth quarter of 2012 (Insee, quarterly series since 2003)."
+      },
+      {
+        "heard": "You hear that qualifications no longer protect from unemployment.",
+        "answer": "In 2025, the unemployment rate is 14.7% in the labour force with no qualification or at most the brevet des collèges, and 5.3% among those with a bac+2 or more, all ages together (Insee). One to four years after leaving education, in 2023, it is 42.4% for those with little or no qualification and 6.8% for those with a bac+5 or more (Insee). Three years after leaving the education system in 2021, it is 40% for those with no qualification and 9% for master’s graduates, 16% overall (Céreq, surveyed from September 2024 to January 2025)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "unemploymentSituations",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Insee",
+      "publication": "Au deuxième trimestre 2026, le taux de chômage augmente de 0,2 point et atteint 8,3 %, Informations rapides n° 192",
+      "publishedOn": "2026-08-07"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Une photographie du marché du travail en 2025, Insee Première n° 2096",
+      "publishedOn": "2026-03-25"
+    },
+    {
+      "producer": "France Travail, Dares",
+      "publication": "Les inscrits à France Travail au 3e trimestre 2026, Dares Indicateurs n° 47",
+      "publishedOn": "2026-10-28"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Le nombre de chômeurs au sens du BIT et des inscrits à France Travail en catégorie A : l'écart s'est réduit entre 2021 et 2024 mais demeure élevé, Emploi, chômage, revenus du travail, édition 2026",
+      "publishedOn": "2026-07-02"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Inégalités face au chômage, Emploi, chômage, revenus du travail, édition 2026",
+      "publishedOn": "2026-07-02"
+    }
+  ],
+  "headline": {
+    "series": "unemployed",
+    "period": "2026-Q2",
+    "value": 2677000,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "unemployed",
+      "frequency": "quarterly",
+      "unit": "count",
+      "sourceId": "011818555",
+      "points": [["2026-Q2", 2677000]]
+    },
+    {
+      "id": "halo",
+      "frequency": "quarterly",
+      "unit": "count",
+      "sourceId": "011818564",
+      "points": [["2026-Q2", 1865000]]
+    },
+    {
+      "id": "underemployed",
+      "frequency": "quarterly",
+      "unit": "count",
+      "sourceId": "011818739",
+      "points": [["2026-Q2", 1296000]]
+    },
+    {
+      "id": "longTermUnemployed",
+      "frequency": "quarterly",
+      "unit": "count",
+      "sourceId": "011818577",
+      "points": [["2026-Q2", 671000]]
+    },
+    {
+      "id": "unemploymentRate",
+      "frequency": "quarterly",
+      "unit": "percent",
+      "sourceId": "011818543",
+      "points": [["2026-Q2", 8.3]]
+    },
+    {
+      "id": "haloShare",
+      "frequency": "quarterly",
+      "unit": "percent",
+      "sourceId": "011818623",
+      "points": [["2026-Q2", 4.4]]
+    },
+    {
+      "id": "underemploymentShare",
+      "frequency": "quarterly",
+      "unit": "percent",
+      "sourceId": "011818670",
+      "points": [["2026-Q2", 4.4]]
+    },
+    {
+      "id": "longTermRate",
+      "frequency": "quarterly",
+      "unit": "percent",
+      "sourceId": "011818581",
+      "points": [["2026-Q2", 2.1]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "registeredByCategory",
+      "unit": "count",
+      "period": "2026-Q3",
+      "values": [
+        ["categoryA", 3353400],
+        ["categoriesAbc", 5847500],
+        ["categoriesAToE", 6587600],
+        ["categoryF", 597000],
+        ["categoryG", 386100]
+      ]
+    },
+    {
+      "id": "categoryABitStatus",
+      "unit": "percent",
+      "period": "2024",
+      "values": [
+        ["bitUnemployed", 49],
+        ["haloInactive", 25],
+        ["otherInactive", 17],
+        ["employed", 8]
+      ]
+    },
+    {
+      "id": "lastJobEnd",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["fixedTermEnd", 47.0],
+        ["dismissal", 9.5],
+        ["contractualTermination", 8.4],
+        ["resignation", 6.7],
+        ["neverWorked", 11.5]
+      ]
+    }
+  ]
+}

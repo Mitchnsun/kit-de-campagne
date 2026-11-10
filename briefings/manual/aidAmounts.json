@@ -1,0 +1,152 @@
+{
+  "id": "aidAmounts",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Rapport relatif aux aides publiques aux entreprises, annexe au projet de loi de finances pour 2027",
+      "publishedOn": "2026-10-12"
+    },
+    {
+      "producer": "Sénat",
+      "publication": "Transparence et évaluation des aides publiques aux entreprises : une attente démocratique, un gage d'efficacité économique, rapport n° 808 (2024-2025)",
+      "publishedOn": "2025-07-01"
+    },
+    {
+      "producer": "Haut-commissariat à la Stratégie et au Plan",
+      "publication": "Les aides aux entreprises : définition, périmètres, cadre de suivi et d'évaluation",
+      "publishedOn": "2026-07-16"
+    },
+    {
+      "producer": "Haut-commissariat à la Stratégie et au Plan",
+      "publication": "Les aides aux entreprises en France : de quoi parle-t-on ? La Note d'analyse n° 157",
+      "publishedOn": "2025-07-18"
+    },
+    {
+      "producer": "France Stratégie",
+      "publication": "Les politiques industrielles en France. Évolutions et comparaisons internationales",
+      "publishedOn": "2020-11-30"
+    },
+    {
+      "producer": "Direction générale du Trésor",
+      "publication": "Comment définir les aides publiques aux entreprises ? Trésor-Éco n° 387",
+      "publishedOn": "2026-04-16"
+    }
+  ],
+  "headline": {
+    "series": "coreScope",
+    "period": "2024",
+    "value": 59.8,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "coreScope",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Partie 5",
+      "points": [["2024", 59.8]]
+    },
+    {
+      "id": "wideScope",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Partie 5",
+      "points": [["2024", 166.1]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "senate2023",
+      "unit": "billionEuro",
+      "period": "2023",
+      "sourceId": "Tome I, p. 185-187",
+      "values": [
+        ["senateStrict", 108],
+        ["senateBroad", 211]
+      ]
+    },
+    {
+      "id": "hcsp2023",
+      "unit": "billionEuro",
+      "period": "2023",
+      "values": [
+        ["hcspScope1", 82],
+        ["hcspScope2", 187],
+        ["hcspNote2025", 111.9]
+      ]
+    },
+    {
+      "id": "franceStrategie2019",
+      "unit": "billionEuro",
+      "period": "2019",
+      "sourceId": "Tableau 1",
+      "values": [
+        ["fsScope1", 223.2],
+        ["fsScope2", 175.0],
+        ["fsScope3", 152.9],
+        ["fsScope4", 139.4]
+      ]
+    },
+    {
+      "id": "coreByInstrument",
+      "unit": "billionEuro",
+      "period": "2024",
+      "sourceId": "Partie 5",
+      "values": [
+        ["budgetaryAid", 24.3],
+        ["taxAid", 27.1],
+        ["targetedExemptions", 4.5],
+        ["financialAid", 3.9]
+      ]
+    },
+    {
+      "id": "wideAdditions",
+      "unit": "billionEuro",
+      "period": "2024",
+      "sourceId": "Partie 5",
+      "values": [
+        ["generalRelief", 64.7],
+        ["reducedVat", 22.6],
+        ["budgetaryAdded", 19.0]
+      ]
+    },
+    {
+      "id": "coreByObjective",
+      "unit": "billionEuro",
+      "period": "2024",
+      "sourceId": "Graphique 3",
+      "values": [
+        ["research", 13.0],
+        ["energy", 10.4],
+        ["economicDevelopment", 7.2],
+        ["employmentTraining", 6.2],
+        ["agricultureFishing", 5.2],
+        ["social", 5.2],
+        ["environment", 3.9],
+        ["regionalDevelopment", 3.0],
+        ["crisis", 2.8],
+        ["cultureSport", 2.7]
+      ]
+    },
+    {
+      "id": "wideByObjective",
+      "unit": "billionEuro",
+      "period": "2024",
+      "sourceId": "Graphique 4",
+      "values": [
+        ["employmentTraining", 81.8],
+        ["economicDevelopment", 17.8],
+        ["research", 13.2],
+        ["energy", 10.6],
+        ["social", 9.2],
+        ["retirement", 8.0],
+        ["regionalDevelopment", 6.4],
+        ["environment", 6.2],
+        ["agricultureFishing", 5.2],
+        ["cultureSport", 4.7],
+        ["crisis", 2.8]
+      ]
+    }
+  ]
+}

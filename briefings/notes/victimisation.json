@@ -1,0 +1,44 @@
+{
+  "fr": [
+    "L'enquête Vécu et ressenti en matière de sécurité est déclarative : elle compte ce que les personnes de 18 ans ou plus en logement ordinaire disent avoir subi, en métropole, en Martinique, en Guadeloupe et à La Réunion. Celle de 2024 compte les victimes de 2023 et le sentiment d'insécurité de 2024.",
+    "Le SSMSI aurait révisé sa synthèse de l'enquête de 2024 en décembre 2025, et l'enquête de 2025 est parue en octobre 2026 : ces pages n'ont pas pu être lues, des valeurs plus récentes peuvent exister. Les violences physiques ne comptent ni celles commises lors d'un vol, ni les violences sexuelles.",
+    "Les taux de plainte sont une moyenne des enquêtes Cadre de vie et sécurité de 2011 à 2018, en France métropolitaine ; cette enquête s'est arrêtée en 2021. Les violences conjugales sont des faits enregistrés, et leur série s'arrête en 2022 dans le fichier du SSMSI.",
+    "La série française d'Eurostat ne compte pas les coups et blessures suivis de mort, que le SSMSI compte : 882 homicides en 2024 pour Eurostat, 976 pour le SSMSI. La série du SSMSI change de source en 2016 : les chiffres d'avant et d'après ne se comparent pas sans réserve."
+  ],
+  "en": [
+    "The Vécu et ressenti en matière de sécurité survey is declarative: it counts what people aged 18 or over in ordinary dwellings say they experienced, in metropolitan France, Martinique, Guadeloupe and La Réunion. The 2024 survey counts the victims of 2023 and the feeling of insecurity of 2024.",
+    "The SSMSI reportedly revised its summary of the 2024 survey in December 2025, and the 2025 survey came out in October 2026: these pages could not be read, more recent values may exist. Physical violence leaves out violence committed during a theft and sexual violence.",
+    "The complaint rates are an average of the Cadre de vie et sécurité surveys from 2011 to 2018, in metropolitan France; this survey stopped in 2021. Domestic violence counts recorded offences, and its series stops in 2022 in the SSMSI file.",
+    "Eurostat's French series leaves out serious assault leading to death, which the SSMSI counts: 882 homicides in 2024 for Eurostat, 976 for the SSMSI. The SSMSI's series changes source in 2016: the figures before and after do not compare without reservation."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que les homicides explosent.",
+        "answer": "Selon Eurostat, les homicides enregistrés valent 1,52 pour 100 000 habitants en 2008 et 1,28 en 2024 (série française sans les coups et blessures suivis de mort). Selon le SSMSI, les victimes de tentatives d'homicide enregistrées passent de 2 259 en 2016 à 4 501 en 2025 : ce sont des faits enregistrés."
+      },
+      {
+        "heard": "On entend que les chiffres de la délinquance montent, donc qu'il y a plus de délinquance.",
+        "answer": "Selon le SSMSI, les faits enregistrés dépendent aussi de la propension à porter plainte : d'après les enquêtes de victimation de 2011 à 2018, 12 % des victimes de violences sexuelles hors ménage portent plainte, contre 74 % des victimes de cambriolages. Les victimes de violences conjugales enregistrées passent de 114 721 en 2016 à 244 301 en 2022. L'enquête de victimation de 2024 compte 643 000 victimes de violences physiques déclarées pour l'année 2023 (Insee)."
+      },
+      {
+        "heard": "On entend que le sentiment d'insécurité ne repose sur rien, ou que tout le monde a peur.",
+        "answer": "Selon l'enquête de victimation publiée par l'Insee, en 2024, 22 % des 18 ans ou plus se sentent en insécurité dans leur quartier ou leur village et 21 % renoncent parfois à sortir seuls ; 31 % des femmes renoncent à sortir seules, contre 10 % des hommes."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that homicides are soaring.",
+        "answer": "According to Eurostat, recorded homicides stand at 1.52 per 100,000 inhabitants in 2008 and 1.28 in 2024 (French series without serious assault leading to death). According to the SSMSI, recorded victims of attempted homicide go from 2,259 in 2016 to 4,501 in 2025: these are recorded offences."
+      },
+      {
+        "heard": "You hear that crime figures are rising, so there is more crime.",
+        "answer": "According to the SSMSI, recorded offences also depend on the propensity to file a complaint: in the victimisation surveys from 2011 to 2018, 12% of the victims of sexual violence outside the household file a complaint, against 74% of burglary victims. Recorded victims of domestic violence go from 114,721 in 2016 to 244,301 in 2022. The 2024 victimisation survey counts 643,000 declared victims of physical violence for the year 2023 (Insee)."
+      },
+      {
+        "heard": "You hear that the feeling of insecurity rests on nothing, or that everyone is afraid.",
+        "answer": "According to the victimisation survey published by the Insee, in 2024, 22% of people aged 18 or over feel unsafe in their neighbourhood or village and 21% sometimes give up going out alone; 31% of women give up going out alone, against 10% of men."
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "id": "housingEurope",
+  "retrievedOn": "2026-11-10",
+  "sources": [
+    {
+      "producer": "Eurostat",
+      "publication": "Distribution de la population par statut d'occupation du logement, par type de ménage et par groupe de revenu",
+      "publishedOn": "2026-10-20"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Taux de surcharge des coûts du logement par âge, sexe et statut de pauvreté",
+      "publishedOn": "2026-10-29"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Taux de surpeuplement par âge, sexe et statut de pauvreté - population totale",
+      "publishedOn": "2026-10-20"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Indice de prix des logements - données annuelles",
+      "publishedOn": "2026-10-01"
+    }
+  ],
+  "headline": {
+    "series": "ownersFrance",
+    "period": "2025",
+    "value": 61.4,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "ownersFrance",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "ilc_lvho02",
+      "breaks": ["2020", "2022"],
+      "points": [
+        ["2015", 64.1],
+        ["2016", 64.9],
+        ["2017", 64.4],
+        ["2018", 65.1],
+        ["2019", 64.1],
+        ["2020", 63.6],
+        ["2021", 64.7],
+        ["2022", 63.4],
+        ["2023", 63.1],
+        ["2024", 61.2],
+        ["2025", 61.4]
+      ]
+    },
+    {
+      "id": "ownersEu",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "ilc_lvho02",
+      "points": [
+        ["2015", 70.2],
+        ["2016", 70.1],
+        ["2017", 70],
+        ["2018", 69.9],
+        ["2019", 69.8],
+        ["2020", 70],
+        ["2021", 69.8],
+        ["2022", 69.1],
+        ["2023", 69.1],
+        ["2024", 68.4],
+        ["2025", 68.5]
+      ]
+    },
+    {
+      "id": "overcostFrance",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "ilc_lvho07a",
+      "breaks": ["2020", "2022"],
+      "points": [
+        ["2015", 5.7],
+        ["2016", 5.2],
+        ["2017", 5],
+        ["2018", 4.7],
+        ["2019", 5.5],
+        ["2020", 5.6],
+        ["2022", 6.5],
+        ["2023", 6.5],
+        ["2024", 7],
+        ["2025", 6.4]
+      ]
+    },
+    {
+      "id": "overcostEu",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "ilc_lvho07a",
+      "points": [
+        ["2015", 11.2],
+        ["2016", 10.9],
+        ["2017", 10.1],
+        ["2018", 9.6],
+        ["2019", 9.4],
+        ["2020", 7.8],
+        ["2021", 8.7],
+        ["2022", 8.7],
+        ["2023", 8.8],
+        ["2024", 8.2],
+        ["2025", 7.6]
+      ]
+    },
+    {
+      "id": "overcrowdingFrance",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "ilc_lvho05a",
+      "breaks": ["2020", "2022"],
+      "points": [
+        ["2015", 7.4],
+        ["2016", 7.7],
+        ["2017", 7.7],
+        ["2018", 8.2],
+        ["2019", 7.7],
+        ["2020", 9.6],
+        ["2021", 9.4],
+        ["2022", 9.2],
+        ["2023", 9.9],
+        ["2024", 10.4],
+        ["2025", 10.8]
+      ]
+    },
+    {
+      "id": "overcrowdingEu",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "ilc_lvho05a",
+      "points": [
+        ["2015", 18.1],
+        ["2016", 17.9],
+        ["2017", 17.5],
+        ["2018", 17.1],
+        ["2019", 17.1],
+        ["2020", 17.4],
+        ["2021", 17.3],
+        ["2022", 16.8],
+        ["2023", 16.8],
+        ["2024", 16.9],
+        ["2025", 16.8]
+      ]
+    },
+    {
+      "id": "priceChangeFrance",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "prc_hpi_a",
+      "points": [
+        ["2010", 4.6],
+        ["2011", 5.7],
+        ["2012", -0.5],
+        ["2013", -1.9],
+        ["2014", -1.5],
+        ["2015", -1.3],
+        ["2016", 1],
+        ["2017", 3.2],
+        ["2018", 2.9],
+        ["2019", 3.3],
+        ["2020", 5.2],
+        ["2021", 6.4],
+        ["2022", 6.2],
+        ["2023", -0.4],
+        ["2024", -3.7],
+        ["2025", 0.7]
+      ]
+    },
+    {
+      "id": "priceChangeEu",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "prc_hpi_a",
+      "points": [
+        ["2010", 0.5],
+        ["2011", 0.6],
+        ["2012", -2.1],
+        ["2013", -1.7],
+        ["2014", 0.7],
+        ["2015", 2.3],
+        ["2016", 4.3],
+        ["2017", 4.8],
+        ["2018", 5],
+        ["2019", 4.9],
+        ["2020", 5.6],
+        ["2021", 8.4],
+        ["2022", 8],
+        ["2023", -0.3],
+        ["2024", 3.4],
+        ["2025", 5.5]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "owners",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "ilc_lvho02",
+      "values": [
+        ["france", 61.4],
+        ["europeanUnion", 68.5],
+        ["germany", 47.2],
+        ["spain", 73.6],
+        ["italy", 77.1]
+      ]
+    },
+    {
+      "id": "overcost",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "ilc_lvho07a",
+      "values": [
+        ["france", 6.4],
+        ["europeanUnion", 7.6],
+        ["germany", 11.2],
+        ["spain", 7.2],
+        ["italy", 5]
+      ]
+    },
+    {
+      "id": "overcrowding",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "ilc_lvho05a",
+      "values": [
+        ["france", 10.8],
+        ["europeanUnion", 16.8],
+        ["germany", 11.7],
+        ["spain", 9.5],
+        ["italy", 24.3]
+      ]
+    },
+    {
+      "id": "housePrices",
+      "unit": "percent",
+      "period": "2025",
+      "sourceId": "prc_hpi_a",
+      "values": [
+        ["france", 0.7],
+        ["europeanUnion", 5.5],
+        ["germany", 3.2],
+        ["spain", 12.7],
+        ["italy", 4]
+      ]
+    }
+  ]
+}

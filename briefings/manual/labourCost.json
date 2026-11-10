@@ -1,0 +1,221 @@
+{
+  "id": "labourCost",
+  "retrievedOn": "2026-11-09",
+  "sources": [
+    {
+      "producer": "Eurostat",
+      "publication": "Labour cost levels by NACE Rev. 2 activity",
+      "publishedOn": "2026-04-23"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "EU hourly labour costs ranged from €12 to €57 in 2025",
+      "publishedOn": "2026-03-31"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Salaires et coût du travail en Europe",
+      "publishedOn": "2026-07-02"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Labour productivity and unit labour costs - annual data",
+      "publishedOn": "2026-11-05"
+    },
+    {
+      "producer": "Conseil national de productivité",
+      "publication": "Les nouveaux contours de la productivité française",
+      "publishedOn": "2026-07-01"
+    }
+  ],
+  "headline": {
+    "series": "france",
+    "period": "2025",
+    "value": 44.3,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "france",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "lc_lci_lev",
+      "points": [
+        ["2024", 43.4],
+        ["2025", 44.3]
+      ]
+    },
+    {
+      "id": "germany",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "lc_lci_lev",
+      "points": [
+        ["2024", 43.5],
+        ["2025", 45]
+      ]
+    },
+    {
+      "id": "euroArea",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "lc_lci_lev",
+      "points": [["2025", 38.2]]
+    },
+    {
+      "id": "europeanUnion",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "lc_lci_lev",
+      "points": [
+        ["2024", 33.5],
+        ["2025", 34.9]
+      ]
+    },
+    {
+      "id": "franceUlc",
+      "frequency": "annual",
+      "unit": "index",
+      "base": 2010,
+      "sourceId": "nama_10_lp_ulc",
+      "status": {
+        "2024": "provisional",
+        "2025": "provisional"
+      },
+      "points": [
+        ["2010", 100.0],
+        ["2011", 100.931],
+        ["2012", 103.378],
+        ["2013", 104.808],
+        ["2014", 105.701],
+        ["2015", 106.066],
+        ["2016", 107.089],
+        ["2017", 108.22],
+        ["2018", 109.16],
+        ["2019", 108.195],
+        ["2020", 112.722],
+        ["2021", 113.602],
+        ["2022", 118.739],
+        ["2023", 123.357],
+        ["2024", 126.167],
+        ["2025", 128.133]
+      ]
+    },
+    {
+      "id": "germanyUlc",
+      "frequency": "annual",
+      "unit": "index",
+      "base": 2010,
+      "sourceId": "nama_10_lp_ulc",
+      "status": {
+        "2023": "provisional",
+        "2024": "provisional",
+        "2025": "provisional"
+      },
+      "points": [
+        ["2010", 100.0],
+        ["2011", 100.38],
+        ["2012", 103.745],
+        ["2013", 106.179],
+        ["2014", 107.909],
+        ["2015", 110.062],
+        ["2016", 111.57],
+        ["2017", 112.971],
+        ["2018", 116.634],
+        ["2019", 120.293],
+        ["2020", 124.779],
+        ["2021", 124.067],
+        ["2022", 128.758],
+        ["2023", 139.092],
+        ["2024", 146.458],
+        ["2025", 152.924]
+      ]
+    },
+    {
+      "id": "europeanUnionUlc",
+      "frequency": "annual",
+      "unit": "index",
+      "base": 2010,
+      "sourceId": "nama_10_lp_ulc",
+      "points": [
+        ["2010", 100.0],
+        ["2011", 100.542],
+        ["2012", 102.67],
+        ["2013", 103.767],
+        ["2014", 104.109],
+        ["2015", 104.111],
+        ["2016", 104.925],
+        ["2017", 105.979],
+        ["2018", 107.943],
+        ["2019", 109.808],
+        ["2020", 114.509],
+        ["2021", 114.292],
+        ["2022", 118.208],
+        ["2023", 126.312],
+        ["2024", 131.986],
+        ["2025", 136.368]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "hourlyCostEu",
+      "unit": "euro",
+      "period": "2024",
+      "sourceId": "lc_lci_lev",
+      "values": [
+        ["luxembourg", 54.9],
+        ["denmark", 50.2],
+        ["belgium", 48.2],
+        ["netherlands", 45.2],
+        ["austria", 44.3],
+        ["germany", 43.5],
+        ["france", 43.4],
+        ["ireland", 42.5],
+        ["sweden", 40.2],
+        ["finland", 37.7],
+        ["italy", 31],
+        ["slovenia", 27.1],
+        ["spain", 25.5],
+        ["cyprus", 21],
+        ["estonia", 19.6],
+        ["malta", 19.1],
+        ["slovakia", 18.5],
+        ["portugal", 18.2],
+        ["czechia", 18.1],
+        ["poland", 17.3],
+        ["greece", 16.8],
+        ["croatia", 16.5],
+        ["lithuania", 16.3],
+        ["latvia", 15.1],
+        ["hungary", 14],
+        ["romania", 12.4],
+        ["bulgaria", 10.6]
+      ]
+    },
+    {
+      "id": "industry",
+      "unit": "euro",
+      "period": "2025",
+      "values": [
+        ["france", 47.7],
+        ["germany", 49.8]
+      ]
+    },
+    {
+      "id": "nonWageShare",
+      "unit": "percent",
+      "period": "2025",
+      "values": [
+        ["france", 32.3],
+        ["sweden", 31.7],
+        ["slovakia", 28.6],
+        ["euroArea", 25.6],
+        ["europeanUnion", 24.8],
+        ["malta", 5.8],
+        ["lithuania", 5.5],
+        ["romania", 4.8]
+      ]
+    }
+  ]
+}

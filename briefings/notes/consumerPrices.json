@@ -1,0 +1,52 @@
+{
+  "fr": [
+    "Un indice de prix suit le prix des mêmes produits, à qualité constante : il ne dit ni ce que les ménages dépensent ni ce qu'ils achètent. Les indices annuels sont des moyennes de l'année, base 100 en 2025. L'« alimentation » de l'Insee comprend les boissons alcoolisées.",
+    "Seuls les mois définitifs entrent : l'estimation provisoire d'octobre 2026 n'y est pas. L'Insee publie l'indice définitif le 13 novembre 2026 et précise que les indices provisoires ne doivent pas servir aux revalorisations contractuelles.",
+    "En 2026, l'alimentation pèse 1 485 sur 10 000 dans l'indice des prix, boissons alcoolisées comprises (dont 170 pour les produits frais), et l'énergie 764, selon l'Insee.",
+    "L'indice de la grande distribution est une nouvelle série depuis 2026, remontée à janvier 2020 : un indice de prix des produits d'alimentation industrielle, d'entretien et d'hygiène-beauté, pas le coût d'un panier. De décembre 2021 à septembre 2026, il monte de 20,0 % (calculé)."
+  ],
+  "en": [
+    "A price index follows the price of the same products, at constant quality: it says neither what households spend nor what they buy. The yearly indices are averages of the year, 2025 = 100. The Insee's “food” includes alcoholic beverages.",
+    "Only final months enter: the provisional estimate of October 2026 is left out. The Insee publishes the final index on 13 November 2026 and states that provisional indices must not be used for contractual revaluations.",
+    "In 2026, food weighs 1,485 per 10,000 in the price index, alcoholic beverages included (of which 170 for fresh products), and energy 764, according to the Insee.",
+    "The large retailers' index is a new series since 2026, taken back to January 2020: a price index of processed food, household cleaning and personal care products, not the cost of a basket. From December 2021 to September 2026, it rose by 20.0% (calculated)."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que l'inflation de 2026 vient de l'alimentation.",
+        "answer": "Selon l'Insee, les prix à la consommation augmentent de 3,1 % sur un an en septembre 2026, une hausse qui s'explique par l'énergie : +21,3 % en septembre, dont le gazole +44,1 %. L'alimentation n'augmente que de 1,4 % : les produits frais, +9,5 % après des vagues de chaleur, pèsent 170 sur 10 000 dans l'indice, le reste de l'alimentation, +0,4 %, 1 315. Les produits manufacturés baissent de 0,3 %."
+      },
+      {
+        "heard": "On entend que l'inflation frappe beaucoup plus les ménages modestes que les autres.",
+        "answer": "Selon l'Insee, en septembre 2026, les prix augmentent de 3,3 % sur un an pour les 20 % de ménages les plus modestes, contre 3,1 % pour l'ensemble des ménages, tabac exclu dans les deux cas. De 2019 à 2025, en moyenne annuelle, la hausse est la même : +15,5 % (calculé). Les plus modestes consacrent en revanche une plus grande part de leur budget au logement (22,1 % contre 12,2 % pour les plus aisés) et à l'alimentation (18,3 % contre 14,2 %), selon l'enquête Budget de famille de 2017, la dernière publiée."
+      },
+      {
+        "heard": "On entend que l'inflation officielle ne tient pas compte du logement.",
+        "answer": "L'indice des prix à la consommation de l'Insee compte les loyers, les charges, l'énergie du logement et les petits travaux : en 2026, le logement, l'eau et l'énergie y pèsent 1 548 sur 10 000, dont 672 pour les loyers et 446 pour l'électricité et le gaz. Il exclut l'achat d'un logement et les gros travaux, que l'Insee compte comme un investissement, non comme une consommation, ainsi que les loyers imputés, ce loyer que les comptes nationaux attribuent aux propriétaires qui occupent leur logement."
+      },
+      {
+        "heard": "On entend que les prix de l'alimentation ont augmenté plus en France que chez nos voisins européens.",
+        "answer": "Selon l'indice des prix harmonisé d'Eurostat, calculé de la même façon dans tous les pays, les prix de l'alimentation et des boissons non alcoolisées augmentent de 27,0 % en France de 2019 à 2025, en moyenne annuelle, contre 38,7 % dans l'Union européenne, 40,5 % en Allemagne, 29,7 % en Italie et 37,9 % en Espagne (calculé). L'ensemble des prix augmente de 18,6 % en France, contre 26,5 % dans l'Union européenne. Ce sont des hausses de prix, pas de dépenses."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that the inflation of 2026 comes from food.",
+        "answer": "According to the Insee, consumer prices rise by 3.1% over a year in September 2026, a rise explained by energy: +21.3% in September, with diesel at +44.1%. Food rises by only 1.4%: fresh products, +9.5% after heatwaves, weigh 170 per 10,000 in the index, the rest of food, +0.4%, 1,315. Manufactured goods fall by 0.3%."
+      },
+      {
+        "heard": "You hear that inflation hits the poorest households far harder than the others.",
+        "answer": "According to the Insee, in September 2026, prices rise by 3.3% over a year for the poorest 20% of households, against 3.1% for all households, tobacco excluded in both cases. From 2019 to 2025, as a yearly average, the rise is the same: +15.5% (calculated). The poorest do, however, spend a larger share of their budget on housing (22.1% against 12.2% for the richest) and on food (18.3% against 14.2%), according to the Budget de famille survey of 2017, the last one published."
+      },
+      {
+        "heard": "You hear that official inflation does not take housing into account.",
+        "answer": "The Insee's consumer price index counts rents, service charges, the energy of the home and small works: in 2026, housing, water and energy weigh 1,548 per 10,000 in it, of which 672 for rents and 446 for electricity and gas. It leaves out the purchase of a home and major works, which the Insee counts as an investment, not as consumption, and imputed rents, the rent the national accounts attribute to owners who live in their home."
+      },
+      {
+        "heard": "You hear that food prices have risen more in France than in its European neighbours.",
+        "answer": "According to Eurostat's harmonised index of consumer prices, calculated the same way in every country, the prices of food and non-alcoholic beverages rose by 27.0% in France from 2019 to 2025, as a yearly average, against 38.7% in the European Union, 40.5% in Germany, 29.7% in Italy and 37.9% in Spain (calculated). All prices rose by 18.6% in France, against 26.5% in the European Union. These are rises in prices, not in spending."
+      }
+    ]
+  }
+}
