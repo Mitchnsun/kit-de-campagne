@@ -1,0 +1,90 @@
+{
+  "id": "socialHousing",
+  "retrievedOn": "2026-11-10",
+  "sources": [
+    {
+      "producer": "SDES",
+      "publication": "5,4 millions de logements locatifs sociaux en France au 1er janvier 2025",
+      "publishedOn": "2026-01-20"
+    },
+    {
+      "producer": "Cour des comptes",
+      "publication": "Faciliter le parcours d'accès au logement social dans les territoires, Rapport public annuel 2026",
+      "publishedOn": "2026-03-25"
+    },
+    {
+      "producer": "DILA, service-public.gouv.fr",
+      "publication": "Quelles sont les conditions pour obtenir un logement social ?",
+      "publishedOn": "2026-09-11"
+    },
+    {
+      "producer": "Ministère de l'Intérieur",
+      "publication": "Réponse à la question écrite n° 6521, Journal officiel du 5 mars 2024",
+      "publishedOn": "2024-03-05"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Conditions de logement, Immigrés et descendants d'immigrés en France, Insee Références, édition 2023",
+      "publishedOn": "2023-03-27"
+    }
+  ],
+  "headline": {
+    "series": "socialStock",
+    "period": "2025",
+    "value": 5396300,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "socialStock",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "RPLS",
+      "points": [
+        ["2024", 5367000],
+        ["2025", 5396300]
+      ]
+    },
+    {
+      "id": "requests",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "SNE",
+      "points": [
+        ["2018", 2107000],
+        ["2019", 2161000],
+        ["2020", 2163000],
+        ["2021", 2262000],
+        ["2022", 2428000],
+        ["2023", 2606700],
+        ["2024", 2760000]
+      ]
+    },
+    {
+      "id": "allocations",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "SNE",
+      "points": [
+        ["2018", 462000],
+        ["2019", 454000],
+        ["2020", 385000],
+        ["2021", 436000],
+        ["2022", 418000],
+        ["2023", 393000],
+        ["2024", 383857]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "incomeCeiling",
+      "unit": "euro",
+      "period": "2026",
+      "values": [
+        ["ileDeFrance", 34996],
+        ["otherRegions", 30424]
+      ]
+    }
+  ]
+}

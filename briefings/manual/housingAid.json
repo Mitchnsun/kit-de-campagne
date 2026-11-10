@@ -1,0 +1,176 @@
+{
+  "id": "housingAid",
+  "retrievedOn": "2026-11-10",
+  "sources": [
+    {
+      "producer": "SDES",
+      "publication": "Rapport du compte du logement 2025",
+      "publishedOn": "2026-09-14"
+    },
+    {
+      "producer": "Économie et Statistique",
+      "publication": "Pourquoi les ménages à bas revenus paient-ils des loyers de plus en plus élevés ? L’incidence des aides au logement en France (1973-2002), n° 381-382",
+      "publishedOn": "2005-01-01"
+    },
+    {
+      "producer": "Insee",
+      "publication": "L’impact des aides au logement sur le secteur locatif privé, Insee Analyses n° 19",
+      "publishedOn": "2014-11-01"
+    },
+    {
+      "producer": "CGEDD",
+      "publication": "Test de l’effet haussier de la partie progressive par rapport au loyer du barème des aides personnelles au logement",
+      "publishedOn": "2020-08-01"
+    },
+    {
+      "producer": "Insee",
+      "publication": "L’hébergement des sans-domicile en 2012, Insee Première n° 1455",
+      "publishedOn": "2013-07-02"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Rapport n° 1996 sur le projet de loi de finances pour 2026, annexe n° 5 : Cohésion des territoires, logement et hébergement d'urgence",
+      "publishedOn": "2025-10-23"
+    }
+  ],
+  "headline": {
+    "series": "allAid",
+    "period": "2025",
+    "value": 45.878,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "allAid",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "T311",
+      "points": [
+        ["2010", 43.202],
+        ["2011", 43.259],
+        ["2012", 41.519],
+        ["2013", 42.032],
+        ["2014", 42.045],
+        ["2015", 41.273],
+        ["2016", 42.817],
+        ["2017", 41.477],
+        ["2018", 39.782],
+        ["2019", 38.225],
+        ["2020", 38.331],
+        ["2021", 40.068],
+        ["2022", 42.153],
+        ["2023", 43.807],
+        ["2024", 43.484],
+        ["2025", 45.878]
+      ]
+    },
+    {
+      "id": "apl",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "T311",
+      "points": [
+        ["2010", 6.864],
+        ["2011", 7.141],
+        ["2012", 7.412],
+        ["2013", 7.764],
+        ["2014", 7.985],
+        ["2015", 8.217],
+        ["2016", 8.362],
+        ["2017", 8.428],
+        ["2018", 7.637],
+        ["2019", 7.565],
+        ["2020", 7.29],
+        ["2021", 6.891],
+        ["2022", 6.842],
+        ["2023", 6.947],
+        ["2024", 7.109],
+        ["2025", 7.519]
+      ]
+    },
+    {
+      "id": "als",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "T311",
+      "points": [
+        ["2010", 4.905],
+        ["2011", 5],
+        ["2012", 5.075],
+        ["2013", 5.256],
+        ["2014", 5.296],
+        ["2015", 5.327],
+        ["2016", 5.304],
+        ["2017", 5.221],
+        ["2018", 5.104],
+        ["2019", 5.044],
+        ["2020", 5.34],
+        ["2021", 5.165],
+        ["2022", 5.195],
+        ["2023", 5.335],
+        ["2024", 5.512],
+        ["2025", 5.61]
+      ]
+    },
+    {
+      "id": "alf",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "T311",
+      "points": [
+        ["2010", 4.151],
+        ["2011", 4.209],
+        ["2012", 4.236],
+        ["2013", 4.365],
+        ["2014", 4.421],
+        ["2015", 4.463],
+        ["2016", 4.442],
+        ["2017", 4.354],
+        ["2018", 4.215],
+        ["2019", 4.049],
+        ["2020", 3.985],
+        ["2021", 3.616],
+        ["2022", 3.374],
+        ["2023", 3.325],
+        ["2024", 3.322],
+        ["2025", 3.298]
+      ]
+    },
+    {
+      "id": "personalAid",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "points": [["2025", 16.4]]
+    },
+    {
+      "id": "homeless",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [["2012", 141500]]
+    },
+    {
+      "id": "shelterPlaces",
+      "frequency": "annual",
+      "unit": "count",
+      "status": {
+        "2026": "projection"
+      },
+      "points": [["2026", 203000]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "aidComponents",
+      "unit": "billionEuro",
+      "period": "2025",
+      "sourceId": "T311",
+      "values": [
+        ["socialBenefits", 20.093],
+        ["investmentSubsidies", 5.832],
+        ["taxAdvantages", 16.423],
+        ["rateAdvantages", 3.304],
+        ["operatingSubsidies", 0.226]
+      ]
+    }
+  ]
+}
