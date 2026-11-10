@@ -1,12 +1,12 @@
 {
   "fr": [
-    "Les parts des comptes nationaux comptent des loyers imputés, un loyer que les propriétaires occupants ne paient pas : 14,7 points des 28,0 % du logement en 2025, soit 13,3 % sans eux (calculé). La santé y est comptée après remboursement de la Sécurité sociale (Insee).",
+    "Les parts des comptes nationaux comptent des loyers imputés, un loyer que les propriétaires occupants ne paient pas : 14,7 points des 28,0 % du logement en 2025. Sans eux, le logement fait 15,6 % de la dépense effectivement payée (calculé). La santé y est comptée après remboursement de la Sécurité sociale (Insee).",
     "Les poids de l'indice des prix ne sont pas des parts de la dépense : ils excluent les loyers imputés et comptent la santé à prix bruts, avant remboursement. L'Insee les publie pour 10 000, la page les écrit pour 1 000. Ils ne se comparent pas poste à poste avec les comptes nationaux.",
     "L'enquête Budget de famille de 2017 est la dernière édition publiée par l'Insee : 27 408 € de dépense par ménage et par an, sans loyers imputés, impôts, gros travaux ni remboursements d'emprunts. En part du budget, les plus modestes dépensent davantage pour le logement, les plus aisés pour les transports.",
     "L'« euro alimentaire » est une estimation de l'Observatoire de la formation des prix et des marges, d'après les comptes de l'Insee et d'Eurostat, pas une mesure. Il porte sur 2021, une année atypique (crise sanitaire), la dernière calculée, restauration comprise : 13,2 € sur 100 vont à la production agricole française."
   ],
   "en": [
-    "The shares of the national accounts include imputed rents, a rent that owner-occupiers do not pay: 14.7 points of the 28.0% of housing in 2025, or 13.3% without them (calculated). Health is counted after reimbursement by the Social Security (Insee).",
+    "The shares of the national accounts include imputed rents, a rent that owner-occupiers do not pay: 14.7 points of the 28.0% of housing in 2025. Without them, housing makes up 15.6% of the spending actually paid (calculated). Health is counted after reimbursement by the Social Security (Insee).",
     "The weights of the price index are not shares of spending: they leave out imputed rents and count health at gross prices, before reimbursement. The Insee publishes them per 10,000, the page writes them per 1,000. They do not compare item by item with the national accounts.",
     "The Budget de famille survey of 2017 is the last edition the Insee has published: €27,408 of spending per household per year, without imputed rents, taxes, major works or loan repayments. As a share of the budget, the poorest spend more on housing, the richest on transport.",
     "The “food euro” is an estimate by the Observatoire de la formation des prix et des marges, from the Insee's and Eurostat's accounts, not a measurement. It covers 2021, an atypical year (health crisis), the last one calculated, eating out included: €13.2 of every €100 goes to French agricultural production."
@@ -15,13 +15,13 @@
     "fr": [
       {
         "heard": "On entend que le logement pèse en moyenne un tiers, voire la moitié, du budget des ménages.",
-        "answer": "Selon les comptes nationaux de l'Insee, le logement, l'eau et l'énergie font 28,0 % de la dépense de consommation des ménages en 2025 (provisoire), dont 14,7 points de loyers imputés, que les propriétaires occupants ne paient pas : 13,3 % sans eux (calculé). Rapportées au revenu disponible, les dépenses de logement en font 23,1 %. Dans l'enquête Budget de famille de 2017, la dernière publiée, le logement pèse 16,3 % de la dépense, 29,0 % pour les locataires et 9,5 % pour les propriétaires."
+        "answer": "Selon les comptes nationaux de l'Insee, le logement, l'eau et l'énergie font 28,0 % de la dépense de consommation des ménages en 2025 (provisoire), dont 14,7 points de loyers imputés, que les propriétaires occupants ne paient pas : sans eux, le logement fait 15,6 % de la dépense effectivement payée (calculé). Rapportées au revenu disponible, les dépenses de logement en font 23,1 %. Dans l'enquête Budget de famille de 2017, la dernière publiée, le logement pèse 16,3 % de la dépense, 29,0 % pour les locataires et 9,5 % pour les propriétaires."
       }
     ],
     "en": [
       {
         "heard": "You hear that housing takes on average a third, or even half, of the household budget.",
-        "answer": "According to the Insee's national accounts, housing, water and energy make up 28.0% of household consumption spending in 2025 (provisional), of which 14.7 points are imputed rents, which owner-occupiers do not pay: 13.3% without them (calculated). Set against disposable income, housing spending makes up 23.1%. In the Budget de famille survey of 2017, the last one published, housing weighs 16.3% of spending, 29.0% for tenants and 9.5% for owners."
+        "answer": "According to the Insee's national accounts, housing, water and energy make up 28.0% of household consumption spending in 2025 (provisional), of which 14.7 points are imputed rents, which owner-occupiers do not pay: without them, housing makes up 15.6% of the spending actually paid (calculated). Set against disposable income, housing spending makes up 23.1%. In the Budget de famille survey of 2017, the last one published, housing weighs 16.3% of spending, 29.0% for tenants and 9.5% for owners."
       }
     ]
   }
