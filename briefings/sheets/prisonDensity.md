@@ -1,20 +1,20 @@
 # `prisonDensity` · Densité carcérale
 
+**Mise à jour le 10/11/2026** : les chiffres du 1er octobre 2026 (90 937 détenus, 63 452 places opérationnelles, 143,3 %, maisons d'arrêt 178,0 %, 8 959 matelas au sol, 108 587 écroués dont 17 650 non détenus) sont retrouvés à l'identique dans les deux PDF du ministère pour ce mois, la brochure mensuelle et « Mesure de l'incarcération » ; notes 1, 2 et 4 passées au 1er octobre (section « Mises à jour »).
+
 **Vérifiée le 02/11/2026** : les chiffres du 1er septembre 2026 (90 020 détenus, 63 348 places opérationnelles, 142,1 %, maisons d'arrêt 176,1 %, 8 347 matelas au sol, 107 700 écroués dont 17 680 non détenus) et huit points de la série sont retrouvés à l'identique dans les PDF mensuels du ministère, et septembre 2026 dans la presse. Corrigé après la vérification : la série d'avant 2019 commence au premier tableau de densité des classeurs, décembre 2013 (son titre, « Nombre de personnes écrouées détenues et densité de population », échappait au script) ; notes précisées.
 
-**Établissements à 120 % ou plus** : le ministère publie trois nombres pour le 1er septembre 2026, 136 (tableau 24, la liste du fichier), 138 (page de synthèse de la même brochure) et 139 (« Mesure de l'incarcération »), sans expliquer l'écart ; le ticket #31 disait 138. La note dit « 136 à 139 selon la publication » ; la liste en compte 136, dont une à 120,0 % exactement.
-
-**Déjà plus récent** : le ministère a publié le 1er octobre 2026 (90 937 détenus, 63 452 places, 143,3 %), que data.gouv.fr n'a pas encore ; le kit s'arrête à septembre.
+**Établissements à 120 % ou plus** : le ministère publie trois nombres pour chaque mois, sans expliquer l'écart. Pour le 1er octobre 2026 : 133 (tableau 24, la liste du fichier), 135 (page de synthèse de la même brochure, 40 + 70 + 25) et 137 (« Mesure de l'incarcération ») ; pour le 1er septembre, 136, 138 et 139 (le ticket #31 disait 138). La note dit « 133 à 137 selon la publication » ; la liste en compte 133.
 
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `prisonDensity`, ticket #31, dossier « Sécurité et justice » (statut `planned`) |
-| Données | `briefings/data/prisonDensity.json`, écrit le 2026-11-02 par les fonctions du script `yarn briefings prisonDensity` à partir des classeurs du jeu data.gouv.fr, téléchargés à part (data.gouv.fr coupait les transferts de la session) ; douze mois de 2023 à 2026 pris des mêmes classeurs sur justice.gouv.fr |
-| Source | Ministère de la Justice, « Statistique mensuelle de la population écrouée et détenue en France », data.gouv.fr (ressource du 1er septembre 2026 mise à jour le 13/10/2026) ; Licence Ouverte (`fr-lo` sur data.gouv.fr, version 1.0) ; en français seulement |
-| Séries | `density`, `detainees`, `operationalPlaces` : de janvier 2023 à septembre 2026 ; `densityUntil2019`, `detaineesUntil2019`, `operationalPlacesUntil2019` : de décembre 2013 à mars 2019 (PDF seulement de mi-2019 à 2022, le trou est montré) ; `floorMattresses` : septembre 2026 |
-| Valeurs par catégorie | `densityByQuarterType` : densité par type de quartier au 1er septembre 2026 (maisons d'arrêt 176,1 %, centres de détention 99,9 %…) |
-| Liste | `crowdedEstablishments` : les 136 établissements ou quartiers du tableau 24, de 273,7 % (CP Majicavo, quartier centre de détention) à 120,0 % |
-| Chiffre clé | 142,1 % au 1er septembre 2026, en hausse (134,7 % un an plus tôt) |
+| Données | `briefings/data/prisonDensity.json`, écrit le 2026-11-10 par `yarn briefings prisonDensity` sur la machine du PO (web.archive.org refuse les connexions de la session de l'agent). Les neuf classeurs d'octobre 2013 à juin 2014, que data.gouv.fr liste encore mais ne sert plus (404), sont lus dans leur copie de l'Internet Archive du 01/04/2026, chacune vérifiée par l'empreinte SHA-1 que data.gouv.fr avait enregistrée ; octobre 2026, absent de data.gouv.fr, vient du classeur de la page 2026 du ministère. Première écriture le 2026-11-02, par les fonctions du script, à partir des classeurs téléchargés à part |
+| Source | Ministère de la Justice, « Statistique mensuelle de la population écrouée et détenue en France », data.gouv.fr jusqu'au 1er septembre 2026, et le classeur du 1er octobre 2026 de la page 2026 du ministère, « Mis à jour le 02 novembre 2026 » (la date de la source) ; Licence Ouverte (`fr-lo` sur data.gouv.fr, version 1.0) ; en français seulement |
+| Séries | `density`, `detainees`, `operationalPlaces` : de janvier 2023 à octobre 2026 ; `densityUntil2019`, `detaineesUntil2019`, `operationalPlacesUntil2019` : de décembre 2013 à mars 2019 (PDF seulement de mi-2019 à 2022, le trou est montré) ; `floorMattresses` : octobre 2026 |
+| Valeurs par catégorie | `densityByQuarterType` : densité par type de quartier au 1er octobre 2026 (maisons d'arrêt 178,0 %, centres de détention 99,8 %…) |
+| Liste | `crowdedEstablishments` : les 133 établissements ou quartiers du tableau 24 du 1er octobre 2026, de 284,2 % (CP Majicavo, quartier centre de détention) à 122,5 % (CSL Corbeil-Essonnes) |
+| Chiffre clé | 143,3 % au 1er octobre 2026, en hausse (135,8 % un an plus tôt) |
 | Première édition | À remplir à la publication |
 
 Particularités du jeu data.gouv.fr au 02/11/2026, traitées par le script : octobre 2025 en double (mêmes chiffres, compté une fois), novembre 2025 absent (pris de la page 2025 du ministère) ; le classeur de décembre 2024 écrit « decembre » sans accent ; les classeurs de 2010 à mi-2013 sont des .xls que le script ne lit pas (avant tout tableau de densité).
@@ -222,7 +222,15 @@ data.gouv.fr et licence :
 
 ## Mises à jour
 
-Aucune.
+**10/11/2026** (#307 de l'app) : le 1er octobre 2026.
+- **Le script** (`scripts/briefings/prisonDensity.ts`, PR Mitchnsun/moi-president#334) tournait court : data.gouv.fr liste encore à leur ancienne adresse de stockage (`www.data.gouv.fr/storage/f/2014-07-08T…`) les neuf classeurs d'octobre 2013 à juin 2014, qui répondent 404 ; sa dernière vérification les lisait le 15/02/2026. Décembre 2013 à juin 2014 sont les sept premiers mois de `densityUntil2019`. Le script lit désormais la copie de l'Internet Archive du 01/04/2026, seulement si son empreinte SHA-1 est celle que data.gouv.fr avait enregistrée (`analysis:checksum`) ; une série qui ne commence plus à son premier mois (2013-12, 2023-01) fait échouer le script. Le ministère n'a que des PDF pour ces mois ; aucune autre copie des classeurs n'a été trouvée.
+- **Octobre 2026** : data.gouv.fr s'arrête à septembre ; le classeur du 1er octobre vient de la page « Statistiques mensuelles de la population détenue et écrouée pour l'année 2026 » du ministère, « Mis à jour le 02 novembre 2026 » (https://www.justice.gouv.fr/sites/default/files/2026-11/statistique_etablissements_personnes_ecrouees_01102026.xlsx).
+- **L'instantané** : les séries d'avant 2019 sont inchangées, de décembre 2013 à mars 2019 ; les séries depuis 2023 gagnent octobre 2026 (143,3 %, 90 937 détenus, 63 452 places) ; la liste du tableau 24 compte 133 lignes ; densités par type de quartier et matelas au sol au 1er octobre.
+- **Double vérification**, sur les deux PDF du ministère pour le 1er octobre 2026, lus avec `pdftotext` :
+  - « Mesure de l'incarcération » (https://www.justice.gouv.fr/sites/default/files/2026-11/mesure_mensuelle_01102026.pdf) : 63 452 places opérationnelles, densité 143,3 %, MA/QMA 178,0 %, 8 959 matelas au sol, 108 587 écroués, 90 937 détenus, 17 650 non détenus, 137 établissements ou quartiers à 120 % ou plus ;
+  - la brochure mensuelle (`statistique_etablissements_personnes_ecrouees_01102026.pdf`) : capacité norme circulaire 64 326 et capacité opérationnelle 63 452 (tableaux par direction interrégionale), 16 693 en détention à domicile sous surveillance électronique et 957 en placement à l'extérieur sans hébergement (17 650), MA/QMA 178,0 %, et dans le tableau 24 (rangé par direction interrégionale, que le fichier trie par densité) CP Majicavo (CD/QCD) à 284,2 %, CP Faaa Nuutania (MA/QMA) à 270,9 %, MA La Roche-sur-Yon à 270,6 % et, la plus basse, CSL Corbeil-Essonnes à 122,5 % ; sa dernière ligne : « Au total, 64199 détenus et 133 établissements ou quartiers sont concernés ».
+  - Conforme.
+- **Notes** : 1 (64 326 places contre 63 452), 2 (108 587 écroués, 17 650 non détenus, 16 693 et 957) et 4 (178,0 %, 133 à 137 établissements) passées au 1er octobre 2026 ; 3 inchangée.
 
 ## Relecture
 
