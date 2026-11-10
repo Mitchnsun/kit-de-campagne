@@ -35,17 +35,28 @@ Dans les deux dossiers, images et fiches sont rangées par catégorie d'événem
 
 | Dossier | Catégorie dans le jeu |
 | --- | --- |
+| `abroad` | International |
+| `airtime` | Temps d'antenne |
 | `affair` | Affaire |
 | `attack` | Attaque |
 | `breakthrough` | Coup de projecteur |
 | `buzz` | Buzz |
+| `campaignFinance` | Finances de campagne |
+| `chance` | Coup de chance |
 | `crisis` | Crise |
+| `disinformation` | Désinformation |
 | `farFetched` | Incroyable |
+| `field` | Rencontre |
+| `institutions` | Institutions |
 | `media` | Opportunité médiatique |
+| `openLetter` | Tribune collective |
 | `polemic` | Polémique |
+| `private` | Vie privée |
+| `rendezvous` | Rendez-vous |
 | `sponsorships` | Parrainages |
 | `support` | Offre de soutien |
 | `team` | Crise d'équipe |
+| `touringIncident` | Contretemps de tournée |
 
 ## Comment les données des Dossiers sont faites
 
