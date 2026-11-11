@@ -20,7 +20,7 @@
 
 > **Un week-end à la montagne, au soleil de la station**
 >
-> Une photo de vous, lunettes de soleil sur le nez et verre en main, sur la terrasse d'une station de ski en pleines vacances d'hiver, est publiée par un site people. Dessous, un commentaire : « Les Français comptent leurs jours de congé, pas vous. »
+> Une photo de vous, lunettes de soleil sur le nez et verre en main, sur la terrasse d'une station de ski en pleines vacances d'hiver, est publiée par un site people. Dessous, un commentaire : « Le pays compte ses jours de congé, pas vous. »
 
 ## Le moment choisi
 

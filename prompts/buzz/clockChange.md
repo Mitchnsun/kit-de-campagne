@@ -20,7 +20,7 @@
 
 > **Une heure de moins**
 >
-> Dans la nuit de samedi à dimanche, les Français ont perdu une heure de sommeil. Les journaux relancent le vieux débat : faut-il supprimer le changement d'heure, et quelle heure garder ?
+> Dans la nuit de samedi à dimanche, le pays a perdu une heure de sommeil. Les journaux relancent le vieux débat : faut-il supprimer le changement d'heure, et quelle heure garder ?
 
 ## Le moment choisi
 

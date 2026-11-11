@@ -20,7 +20,7 @@
 
 > **8 mars : l'égalité en tête**
 >
-> Lundi, c'est la Journée internationale des droits des femmes. Cortèges et tribunes se multiplient, et des associations demandent aux candidats ce qu'ils comptent faire pour l'égalité salariale.
+> Lundi, c'est la Journée internationale des droits des femmes. Cortèges et tribunes se multiplient, et des associations demandent à chaque candidature ce qu'elle compte faire pour l'égalité salariale.
 
 ## Le moment choisi
 

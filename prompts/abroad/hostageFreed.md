@@ -20,7 +20,7 @@
 
 > **Une otage française libérée**
 >
-> Après dix-huit mois de captivité, une humanitaire française est libérée et rentre en France. L'Élysée annonce son arrivée dans la nuit ; toutes les rédactions attendent la réaction des candidats.
+> Après dix-huit mois de captivité, une humanitaire française est libérée et rentre en France. L'Élysée annonce son arrivée dans la nuit ; toutes les rédactions attendent la réaction de chaque camp.
 
 ## Le moment choisi
 

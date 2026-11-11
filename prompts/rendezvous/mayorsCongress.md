@@ -20,7 +20,7 @@
 
 > **Le Congrès des maires**
 >
-> Le Congrès des maires s'ouvre porte de Versailles : des milliers d'élus de toute la France, nouveau mandat en main, se retrouvent sous un même toit. Tous les candidats viennent leur faire la cour.
+> Le Congrès des maires s'ouvre porte de Versailles : des milliers d'élus de toute la France, nouveau mandat en main, se retrouvent sous un même toit. Toutes les campagnes viennent leur faire la cour.
 
 ## Le moment choisi
 

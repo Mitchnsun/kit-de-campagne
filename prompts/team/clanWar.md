@@ -20,7 +20,7 @@
 
 > **Guerre des clans au QG**
 >
-> Au QG, les anciens du premier cercle et les recrues arrivées avec les sondages ne se parlent plus. Des documents internes circulent dans les deux camps, et chacun réclame votre arbitrage.
+> Au QG, la vieille garde du premier cercle et les recrues arrivées avec les sondages ne se parlent plus. Des documents internes circulent dans les deux camps, et chacun réclame votre arbitrage.
 
 ## Le moment choisi
 

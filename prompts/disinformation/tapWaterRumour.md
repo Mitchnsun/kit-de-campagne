@@ -20,7 +20,7 @@
 
 > **Une rumeur sur l'eau du robinet**
 >
-> Un message anonyme affirme que l'eau du robinet est contaminée dans une grande ville. Les autorités la disent potable, mais les rayons d'eau en bouteille sont vides et les habitants s'inquiètent. Les journalistes demandent aux candidats ce qu'ils en pensent.
+> Un message anonyme affirme que l'eau du robinet est contaminée dans une grande ville. Les autorités la disent potable, mais les rayons d'eau en bouteille sont vides et les habitants s'inquiètent. Les journalistes demandent à chaque camp ce qu'il en pense.
 
 ## Le moment choisi
 

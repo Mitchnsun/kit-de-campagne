@@ -22,7 +22,7 @@ Texte de la branche de la PR #225, avant sa fusion.
 
 > **Un grand parti verrouille ses élus**
 >
-> Un grand parti interdit à ses élus de parrainer un autre candidat que le sien. Certains de ceux qui vous avaient promis leur signature hésitent.
+> Un grand parti interdit à ses élus de parrainer une autre candidature que la sienne. Une partie des signatures qui vous étaient promises vacille.
 
 ## Le moment choisi
 

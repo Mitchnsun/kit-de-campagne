@@ -20,7 +20,7 @@
 
 > **Vos propos font scandale**
 >
-> En déplacement, une de vos phrases sur l'intégration fait polémique : vos adversaires vous accusent de stigmatiser une partie des Français, et des proches prennent leurs distances.
+> En déplacement, une de vos phrases sur l'intégration fait polémique : vos adversaires vous accusent de stigmatiser une partie de la population, et des proches prennent leurs distances.
 
 ## Le moment choisi
 

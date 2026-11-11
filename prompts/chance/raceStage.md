@@ -20,7 +20,7 @@
 
 > **Une arrivée d'étape sous vos yeux**
 >
-> Une étape de la « course au soleil », la grande course cycliste vers la Méditerranée, arrive dans la ville où vous êtes ce jour-là. Un coureur français lève les bras sur la ligne, en bas de la rue, et la place se remplit d'une foule qui n'attendait pas de candidat.
+> Une étape de la « course au soleil », la grande course cycliste vers la Méditerranée, arrive dans la ville où vous êtes ce jour-là. Un coureur français lève les bras sur la ligne, en bas de la rue, et la place se remplit d'une foule qui ne vous attendait pas.
 
 ## Le moment choisi
 

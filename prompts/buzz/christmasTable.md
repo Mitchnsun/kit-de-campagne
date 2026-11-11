@@ -20,7 +20,7 @@
 
 > **Le repas de Noël**
 >
-> Un magazine du week-end prépare un dossier sur les repas de Noël des candidats : on vous demande une photo de votre tablée et les sujets dont vous parlerez en famille.
+> Un magazine du week-end prépare un dossier sur les repas de Noël de la présidentielle : on vous demande une photo de votre tablée et les sujets dont vous parlerez en famille.
 
 ## Le moment choisi
 

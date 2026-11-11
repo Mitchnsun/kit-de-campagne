@@ -20,7 +20,7 @@
 
 > **Le Salon de l'agriculture**
 >
-> Le Salon de l'agriculture bat son plein porte de Versailles. Tous les candidats s'y montrent : stands, vaches, dégustations, et des éleveurs qui ne ménagent pas les visiteurs.
+> Le Salon de l'agriculture bat son plein porte de Versailles. Pas une candidature n'y manque : stands, vaches, dégustations, et des éleveurs qui ne ménagent personne.
 
 ## Le moment choisi
 
