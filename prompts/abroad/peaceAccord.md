@@ -20,7 +20,7 @@
 
 > **La paix signée aux portes de l'Union**
 >
-> Après des années de guerre aux portes de l'Union, un accord de paix est signé : l'Ukraine recouvre ses frontières et demande à entrer dans l'Union au plus vite. Les rédactions attendent la réaction des candidats.
+> Après des années de guerre aux portes de l'Union, un accord de paix est signé : l'Ukraine recouvre ses frontières et demande à entrer dans l'Union au plus vite. Les rédactions attendent la réaction de chaque camp.
 
 ## Le moment choisi
 

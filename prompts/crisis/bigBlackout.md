@@ -20,7 +20,7 @@
 
 > **La grande panne**
 >
-> Une panne géante plonge un tiers du pays dans le noir : trains arrêtés, feux de circulation éteints, téléphones muets. Les candidats se précipitent devant les caméras.
+> Une panne géante plonge un tiers du pays dans le noir : trains arrêtés, feux de circulation éteints, téléphones muets. Toutes les campagnes se précipitent devant les caméras.
 
 ## Le moment choisi
 

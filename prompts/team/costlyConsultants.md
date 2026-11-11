@@ -20,7 +20,7 @@
 
 > **Les consultants hors de prix**
 >
-> Votre agence de communication coûte une fortune et vos sondages internes stagnent. Vos bénévoles, eux, réclament plus de place dans la campagne.
+> Votre agence de communication coûte une fortune et vos sondages internes stagnent. Vos bénévoles, de leur côté, réclament plus de place dans la campagne.
 
 ## Le moment choisi
 
