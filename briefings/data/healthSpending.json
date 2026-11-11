@@ -1,0 +1,89 @@
+{
+  "id": "healthSpending",
+  "retrievedOn": "2026-11-11",
+  "sources": [
+    {
+      "producer": "DREES",
+      "publication": "Les comptes de la santé - Répartition par financeur",
+      "publishedOn": "2026-10-01"
+    }
+  ],
+  "headline": { "series": "dcsi", "period": "2025", "value": 353.185, "trend": "up" },
+  "series": [
+    {
+      "id": "dcsi",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "d00000",
+      "points": [
+        ["2010", 223.367],
+        ["2011", 230.196],
+        ["2012", 235.855],
+        ["2013", 241.271],
+        ["2014", 247.517],
+        ["2015", 251.547],
+        ["2016", 256.783],
+        ["2017", 261.717],
+        ["2018", 266.558],
+        ["2019", 271.701],
+        ["2020", 283.14],
+        ["2021", 311.479],
+        ["2022", 318.709],
+        ["2023", 330.354],
+        ["2024", 342.042],
+        ["2025", 353.185]
+      ]
+    },
+    {
+      "id": "csbm",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "p00000",
+      "points": [
+        ["2010", 168.317],
+        ["2011", 172.791],
+        ["2012", 176.273],
+        ["2013", 178.933],
+        ["2014", 183.355],
+        ["2015", 186.086],
+        ["2016", 189.923],
+        ["2017", 192.715],
+        ["2018", 195.65],
+        ["2019", 198.789],
+        ["2020", 203.845],
+        ["2021", 221.072],
+        ["2022", 229.855],
+        ["2023", 241.334],
+        ["2024", 249.698],
+        ["2025", 256.452]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "dcsiByFunder",
+      "unit": "billionEuro",
+      "period": "2025",
+      "sourceId": "d00000",
+      "values": [
+        ["socialSecurity", 249.223],
+        ["otherPublic", 24.284],
+        ["complementary", 43.389],
+        ["households", 34.097],
+        ["companies", 2.194]
+      ]
+    },
+    {
+      "id": "csbmByFunder",
+      "unit": "billionEuro",
+      "period": "2025",
+      "sourceId": "p00000",
+      "values": [
+        ["socialSecurity", 201.638],
+        ["otherPublic", 1.659],
+        ["complementary", 33.464],
+        ["households", 19.691]
+      ]
+    }
+  ]
+}

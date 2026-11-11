@@ -1,0 +1,53 @@
+{
+  "id": "gpAccess",
+  "retrievedOn": "2026-11-11",
+  "sources": [
+    {
+      "producer": "DREES",
+      "publication": "Accessibilité potentielle localisée (APL) aux professionnels de santé",
+      "publishedOn": "2026-07-22"
+    }
+  ],
+  "headline": { "series": "aplMean", "period": "2024", "value": 3.26, "trend": "down" },
+  "series": [
+    {
+      "id": "aplMean",
+      "frequency": "annual",
+      "unit": "ratio",
+      "points": [
+        ["2022", 3.34],
+        ["2023", 3.29],
+        ["2024", 3.26]
+      ]
+    },
+    {
+      "id": "aplGap",
+      "frequency": "annual",
+      "unit": "ratio",
+      "points": [
+        ["2022", 3.86],
+        ["2023", 4.07],
+        ["2024", 4.28]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "aplTenths",
+      "unit": "ratio",
+      "period": "2024",
+      "values": [
+        ["d1", 1.32],
+        ["d2", 1.98],
+        ["d3", 2.36],
+        ["d4", 2.69],
+        ["d5", 3.02],
+        ["d6", 3.35],
+        ["d7", 3.66],
+        ["d8", 4.06],
+        ["d9", 4.53],
+        ["d10", 5.65]
+      ]
+    }
+  ]
+}
