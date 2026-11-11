@@ -20,7 +20,7 @@
 
 > **Le carnet d'un lobbyiste**
 >
-> Le carnet d'adresses d'un lobbyiste fuite : des dizaines d'élus y figurent, dont plusieurs de vos proches. Les journalistes cherchent votre nom.
+> Le carnet d'adresses d'un lobbyiste fuite : des dizaines d'élus y figurent, dont plusieurs membres de votre entourage. Les journalistes cherchent votre nom.
 
 ## Le moment choisi
 

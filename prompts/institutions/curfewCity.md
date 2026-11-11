@@ -20,7 +20,7 @@
 
 > **Une ville sous arrêté**
 >
-> La préfecture interdit toute manifestation et impose un couvre-feu aux mineurs dans la ville où vous tenez meeting ce soir. Vos militants attendent votre décision.
+> La préfecture interdit toute manifestation et impose un couvre-feu aux mineurs dans la ville où vous tenez meeting ce soir. Votre base militante attend votre décision.
 
 ## Le moment choisi
 

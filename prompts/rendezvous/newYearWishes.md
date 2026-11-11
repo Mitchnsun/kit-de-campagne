@@ -20,7 +20,7 @@
 
 > **Les vœux du 31 décembre**
 >
-> Chaque 31 décembre, le chef de l'État s'adresse au pays. Une chaîne d'information vous offre le même créneau pour vos propres vœux, et vos militants attendent un message.
+> Chaque 31 décembre, le chef de l'État s'adresse au pays. Une chaîne d'information vous offre le même créneau pour vos propres vœux, et votre base attend un message.
 
 ## Le moment choisi
 

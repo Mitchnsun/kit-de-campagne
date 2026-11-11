@@ -20,7 +20,7 @@
 
 > **La trêve des confiseurs**
 >
-> Entre Noël et le jour de l'An, la vie politique se met en pause : les rédactions cherchent des invités, vos militants des raisons de se reposer.
+> Entre Noël et le jour de l'An, la vie politique se met en pause : les rédactions cherchent des invités, votre base des raisons de se reposer.
 
 ## Le moment choisi
 

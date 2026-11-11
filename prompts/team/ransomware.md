@@ -20,7 +20,7 @@
 
 > **Le QG rançonné**
 >
-> Un logiciel malveillant bloque les ordinateurs de votre QG et le fichier de vos militants. Les pirates réclament une rançon pour les libérer.
+> Un logiciel malveillant bloque les ordinateurs de votre QG et le fichier de votre base militante. Les pirates réclament une rançon pour les libérer.
 
 ## Le moment choisi
 

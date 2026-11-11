@@ -20,7 +20,7 @@
 
 > **Un trou dans les comptes**
 >
-> Votre trésorier découvre 30 000 euros de dépenses sans justificatif dans les comptes de campagne. Personne ne sait encore qui a signé quoi.
+> Votre trésorerie découvre 30 000 euros de dépenses sans justificatif dans les comptes de campagne. Personne ne sait encore qui a signé quoi.
 
 ## Le moment choisi
 
