@@ -1,6 +1,6 @@
 # `retirees` · Retraités et pensions
 
-**Vérifiée le 11/11/2026** : double vérification sur le web, sans écart sur les chiffres de 2024 (section « Double vérification »). Le montant est brut : confirmé par le PO le 11/11/2026, les montants de l'EACR étant toujours bruts.
+**Vérifiée le 11/11/2026** : double vérification sur le Panorama 2026 de la DREES, sans écart sur 2024 et sur les effectifs et les résidents de 2023 ; un écart d'arrondi sur la pension de l'ensemble en 2023, sans doute une révision (section « Double vérification »). Le montant est brut et hors majoration pour trois enfants ou plus : les tableaux de la DREES le disent.
 
 | Champ | Valeur |
 | --- | --- |
@@ -14,29 +14,48 @@
 
 ## « À savoir »
 
-1. Montants bruts, avant CSG, CRDS et Casa, sans montant net dans la série : confirmation du PO du 11/11/2026 (les montants de l'EACR sont toujours bruts ; quand la DREES donne un net, elle le dit, en général dans le Panorama « Les retraités et les retraites ») ; MoneyVox (26/05/2026) et Bourse Inside (27/05/2026, qui cite MoneyVox) citent la DREES : « La pension moyenne de droit direct brut […] s'élève à 1 705 euros », « avant CSG et autres cotisations sociales ». La table `A-Prelev_sociaux` du même classeur ne donne que des effectifs par taux de CSG, pas de montant net.
+1. Montants bruts, sans montant net dans la série : le Panorama 2026 de la DREES, fiche 05, intitule son tableau 2 « Montant brut mensuel moyen de la pension de droit direct (hors majoration pour trois enfants ou plus) des retraités résidant en France ou à l'étranger, par régime de retraite, en 2024 » (p. 58), et son tableau 1 sépare les colonnes « Brute » et « Nette » (p. 55). Les prélèvements, d'après la note de ce tableau 1 : « La pension nette est calculée après déduction de la CSG, de la CRDS, de la Casa et de la cotisation maladie sur les retraites complémentaires. » La DREES ne publie de net que majoration comprise, pour les résidents en France (non repris, section « Double vérification »). Confirmation du PO du 11/11/2026 : les montants de l'EACR sont toujours bruts. La table `A-Prelev_sociaux` du classeur ne donne que des effectifs par taux de CSG, pas de montant net.
 2. Ce que compte `m1` : documentation de l'EACR de mai 2026, présentation de la table A-Cadrage : « L'avantage principal moyen de droit direct (m1) comprend les minima de pension (minimum contributif, minimum garanti ou pension minimale de référence) ; en revanche, il ne comprend pas l'avantage principal de droit dérivé (variable m2), la majoration pour personne à charge […], la majoration de pension pour les parents d'au moins 3 enfants […], les allocations du minimum vieillesse […] ou l'allocation supplémentaire d'invalidité ».
 3. Le modèle Ancêtre : même documentation, « la base diffusée est enrichie de données tous régimes issues du modèle ANCETRE de la Drees » ; la colonne `Source` des lignes « Tous régimes » dit « EIR 2004 », « EIR 2008 », « EIR 2012 », « EIR 2016 », « EIR 2020 », et « Ancetre <année> » pour les autres années.
 4. Les résidents à l'étranger : variable `Resid`, « précise le lieu de résidence : Ensemble/France. Cette distinction est disponible uniquement pour les données tous régimes » (documentation) ; 17 298 245 − 16 429 118 = 869 127 retraités hors de France fin 2024 (un calcul, arrondi à « environ 870 000 ») ; leur pension moyenne, déduite des deux moyennes (calcul, non écrit dans les notes), est d'environ 549 €, d'où la moyenne de l'ensemble sous celle des résidents.
 
 ## Double vérification
 
-Faite le 11/11/2026 par un agent Claude (modèle Opus), sans relire le classeur que lit le script : les sources données par le PO le 11/11/2026 (deux articles de presse qui citent la publication de la DREES du 26/05/2026). La « Vue d'ensemble » du Panorama 2025 de la DREES (https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-07/Vue%20d%27ensemble.pdf) n'a pas pu être lue d'ici : le site de la DREES ne répond pas depuis cet environnement (data.drees répond).
+Faite le 11/11/2026. Le site de la DREES ne répond pas depuis l'environnement de Claude (data.drees répond) : le PO a fait lire les fiches du Panorama dans son navigateur par un agent, qui a recopié chaque chiffre avec son tableau et sa page, sans calcul ni arrondi (compte rendu du 11/11/2026). Un agent Claude (modèle Opus) a ensuite rapproché ces chiffres du fichier et relu dans le classeur de l'EACR (« version du 26 mai 2026 ») les lignes de 2022 à 2024 : une seule ligne par année et par résidence, `PlusRécent` vrai, aucun millésime antérieur.
 
-| Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
+Documents : *Les retraités et les retraites – Édition 2026* (Panoramas de la DREES, 14/10/2026), fiche 01 « Les effectifs de retraités de droit direct » et fiche 05 « Le niveau des pensions » ; pour 2023, la fiche 05 de l'édition 2025 (31/07/2025). Le Panorama publie les effectifs en milliers et les pensions à l'euro.
+
+| Élément | Valeur du fichier | Valeur trouvée | Source | Verdict |
 | --- | --- | --- | --- | --- |
-| Chiffre clé, ensemble des retraités, 2024 | 1 646,9 € bruts, 17 298 245 retraités | « 1 647 euros pour 17,3 millions de personnes », « résidant en France ou non » | MoneyVox, 26/05/2026 ; Bourse Inside, 27/05/2026 | Conforme |
-| Résidents en France, 2024 | 1 705 €, 16 429 118 retraités | « 1 705 euros », « des 16,4 millions de retraités résidant en France au 31 décembre 2024 » | MoneyVox ; Bourse Inside | Conforme |
-| Brut ou net | brut | « pension brute moyenne, donc avant CSG et autres cotisations sociales » ; confirmation du PO | MoneyVox ; PO, 11/11/2026 | Conforme |
-| Évolution sur un an | la page ne montre qu'une tendance (en hausse) ; le fichier donne 1 621,4 € puis 1 705 € pour les résidents (+5,2 % en euros courants) | « une progression de 0,8 % par rapport à 2023 », citation de la DREES par la presse | MoneyVox ; Bourse Inside | Hors du fichier : la page n'écrit aucun taux d'évolution. Les 0,8 % sont sans doute en euros constants (hypothèse non vérifiée, la publication de la DREES n'ayant pas pu être lue) |
+| Retraités, ensemble, 2024 | 17 298 245 | 17 298 milliers | Éd. 2026, fiche 01, tableau 1, p. 21 | Conforme |
+| Pension, ensemble, 2024 | 1 646,9 € | 1 647 €, brut, hors majoration, « Ensemble, tous régimes » | Éd. 2026, fiche 05, tableau 2, p. 58 | Conforme |
+| Retraités, résidents en France, 2024 | 16 429 118 | 16 429 milliers | Éd. 2026, fiche 01, tableau 1, p. 21 | Conforme |
+| Pension, résidents en France, 2024 | 1 705 € | 1 705 €, colonne « Pension de droit direct, hors majoration pour 3 enfants ou plus – Brute – Ensemble » | Éd. 2026, fiche 05, tableau 1, p. 55 | Conforme |
+| Retraités, ensemble, 2023 | 17 184 263 | 17 184 milliers | Éd. 2026, fiche 01, tableau 1, p. 21 | Conforme |
+| Retraités, résidents en France, 2023 | 16 296 183 | 16 296 milliers | Éd. 2026, fiche 01, tableau 1, p. 21 | Conforme |
+| Pension, résidents en France, 2023 | 1 621,4 € | 1 621 € (éd. 2026) ; 1 620 € dans l'éd. 2025 | Éd. 2026, fiche 05, tableau 1, p. 55 ; éd. 2025, fiche 05, tableau 1, p. 53 | Conforme à l'éd. 2026, qui a révisé 2023 d'un euro |
+| Pension, ensemble, 2023 | 1 563,9 € | 1 563 € (éd. 2025) ; l'éd. 2026 ne donne pas 2023 sur ce champ | Éd. 2025, fiche 05, tableau 2 | Écart d'arrondi (1 563,9 donnerait 1 564) : sans doute la même révision que pour les résidents, entre l'éd. 2025 et l'EACR de mai 2026 ; non prouvé, le classeur ne garde que le dernier millésime |
+| Champ | droit direct, tous régimes, vivants au 31/12, hors majoration ; à l'étranger compris pour « Ensemble » | « Retraités ayant perçu une pension de droit direct en 2024 (hors majoration pour trois enfants ou plus), résidant en France ou à l'étranger, vivants au 31 décembre de l'année. » | Éd. 2026, fiche 05, tableau 2, champ | Conforme |
+| Brut ou net | brut | colonnes « Brute » et « Nette » du tableau 1 ; tableau 2 « Pension brute de droit direct, hors majoration pour 3 enfants ou plus » | Éd. 2026, fiche 05, p. 55 et 58 | Conforme |
+| Évolution sur un an | la page ne montre qu'une tendance (en hausse) | « une progression de 0,8 % par rapport à 2023 », citation de la DREES par la presse | MoneyVox, 26/05/2026 ; Bourse Inside, 27/05/2026 | Hors du fichier : la page n'écrit aucun taux. Non retrouvé dans les fiches relevées ; non repris |
 | Licence | Licence Ouverte 2.0 | « Licence Ouverte v2.0 (Etalab) », avec l'obligation de mentionner la source | métadonnées du jeu `donnes_eacr` (API de data.drees) | Conforme |
 
-Non repris : la pension moyenne tous droits (« 1 567 euros pour 18,2 millions d'assurés », 1 657 € pour les résidents en France, presse du 26 et 27/05/2026), qui compte aussi la réversion et les majorations et un autre champ de retraités ; et l'estimation d'un net à 92,5 % du brut donnée par le PO comme un ordre d'idée, qui n'est pas un chiffre publié.
+Sources du Panorama : le tableau 2 de la fiche 05 cite « Drees, EACR, modèle ANCETRE », le tableau 1 de la fiche 01 et celui de la fiche 05 « Drees, EIR, modèle ANCETRE ». Les chiffres des résidents viennent donc d'une autre base que le classeur que lit le script, et coïncident avec lui. La presse (MoneyVox, Bourse Inside) donne les mêmes chiffres de 2024 ; elle n'est plus la source de la vérification.
 
-**Conclusion.** Les chiffres de 2024, pour l'ensemble et pour les résidents en France, sont ceux que la presse cite de la DREES ; le montant est brut.
+Non repris :
+
+- Les montants majoration comprise, que la DREES met en avant : pour les résidents en France, 1 752 € bruts et 1 626 € nets fin 2024 (1 667 € et 1 548 € fin 2023), et 1 693 € bruts pour l'ensemble (éd. 2026, fiche 05, p. 54-55). C'est le seul net publié : aucun net hors majoration, ni pour les résidents ni pour l'ensemble. Le net des années 2020 à 2022 a été révisé dans l'édition 2026 (« correction d'une erreur dans les taux de prélèvement appliqués », note du tableau 1).
+- La pension nette réversion comprise des résidents en France, 1 785 € fin 2024 (éd. 2026, fiche 05, p. 54), et la pension moyenne tous droits citée par la presse (1 567 € pour 18,2 millions d'assurés), qui comptent la réversion et un autre champ.
+- L'estimation d'un net à 92,5 % du brut donnée par le PO comme un ordre d'idée, qui n'est pas un chiffre publié.
+
+**Conclusion.** Les chiffres de 2024 et ceux de 2023, effectifs et pension des résidents, sont ceux du Panorama 2026 ; la pension de l'ensemble en 2023 diffère de l'édition 2025 d'un dixième à l'arrondi. Le montant est brut et hors majoration pour trois enfants ou plus.
 
 **Pages consultées** (le 11/11/2026) :
 
+- https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/261014-les-retraites-et-les-retraites-edition-2026 (lue par l'agent du PO)
+- https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-10/RR2026%20-%20Fiche%2001%20-%20Les%20effectifs%20de%20retrait%C3%A9s%20de%20droit%20direct.pdf (lue par l'agent du PO)
+- https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-10/RR2026%20-%20Fiche%2005%20-%20Le%20niveau%20des%20pensions.pdf (lue par l'agent du PO)
+- https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-07/Fiche%2005%20-%20Le%20niveau%20des%20pensions.pdf (édition 2025, lue par l'agent du PO)
 - https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/donnes_eacr (métadonnées, licence) et ses pièces jointes (classeur et documentation de mai 2026)
 - https://www.moneyvox.fr/retraite/actualites/108976/touchez-vous-plus-que-la-pension-moyenne (26/05/2026)
 - https://bourseinside.fr/?p=10084 (Bourse Inside, 27/05/2026, qui cite MoneyVox : pas une source indépendante de lui)
