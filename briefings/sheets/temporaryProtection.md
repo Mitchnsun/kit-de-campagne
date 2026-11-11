@@ -22,7 +22,7 @@ Les trois points en anglais disent la même chose que le français.
 
 ## Double vérification
 
-Faite le 11/11/2026 par un agent Claude (modèle Opus) qui cherche sur le web, sans passer par le script : les métadonnées d'Eurostat, la brève d'Eurostat du 10/03/2026, la presse relayant Eurostat.
+Faite le 11/11/2026 par un agent Claude qui cherche sur le web, sans passer par le script : les métadonnées d'Eurostat, la brève d'Eurostat du 10/03/2026, la presse relayant Eurostat.
 
 | Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
 | --- | --- | --- | --- | --- |

@@ -29,7 +29,7 @@ Les quatre points en anglais disent la même chose que le français.
 
 ## Double vérification
 
-Faite le 11/11/2026 par un agent Claude (modèle Opus) : le fichier ouvert avec `openpyxl`, le rapport avec `pdftotext`, un article de presse.
+Faite le 11/11/2026 par un agent Claude : le fichier ouvert avec `openpyxl`, le rapport avec `pdftotext`, un article de presse.
 
 | Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
 | --- | --- | --- | --- | --- |
