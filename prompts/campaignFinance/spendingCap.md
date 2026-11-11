@@ -20,7 +20,7 @@
 
 > **Le plafond approche**
 >
-> Votre expert-comptable vous prévient : au rythme actuel, vos dépenses dépasseront le plafond légal avant le premier tour. Le compte de campagne pourrait être rejeté.
+> Votre cabinet comptable vous prévient : au rythme actuel, vos dépenses dépasseront le plafond légal avant le premier tour. Le compte de campagne pourrait être rejeté.
 
 ## Le moment choisi
 

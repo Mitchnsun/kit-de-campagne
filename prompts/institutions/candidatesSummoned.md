@@ -1,8 +1,8 @@
-# `candidatesSummoned` · L'Élysée réunit les candidats
+# `candidatesSummoned` · L'Élysée convoque les candidatures
 
 **Validée par le PO le 07/11/2026**, à l'essai 2, après une retouche. Elle sert telle quelle en clair et en sombre.
 
-![L'Élysée réunit les candidats](../../illustrations/institutions/candidatesSummoned.webp)
+![L'Élysée convoque les candidatures](../../illustrations/institutions/candidatesSummoned.webp)
 
 | Champ | Valeur |
 | --- | --- |
@@ -18,9 +18,9 @@
 
 ## Texte de la carte
 
-> **L'Élysée réunit les candidats**
+> **L'Élysée convoque les candidatures**
 >
-> Le président de la République convoque tous les candidats déclarés : la flambée des prix viendrait des crises internationales, pas des choix du gouvernement. Un ministre résume la ligne : les cortèges ne feront pas baisser le prix de l'énergie.
+> Le président de la République convoque toutes les candidatures déclarées : la flambée des prix viendrait des crises internationales, pas des choix du gouvernement. Un ministre résume la ligne : les cortèges ne feront pas baisser le prix de l'énergie.
 
 ## Le moment choisi
 
