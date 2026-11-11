@@ -1,11 +1,16 @@
 {
   "id": "nonTakeUp",
-  "retrievedOn": "2026-11-09",
+  "retrievedOn": "2026-11-11",
   "sources": [
     {
       "producer": "DREES",
       "publication": "Estimer le non-recours au minimum vieillesse",
       "publishedOn": "2022-10-20"
+    },
+    {
+      "producer": "DREES",
+      "publication": "Non-recours au RSA\u00a0: plus d'un tiers des foyers éligibles ne le percevaient pas fin 2021",
+      "publishedOn": "2026-05-06"
     },
     {
       "producer": "Direction de la sécurité sociale",
@@ -47,6 +52,20 @@
       "frequency": "annual",
       "unit": "percent",
       "points": [["2018", 34]]
+    },
+    {
+      "id": "rsaNonTakeUpLow",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Tableau 1",
+      "points": [["2021", 33]]
+    },
+    {
+      "id": "rsaNonTakeUpHigh",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Tableau 1",
+      "points": [["2021", 37]]
     },
     {
       "id": "c2sTakeUp",
