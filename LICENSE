@@ -21,6 +21,10 @@ nomme le producteur, la publication, la licence et la date de chaque source.
   signaler les modifications. Les données qu'Eurostat attribue à une autre
   source ne sont pas réutilisables à des fins commerciales.
   https://ec.europa.eu/eurostat/help/copyright-notice
+- Les jeux de données du HCR (UNHCR, Refugee Data Finder) sont sous licence
+  Creative Commons Attribution 4.0 International (CC BY 4.0) : toute
+  réutilisation cite la source et signale les modifications.
+  https://creativecommons.org/licenses/by/4.0/
 - Les chiffres d'autres producteurs (CITEPA, instituts de sondage…) sont cités
   avec leur source ; aucun fichier de ces producteurs n'est redistribué.
 
@@ -77,6 +81,10 @@ the producer, the publication, the licence and the date of each source.
   acknowledged ("Source: Eurostat") and any changes are indicated. Data that
   Eurostat attributes to another source may not be reused commercially.
   https://ec.europa.eu/eurostat/help/copyright-notice
+- UNHCR datasets (Refugee Data Finder) are under the Creative Commons
+  Attribution 4.0 International licence (CC BY 4.0): any reuse credits the
+  source and indicates any changes.
+  https://creativecommons.org/licenses/by/4.0/
 - Figures from other producers (CITEPA, polling institutes…) are quoted with
   their source; no file from these producers is redistributed.
 

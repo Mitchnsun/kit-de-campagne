@@ -1,0 +1,87 @@
+{
+  "id": "ukraineAid",
+  "retrievedOn": "2026-11-11",
+  "sources": [
+    {
+      "producer": "Kiel Institute for the World Economy",
+      "publication": "Christoph Trebesch et al. (2026), « The Ukraine Support Tracker: Which countries help Ukraine and how? », Kiel Working Paper, No. 2218, release 31",
+      "publishedOn": "2026-10-08"
+    },
+    {
+      "producer": "Ministère des Armées et des Anciens combattants",
+      "publication": "Rapport au Parlement 2026 sur les exportations d'armement de la France",
+      "publishedOn": "2026-08-12"
+    }
+  ],
+  "headline": {
+    "series": "kielTotal",
+    "period": "2026-08",
+    "value": 7.9066,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "kielMilitary",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 6.2316]]
+    },
+    {
+      "id": "kielFinancial",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 0.7994]]
+    },
+    {
+      "id": "kielHumanitarian",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 0.8756]]
+    },
+    {
+      "id": "kielTotal",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 7.9066]]
+    },
+    {
+      "id": "kielCommitMilitary",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 8.5473]]
+    },
+    {
+      "id": "kielCommitFinancial",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 0.8144]]
+    },
+    {
+      "id": "kielCommitHumanitarian",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 0.9756]]
+    },
+    {
+      "id": "kielCommitTotal",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Kiel Release 31, Country Summary (€)",
+      "points": [["2026-08", 10.3373]]
+    },
+    {
+      "id": "ministryMilitary",
+      "frequency": "monthly",
+      "unit": "billionEuro",
+      "sourceId": "Rapport au Parlement 2026, p. 34",
+      "points": [["2025-12", 6.5]]
+    }
+  ]
+}

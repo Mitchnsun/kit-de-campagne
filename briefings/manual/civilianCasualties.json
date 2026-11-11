@@ -1,0 +1,66 @@
+{
+  "id": "civilianCasualties",
+  "retrievedOn": "2026-11-11",
+  "sources": [
+    {
+      "producer": "HRMMU (HCDH)",
+      "publication": "Protection of Civilians in Armed Conflict — September 2026",
+      "publishedOn": "2026-10-16"
+    }
+  ],
+  "headline": {
+    "series": "killed",
+    "period": "2026-09",
+    "value": 17605,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "killed",
+      "frequency": "monthly",
+      "unit": "count",
+      "sourceId": "HRMMU, since 24/02/2022",
+      "points": [["2026-09", 17605]]
+    },
+    {
+      "id": "injured",
+      "frequency": "monthly",
+      "unit": "count",
+      "sourceId": "HRMMU, since 24/02/2022",
+      "points": [["2026-09", 55846]]
+    },
+    {
+      "id": "casualties",
+      "frequency": "monthly",
+      "unit": "count",
+      "sourceId": "HRMMU, since 24/02/2022",
+      "points": [["2026-09", 73451]]
+    },
+    {
+      "id": "killedByYear",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "HRMMU, by year",
+      "points": [
+        ["2022", 8423],
+        ["2023", 1975],
+        ["2024", 2088],
+        ["2025", 2549],
+        ["2026", 2570]
+      ]
+    },
+    {
+      "id": "injuredByYear",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "HRMMU, by year",
+      "points": [
+        ["2022", 12670],
+        ["2023", 6651],
+        ["2024", 9138],
+        ["2025", 12176],
+        ["2026", 15211]
+      ]
+    }
+  ]
+}
