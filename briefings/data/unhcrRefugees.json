@@ -1,0 +1,27 @@
+{
+  "id": "unhcrRefugees",
+  "retrievedOn": "2026-11-11",
+  "sources": [
+    {
+      "producer": "UNHCR",
+      "publication": "Refugee Data Finder, Refugee Population Statistics Database",
+      "publishedOn": "2026-06-11"
+    }
+  ],
+  "headline": { "series": "refugees", "period": "2025", "value": 75695, "trend": "up" },
+  "series": [
+    {
+      "id": "refugees",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "coo=UKR, coa=FRA",
+      "points": [
+        ["2021", 2801],
+        ["2022", 69302],
+        ["2023", 68181],
+        ["2024", 68929],
+        ["2025", 75695]
+      ]
+    }
+  ]
+}
