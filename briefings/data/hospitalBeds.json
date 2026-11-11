@@ -1,0 +1,52 @@
+{
+  "id": "hospitalBeds",
+  "retrievedOn": "2026-11-11",
+  "sources": [
+    {
+      "producer": "DREES",
+      "publication": "Graphique 1 – Évolution du nombre de lits et de places au 31 décembre, depuis fin 2013",
+      "publishedOn": "2025-11-12"
+    }
+  ],
+  "headline": { "series": "fullTimeBeds", "period": "2024", "value": 367335, "trend": "down" },
+  "series": [
+    {
+      "id": "fullTimeBeds",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2013", 412788],
+        ["2014", 410649],
+        ["2015", 407875],
+        ["2016", 403906],
+        ["2017", 399255],
+        ["2018", 395316],
+        ["2019", 390703],
+        ["2020", 385973],
+        ["2021", 380607],
+        ["2022", 373828],
+        ["2023", 369363],
+        ["2024", 367335]
+      ]
+    },
+    {
+      "id": "partTimePlaces",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2013", 67783],
+        ["2014", 69688],
+        ["2015", 71716],
+        ["2016", 73607],
+        ["2017", 74891],
+        ["2018", 76650],
+        ["2019", 78585],
+        ["2020", 79747],
+        ["2021", 82413],
+        ["2022", 85031],
+        ["2023", 88471],
+        ["2024", 91232]
+      ]
+    }
+  ]
+}
