@@ -23,7 +23,7 @@ Les quatre points en anglais disent la même chose que le français ; le deuxiè
 
 ## Double vérification
 
-Faite le 11/11/2026 par un agent Claude (modèle Opus) : le PDF rouvert avec `pdftotext`, la page de la publication ouverte, puis des recherches dans la presse d'octobre 2026.
+Faite le 11/11/2026 par un agent Claude : le PDF rouvert avec `pdftotext`, la page de la publication ouverte, puis des recherches dans la presse d'octobre 2026.
 
 | Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
 | --- | --- | --- | --- | --- |

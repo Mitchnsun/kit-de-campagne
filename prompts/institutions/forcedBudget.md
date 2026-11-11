@@ -20,7 +20,7 @@
 
 > **Le budget et le 49.3**
 >
-> À l'Assemblée, le budget de l'an prochain n'a pas de majorité : le gouvernement menace de l'imposer par le 49.3. Vos partisans vous demandent de réagir.
+> À l'Assemblée, le budget de l'an prochain n'a pas de majorité : le gouvernement menace de l'imposer par le 49.3. Votre base vous demande de réagir.
 
 ## Le moment choisi
 

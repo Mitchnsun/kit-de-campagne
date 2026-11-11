@@ -22,7 +22,7 @@ Texte de la branche de la PR #225, avant sa fusion.
 
 > **La banque des parrainages**
 >
-> Des parlementaires proposent de « prêter » leurs signatures aux candidats qui dépassent 10 % dans les sondages, au nom du pluralisme. Vous en faites partie.
+> Des parlementaires proposent de « prêter » leurs signatures aux candidatures qui dépassent 10 % dans les sondages, au nom du pluralisme. La vôtre en fait partie.
 
 ## Le moment choisi
 

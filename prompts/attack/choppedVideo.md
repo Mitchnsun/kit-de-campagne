@@ -20,7 +20,7 @@
 
 > **Une vidéo ralentie au montage**
 >
-> Une vidéo de votre dernier meeting, ralentie et remontée, tourne sur les réseaux : votre voix y paraît pâteuse, vos phrases décousues, et certains se demandent si vous êtes en état de faire campagne.
+> Une vidéo de votre dernier meeting, ralentie et remontée, tourne sur les réseaux : votre voix y paraît pâteuse, vos phrases décousues, et une partie du public se demande si vous êtes en état de faire campagne.
 
 ## Le moment choisi
 

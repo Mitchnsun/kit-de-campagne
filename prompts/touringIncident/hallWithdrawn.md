@@ -20,7 +20,7 @@
 
 > **La salle reprise**
 >
-> À la veille de votre meeting, le maire d'une ville moyenne annule la location de la salle des fêtes « pour raisons d'ordre public ». Vos militants ont déjà collé les affiches.
+> À la veille de votre meeting, le maire d'une ville moyenne annule la location de la salle des fêtes « pour raisons d'ordre public ». Votre base militante a déjà collé les affiches.
 
 ## Le moment choisi
 

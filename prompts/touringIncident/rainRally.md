@@ -20,7 +20,7 @@
 
 > **Meeting sous la pluie**
 >
-> Votre grand meeting en plein air a lieu ce soir. Les prévisions annoncent une pluie battante toute la soirée, et les cars de militants arrivent déjà.
+> Votre grand meeting en plein air a lieu ce soir. Les prévisions annoncent une pluie battante toute la soirée, et les cars de votre base militante arrivent déjà.
 
 ## Le moment choisi
 

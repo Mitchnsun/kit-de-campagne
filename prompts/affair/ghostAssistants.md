@@ -20,7 +20,7 @@
 
 > **Les assistants fantômes**
 >
-> Un journal d'investigation affirme que deux de vos anciens assistants parlementaires n'ont jamais mis les pieds au bureau.
+> Un journal d'investigation affirme que deux personnes de votre ancienne équipe parlementaire n'ont jamais mis les pieds au bureau.
 
 ## Le moment choisi
 

@@ -20,7 +20,7 @@
 
 > **Le seuil des 5 %**
 >
-> Sous 5 % des voix, l'État ne remboursera presque rien de vos dépenses. Votre trésorier vous demande de choisir : réduire la campagne ou parier sur le score.
+> Sous 5 % des voix, l'État ne remboursera presque rien de vos dépenses. Votre trésorerie vous demande de choisir : réduire la campagne ou parier sur le score.
 
 ## Le moment choisi
 

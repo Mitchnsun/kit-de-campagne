@@ -20,7 +20,7 @@
 
 > **Les frontaliers de Saint-Louis**
 >
-> À Saint-Louis, dans le Haut-Rhin, des milliers de voitures partent chaque matin vers Bâle. Des frontaliers vous parlent : leur salaire est suisse, mais les loyers flambent à Saint-Louis, et les commerçants du coin ne trouvent plus de salariés, partis de l'autre côté.
+> À Saint-Louis, dans le Haut-Rhin, des milliers de voitures partent chaque matin vers Bâle. Des frontaliers vous parlent : leur salaire est suisse, mais les loyers flambent à Saint-Louis, et les commerçants du coin ne trouvent plus de personnel, parti de l'autre côté.
 
 ## Le moment choisi
 

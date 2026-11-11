@@ -20,7 +20,7 @@
 
 > **Les Bleus au sommet**
 >
-> Les Bleus du handball sont champions du monde. Vous regardez la finale avec des militants dans le gymnase d'une commune, et la salle explose. Une chaîne locale cherche quelqu'un à interroger.
+> Les Bleus du handball sont champions du monde. Vous regardez la finale avec votre base militante dans le gymnase d'une commune, et la salle explose. Une chaîne locale cherche quelqu'un à interroger.
 
 ## Le moment choisi
 

@@ -22,7 +22,7 @@ Texte de la branche de la PR #225, avant sa fusion.
 
 > **« Le candidat des maires »**
 >
-> Votre équipe propose de vous présenter en « candidat des maires ». Une association d'élus prévient qu'elle ira en justice si vous utilisez ce titre.
+> Votre équipe propose de présenter votre campagne comme « la candidature des maires ». Une association d'élus prévient qu'elle ira en justice si vous utilisez ce titre.
 
 ## Le moment choisi
 

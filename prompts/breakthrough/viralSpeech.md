@@ -20,7 +20,7 @@
 
 > **Un discours qui décolle**
 >
-> Salle des fêtes à moitié vide, micro qui grésille. Mais ce soir, quelque chose se passe : le public vibre, et un militant filme.
+> Salle des fêtes à moitié vide, micro qui grésille. Mais ce soir, quelque chose se passe : le public vibre, et quelqu'un filme.
 
 ## Le moment choisi
 

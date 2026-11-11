@@ -20,7 +20,7 @@
 
 > **Les banques disent non**
 >
-> Trois banques refusent tour à tour le prêt de votre campagne. Votre trésorier prévient : sans argent frais, il faudra annuler des meetings.
+> Trois banques refusent tour à tour le prêt de votre campagne. Votre trésorerie prévient : sans argent frais, il faudra annuler des meetings.
 
 ## Le moment choisi
 

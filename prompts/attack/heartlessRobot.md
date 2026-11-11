@@ -20,7 +20,7 @@
 
 > **Un robot sans cœur**
 >
-> En direct, le porte-parole d'un rival vous traite de « robot sans cœur, incapable de la moindre émotion ». La formule tourne sur toutes les chaînes.
+> En direct, le porte-parole d'une campagne adverse vous traite de « robot sans cœur, incapable de la moindre émotion ». La formule tourne sur toutes les chaînes.
 
 ## Le moment choisi
 

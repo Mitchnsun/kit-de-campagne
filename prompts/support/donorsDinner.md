@@ -20,7 +20,7 @@
 
 > **Un dîner de donateurs**
 >
-> Un riche homme d'affaires organise un dîner de levée de fonds en votre honneur. Les chèques s'annoncent généreux, les invités très discrets.
+> Un riche homme d'affaires organise un dîner en votre honneur. Les chèques s'annoncent généreux, les invités très discrets.
 
 ## Le moment choisi
 

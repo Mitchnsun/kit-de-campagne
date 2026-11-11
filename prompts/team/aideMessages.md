@@ -20,7 +20,7 @@
 
 > **Un collaborateur a tenu des propos répréhensibles**
 >
-> Un site d'investigation publie des messages antisémites qu'un de vos proches collaborateurs aurait écrits il y a une dizaine d'années. Il nie en être l'auteur et parle de faux ; la presse attend votre réponse.
+> Un site d'investigation publie des messages antisémites qu'un collaborateur de votre entourage aurait écrits il y a une dizaine d'années. Il nie en être l'auteur et parle de faux ; la presse attend votre réponse.
 
 ## Le moment choisi
 

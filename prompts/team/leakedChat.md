@@ -20,7 +20,7 @@
 
 > **Messages compromettants**
 >
-> Des captures de la messagerie de votre équipe fuitent : vos conseillers s'y moquent sans retenue de vos propres électeurs.
+> Des captures de la messagerie de votre équipe fuitent : votre entourage s'y moque sans retenue de votre propre électorat.
 
 ## Le moment choisi
 

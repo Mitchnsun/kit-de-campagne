@@ -20,7 +20,7 @@
 
 > **Des militants rémunérés**
 >
-> Un quotidien local révèle que votre responsable de terrain a rémunéré des « militants » pour remplir vos réunions et tracter. Ses équipes jurent que tout est en règle.
+> Un quotidien local révèle que votre responsable de terrain a rémunéré des « bénévoles » pour remplir vos réunions et tracter. Ses équipes jurent que tout est en règle.
 
 ## Le moment choisi
 

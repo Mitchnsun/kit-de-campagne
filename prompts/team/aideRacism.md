@@ -20,7 +20,7 @@
 
 > **Un collaborateur a tenu des propos racistes**
 >
-> Une vidéo tournée lors d'un dîner privé montre un de vos proches collaborateurs tenir des propos racistes. Il parle d'une plaisanterie sortie de son contexte et s'excuse du bout des lèvres ; la presse attend votre réponse.
+> Une vidéo tournée lors d'un dîner privé montre un collaborateur de votre entourage tenir des propos racistes. Il parle d'une plaisanterie sortie de son contexte et s'excuse du bout des lèvres ; la presse attend votre réponse.
 
 ## Le moment choisi
 

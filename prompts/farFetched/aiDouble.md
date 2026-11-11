@@ -20,7 +20,7 @@
 
 > **Votre double numérique**
 >
-> Un double de vous, généré par une IA, enchaîne les vidéos drôles et brillantes. Il compte déjà plus d'abonnés que vous.
+> Un double de vous, généré par une IA, enchaîne les vidéos drôles et brillantes. Votre double compte déjà plus d'abonnés que vous.
 
 ## Le moment choisi
 
