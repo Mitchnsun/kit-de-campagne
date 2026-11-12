@@ -3,6 +3,11 @@
   "retrievedOn": "2026-11-09",
   "sources": [
     {
+      "producer": "Eurostat",
+      "publication": "Gross domestic product (GDP) and main components per capita - annual data",
+      "publishedOn": "2026-11-05"
+    },
+    {
       "producer": "Insee",
       "publication": "Consommation effective des ménages par fonction",
       "publishedOn": "2026-05-29"
@@ -36,11 +41,6 @@
       "producer": "Observatoire de la formation des prix et des marges des produits alimentaires",
       "publication": "Rapport au Parlement 2026",
       "publishedOn": "2026-09-02"
-    },
-    {
-      "producer": "Eurostat",
-      "publication": "Gross domestic product (GDP) and main components per capita - annual data",
-      "publishedOn": "2026-11-05"
     }
   ],
   "headline": {
