@@ -58,6 +58,7 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script. Il n'y a pas de script : le fichier et le rapport ont été rouverts, un tiers recoupe les deux.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Kiel : aucune licence, citation demandée et reprise ci-dessus ; ministère : licence non cherchée.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - citation seule : Kiel Institute for the World Economy, Ministère des Armées et des Anciens combattants (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

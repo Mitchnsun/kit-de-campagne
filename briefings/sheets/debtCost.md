@@ -66,6 +66,9 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source. Il n'y a pas de script : la contre-vérification a rouvert les documents eux-mêmes.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée pour le HCFP, le PAP et la Cour des comptes (« citation seule » au registre) ; le projet de loi suit `financeBill` (Licence Ouverte 1.0).
+- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Insee : Licence Ouverte 2.0, mention « Source : Insee » et date de dernière mise à jour (https://www.insee.fr/fr/information/2008466) ;
+  - Assemblée nationale : la « Licence Ouverte 1.0 » du registre est déduite ; les mentions légales du site (https://www.assemblee-nationale.fr/dyn/info-site, lues le 12/11/2026) interdisent la réutilisation commerciale et ne permettent la reproduction que si sa diffusion est gratuite. Le PO a décidé le 12/11/2026 de citer ces documents depuis la Direction du budget : en attente de la lecture de budget.gouv.fr ;
+  - citation seule : Haut Conseil des finances publiques, Direction du budget, Cour des comptes (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

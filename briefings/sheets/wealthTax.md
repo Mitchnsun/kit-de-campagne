@@ -63,6 +63,9 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script. Il n'y a pas de script : la contre-vérification a rouvert chaque fichier et chaque document.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Licence Ouverte vérifiée pour le fichier de l'ISF (data.gouv.fr) ; non vérifiée pour les autres : le registre dit « Licence Ouverte » pour l'Insee et « citation seule » pour les DGFiP Statistiques, France Stratégie et la Cour des comptes.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Insee : Licence Ouverte 2.0, mention « Source : Insee » et date de dernière mise à jour (https://www.insee.fr/fr/information/2008466) ;
+  - DGFiP (impots.gouv.fr) : Licence Ouverte 2.0 (https://www.impots.gouv.fr/mentions-legales) ;
+  - citation seule : DGFiP, France Stratégie, Cour des comptes (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

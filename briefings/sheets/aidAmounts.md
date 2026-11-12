@@ -67,6 +67,8 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script. Il n'y a pas de script : la double vérification a rouvert les documents eux-mêmes et refait les sommes.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée : le registre dit `etalab-1.0` pour le rapport annexé au projet de loi (Assemblée nationale, consigne du coordinateur) et « citation seule » pour les autres.
+- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Assemblée nationale : la « Licence Ouverte 1.0 » du registre est déduite ; les mentions légales du site (https://www.assemblee-nationale.fr/dyn/info-site, lues le 12/11/2026) interdisent la réutilisation commerciale et ne permettent la reproduction que si sa diffusion est gratuite. Le PO a décidé le 12/11/2026 de citer ces documents depuis la Direction du budget : en attente de la lecture de budget.gouv.fr ;
+  - citation seule : Sénat, Haut-commissariat à la Stratégie et au Plan, France Stratégie, Direction générale du Trésor (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

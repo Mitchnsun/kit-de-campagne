@@ -61,6 +61,8 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script : 2024 et 2025 recoupés avec la recherche contre-vérifiée ; les années antérieures ne l'ont pas été.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Eurostat : réutilisation libre avec mention de la source ; DGEF : non vérifiée, « citation seule » dans le registre (le PDF interdit la reproduction à usage collectif sans autorisation et demande la citation de la source).
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Eurostat : réutilisation permise, commerciale comprise, mention « Source : Eurostat » et modifications signalées (https://ec.europa.eu/eurostat/help/copyright-notice) ;
+  - citation seule : Ministère de l'Intérieur (DGEF) (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

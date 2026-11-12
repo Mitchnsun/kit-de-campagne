@@ -66,6 +66,9 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source. Il n'y a pas de script : la contre-vérification a rouvert les documents et interrogé les API.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée pour l'OCDE et le PAP (« citation seule » au registre).
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Insee : Licence Ouverte 2.0, mention « Source : Insee » et date de dernière mise à jour (https://www.insee.fr/fr/information/2008466) ;
+  - Eurostat : réutilisation permise, commerciale comprise, mention « Source : Eurostat » et modifications signalées (https://ec.europa.eu/eurostat/help/copyright-notice) ;
+  - citation seule : OCDE, Direction du budget (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

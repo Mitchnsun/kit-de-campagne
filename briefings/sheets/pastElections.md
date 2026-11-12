@@ -88,5 +88,6 @@ Faite le 03/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script.
 - [ ] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Ministère de l'Intérieur, data.gouv.fr : Licence Ouverte 2.0, déclarée sur la page du jeu de données (https://www.data.gouv.fr/datasets/donnees-des-elections-agregees).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.

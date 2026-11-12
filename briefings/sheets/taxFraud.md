@@ -58,6 +58,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script. Il n'y a pas de script : la double vérification a rouvert les documents eux-mêmes ; l'écart de TVA de 2023 a été relu dans la page et dans le fichier XLSX de la Commission.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais. Les trois points le sont (points 1 et 2 relus dans les documents d'origine le 09/11/2026) ; les versions anglaises des notes et des affirmations ont été relues et concordent avec le français.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée : le registre dit « citation seule » pour les trois sources ; la double vérification n'a pas lu la licence de réutilisation de la Commission.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - citation seule : Commission européenne, Cour des comptes (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

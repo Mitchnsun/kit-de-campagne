@@ -58,6 +58,8 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script. Il n'y a pas de script : la double vérification a rouvert le PDF et le classeur.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée.
+- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Assemblée nationale : la « Licence Ouverte 1.0 » du registre est déduite ; les mentions légales du site (https://www.assemblee-nationale.fr/dyn/info-site, lues le 12/11/2026) interdisent la réutilisation commerciale et ne permettent la reproduction que si sa diffusion est gratuite. Le PO a décidé le 12/11/2026 de citer ces documents depuis la Direction du budget : en attente de la lecture de budget.gouv.fr ;
+  - citation seule : DGFiP (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

@@ -295,6 +295,7 @@ Données ouvertes de l'Assemblée : Licence Ouverte (version non précisée sur 
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [x] La licence de chaque source vérifiée, et la mention qu'elle demande.
+- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Assemblée nationale : la « Licence Ouverte 1.0 » du registre est déduite ; les mentions légales du site (https://www.assemblee-nationale.fr/dyn/info-site, lues le 12/11/2026) interdisent la réutilisation commerciale et ne permettent la reproduction que si sa diffusion est gratuite. Le PO a décidé le 12/11/2026 de citer ces documents depuis la Direction du budget : en attente de la lecture de budget.gouv.fr.
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.
