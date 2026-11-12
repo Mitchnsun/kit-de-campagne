@@ -5,12 +5,12 @@
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `unemployment`, dossier « Travail et retraites » (`work`), page de type série avec une carte des départements, ticket #140 de l'app (statut `planned` : les chiffres et la fiche avant la page) |
-| Données | `briefings/data/unemployment.json`, écrit par `yarn briefings unemployment` le 2026-11-02 |
+| Données | `briefings/data/unemployment.json`, écrit par `yarn briefings unemployment` le 2026-11-02, puis le 2026-11-12 (« Mises à jour ») |
 | Sources | Insee, « Enquête emploi en continu », https://www.insee.fr/fr/metadonnees/source/serie/s1223 (anglais : https://www.insee.fr/en/metadonnees/source/serie/s1223), Informations rapides n° 192 du 7 août 2026 ; Insee, « Taux de chômage localisés », https://www.insee.fr/fr/statistiques/2012804 (en français seulement), Informations rapides n° 223 du 18 septembre 2026 ; France Travail et Dares, « Statistiques trimestrielles France Travail » (STMT, CVS-CJO), https://statistiques.francetravail.org/stmt/publication, publiées le 28 octobre 2026, séries lues dans la BDM de l'Insee ; Licence Ouverte 2.0 (pour France Travail : licence indiquée sur la fiche data.gouv.fr du jeu, non sur ses pages) |
-| Séries | `rate` : taux de chômage au sens du BIT, France (Mayotte comprise), BDM `011818543`, trimestriel, 2003-T1 à 2026-T2, 94 points ; `youthRate` : taux des 15-24 ans, BDM `011818548`, mêmes périodes ; `employmentRate` : taux d'emploi des 15-64 ans, BDM `011818676`, mêmes périodes ; `rateSince1975` : taux de chômage France hors Mayotte, BDM `001688527`, 1975-T1 à 2026-T2, 206 points ; `jobseekersA` : demandeurs d'emploi inscrits en catégorie A, France hors Mayotte, BDM `010597456`, 1996-T1 à 2026-T3, 123 points ; `jobseekersAbc` : catégories A, B, C, BDM `010597571`, mêmes périodes |
+| Séries | `rate` : taux de chômage au sens du BIT, France (Mayotte comprise), BDM `011818543`, trimestriel, 2003-T1 à 2026-T3, 95 points ; `youthRate` : taux des 15-24 ans, BDM `011818548`, mêmes périodes ; `employmentRate` : taux d'emploi des 15-64 ans, BDM `011818676`, mêmes périodes ; `rateSince1975` : taux de chômage France hors Mayotte, BDM `001688527`, 1975-T1 à 2026-T3, 207 points ; `jobseekersA` : demandeurs d'emploi inscrits en catégorie A, France hors Mayotte, BDM `010597456`, 1996-T1 à 2026-T3, 123 points ; `jobseekersAbc` : catégories A, B, C, BDM `010597571`, mêmes périodes |
 | Carte | `localRate` : taux de chômage localisé de 100 départements (sans Mayotte), jeu BDM `TAUX-CHOMAGE`, 2026-T2, statut semi-définitif selon la BDM (« provisoire » sur la page de l'Insee) ; du Cantal (4,8 %) à la Guyane (20,4 %) |
-| Chiffre clé | 8,3 % au 2e trimestre 2026, en hausse après 8,1 % |
-| Règles | Le chiffre clé est le taux BIT de la France entière. Les inscrits à France Travail restent une série à part, jamais additionnée ni comparée au taux BIT. Le statut des départements est le moins définitif de leurs valeurs du trimestre (`leastDefinitive`) |
+| Chiffre clé | 8,2 % au 3e trimestre 2026, en baisse après 8,3 % |
+| Règles | Le chiffre clé est le taux BIT de la France entière. L'ensemble et les 15-24 ans « France entière » partent de 2003-T1 : l'Insee les publie depuis 1975 depuis le 10/11/2026, et le script n'en garde que 2003-T1 et après, comme la page ; la série longue reste `rateSince1975`, hors Mayotte (PO, 12/11/2026). Les inscrits à France Travail restent une série à part, jamais additionnée ni comparée au taux BIT. Le statut des départements est le moins définitif de leurs valeurs du trimestre (`leastDefinitive`) |
 | Première édition | À remplir à la publication |
 
 ## « À savoir »
@@ -22,7 +22,7 @@
 
 Non repris : la marge d'incertitude de ±0,3 point (utile à la page, qui dira la hausse sans la grossir) ; la catégorie A hors publics de la loi pour le plein emploi (+0,3 % sur le trimestre), une série que le script ne lit pas.
 
-À actualiser : l'Insee publie le 3e trimestre 2026 le 10 novembre 2026 ; les taux localisés le 6 janvier 2027 ; France Travail le 28 janvier 2027.
+À actualiser : le 3e trimestre 2026, publié par l'Insee le 10/11/2026, est entré le 12/11/2026 (« Mises à jour ») ; les taux localisés le 6 janvier 2027 ; France Travail le 28 janvier 2027.
 
 ## Double vérification
 
@@ -171,7 +171,19 @@ Limites : les pages de séries BDM (`statistiques/series/...`) sont rendues en J
 
 ## Mises à jour
 
-Aucune.
+**12/11/2026**, `yarn briefings unemployment`, pour l'édition 0003 (Mitchnsun/moi-president#357) :
+- **Nouvelle période** : le 3e trimestre 2026, publié le 10/11/2026 (Informations rapides n° 270). Taux de chômage 8,2 % (8,3 % au 2e trimestre), 15-24 ans 21,0 %, taux d'emploi des 15-64 ans 69,1 %. Les inscrits à France Travail (déjà au 3e trimestre) et les taux par département (encore au 2e trimestre, prochaine publication le 6 janvier 2027) ne changent pas.
+- **Révisions de l'Insee**, 0,1 point chacune : le taux d'ensemble en 2016-T1 (10,3 → 10,2) et 2026-T1 (8,1 → 8,2) ; onze trimestres des 15-24 ans, dont 2026-T2 (21,6 → 21,5) ; six du taux d'emploi, dont 2025-T1 (69,4 → 69,3) ; 2019-T1 de la série depuis 1975 (8,8 → 8,7).
+- **Changement de la source** : l'Insee publie désormais l'ensemble et les 15-24 ans « France entière » depuis 1975. Le script ne garde que 2003-T1 et après (règle ci-dessus).
+- **Vérification refaite** le 12/11/2026 par une session Claude, sur la publication de l'Insee et non sur l'API :
+
+| Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
+| --- | --- | --- | --- | --- |
+| Taux de chômage 2026-T3 (clé) | 8,2 % | « s'établit à 8,2 % de la population active », « quasi stable sur le trimestre (-0,1 point) », « supérieur de 0,4 point à son niveau du troisième trimestre 2025 » (7,8 % dans le fichier) | https://www.insee.fr/fr/statistiques/9118603 (IR n° 270, 10/11/2026) | Conforme |
+| Taux des 15-24 ans 2026-T3 | 21,0 % | « diminue pour les 15-24 ans (-0,5 point, à 21,0 %) », « +1,6 point » sur un an (21,5 % puis 19,4 % dans le fichier) | idem | Conforme |
+| Taux d'emploi des 15-64 ans 2026-T3 | 69,1 % | « quasi stable (+0,1 point), à 69,1 % », « Sur un an, il baisse de 0,2 point » (69,0 % et 69,3 % dans le fichier) | idem | Conforme |
+
+Les chiffres de la page d'accueil de l'Insee le 12/11/2026 (« 8,2 % Chômage au 3e trimestre 2026 ») concordent.
 
 ## Relecture
 
