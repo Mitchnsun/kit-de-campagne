@@ -161,6 +161,8 @@ La seconde partie du kit a ses propres éditions dans le même manifeste. Elle s
    ```
 
    Le script prend chaque indicateur publié dans l'app (`briefings/registry.ts`), réunit son instantané et ses « À savoir », joint le fond de carte (`departments.json`, demandé dès qu'une carte est publiée), et refuse l'édition s'il manque l'un des deux, si une source n'est pas celle du registre, si un « À savoir » manque dans une langue ou n'en suit pas la typographie. Un fichier d'un indicateur pas encore publié dans l'app est écarté, avec un avertissement. « Données au … », sur l'accueil des Dossiers, est la plus ancienne des dates de récupération.
+
+   Il liste aussi, sans échouer, les indicateurs dont une série a pris du retard sur le jour du build : un dernier point à trois mois ou plus pour une série mensuelle, deux trimestres pour une trimestrielle, trois ans pour une annuelle (les scrutins passés n'y sont jamais). Chaque ligne dit comment rafraîchir l'indicateur : `yarn briefings <id>`, ou une saisie à la main d'après sa fiche. Le rythme de la source peut expliquer un retard (une enquête publiée deux ans après, PISA tous les trois ans) : relire la liste, rafraîchir ce qui peut l'être, et joindre la liste à la PR de l'édition.
 5. **La version minimale de l'app** : la première édition des données attend la version de l'app qui ouvre la zone Dossiers. La donner avec `--min-app-version`.
 
 Puis reprendre aux étapes 3 à 7. À l'essai (étape 3), ouvrir la zone Dossiers et quelques pages d'indicateurs.
