@@ -66,6 +66,9 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script. Pas de script : la double vérification a rouvert chaque fichier et refait chaque calcul.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée (SDES sur son propre site, Douanes, BOFiP, Commission européenne, Assemblée nationale).
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - ministère de la Transition écologique (ecologie.gouv.fr) : Licence Ouverte 2.0, mention de la source et de la date de dernière mise à jour (https://www.ecologie.gouv.fr/mentions-legales) ;
+  - SDES : licence ouverte du décret n° 2017-638, réutilisation commerciale permise, mention « Service des données et études statistiques (SDES) » et date de dernière mise à jour (https://www.statistiques.developpement-durable.gouv.fr/mentions-legales) ;
+  - citation seule : Douanes, DGFiP, Commission européenne, Assemblée nationale (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

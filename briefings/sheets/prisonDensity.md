@@ -236,6 +236,7 @@ data.gouv.fr et licence :
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [x] La licence de chaque source vérifiée, et la mention qu'elle demande.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Ministère de la Justice, sur data.gouv.fr : le jeu porte la licence `fr-lo` (https://www.data.gouv.fr/api/1/datasets/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/), que la plateforme nomme « Licence Ouverte / Open Licence » et lie à son texte (https://www.data.gouv.fr/api/1/datasets/licenses/ : https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf, servi aujourd'hui depuis https://static.data.gouv.fr/resources/licence-ouverte-2-0/20240711-152120/licence-ouverte.pdf). Ce texte dit « Cette licence est une version 1.0 de la Licence Ouverte » (octobre 2011) : réutilisation permise, commerciale comprise, en mentionnant la source (a minima le nom du producteur) et la date de sa dernière mise à jour. Les mentions légales de justice.gouv.fr, plus restrictives (point de vigilance de la section 7), valent pour les contenus de ce site, pas pour ce jeu de données de data.gouv.fr.
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

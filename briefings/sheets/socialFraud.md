@@ -64,6 +64,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script. Il n'y a pas de script : la double vérification a rouvert les documents eux-mêmes ; les points de la série `recovered` n'ont d'autre source que la note du HCFiPS.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais. Les quatre points le sont (le point 3 réécrit d'après la source) ; les versions anglaises des notes et des affirmations ont été relues et concordent avec le français.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée : le registre dit « citation seule » (aucune licence trouvée, chiffres cités, aucun fichier redistribué).
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - citation seule : HCFiPS, Cour des comptes (chiffres cités avec leur source, aucun fichier redistribué).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

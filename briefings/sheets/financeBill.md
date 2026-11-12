@@ -8,7 +8,7 @@
 | --- | --- |
 | Indicateur | `financeBill`, ticket #141, dossier « Économie et fiscalité » (statut `planned`), à côté de `publicFinances` (PO, 02/11/2026 : un indicateur à part, saisi à la main) |
 | Données | `briefings/manual/financeBill.json`, saisi le 2026-11-02 depuis le texte du projet |
-| Source | Assemblée nationale, projet de loi de finances pour 2027, n° 3210, déposé le 01/10/2026 (PDF des données ouvertes de l'Assemblée) ; Licence Ouverte (page des données ouvertes de 2011) ; en français seulement |
+| Source | Direction du budget, « Projet de loi de finances pour 2027 », mis en ligne le 01/10/2026, jour de son dépôt à l'Assemblée nationale (n° 3210) : page https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2027/PLF2027, PDF https://www.budget.gouv.fr/documentation/file-download/33478 ; Licence Ouverte 2.0 ; en français seulement. Cité depuis le PDF des données ouvertes de l'Assemblée (https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B3210.pdf) jusqu'au 12/11/2026 (#356) : les pages citées plus bas sont les siennes |
 | Séries | `publicBalance` : solde public, en % du PIB, 2025 (exécution) puis 2026 et 2027 (prévisions, statut `projection`), article liminaire ; `publicDebt` : dette au sens de Maastricht, en % du PIB, idem ; `stateBalance` : solde général du budget de l'État en 2027, −156,4 Md€ (article 57 : budget général, budgets annexes, comptes spéciaux) |
 | Valeurs par catégorie | `missionCredits` : crédits de paiement 2027 de onze missions ou programmes de l'état B, en Md€ arrondis à 0,1 (enseignement scolaire 90,9 ; défense 73,2, pensions comprises ; charge de la dette 72,4, programme 117 ; … ; santé 1,8) ; total de l'état B 615,1 Md€ bruts, dont 144,5 Md€ de remboursements et dégrèvements (mission non reprise) |
 | Chiffre clé | Déficit public visé de 5,0 % du PIB en 2027, après 5,4 % prévu en 2026 |
@@ -295,6 +295,7 @@ Données ouvertes de l'Assemblée : Licence Ouverte (version non précisée sur 
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [x] La licence de chaque source vérifiée, et la mention qu'elle demande.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+  - Direction du budget : Licence Ouverte 2.0 (« licence ouverte Etalab 2.0 »), mention de la source et de sa date de dernière mise à jour, contenus de tiers et photos exclus (https://www.budget.gouv.fr/mentions-legales, lues le 12/11/2026). Ces documents étaient cités depuis l'Assemblée nationale, dont les mentions légales (https://www.assemblee-nationale.fr/dyn/info-site) interdisent la réutilisation commerciale : le PO a décidé le 12/11/2026 de les citer depuis budget.gouv.fr. Le projet de loi de finances pour 2027 y est mis en ligne le 01/10/2026, jour de son dépôt (n° 3210 à l'Assemblée) ; ses chiffres, lus dans le PDF de l'Assemblée, ont été relus le 12/11/2026 dans celui du Budget (`PLF-2027_web.pdf`, 391 pages) : identiques, articles 57 et 58 compris. Les pages citées dans cette fiche restent celles de l'Assemblée ; dans le PDF du Budget, le tableau de synthèse passe de la p. 14 à la p. 17, l'article liminaire des p. 29–30 aux p. 33–34, l'article 57 de la p. 164 aux p. 188–189 et l'état B des p. 245–251 aux p. 275–281.
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.

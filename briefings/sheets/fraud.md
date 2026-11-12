@@ -39,6 +39,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source du script (voir les fiches des volets).
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais (voir `socialFraud.md`, `taxFraud.md`, `taxEvasion.md` et `taxPenalties.md`).
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande. Non vérifiée.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande, lues le 12/11/2026 :
+.
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.
