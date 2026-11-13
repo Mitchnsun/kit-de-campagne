@@ -1,15 +1,15 @@
 # `inflation` · Inflation
 
-**Vérifiée le 02/11/2026** : double vérification sur le web, sans écart (section « Double vérification »).
+**Vérifiée le 02/11/2026** : double vérification sur le web, sans écart (section « Double vérification ») ; octobre 2026 vérifié le 13/11/2026 (« Mises à jour »).
 
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `inflation`, dossier « Économie et fiscalité » (`economy`), page de type série, ticket #24 de l'app (page pilote) |
-| Données | `briefings/data/inflation.json`, écrit par `yarn briefings inflation` le 2026-11-02 |
+| Données | `briefings/data/inflation.json`, écrit par `yarn briefings inflation` le 2026-11-02, puis le 2026-11-13 (« Mises à jour ») |
 | Sources | Insee, « Indice des prix à la consommation », https://www.insee.fr/fr/metadonnees/source/indicateur/p1653/description ; séries de la BDM par son API SDMX, sans clé (https://api.insee.fr/series/BDM/V1/data/SERIES_BDM/) ; Licence Ouverte 2.0 (« Source : Insee », avec la date de mise à jour) |
-| Séries | `cpi` : IPC, glissement annuel, ensemble des ménages, France, base 2025, BDM `011814632`, 1997-01 à 2026-09, 357 points ; `hicp` : IPCH, même champ, BDM `011812232`, 1997-01 à 2026-09, 357 points ; `cpiAnnual` : IPC, variation annuelle moyenne, BDM `011814640`, 1997 à 2025, 29 points |
-| Chiffre clé | +3,1 % en septembre 2026 (IPC), en hausse après +2,4 % en août ; IPCH +3,4 % |
-| Règles | Chiffres définitifs seulement (PO, 02/11/2026) : l'estimation provisoire de fin de mois est écartée, et les deux séries mensuelles s'arrêtent au dernier mois définitif dans les deux. Date de publication retenue : la dernière mise à jour des séries lues (2026-10-30) |
+| Séries | `cpi` : IPC, glissement annuel, ensemble des ménages, France, base 2025, BDM `011814632`, 1997-01 à 2026-10, 358 points ; `hicp` : IPCH, même champ, BDM `011812232`, 1997-01 à 2026-10, 358 points ; `cpiAnnual` : IPC, variation annuelle moyenne, BDM `011814640`, 1997 à 2025, 29 points |
+| Chiffre clé | +3,4 % en octobre 2026 (IPC), en hausse après +3,1 % en septembre ; IPCH +3,7 % |
+| Règles | Chiffres définitifs seulement (PO, 02/11/2026) : l'estimation provisoire de fin de mois est écartée, et les deux séries mensuelles s'arrêtent au dernier mois définitif dans les deux. Date de publication retenue : la dernière mise à jour des séries lues (2026-11-13) |
 | Première édition | À remplir à la publication |
 
 ## « À savoir »
@@ -139,7 +139,19 @@ Autres sources
 
 ## Mises à jour
 
-Aucune.
+**13/11/2026**, `yarn briefings inflation`, pour la prochaine édition et le quiz du débat de l'app (`DEBATE_FACTS`, Mitchnsun/moi-president#340) :
+- **Nouvelle période** : octobre 2026, résultats définitifs publiés le 13/11/2026 (Informations rapides n° 271). IPC +3,4 % sur un an (+3,1 % en septembre), IPCH +3,7 % (+3,4 % en septembre). Septembre est marqué révisé par la BDM (`OBS_REV`), sans changement à la décimale : 3,1 %.
+- **Écart avec le provisoire du 30/10/2026** (IR n° 266) : l'IPC est confirmé (+3,4 % sur un an, +0,4 % sur un mois) ; l'IPCH annuel est révisé de +3,8 % à +3,7 %.
+- **Vérification** le 13/11/2026 par un agent Claude (modèle Sonnet), sur la publication de l'Insee et sur l'API de la BDM :
+
+| Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
+| --- | --- | --- | --- | --- |
+| IPC, octobre 2026, glissement annuel (clé) | +3,4 % | +3,4 %, après +3,1 % en septembre ; +0,4 % sur un mois | https://www.insee.fr/fr/statistiques/9131332 (IR n° 271, 13/11/2026) ; BDM `011814632` (`OBS_QUAL` DEF, mise à jour du 2026-11-13) | Conforme |
+| IPCH, octobre 2026, glissement annuel | +3,7 % | +3,7 %, après +3,4 % en septembre ; +0,4 % sur un mois | idem ; BDM `011812232` (DEF, 2026-11-13) | Conforme |
+| Tendance « up » (oct. vs sept.) | up | +0,3 point | idem | Conforme |
+| Provisoire d'octobre | exclu | +3,4 % pour l'IPC, +3,8 % pour l'IPCH | https://www.insee.fr/fr/statistiques/9107965 (IR n° 266, 30/10/2026) | Conforme (révision de l'IPCH notée plus haut) |
+
+Prochaines publications : novembre provisoire le 27/11/2026, définitif le 11/12/2026.
 
 ## Relecture
 
