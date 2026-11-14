@@ -1,14 +1,14 @@
 {
   "id": "inflation",
-  "retrievedOn": "2026-11-02",
+  "retrievedOn": "2026-11-13",
   "sources": [
     {
       "producer": "Insee",
       "publication": "Indice des prix à la consommation",
-      "publishedOn": "2026-10-30"
+      "publishedOn": "2026-11-13"
     }
   ],
-  "headline": { "series": "cpi", "period": "2026-09", "value": 3.1, "trend": "up" },
+  "headline": { "series": "cpi", "period": "2026-10", "value": 3.4, "trend": "up" },
   "series": [
     {
       "id": "cpi",
@@ -372,7 +372,8 @@
         ["2026-06", 1.8],
         ["2026-07", 2.1],
         ["2026-08", 2.4],
-        ["2026-09", 3.1]
+        ["2026-09", 3.1],
+        ["2026-10", 3.4]
       ]
     },
     {
@@ -737,7 +738,8 @@
         ["2026-06", 2],
         ["2026-07", 2.4],
         ["2026-08", 2.6],
-        ["2026-09", 3.4]
+        ["2026-09", 3.4],
+        ["2026-10", 3.7]
       ]
     },
     {
