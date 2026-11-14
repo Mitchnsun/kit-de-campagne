@@ -1,15 +1,15 @@
 # `inflation` · Inflation
 
-**Vérifiée le 02/11/2026** : double vérification sur le web, sans écart (section « Double vérification »).
+**Vérifiée le 02/11/2026** : double vérification sur le web, sans écart (section « Double vérification »). **Mise à jour le 14/11/2026** avec les définitifs d'octobre 2026, vérifiés sans écart (section « Mises à jour »).
 
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `inflation`, dossier « Économie et fiscalité » (`economy`), page de type série, ticket #24 de l'app (page pilote) |
-| Données | `briefings/data/inflation.json`, écrit par `yarn briefings inflation` le 2026-11-02 |
+| Données | `briefings/data/inflation.json`, écrit par `yarn briefings inflation` le 2026-11-02, puis le 2026-11-14 (définitifs d'octobre 2026) |
 | Sources | Insee, « Indice des prix à la consommation », https://www.insee.fr/fr/metadonnees/source/indicateur/p1653/description ; séries de la BDM par son API SDMX, sans clé (https://api.insee.fr/series/BDM/V1/data/SERIES_BDM/) ; Licence Ouverte 2.0 (« Source : Insee », avec la date de mise à jour) |
-| Séries | `cpi` : IPC, glissement annuel, ensemble des ménages, France, base 2025, BDM `011814632`, 1997-01 à 2026-09, 357 points ; `hicp` : IPCH, même champ, BDM `011812232`, 1997-01 à 2026-09, 357 points ; `cpiAnnual` : IPC, variation annuelle moyenne, BDM `011814640`, 1997 à 2025, 29 points |
-| Chiffre clé | +3,1 % en septembre 2026 (IPC), en hausse après +2,4 % en août ; IPCH +3,4 % |
-| Règles | Chiffres définitifs seulement (PO, 02/11/2026) : l'estimation provisoire de fin de mois est écartée, et les deux séries mensuelles s'arrêtent au dernier mois définitif dans les deux. Date de publication retenue : la dernière mise à jour des séries lues (2026-10-30) |
+| Séries | `cpi` : IPC, glissement annuel, ensemble des ménages, France, base 2025, BDM `011814632`, 1997-01 à 2026-10, 358 points ; `hicp` : IPCH, même champ, BDM `011812232`, 1997-01 à 2026-10, 358 points ; `cpiAnnual` : IPC, variation annuelle moyenne, BDM `011814640`, 1997 à 2025, 29 points |
+| Chiffre clé | +3,4 % en octobre 2026 (IPC), en hausse après +3,1 % en septembre ; IPCH +3,7 % |
+| Règles | Chiffres définitifs seulement (PO, 02/11/2026) : l'estimation provisoire de fin de mois est écartée, et les deux séries mensuelles s'arrêtent au dernier mois définitif dans les deux. Date de publication retenue : la dernière mise à jour des séries lues (2026-11-13 depuis la mise à jour du 14/11/2026) |
 | Première édition | À remplir à la publication |
 
 ## « À savoir »
@@ -139,7 +139,18 @@ Autres sources
 
 ## Mises à jour
 
-Aucune.
+- **14/11/2026, définitifs d'octobre 2026** (passe groupée de mi-novembre, décision du PO du 03/11/2026) : `yarn briefings inflation` relancé ; les deux séries mensuelles gagnent octobre 2026, la date de publication passe au 13/11/2026, rien d'autre ne change (septembre reste à 3,1 % et 3,4 %). Le chiffre du débat de l'app (`DEBATE_FACTS`, `engine/debate.ts`) suit : 3,4 % pour 2026-10.
+
+  Double vérification le 14/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web :
+
+  | Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
+  | --- | --- | --- | --- | --- |
+  | IPC, octobre 2026, glissement annuel, définitif | +3,4 % | +3,4 % (indice 103,46, +0,4 % sur un mois), Informations rapides n° 271 du 13/11/2026 ; Reuters (via Boursorama) | https://www.insee.fr/fr/statistiques/9131332 | Conforme |
+  | IPCH, octobre 2026, définitif | +3,7 % | +3,7 % (indice 103,87), IR n° 271 ; Reuters | idem | Conforme |
+  | Révision du provisoire du 30/10 (IR n° 266 : IPC +3,4 %, IPCH +3,8 %) | | IPC inchangé ; IPCH « révisée à la baisse de 0,1 point » | IR n° 271 ; https://www.insee.fr/fr/statistiques/fichier/version-html/9107965/IR266_IPCprov_oct26.pdf | Conforme |
+  | Septembre 2026 inchangé | 3,1 % et 3,4 % | identiques dans les IR n° 247 et 266 ; aucune révision annoncée dans l'IR n° 271 | IR n° 247, 266, 271 | Conforme (déduit du texte) |
+
+  Non vérifié : les séries de la BDM ouvertes directement, et Eurostat pour la France en octobre (non trouvé). L'IR n° 271 a été lu par le résumé de sa page, recoupé par la presse. Pour la suite : l'énergie porte la hausse d'octobre (+24,1 % sur un an, après +21,3 %), devant les services (+2,6 %) ; l'alimentation ralentit (+1,2 %) ; l'inflation sous-jacente est à +1,7 % (IR n° 271). L'« À savoir » n'est pas changé : aucune note ne cite le dernier mois.
 
 ## Relecture
 
