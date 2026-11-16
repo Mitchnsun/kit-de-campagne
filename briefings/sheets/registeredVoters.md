@@ -20,6 +20,8 @@
 3. Inscription d'office à 18 ans depuis 1997 (Insee Focus n° 378 et Insee Première n° 1986) ; 2019 est la mise en service du répertoire électoral unique. La phrase d'abord prévue (« depuis 2019 ») était fausse ; « explique » devient « c'est principalement ce qui », comme l'Insee l'écrit.
 4. Les effectifs par âge de Melodi ne sont pas ceux de la figure 2a du Focus (47 814 756, métropole et DROM, âge au 1er janvier 2026) : +339 992 inscrits, dont les 255 233 des collectivités d'outre-mer et l'écart d'âge de référence (hypothèse de la vérification : l'âge à la date d'extraction). Le calage de #51 qui reprend la figure 2a garde sa source.
 
+Le 16/11/2026, le point 4 est fusionné dans le point 1 (« un autre champ », les inscrits ne sont ni les habitants ni les votants ; l'écart chiffré de la figure 2a reste dans cette fiche), et un nouveau point 4 dit le corps électoral de la présidentielle de 2022 : Insee, « 48,7 millions d'électeurs inscrits pour l'élection présidentielle 2022 », Insee Focus n° 264, Nathalie Stéphan, paru le 24/03/2022, https://www.insee.fr/fr/statistiques/6322895 (« En mars 2022, 48,8 millions de personnes sont inscrites sur les listes électorales françaises hors Nouvelle-Calédonie, dont 1,4 million résidant hors de France et inscrites sur une liste consulaire. 95 % des Français en âge de voter sont inscrits. Avec les électeurs de Nouvelle-Calédonie mais sans les ressortissants d'autres États-membres de l'Union européenne qui ne peuvent pas voter pour le scrutin présidentiel, le corps électoral pour l'élection présidentielle compte 48,7 millions d'électeurs. »).
+
 Non repris : « 48,7 millions admis à voter aux municipales », un chiffre de l'Insee qui compte la Nouvelle-Calédonie (48 154 748 + 358 428 + 220 000) ; le ministère de l'Intérieur publie un autre nombre (inscrits du jour du scrutin). La date du 15/03/2026 du jeu Melodi (1er tour des municipales) ne porte pas d'inscrits.
 
 À actualiser : à la prochaine extraction (élection présidentielle de 2027).
@@ -258,7 +260,8 @@ Le jeu data.gouv.fr porte un titre anglais : « Electoral body characteristics �
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026, suite de la double vérification sur le web par un agent Claude (modèle Sonnet), 16/11/2026 (rapport `check-defence-notes.md`, § 4)** : le point 4 rend au « 95 % » ses deux qualificatifs (« 95 % des Français en âge de voter sont inscrits sur une liste électorale principale communale », champ métropole et DOM, Insee Focus n° 264) : « en métropole et dans les DROM, 95 % des personnes majeures de nationalité française étaient inscrites sur une liste principale communale » ; la première phrase est raccourcie pour tenir dans les 320 caractères, sans changer ses chiffres.
+- **16/11/2026** (#448 de l'app, notes « À savoir » à compléter) : les points 1 et 4 fusionnés en un point 1 (la date d'extraction, sans la Nouvelle-Calédonie ; les taux par âge sur un autre champ), nouveau point 4 sur le corps électoral de la présidentielle de 2022 (source ci-dessus, fin de « À savoir »). Chiffres confirmés par la double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (rapport `check-gap-g2.md`, § 3 : 48,8 M, 1,4 M hors de France, 48,7 M, 95 %, « Paru le 24/03/2022 »). Le jeu cite ce Focus pour ses poids d'électeurs (`docs/GAME_ENGINE.md` de l'app).
 
 ## Relecture
 

@@ -15,9 +15,11 @@
 ## « À savoir »
 
 1. Deux hausses en 2026 : 12,02 € au 1er janvier (décret n° 2025-1228), 12,31 € au 1er juin (arrêté du 22 mai 2026, JORF du 24 mai), la seconde automatique, l'indice des prix des ménages du premier quintile ayant augmenté de plus de 2 % (+2,5 % depuis novembre 2025).
-2. Le Smic net est net des cotisations salariales, de la CSG et de la CRDS (définition de l'Insee ; même montant sur service-public). La phrase d'abord prévue, qui opposait deux « nets », était fausse : elle n'est pas reprise.
+2. Le Smic net est net des cotisations salariales, de la CSG et de la CRDS (définition de l'Insee ; même montant sur service-public). La phrase d'abord prévue, qui opposait deux « nets », était fausse : elle n'est pas reprise. Les 1 607 heures (ajoutées le 16/11/2026) : Code du travail, art. L3121-27 (« La durée légale de travail effectif des salariés à temps complet est fixée à trente-cinq heures par semaine. ») et L3121-41 (« Si la période de référence est annuelle, constituent des heures supplémentaires les heures effectuées au delà de 1 607 heures. »), lus sur le Code du travail numérique, https://code.travail.gouv.fr/code-du-travail/l3121-41 et https://code.travail.gouv.fr/code-du-travail/l3121-27 ; Service-Public, F1911, vérifié le 25/09/2025, https://www.service-public.gouv.fr/particuliers/vosdroits/F1911 (« 35 heures par semaine […] 151,67 heures par mois […] 1 607 heures par an »).
 3. L'enquête Acemo couvre les entreprises de 10 salariés ou plus, hors agriculture ; elle a été suspendue au printemps 2020 (Dares Indicateurs n° 16).
-4. Mayotte a son propre Smic : 9,56 € brut de l'heure en novembre 2026.
+4. Le salaire net médian (ajouté le 16/11/2026) : Insee, « Les salaires dans le secteur privé en 2024 », Insee Première n° 2079, paru le 23/10/2025, https://www.insee.fr/fr/statistiques/8657156 (« En 2024, la moitié des salariés du secteur privé perçoit moins de 2 190 euros net par mois en EQTP (figure 2). Ce salaire net médian est inférieur de 19,9 % au salaire net moyen, ce qui traduit une plus forte concentration des salaires dans le bas de la distribution. ») ; fichier `ip2079.xlsx`, feuille « Figure 3 » : médiane F9 = 2 190, moyenne F16 = 2 733 ; champ A19 : « France, salariés du privé, y compris alternants, stagiaires et bénéficiaires de contrats aidés, hors salariés de l'agriculture et des particuliers employeurs ». Le « 2 200 € » des mesures `rightToGross` et `recallableOfficials` du jeu en est l'arrondi.
+
+Mayotte (ancien point 4, fusionné le 16/11/2026 dans le point 1) : son propre Smic, 9,56 € brut de l'heure en novembre 2026.
 
 Non repris : la rupture de 2024 du salaire moyen, la vérification montrant que seule Mayotte y entre en 2024, pour moins d'un euro net par mois.
 
@@ -172,7 +174,7 @@ Consultées sans succès (page inaccessible ou illisible)
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (#448 de l'app, notes « À savoir » à compléter) : l'ancien point 4 (Mayotte) passe à la fin du point 1, sans changement de texte ; le point 2 dit la durée légale, 35 heures par semaine soit 1 607 heures par an ; nouveau point 4, le salaire net médian de 2024 (sources aux points 2 et 4 ci-dessus). Chiffres et citations confirmés par la double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (rapport `check-gap-g2.md`, § 3) ; le salaire annuel moyen de 32 791 € que proposait la recherche n'est ni dans la page ni dans le fichier de l'Insee : la note ne donne que les 2 733 € par mois du fichier.
 
 ## Relecture
 

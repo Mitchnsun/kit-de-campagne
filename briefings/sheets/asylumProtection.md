@@ -20,6 +20,8 @@
 3. Le taux synthétique de 52,1 % est publié par la DGEF, qui ne détaille pas sa formule : il réunit les protections accordées par l'Ofpra et par la CNDA, soit 78 782 personnes protégées en 2025 (78 783 selon l'Ofpra). Source : DGEF, rapport au Parlement 2025, https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-10/INTV2623196X_Rapport%20au_Parlement_2025_28sept2026.pdf (« Au total, 78 782 personnes ont obtenu une protection internationale en 2025 (+ 12,1 % en un an), portant le taux global de protection à 52,1 % »).
 4. Les rapports pour 100 000 habitants et les parts de décisions positives sont calculés d'après Eurostat, qui ne les publie pas. La part calculée pour la France (40,0 %) et le taux de l'Ofpra (41,2 %) ne reposent pas sur le même décompte des décisions. Source : API Eurostat, `migr_asyappctza`, `migr_asydcfsta` et `tps00001` (valeurs dans « Règles ») ; la différence de décompte se lit dans les chiffres (Eurostat : 60 515 positives sur 151 125 ; Ofpra : 63 593 admissions et 90 610 rejets), ce n'est pas une phrase de la source.
 
+Le 16/11/2026, les points 1 et 4 sont fusionnés en un point 1 (sans l'écart de 38,8 % et 38,9 % du rapport de l'Ofpra pour 2024, ni le taux de 41,2 % de l'Ofpra, qui est le chiffre clé), et un nouveau point 4 dit le pacte sur la migration et l'asile : EUR-Lex, textes du 14 mai 2024 (JO du 22/05/2024), règlement (UE) 2024/1348, https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32024R1348 (« Le présent règlement s'applique à partir du 12 juin 2026. » ; les demandes « introduites avant cette date sont régies par la directive 2013/32/UE ») ; règlements 2024/1356 (filtrage), 2024/1349 (retour à la frontière) et 2024/1358 (Eurodac) : à partir du 12 juin 2026 ; règlement (UE) 2024/1351 relatif à la gestion de l'asile et de la migration, qui remplace le règlement de Dublin, https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32024R1351, article 85 (« Il est applicable à partir du 1er juillet 2026 »).
+
 Les quatre points en anglais disent la même chose que le français.
 
 ## Ce qu'on entend
@@ -56,7 +58,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (#448 de l'app, notes « À savoir » à compléter) : les points 1 et 4 fusionnés, le point 4 sur le pacte européen (sources ci-dessus, fin de « À savoir »). Dates confirmées par la double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (rapport `check-gap-g2.md`, § 3 : règlements 2024/1347, 1348, 1349, 1351, 1356, 1358, 1359 et directive 2024/1346). Le pacte ne s'applique pas en bloc le 12 juin 2026 : la règle de relecture du jeu qui le disait est corrigée par #440.
 
 ## Relecture
 
