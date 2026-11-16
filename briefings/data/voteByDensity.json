@@ -1,0 +1,508 @@
+{
+  "id": "voteByDensity",
+  "retrievedOn": "2026-11-16",
+  "sources": [
+    {
+      "producer": "Ministère de l'Intérieur, data.gouv.fr",
+      "publication": "Données des élections agrégées",
+      "publishedOn": "2026-04-05"
+    },
+    { "producer": "Insee", "publication": "La grille de densité 2025", "publishedOn": "2025-07-21" }
+  ],
+  "headline": { "series": "turnoutRural", "period": "2022", "value": 78.54, "trend": null },
+  "series": [
+    {
+      "id": "turnoutDense",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "2022_pres_t1",
+      "points": [["2022", 73.53]]
+    },
+    {
+      "id": "turnoutIntermediate",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "2022_pres_t1",
+      "points": [["2022", 73.33]]
+    },
+    {
+      "id": "turnoutRural",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "2022_pres_t1",
+      "points": [["2022", 78.54]]
+    }
+  ],
+  "elections": [
+    {
+      "id": "denseRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 15039237,
+      "voters": 11058852,
+      "blank": 148759,
+      "invalid": 58818,
+      "expressed": 10851275,
+      "contenders": [
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 3209335 },
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 3150467 },
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 1638209 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 800235 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 605699 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 544969 },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 228464 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 197956 },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 189290 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 167202
+        },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 72111 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 47338 }
+      ],
+      "scope": { "grid": "DENS", "level": "dense" }
+    },
+    {
+      "id": "intermediateRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 14919950,
+      "voters": 10941498,
+      "blank": 167966,
+      "invalid": 79379,
+      "expressed": 10694153,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 2914496 },
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 2719987 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 2223104 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 773422 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 479022 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 468483 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 307481 },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 255688 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 224946
+        },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 187058 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 79001 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 61465 }
+      ],
+      "scope": { "grid": "DENS", "level": "intermediate" }
+    },
+    {
+      "id": "ruralRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 16889607,
+      "voters": 13265867,
+      "blank": 220200,
+      "invalid": 104057,
+      "expressed": 12941610,
+      "contenders": [
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 3721791 },
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 3435752 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 2149026 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 856294 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 623426 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 587951 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 508151 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 320623
+        },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 314136 },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 225528 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 113475 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 85457 }
+      ],
+      "scope": { "grid": "DENS", "level": "rural" }
+    },
+    {
+      "id": "denseRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 15045020,
+      "voters": 10452125,
+      "blank": 653804,
+      "invalid": 191518,
+      "expressed": 9606803,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 6706852 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 2899951 }
+      ],
+      "scope": { "grid": "DENS", "level": "dense" }
+    },
+    {
+      "id": "intermediateRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 14923890,
+      "voters": 10765035,
+      "blank": 675876,
+      "invalid": 257206,
+      "expressed": 9831953,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 5407566 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 4424387 }
+      ],
+      "scope": { "grid": "DENS", "level": "intermediate" }
+    },
+    {
+      "id": "ruralRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 16892173,
+      "voters": 13146744,
+      "blank": 882714,
+      "invalid": 349561,
+      "expressed": 11914469,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 6099738 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 5814731 }
+      ],
+      "scope": { "grid": "DENS", "level": "rural" }
+    },
+    {
+      "id": "largeUrbanCentresRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 15039237,
+      "voters": 11058852,
+      "blank": 148759,
+      "invalid": 58818,
+      "expressed": 10851275,
+      "contenders": [
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 3209335 },
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 3150467 },
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 1638209 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 800235 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 605699 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 544969 },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 228464 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 197956 },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 189290 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 167202
+        },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 72111 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 47338 }
+      ],
+      "scope": { "grid": "DENS7", "level": "largeUrbanCentres" }
+    },
+    {
+      "id": "intermediateUrbanCentresRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 6510485,
+      "voters": 4616991,
+      "blank": 68182,
+      "invalid": 34545,
+      "expressed": 4514264,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 1178263 },
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 1123985 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 1048318 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 326793 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 194972 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 188195 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 117405 },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 109057 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 89544
+        },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 78493 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 33097 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 26142 }
+      ],
+      "scope": { "grid": "DENS7", "level": "intermediateUrbanCentres" }
+    },
+    {
+      "id": "smallTownsRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 3149983,
+      "voters": 2337961,
+      "blank": 36278,
+      "invalid": 17766,
+      "expressed": 2283917,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 622528 },
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 605698 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 434975 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 162392 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 103697 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 98201 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 78350 },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 54231 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 50478
+        },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 41092 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 18343 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 13932 }
+      ],
+      "scope": { "grid": "DENS7", "level": "smallTowns" }
+    },
+    {
+      "id": "urbanBeltsRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 5259482,
+      "voters": 3986546,
+      "blank": 63506,
+      "invalid": 27068,
+      "expressed": 3895972,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 1113705 },
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 990304 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 739811 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 284237 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 182087 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 180353 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 111726 },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 92400 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 84924
+        },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 67473 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 27561 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 21391 }
+      ],
+      "scope": { "grid": "DENS7", "level": "urbanBelts" }
+    },
+    {
+      "id": "ruralTownsRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 7706027,
+      "voters": 5955040,
+      "blank": 98424,
+      "invalid": 45065,
+      "expressed": 5811551,
+      "contenders": [
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 1648761 },
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 1613293 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 975316 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 385004 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 267520 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 238505 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 218098 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 138749
+        },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 137302 },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 102411 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 48631 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 37961 }
+      ],
+      "scope": { "grid": "DENS7", "level": "ruralTowns" }
+    },
+    {
+      "id": "dispersedRuralRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 7800980,
+      "voters": 6206259,
+      "blank": 103551,
+      "invalid": 49331,
+      "expressed": 6053377,
+      "contenders": [
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 1789994 },
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 1563129 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 984997 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 402724 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 293370 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 286970 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 234011 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 154418
+        },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 146161 },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 102380 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 54659 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 40564 }
+      ],
+      "scope": { "grid": "DENS7", "level": "dispersedRural" }
+    },
+    {
+      "id": "veryDispersedRuralRound1",
+      "kind": "presidential",
+      "round": 1,
+      "date": "2022-04-10",
+      "registered": 1382600,
+      "voters": 1104568,
+      "blank": 18225,
+      "invalid": 9661,
+      "expressed": 1076682,
+      "contenders": [
+        { "name": "Marine LE PEN", "number": 5, "family": "farRight", "votes": 283036 },
+        { "name": "Emmanuel MACRON", "number": 3, "family": "center", "votes": 259330 },
+        { "name": "Jean-Luc MÉLENCHON", "number": 7, "family": "radicalLeft", "votes": 188713 },
+        { "name": "Jean LASSALLE", "number": 4, "family": "unaligned", "votes": 82883 },
+        { "name": "Éric ZEMMOUR", "number": 6, "family": "farRight", "votes": 68566 },
+        { "name": "Valérie PÉCRESSE", "number": 10, "family": "right", "votes": 62536 },
+        { "name": "Yannick JADOT", "number": 9, "family": "ecologist", "votes": 35635 },
+        { "name": "Fabien ROUSSEL", "number": 2, "family": "radicalLeft", "votes": 30673 },
+        {
+          "name": "Nicolas DUPONT-AIGNAN",
+          "number": 12,
+          "family": "sovereigntistRight",
+          "votes": 27456
+        },
+        { "name": "Anne HIDALGO", "number": 8, "family": "socialDemocrat", "votes": 20737 },
+        { "name": "Philippe POUTOU", "number": 11, "family": "farLeft", "votes": 10185 },
+        { "name": "Nathalie ARTHAUD", "number": 1, "family": "farLeft", "votes": 6932 }
+      ],
+      "scope": { "grid": "DENS7", "level": "veryDispersedRural" }
+    },
+    {
+      "id": "largeUrbanCentresRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 15045020,
+      "voters": 10452125,
+      "blank": 653804,
+      "invalid": 191518,
+      "expressed": 9606803,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 6706852 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 2899951 }
+      ],
+      "scope": { "grid": "DENS7", "level": "largeUrbanCentres" }
+    },
+    {
+      "id": "intermediateUrbanCentresRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 6512333,
+      "voters": 4517851,
+      "blank": 280985,
+      "invalid": 108868,
+      "expressed": 4127998,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 2283534 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 1844464 }
+      ],
+      "scope": { "grid": "DENS7", "level": "intermediateUrbanCentres" }
+    },
+    {
+      "id": "smallTownsRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 3150465,
+      "voters": 2310902,
+      "blank": 147875,
+      "invalid": 59940,
+      "expressed": 2103087,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 1128961 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 974126 }
+      ],
+      "scope": { "grid": "DENS7", "level": "smallTowns" }
+    },
+    {
+      "id": "urbanBeltsRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 5261092,
+      "voters": 3936282,
+      "blank": 247016,
+      "invalid": 88398,
+      "expressed": 3600868,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 1995071 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 1605797 }
+      ],
+      "scope": { "grid": "DENS7", "level": "urbanBelts" }
+    },
+    {
+      "id": "ruralTownsRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 7707958,
+      "voters": 5906711,
+      "blank": 374750,
+      "invalid": 148208,
+      "expressed": 5383753,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 2829440 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 2554313 }
+      ],
+      "scope": { "grid": "DENS7", "level": "ruralTowns" }
+    },
+    {
+      "id": "dispersedRuralRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 7801771,
+      "voters": 6151550,
+      "blank": 421413,
+      "invalid": 164076,
+      "expressed": 5566061,
+      "contenders": [
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 2785828 },
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 2780233 }
+      ],
+      "scope": { "grid": "DENS7", "level": "dispersedRural" }
+    },
+    {
+      "id": "veryDispersedRuralRound2",
+      "kind": "presidential",
+      "round": 2,
+      "date": "2022-04-24",
+      "registered": 1382444,
+      "voters": 1088483,
+      "blank": 86551,
+      "invalid": 37277,
+      "expressed": 964655,
+      "contenders": [
+        { "name": "Emmanuel MACRON", "number": 1, "family": "center", "votes": 490065 },
+        { "name": "Marine LE PEN", "number": 2, "family": "farRight", "votes": 474590 }
+      ],
+      "scope": { "grid": "DENS7", "level": "veryDispersedRural" }
+    }
+  ]
+}
