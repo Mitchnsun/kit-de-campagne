@@ -1,0 +1,433 @@
+{
+  "id": "concernsEurobarometer",
+  "retrievedOn": "2026-11-16",
+  "sources": [
+    {
+      "producer": "Commission européenne",
+      "publication": "Eurobaromètre Standard 105 – Printemps 2026",
+      "publishedOn": "2026-05-08",
+      "survey": {
+        "institute": "Verian Belgium, MCM France",
+        "sample": 1024,
+        "population": "personnes de 15 ans et plus ayant la nationalité d'un État membre de l'Union européenne et résidant en France",
+        "populationEn": "people aged 15 and over who are nationals of a Member State of the European Union and live in France",
+        "from": "2026-03-12",
+        "to": "2026-04-01",
+        "sponsor": "Commission européenne, direction générale de la communication",
+        "mode": "faceToFace",
+        "sampling": "random",
+        "margin": "Pour des échantillons d'environ 1 000 entretiens, les pourcentages réels oscillent de ±1,4 point (résultat de 5 % ou 95 %) à ±3,1 points (résultat de 50 %), au niveau de confiance de 95 %",
+        "publishedBy": "Commission européenne",
+        "questions": [
+          {
+            "id": "QA3",
+            "text": "A votre avis, quels sont les deux problèmes les plus importants auxquels doit faire face (NOTRE PAYS) actuellement ? (2 RÉPONSES MAXIMUM)"
+          }
+        ],
+        "notice": {
+          "kind": "report",
+          "url": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=105739"
+        }
+      }
+    },
+    {
+      "producer": "Commission européenne",
+      "publication": "Eurobaromètre Standard 104 – Automne 2025",
+      "publishedOn": "2025-12-11",
+      "survey": {
+        "institute": "Verian Belgium, MCM France",
+        "sample": 1001,
+        "population": "personnes de 15 ans et plus ayant la nationalité d'un État membre de l'Union européenne et résidant en France",
+        "populationEn": "people aged 15 and over who are nationals of a Member State of the European Union and live in France",
+        "from": "2025-10-09",
+        "to": "2025-10-29",
+        "sponsor": "Commission européenne, direction générale de la communication",
+        "mode": "faceToFace",
+        "sampling": "random",
+        "margin": "Pour des échantillons d'environ 1 000 entretiens, les pourcentages réels oscillent de ±1,4 point (résultat de 5 % ou 95 %) à ±3,1 points (résultat de 50 %), au niveau de confiance de 95 %",
+        "publishedBy": "Commission européenne",
+        "questions": [
+          {
+            "id": "QA3",
+            "text": "A votre avis, quels sont les deux problèmes les plus importants auxquels doit faire face (NOTRE PAYS) actuellement ? (2 RÉPONSES MAXIMUM)"
+          }
+        ],
+        "notice": {
+          "kind": "report",
+          "url": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=103867"
+        }
+      }
+    },
+    {
+      "producer": "Commission européenne",
+      "publication": "Eurobaromètre Standard 103 – Printemps 2025",
+      "publishedOn": "2025-05-28",
+      "survey": {
+        "institute": "Verian Belgium, MCM France",
+        "sample": 1001,
+        "population": "personnes de 15 ans et plus ayant la nationalité d'un État membre de l'Union européenne et résidant en France",
+        "populationEn": "people aged 15 and over who are nationals of a Member State of the European Union and live in France",
+        "from": "2025-03-26",
+        "to": "2025-04-15",
+        "sponsor": "Commission européenne, direction générale de la communication",
+        "mode": "faceToFace",
+        "sampling": "random",
+        "margin": "Pour des échantillons d'environ 1 000 entretiens, les pourcentages réels oscillent de ±1,4 point (résultat de 5 % ou 95 %) à ±3,1 points (résultat de 50 %), au niveau de confiance de 95 %",
+        "publishedBy": "Commission européenne",
+        "questions": [
+          {
+            "id": "QA3",
+            "text": "A votre avis, quels sont les deux problèmes les plus importants auxquels doit faire face (NOTRE PAYS) actuellement ? (2 RÉPONSES MAXIMUM)"
+          }
+        ],
+        "notice": {
+          "kind": "report",
+          "url": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=98994"
+        }
+      }
+    },
+    {
+      "producer": "Commission européenne",
+      "publication": "Eurobaromètre Standard 101 – Printemps 2024",
+      "publishedOn": "2024-05-23",
+      "survey": {
+        "institute": "Verian Belgium, MCM France",
+        "sample": 1004,
+        "population": "personnes de 15 ans et plus ayant la nationalité d'un État membre de l'Union européenne et résidant en France",
+        "populationEn": "people aged 15 and over who are nationals of a Member State of the European Union and live in France",
+        "from": "2024-04-03",
+        "to": "2024-04-23",
+        "sponsor": "Commission européenne, direction générale de la communication",
+        "mode": "faceToFace",
+        "sampling": "random",
+        "margin": "Pour des échantillons d'environ 1 000 entretiens, les pourcentages réels oscillent de ±1,4 point (résultat de 5 % ou 95 %) à ±3,1 points (résultat de 50 %), au niveau de confiance de 95 %",
+        "publishedBy": "Commission européenne",
+        "questions": [
+          {
+            "id": "QA3",
+            "text": "A votre avis, quels sont les deux problèmes les plus importants auxquels doit faire face la (NOTRE PAYS) actuellement ? (2 RÉPONSES MAX.)"
+          }
+        ],
+        "notice": {
+          "kind": "report",
+          "url": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=92366"
+        }
+      }
+    },
+    {
+      "producer": "Commission européenne",
+      "publication": "Eurobaromètre Standard 99 – Printemps 2023",
+      "publishedOn": "2023-07-10",
+      "survey": {
+        "institute": "Kantar Belgium, MCM France",
+        "sample": 1014,
+        "population": "personnes de 15 ans et plus ayant la nationalité d'un État membre de l'Union européenne et résidant en France",
+        "populationEn": "people aged 15 and over who are nationals of a Member State of the European Union and live in France",
+        "from": "2023-06-01",
+        "to": "2023-06-20",
+        "sponsor": "Commission européenne, direction générale de la communication",
+        "mode": "faceToFace",
+        "sampling": "random",
+        "margin": "Pour des échantillons d'environ 1 000 entretiens, les pourcentages réels oscillent de ±1,4 point (résultat de 5 % ou 95 %) à ±3,1 points (résultat de 50 %), au niveau de confiance de 95 %",
+        "publishedBy": "Commission européenne",
+        "questions": [
+          {
+            "id": "QA3",
+            "text": "À votre avis, quels sont les deux problèmes les plus importants auxquels doit faire face (NOTRE PAYS) actuellement ? (2 RÉPONSES MAX.)"
+          }
+        ],
+        "notice": {
+          "kind": "report",
+          "url": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88067"
+        }
+      }
+    },
+    {
+      "producer": "Commission européenne",
+      "publication": "Eurobaromètre Standard 97 – Été 2022",
+      "publishedOn": "2022-09-06",
+      "survey": {
+        "institute": "Kantar Belgium, Kantar Public France",
+        "sample": 1010,
+        "population": "personnes de 15 ans et plus ayant la nationalité d'un État membre de l'Union européenne et résidant en France",
+        "populationEn": "people aged 15 and over who are nationals of a Member State of the European Union and live in France",
+        "from": "2022-06-17",
+        "to": "2022-07-12",
+        "sponsor": "Commission européenne, direction générale de la communication",
+        "mode": "faceToFace",
+        "sampling": "random",
+        "margin": "Pour des échantillons d'environ 1 000 entretiens, les pourcentages réels oscillent de ±1,4 point (résultat de 5 % ou 95 %) à ±3,1 points (résultat de 50 %), au niveau de confiance de 95 %",
+        "publishedBy": "Commission européenne",
+        "questions": [
+          {
+            "id": "QA3",
+            "text": "A votre avis, quels sont les deux problèmes les plus importants auxquels doit faire face (NOTRE PAYS) actuellement ? (2 RÉPONSES MAX.)"
+          }
+        ],
+        "notice": {
+          "kind": "report",
+          "url": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=83376"
+        }
+      }
+    }
+  ],
+  "headline": {
+    "series": "risingPrices",
+    "period": "2026",
+    "value": 40,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "risingPrices",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 48],
+        ["2023", 43],
+        ["2024", 40],
+        ["2025", 33],
+        ["2026", 40]
+      ]
+    },
+    {
+      "id": "economicSituation",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 13],
+        ["2023", 11],
+        ["2024", 13],
+        ["2025", 16],
+        ["2026", 17]
+      ]
+    },
+    {
+      "id": "health",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 23],
+        ["2023", 19],
+        ["2024", 18],
+        ["2025", 15],
+        ["2026", 17]
+      ]
+    },
+    {
+      "id": "governmentDebt",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 8],
+        ["2023", 8],
+        ["2024", 14],
+        ["2025", 20],
+        ["2026", 16]
+      ]
+    },
+    {
+      "id": "crime",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 14],
+        ["2023", 19],
+        ["2024", 21],
+        ["2025", 17],
+        ["2026", 15]
+      ]
+    },
+    {
+      "id": "middleEast",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [["2026", 12]]
+    },
+    {
+      "id": "internationalSituation",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 6],
+        ["2023", 6],
+        ["2024", 9],
+        ["2025", 12],
+        ["2026", 11]
+      ]
+    },
+    {
+      "id": "unemployment",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 11],
+        ["2023", 9],
+        ["2024", 9],
+        ["2025", 7],
+        ["2026", 10]
+      ]
+    },
+    {
+      "id": "immigration",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 9],
+        ["2023", 11],
+        ["2024", 13],
+        ["2025", 14],
+        ["2026", 10]
+      ]
+    },
+    {
+      "id": "securityDefence",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2025", 11],
+        ["2026", 9]
+      ]
+    },
+    {
+      "id": "educationSystem",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 10],
+        ["2023", 14],
+        ["2024", 15],
+        ["2025", 11],
+        ["2026", 8]
+      ]
+    },
+    {
+      "id": "ukraineInvasion",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2025", 9],
+        ["2026", 7]
+      ]
+    },
+    {
+      "id": "housing",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 5],
+        ["2023", 7],
+        ["2024", 7],
+        ["2025", 5],
+        ["2026", 6]
+      ]
+    },
+    {
+      "id": "environmentClimate",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2022", 20],
+        ["2023", 18],
+        ["2024", 12],
+        ["2025", 9],
+        ["2026", 6]
+      ]
+    },
+    {
+      "id": "threatsToDemocracy",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "QA3",
+      "points": [
+        ["2025", 7],
+        ["2026", 5]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "issuesFrance",
+      "unit": "percent",
+      "period": "2026-03",
+      "sourceId": "QA3",
+      "values": [
+        ["risingPrices", 40],
+        ["economicSituation", 17],
+        ["health", 17],
+        ["governmentDebt", 16],
+        ["crime", 15],
+        ["middleEast", 12],
+        ["internationalSituation", 11],
+        ["unemployment", 10],
+        ["immigration", 10],
+        ["securityDefence", 9],
+        ["educationSystem", 8],
+        ["ukraineInvasion", 7],
+        ["housing", 6],
+        ["environmentClimate", 6],
+        ["threatsToDemocracy", 5]
+      ]
+    },
+    {
+      "id": "issuesFrancePrevious",
+      "unit": "percent",
+      "period": "2025-10",
+      "sourceId": "QA3",
+      "values": [
+        ["risingPrices", 36],
+        ["economicSituation", 23],
+        ["health", 16],
+        ["governmentDebt", 24],
+        ["crime", 18],
+        ["middleEast", 2],
+        ["internationalSituation", 6],
+        ["unemployment", 7],
+        ["immigration", 11],
+        ["securityDefence", 9],
+        ["educationSystem", 10],
+        ["ukraineInvasion", 4],
+        ["housing", 6],
+        ["environmentClimate", 6],
+        ["threatsToDemocracy", 6]
+      ]
+    },
+    {
+      "id": "issuesEu27",
+      "unit": "percent",
+      "period": "2026-03",
+      "sourceId": "QA3",
+      "values": [
+        ["risingPrices", 36],
+        ["economicSituation", 18],
+        ["health", 11],
+        ["governmentDebt", 10],
+        ["crime", 8],
+        ["middleEast", 13],
+        ["internationalSituation", 14],
+        ["unemployment", 8],
+        ["immigration", 11],
+        ["securityDefence", 12],
+        ["educationSystem", 6],
+        ["ukraineInvasion", 9],
+        ["housing", 13],
+        ["environmentClimate", 7],
+        ["threatsToDemocracy", 8]
+      ]
+    }
+  ]
+}
