@@ -1,0 +1,36 @@
+{
+  "fr": [
+    "Le salaire en équivalent temps plein (EQTP) compte tous les postes, temps partiels compris, ramenés à un temps plein sur l'année\u00a0: ce n'est pas le salaire des seules personnes à temps plein. Le revenu salarial compte en plus le temps travaillé, inférieur de 9,1\u00a0% pour les femmes en 2024.",
+    "Le 3,6\u00a0% «\u00a0à emploi comparable\u00a0» (même emploi, même établissement) est estimé sur un quart des établissements et se rapporte à un écart de 13,0\u00a0% sur un autre champ, pas aux 14,0\u00a0%. Selon l'Insee, il ne mesure pas à lui seul la discrimination\u00a0: expérience, ancienneté et diplôme n'y sont pas observés.",
+    "Deux ruptures\u00a0: la France hors Mayotte remplace la métropole en 2002, et l'Insee change de série en 2012 (complémentaire santé obligatoire comptée, effet faible sur les écarts)\u00a0: en EQTP, 19,7\u00a0% dans l'ancienne série, 19,8\u00a0% dans la nouvelle. Évolutions lissées de 2002 à 2006 (données fragiles de 2003 à 2005).",
+    "Ces écarts portent sur le secteur privé seulement\u00a0: les salariés qui y travaillent principalement, hors apprentis et stagiaires, salariés agricoles et salariés des particuliers employeurs. L'Insee annonce une analyse du public et du privé dans «\u00a0France, portrait social\u00a0», début décembre 2026."
+  ],
+  "en": [
+    "Full-time-equivalent (FTE) pay counts every job, part-time ones included, converted to full time over the year: it is not the pay of full-time workers only. Wage income also counts the time worked, 9.1% lower for women in 2024.",
+    "The 3.6% gap “for a comparable job” (same job, same establishment) is estimated on a quarter of establishments and relates to a 13.0% gap on another field, not to the 14.0%. According to the Insee, it does not by itself measure discrimination: experience, seniority and qualifications are not observed.",
+    "Two breaks: France without Mayotte replaces metropolitan France in 2002, and the Insee changes series in 2012 (compulsory supplementary health insurance in wages, little effect on the gaps): in FTE, 19.7% in the old series, 19.8% in the new one. Changes smoothed from 2002 to 2006 (fragile data from 2003 to 2005).",
+    "These gaps cover the private sector only: employees working mainly there, apprentices, trainees, farm workers and employees of private households excluded. The Insee announces an analysis of the public and private sectors in “France, portrait social” in early December 2026."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend qu'à travail égal, les femmes sont payées 22\u00a0% de moins que les hommes.",
+        "answer": "Selon l'Insee, 21,8\u00a0% est l'écart de revenu salarial de 2024 dans le secteur privé, qui compte aussi le temps travaillé. À temps de travail égal, l'écart de salaire en équivalent temps plein est de 14,0\u00a0%. Pour le même emploi dans le même établissement, l'Insee l'estime à 3,6\u00a0%, sur un quart des établissements et un champ un peu différent."
+      },
+      {
+        "heard": "On entend qu'à poste égal, il n'y a plus d'écart de salaire entre femmes et hommes.",
+        "answer": "Selon l'Insee, pour le même emploi dans le même établissement, l'écart de salaire en équivalent temps plein est encore estimé à 3,6\u00a0% en 2024 dans le secteur privé, sur un quart des établissements. Tous emplois confondus, à temps de travail égal, il est de 14,0\u00a0%."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that for equal work, women are paid 22% less than men.",
+        "answer": "According to the Insee, 21.8% is the gap in wage income in 2024 in the private sector, which also counts the time worked. For the same working time, the gap in full-time-equivalent pay is 14.0%. For the same job in the same establishment, the Insee estimates it at 3.6%, on a quarter of establishments and a slightly different field."
+      },
+      {
+        "heard": "You hear that for the same job, there is no pay gap between women and men any more.",
+        "answer": "According to the Insee, for the same job in the same establishment, the gap in full-time-equivalent pay is still estimated at 3.6% in 2024 in the private sector, on a quarter of establishments. Across all jobs, for the same working time, it is 14.0%."
+      }
+    ]
+  }
+}
