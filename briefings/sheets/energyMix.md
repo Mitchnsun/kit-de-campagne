@@ -351,7 +351,7 @@ Résumés de moteur de recherche (WebSearch), utilisés seulement pour trouver d
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026, décision du PO du 15/11/2026** (Mitchnsun/moi-president#440) : la note 1 dit aussi que le pétrole est presque entièrement importé et que la France produit environ 1 % du pétrole qu'elle consomme. La réponse « Appeler à sortir du pétrole » de la carte « Marée noire » de l'app le dit (« presque tout importé ») et aucune page ne le soutenait. Source : le PDF des Chiffres clés 2026 (A), p. 58 (« La France ne produisant quasiment plus de pétrole, son approvisionnement en produits à distiller, en quasi-totalité du pétrole brut, repose aujourd'hui presque entièrement sur les importations ») et p. 59 (« la production primaire de pétrole ne représente désormais plus qu'environ 1 % de la consommation nationale de pétrole »). Le SDES ne publie pas de taux de dépendance au pétrole : la note dit la part de la production, pas un taux d'importation. Double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 : les deux phrases et leurs pages sont conformes ; relues le 16/11/2026 dans le PDF qu'elle a téléchargé. Les données ne changent pas ; la note 1 fait 305 caractères en français (320 au plus).
 
 ## Relecture
 
