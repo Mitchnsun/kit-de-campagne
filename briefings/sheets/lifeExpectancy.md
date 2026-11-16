@@ -47,6 +47,7 @@ Faite le 11/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 réécrite, 2 nouvelle, 3 ← 2, 4 ← 3 gardée (décision du PO) ; fait ajouté (note 2) : Insee, Insee Première n° 2087, « Bilan démographique 2025 », 13/01/2026 et Eurostat, demo_mlexpec (mis à jour le 13/11/2026), https://www.insee.fr/fr/statistiques/8719824 et https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_mlexpec, seconde vérification : conforme.
 - **16/11/2026** (#448 de l'app, décision du PO de placer la note sur l'aide à mourir dans une page de santé) : un troisième point, la loi n° 2026-794 et la décision n° 2026-910 DC (sources au point 3 ci-dessus) ; la page n'avait que deux points, aucun n'est remplacé. Faits confirmés par la recherche du 15/11/2026 (`research-gap-g2.md`, § 3.8 et 3.9) et sa double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (`check-gap-g2.md`, § 3). La note n'a pas de lien avec l'espérance de vie : aucune page de la santé n'en a, le PO l'a placée ici.
 
 ## Relecture

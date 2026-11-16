@@ -222,6 +222,8 @@ data.gouv.fr et licence :
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 réécrite, 2 ← 4, 3 ← 2 réécrite, 4 ← 3 réécrite.
+
 **10/11/2026** (#307 de l'app) : le 1er octobre 2026.
 - **Le script** (`scripts/briefings/prisonDensity.ts`, PR Mitchnsun/moi-president#334) tournait court : data.gouv.fr liste encore à leur ancienne adresse de stockage (`www.data.gouv.fr/storage/f/2014-07-08T…`) les neuf classeurs d'octobre 2013 à juin 2014, qui répondent 404 ; sa dernière vérification les lisait le 15/02/2026. Décembre 2013 à juin 2014 sont les sept premiers mois de `densityUntil2019`. Le script lit désormais la copie de l'Internet Archive du 01/04/2026, seulement si son empreinte SHA-1 est celle que data.gouv.fr avait enregistrée (`analysis:checksum`) ; une série qui ne commence plus à son premier mois (2013-12, 2023-01) fait échouer le script. Le ministère n'a que des PDF pour ces mois ; aucune autre copie des classeurs n'a été trouvée.
 - **Octobre 2026** : data.gouv.fr s'arrête à septembre ; le classeur du 1er octobre vient de la page « Statistiques mensuelles de la population détenue et écrouée pour l'année 2026 » du ministère, « Mis à jour le 02 novembre 2026 » (https://www.justice.gouv.fr/sites/default/files/2026-11/statistique_etablissements_personnes_ecrouees_01102026.xlsx).

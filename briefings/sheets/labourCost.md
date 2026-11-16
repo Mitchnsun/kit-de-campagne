@@ -48,7 +48,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2 complétée, 2 ← 1 réécrite, 3 ← 4, 4 ← 3 ; fait ajouté (note 1) : Eurostat, Statistics Explained « Hourly labour costs » (données extraites le 31 mars 2026), https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Hourly_labour_costs, seconde vérification : conforme.
 
 ## Relecture
 

@@ -1,12 +1,14 @@
 {
   "fr": [
-    "Eurostat compte les personnes qui bénéficient de la protection temporaire le dernier jour du mois, et non celles qui l'ont obtenue pendant le mois. Cette protection n'est pas le statut de réfugié : son décompte ne s'additionne pas avec celui du HCR, qui compte autre chose.",
-    "Eurostat marque tous les chiffres de la France du drapeau « d » (définition différente) et précise que les mineurs, qui peuvent en général séjourner en France sans titre, n'y sont généralement pas comptés.",
-    "La série de l'Union commence en août 2022 et compte cinq mois que le producteur marque d'une rupture de série (février, juillet et octobre 2024, juin et septembre 2025) : ces mois ne se comparent pas tels quels aux précédents."
+    "La protection temporaire est une mesure exceptionnelle de protection immédiate et temporaire des personnes déplacées, prévue par la directive européenne 2001/55/CE du 20 juillet 2001 (Eurostat). Elle est distincte du statut de réfugié.",
+    "Eurostat compte les personnes qui bénéficient de la protection temporaire le dernier jour du mois, et non celles qui l'ont obtenue pendant le mois. Son décompte ne s'additionne pas avec celui du HCR (Haut-Commissariat des Nations unies pour les réfugiés), qui compte autre chose.",
+    "Eurostat marque tous les chiffres de la France d'une « définition différente » : les mineurs, qui peuvent en général séjourner en France sans titre, n'y sont généralement pas comptés.",
+    "La série de l'Union commence en août 2022. Eurostat marque cinq mois d'une rupture de série (février, juillet et octobre 2024, juin et septembre 2025) : ces mois ne se comparent pas tels quels aux précédents."
   ],
   "en": [
-    "Eurostat counts the people who benefit from temporary protection on the last day of the month, not those who obtained it during the month. This protection is not refugee status: its count does not add up with UNHCR's, which counts something else.",
-    "Eurostat flags every French figure with the flag ‘d’ (definition differs) and states that minors, who can generally stay in France without a permit, are generally not included.",
-    "The Union's series starts in August 2022 and has five months that the producer marks as a break in the series (February, July and October 2024, June and September 2025): these months do not compare as they are with the earlier ones."
+    "Temporary protection is an exceptional measure giving immediate and temporary protection to displaced people, set by European Directive 2001/55/EC of 20 July 2001 (Eurostat). It is distinct from refugee status.",
+    "Eurostat counts the people who benefit from temporary protection on the last day of the month, not those who obtained it during the month. Its count does not add up with that of UNHCR (the UN Refugee Agency), which counts something else.",
+    "Eurostat flags every French figure as “definition differs”: minors, who can generally stay in France without a permit, are generally not included.",
+    "The Union’s series starts in August 2022. Eurostat marks five months with a break in the series (February, July and October 2024, June and September 2025): these months do not compare as they are with the earlier ones."
   ]
 }

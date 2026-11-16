@@ -38,7 +38,7 @@ Les chiffres de ce fichier sont ceux de la série `population` du fichier `popul
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; note 3 réécrite.
 
 ## Relecture
 

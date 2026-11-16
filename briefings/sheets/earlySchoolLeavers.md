@@ -13,7 +13,7 @@
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 nouvelle, 3 ← 2 + 3 + 4 ; fait ajouté (note 2) : Eurostat, jeu de données edat_lfse_14 (le même que la page), mis à jour le 30/10/2026, https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/edat_lfse_14?geo=EU27_2020&geo=FR&sex=T&wstatus=POP&time=2025&unit=PC, seconde vérification : conforme.
 
 ## Relecture
 

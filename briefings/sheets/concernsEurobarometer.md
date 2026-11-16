@@ -96,6 +96,7 @@ Relu le 16/11/2026 lors de la saisie, sur de nouveaux téléchargements (non rev
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2, 2 ← 1 réécrite, 3 ← 4 réécrite, 4 ← 3.
 - **16/11/2026, décisions du PO** : le titre de la page devient « Ce qui préoccupe en France » ; les problèmes sont rangés de la part la plus haute de la France au printemps 2026 à la plus basse, dans les ventilations et les séries du fichier (barres, tableau et puces de l'app). Aucune valeur ne change.
 
 ## Relecture

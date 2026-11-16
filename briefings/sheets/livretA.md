@@ -60,7 +60,7 @@ Les quatre écarts ne touchent que des taux antérieurs à octobre 1981. Deux pu
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 ← 4 réécrite, 3 ← 2, 4 ← 3 ; sigles développés.
 
 ## Relecture
 

@@ -38,7 +38,7 @@ Faite le 11/11/2026 par un agent Claude qui cherche sur le web, sans passer par 
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 réécrite, 3 ← 2 réécrite, 4 ← 3 réécrite ; sigle développé ; fait ajouté (note 1) : Eurostat, Statistics Explained « Temporary protection for persons fleeing Ukraine - monthly statistics » (données extraites le 4 novembre 2026), https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Temporary_protection_for_persons_fleeing_Ukraine_-_monthly_statistics, seconde vérification : conforme.
 
 ## Relecture
 

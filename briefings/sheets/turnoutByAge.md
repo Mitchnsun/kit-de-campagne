@@ -244,7 +244,7 @@ Pages repérées par un résumé de recherche seulement (non ouvertes) : https:/
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 ← 2 + 3, 3 ← 4 réécrite.
 
 ## Relecture
 

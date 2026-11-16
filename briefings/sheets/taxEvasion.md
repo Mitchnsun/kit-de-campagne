@@ -58,7 +58,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 réécrite, 3 ← 2, 4 ← 3 complétée ; sigle développé ; ancienne note 4 retirée (l'échange automatique d'informations, avec la mention « l'année n'est pas sûre ») ; fait ajouté (note 1) : Cour des comptes, « La lutte contre la fraude fiscale », rapport public thématique, décembre 2025, https://www.ccomptes.fr/sites/default/files/2025-12/20251216-Lutte-contre-la-fraude-fiscale.pdf, seconde vérification : conforme ; fait ajouté (note 4) : Cour des comptes, « Les régularisations d'avoirs à l'étranger gérées par le STDR », octobre 2017, https://www.ccomptes.fr/sites/default/files/2017-11/20171106-rapport-STDR.pdf, seconde vérification : conforme.
 
 ## Relecture
 

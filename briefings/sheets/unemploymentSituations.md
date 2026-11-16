@@ -61,7 +61,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 3 + 2, 3 ← 1, 4 ← 4 ; fait ajouté (note 1) : Insee, définition « Halo autour du chômage » (mise à jour 26/05/2023) et Insee, « Halo autour du chômage et sous-emploi », Emploi, chômage, revenus du travail, édition 2026 (2 juillet 2026), https://www.insee.fr/fr/metadonnees/definition/c1415 et https://www.insee.fr/fr/statistiques/8733067?sommaire=8733125, seconde vérification : conforme.
 
 ## Relecture
 

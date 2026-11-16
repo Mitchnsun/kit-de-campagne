@@ -76,7 +76,9 @@ Relu le 16/11/2026 à la construction de la page : les deux fichiers retélécha
 
 ## Mises à jour
 
-Aucune. Les jeux de 2017 et de 2022 sont figés : le script échoue si leur empreinte change. Les parrainages de 2027 n'entrent pas dans les Dossiers.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 3, 2 ← 1 réécrite, 3 ← 4 réécrite, 4 ← 2.
+
+Les jeux de 2017 et de 2022 sont figés : le script échoue si leur empreinte change. Les parrainages de 2027 n'entrent pas dans les Dossiers.
 
 ## Relecture
 

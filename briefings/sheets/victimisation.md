@@ -54,6 +54,8 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; note 2 réécrite ; mention d'éditeur retirée (« ces pages n'ont pas pu être lues »).
+
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : reformulées : « On entend que la violence explose et que la délinquance est hors de contrôle. » devient « On entend que les homicides explosent. ».
 
 ## Relecture

@@ -14,6 +14,7 @@
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 complétée (la part du PIB, 6,7 %, tirée du titre de la publication de la DEPP déjà citée), 2 ← 3, 3 ← 2.
 - **03/11/2026, relecture du PO** : la page HTML de la Note d'Information n° 26.42 (https://www.education.gouv.fr/depp/en-2025-1992-milliards-d-euros-consacres-l-education-soit-67-du-pib-506005), lue par le PO, affiche le **29/09/2026** : c'est la date de publication. Le 23/09/2026 est celle du dépôt du fichier (création 10:37, dernières modifications 14:21 et 16:54) ; la couverture dit seulement « Septembre 2026 ». Licence : voir `schools.md`.
 
 ## Relecture

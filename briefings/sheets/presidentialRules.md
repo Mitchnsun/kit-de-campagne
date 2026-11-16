@@ -129,6 +129,7 @@ Faite le 15/11/2026 : double vérification sur le web par un agent Claude (modè
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 3, 2 ← 1 réécrite, 3 ← 2 réécrite, 4 ← 4 corrigée (le décret d'application « en attente », publication « envisagée en mars 2026 », date périmée, retiré) ; sigle développé ; fait ajouté (note 4) : Légifrance, loi n° 62-1292 du 6 novembre 1962, version « En vigueur au 16/11/2026 », art. 3 et Assemblée nationale, question écrite n° 18789, JO du 6 octobre 2026, p. 9301, https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000684037 et https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE18789, seconde vérification : conforme, la loi organique de 2021 de la première phrase n'étant confirmée que par une source secondaire.
 - **16/11/2026, seconde vérification** : la règle `results` cite le II de l'art. L. 52-2 (la présidentielle, circonscription unique) au lieu du I ; la note 4 dit la date de publication envisagée par l'Assemblée (mars 2026).
 
 ## Relecture

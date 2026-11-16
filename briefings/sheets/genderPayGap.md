@@ -64,7 +64,7 @@ Relu le 16/11/2026 à la construction de la page : la page et le fichier retél�
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2, 2 ← 1 réécrite, 3 ← 4 réécrite, 4 ← 3.
 
 ## Relecture
 

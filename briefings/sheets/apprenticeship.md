@@ -62,7 +62,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 réécrite, 3 ← 2 + 4, 4 ← 3 ; fait ajouté (note 1) : Dreets Provence-Alpes-Côte d'Azur, étude n° 15, septembre 2026, données complémentaires « Première baisse de l'apprentissage en 2025 après plusieurs années de hausse » (données SIA de la Dares), https://paca.dreets.gouv.fr/sites/dreets-paca/files/2026-09/Donn%C3%A9es%20Bilan%202025_Les%20contrats%20d%E2%80%99apprentissage%20synth%C3%A8se.pdf, seconde vérification : écart expliqué (pas de passage direct de 6 000 à 5 000 € le 24 février 2025), la note donne 6 000 € en 2023 et 2024, puis 5 000 € ou 2 000 € du 24 février au 31 décembre 2025 ; fait ajouté (note 1) : Assemblée nationale, rapport d'information n° 2992 (commission des finances), « Les conséquences de la diminution des dépenses publiques en faveur de l'apprentissage depuis 2022 », enregistré le 30 juin 2026, https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L17B2992.html, seconde vérification : conforme.
 
 ## Relecture
 

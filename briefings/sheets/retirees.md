@@ -62,7 +62,7 @@ Non repris :
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 + 3, 3 ← 2, 4 ← 4 réécrite ; fait ajouté (note 1) : DREES, Les retraités et les retraites, édition 2026, Panoramas de la DREES (PDF d'octobre 2026, diffusé par vie-publique.fr), https://www.vie-publique.fr/files/rapport/pdf/305111.pdf, seconde vérification : conforme.
 
 ## Relecture
 

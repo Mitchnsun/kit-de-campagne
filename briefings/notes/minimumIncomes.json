@@ -1,15 +1,15 @@
 {
   "fr": [
-    "Service-public.gouv.fr ne date pas ses barèmes du RSA et de la prime d'activité, ni son Smic net : ses pages indiquent seulement la date de leur vérification (1er avril 2026 pour le RSA, 1er juin 2026 pour la prime d'activité et le Smic). Le Smic net y est donné « à titre indicatif ».",
-    "Le RSA est un montant maximal, versé par foyer et diminué de ses ressources. Si le foyer touche une aide au logement, est hébergé gratuitement ou est propriétaire, un forfait logement est ajouté à ses ressources, donc retiré du RSA. L'Aspa est aussi un montant maximal, brut.",
+    "Depuis le 1er juin 2026, le Smic est de 1 867,02 € bruts par mois pour 35 heures par semaine, soit 1 477,93 € nets à titre indicatif (service-public.gouv.fr) : 2,3 fois le RSA maximal d'une personne seule (calculé), avant prime d'activité et impôt sur le revenu.",
+    "Le RSA est un montant maximal, versé par foyer et diminué de ses ressources. Si le foyer touche une aide au logement, est hébergé gratuitement ou est propriétaire, un forfait logement est retiré du RSA. L'allocation de solidarité aux personnes âgées (Aspa) est aussi un montant maximal, brut.",
     "La condition de 5 ans de titre de séjour permettant de travailler est l'une des conditions de séjour possibles pour un étranger hors Union européenne, pas la seule. Elle vaut pour le RSA comme pour la prime d'activité ; pour le RSA, elle ne s'applique pas aux Algériens.",
-    "Les 4 418 500 allocations de minima sociaux versées fin 2024 ne sont pas autant de personnes : une personne peut en cumuler plusieurs. Le RSA couvre 3 658 700 personnes (allocataires, conjoints et personnes à charge) : ce nombre ne se compare pas à ses 1 840 200 allocataires."
+    "Une personne peut cumuler plusieurs minima sociaux : il y a donc moins de personnes que les 4 418 500 allocations versées fin 2024. Le RSA couvre 3 658 700 personnes (allocataires, conjoints et personnes à charge) : ce nombre ne se compare pas à ses 1 840 200 allocataires."
   ],
   "en": [
-    "Service-public.gouv.fr does not date its RSA and activity bonus scales, nor its net Smic: its pages only give the date they were checked (1 April 2026 for the RSA, 1 June 2026 for the activity bonus and the Smic). The net Smic is given there “as an indication”.",
-    "The RSA is a maximum amount, paid per household and reduced by its resources. If the household receives housing aid, is housed free of charge or owns its home, a housing flat rate is added to its resources, and so taken off the RSA. The Aspa is also a maximum amount, gross.",
+    "Since 1 June 2026, the Smic has been €1,867.02 gross a month for 35 hours a week, or €1,477.93 net as an indication (service-public.gouv.fr): 2.3 times the maximum RSA for a single person (calculated), before the activity bonus and income tax.",
+    "The RSA is a maximum amount, paid per household and reduced by its resources. If the household receives housing aid, is housed free of charge or owns its home, a housing flat rate is taken off the RSA. The solidarity allowance for the elderly (Aspa) is also a maximum amount, gross.",
     "Five years of a residence permit allowing work is one of the possible residence conditions for a non-EU foreign national, not the only one. It applies to the RSA as to the activity bonus; for the RSA, it does not apply to Algerian nationals.",
-    "The 4,418,500 minimum social benefit allowances paid at the end of 2024 are not as many people: one person can receive several. The RSA covers 3,658,700 people (recipients, partners and dependants): this number does not compare with its 1,840,200 recipients."
+    "One person can receive several minimum social benefits, so there are fewer people than the 4,418,500 allowances paid at the end of 2024. The RSA covers 3,658,700 people (recipients, partners and dependants): this number does not compare with its 1,840,200 recipients."
   ],
   "claims": {
     "fr": [

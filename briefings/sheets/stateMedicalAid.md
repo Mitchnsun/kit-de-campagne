@@ -56,6 +56,8 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 ← 2, 3 ← 4 corrigée (la dépense de 2025, soins urgents à part, au lieu du doute sur les 1 340 M€), 4 ← 3 + 4 ; mention d'éditeur retirée (« les textes de loi n'ont pas pu être ouverts sur Légifrance ») ; fait ajouté (note 3) : Sénat, commission des finances, Note de présentation « Santé », PLF 2027 (rapporteur spécial Vincent Delahaye, examen le 3 novembre 2026), https://www.senat.fr/fileadmin/cru-1792598966/Commissions/Finances/2026-2027/PLF_2027/NP/Note_de_presentation_Sante_PLF_2027.pdf, seconde vérification : conforme (1 340 + 124,7 M€), la dépense courante de santé de la DREES (353,2 Md€) lue par un relais, d'où 0,4 % (calculé).
+
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que les étrangers touchent le RSA dès leur arrivée. » ; reformulées : « On entend que les immigrés touchent le minimum vieillesse sans avoir jamais cotisé. » devient « On entend que les immigrés touchent le minimum vieillesse dès leur arrivée. ».
 
 ## Relecture

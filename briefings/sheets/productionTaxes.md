@@ -52,7 +52,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1, 3 ← 2, 4 ← 4 complétée ; sigles développés ; ancienne note 3 retirée (les ordres de grandeur calculés) ; fait ajouté (note 1) : DGFiP, « Les impôts de production en 2024 », DGFiP Statistiques n° 47, mai 2026 (publié le 19/05/2026), encadré 1, https://www.impots.gouv.fr/dgfip-statistiques-les-impots-de-production-en-2024, seconde vérification : conforme ; fait ajouté (note 4) : DILA, service-public.gouv.fr (entreprendre), fiche F22726 sur la C3S, « Vérifié le 01 janvier 2026 », https://entreprendre.service-public.gouv.fr/vosdroits/F22726, seconde vérification : écart expliqué, la note dit que le taux porte sur la part du chiffre d'affaires qui dépasse 19 M€.
 
 ## Relecture
 

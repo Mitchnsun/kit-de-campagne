@@ -48,7 +48,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 + 2, 3 ← 3 réécrite, 4 ← 4 ; mention d'éditeur retirée (le bilan du SSMSI pour 2025 « n'a pas pu être lu ») ; fait ajouté (note 1) : Insee, « L'essentiel sur… les immigrés et les étrangers », paru le 25/06/2026, https://www.insee.fr/fr/statistiques/3633212, seconde vérification : conforme.
 
 ## Relecture
 

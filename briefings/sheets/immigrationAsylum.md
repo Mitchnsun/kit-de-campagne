@@ -372,7 +372,7 @@ Les longueurs sont comptées en caractères sans les espaces insécables que le 
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; note 3 complétée ; note 4 réécrite ; sigle développé ; fait ajouté (note 3) : Parlement européen (Observatoire législatif), résumé du règlement (UE) 2024/1351, 22/05/2024 et EUAA, Asylum Report 2026, section 6 (mai 2026), https://oeil.europarl.europa.eu/oeil/fr/document-summary?id=1785321 et https://www.euaa.europa.eu/asylum-report-2026/section-6-responsibility-application-international-protection, seconde vérification : conforme.
 
 ## Relecture
 

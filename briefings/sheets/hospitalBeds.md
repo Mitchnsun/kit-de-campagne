@@ -60,6 +60,7 @@ Un extrait de recherche prêtait à un sénateur l'affirmation que la DREES reco
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 nouvelle, 3 ← 2 ; fait ajouté (note 2) : DREES, Études et Résultats n° 1353, novembre 2025 (source des 367 335 lits de la page), https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2025-11/ER1353%20-%20SAE%20-%20MEL2.pdf, seconde vérification : conforme, par un relais (site de la DREES non ouvert).
 - **11/11/2026** : le champ et la rupture supposée de 2022 vérifiés dans les publications de la DREES (sections ci-dessus) ; la note du graphique de l'app nomme le champ (« France entière, service de santé des armées compris »).
 
 ## Relecture

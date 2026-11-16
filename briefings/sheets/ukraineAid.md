@@ -52,7 +52,7 @@ Faite le 11/11/2026 par un agent Claude : le fichier ouvert avec `openpyxl`, le 
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2 réécrite (les « allocations » de l'institut de Kiel définies), 2 ← 1, 3 nouvelle, 4 ← 3 + 4 ; fait ajouté (note 3) : Kiel Institute, Ukraine Support Tracker, release 31 (24/01/2022 au 31/08/2026), Kiel Working Paper n° 2218, onglet « Fig 4. Ranking, % », page mise à jour le 8 octobre 2026, https://www.kielinstitut.de/fileadmin/Dateiverwaltung/IfW-Publications/fis-import/bc5059ba-ef38-4f08-988a-746a03905a6c-Ukraine_Support_Tracker__Release_31.xlsx, seconde vérification : conforme.
 
 ## Relecture
 

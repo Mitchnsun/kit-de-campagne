@@ -45,7 +45,7 @@ Faite le 11/11/2026 par un agent Claude qui cherche sur le web.
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 réécrite, 2 ← 1 réécrite, 3 ← 2 ; sigle développé ; ancienne note 1 scindée en deux.
 
 ## Relecture
 

@@ -46,7 +46,7 @@ Faite le 11/11/2026 par un agent Claude : le PDF rouvert avec `pdftotext`, la pa
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; notes 2 et 4 réécrites.
 
 ## Relecture
 

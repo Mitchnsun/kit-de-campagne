@@ -61,7 +61,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 3 réécrite, 2 ← 1 réécrite, 3 ← 2 réécrite, 4 ← 4 ; sigles développés ; mention d'éditeur retirée (« l'original n'a pas été rouvert »).
 
 ## Relecture
 
