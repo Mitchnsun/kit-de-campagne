@@ -16,6 +16,7 @@
 
 1. La définition : page de l'Insee Première n° 2087, section des définitions (« L'espérance de vie à la naissance représente la durée de vie moyenne d'une génération fictive qui serait soumise à chaque âge aux conditions de mortalité de l'année considérée. »).
 2. Années provisoires, Mayotte : statut `P` des observations 2023 à 2025 dans la BDM (les années antérieures `DEF`), titre des séries (« inclus Mayotte à partir de 2014 »).
+3. La loi sur l'aide à mourir (ajouté le 16/11/2026, voir « Mises à jour ») : dossier législatif de l'Assemblée nationale, https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e (« Loi n°2026-794 du mardi 18 août 2026 relative au droit à l'aide à mourir », publiée au Journal officiel du mercredi 19 août 2026) ; Conseil constitutionnel, décision n° 2026-910 DC du 14 août 2026, https://www.conseil-constitutionnel.fr/decision/2026/2026910DC.htm (dispositif : article 1er, « Sous les réserves énoncées ci-dessous, sont conformes à la Constitution » trois séries de dispositions, §§ 121, 166 et 188 ; article 2, « Sont conformes à la Constitution » les autres dispositions examinées ; aucun article ne déclare une disposition contraire).
 
 Les points en anglais disent la même chose que le français.
 
@@ -46,7 +47,7 @@ Faite le 11/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (#448 de l'app, décision du PO de placer la note sur l'aide à mourir dans une page de santé) : un troisième point, la loi n° 2026-794 et la décision n° 2026-910 DC (sources au point 3 ci-dessus) ; la page n'avait que deux points, aucun n'est remplacé. Faits confirmés par la recherche du 15/11/2026 (`research-gap-g2.md`, § 3.8 et 3.9) et sa double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (`check-gap-g2.md`, § 3). La note n'a pas de lien avec l'espérance de vie : aucune page de la santé n'en a, le PO l'a placée ici.
 
 ## Relecture
 

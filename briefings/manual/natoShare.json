@@ -1,0 +1,36 @@
+{
+  "id": "natoShare",
+  "retrievedOn": "2026-11-16",
+  "sources": [
+    {
+      "producer": "OTAN",
+      "publication": "Les investissements de défense des pays de l'OTAN (2014-2026)",
+      "publishedOn": "2026-07-03"
+    }
+  ],
+  "headline": { "series": "natoShare", "period": "2025", "value": 2.04, "trend": "stable" },
+  "series": [
+    {
+      "id": "natoShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Tableau 3",
+      "status": { "2025": "provisional", "2026": "provisional" },
+      "points": [
+        ["2014", 1.82],
+        ["2015", 1.78],
+        ["2016", 1.79],
+        ["2017", 1.78],
+        ["2018", 1.81],
+        ["2019", 1.82],
+        ["2020", 1.99],
+        ["2021", 1.9],
+        ["2022", 1.87],
+        ["2023", 1.88],
+        ["2024", 2.04],
+        ["2025", 2.04],
+        ["2026", 2.22]
+      ]
+    }
+  ]
+}

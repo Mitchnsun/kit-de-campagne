@@ -1,0 +1,201 @@
+{
+  "id": "pastSponsorships",
+  "retrievedOn": "2026-11-16",
+  "sources": [
+    {
+      "producer": "Conseil constitutionnel, data.gouv.fr",
+      "publication": "Parrainages des candidats à l'élection présidentielle française de 2022",
+      "publishedOn": "2022-03-07"
+    },
+    {
+      "producer": "Conseil constitutionnel, data.gouv.fr",
+      "publication": "Parrainages des candidats à l'élection présidentielle française de 2017",
+      "publishedOn": "2017-03-18"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2022-198 PDR du 16 juin 2022, Observations du Conseil constitutionnel sur l'élection présidentielle des 10 et 24 avril 2022",
+      "publishedOn": "2022-06-16"
+    }
+  ],
+  "headline": { "series": "validated", "period": "2022", "value": 13427, "trend": "down" },
+  "series": [
+    {
+      "id": "validated",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2017", 14296],
+        ["2022", 13427]
+      ]
+    },
+    {
+      "id": "received",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2017", 14586],
+        ["2022", 13672]
+      ]
+    },
+    {
+      "id": "peopleSponsored",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2017", 61],
+        ["2022", 64]
+      ]
+    },
+    {
+      "id": "qualified",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2017", 11],
+        ["2022", 12]
+      ]
+    },
+    {
+      "id": "publishedCumulative",
+      "frequency": "daily",
+      "unit": "count",
+      "points": [
+        ["2022-02-01", 313],
+        ["2022-02-03", 2069],
+        ["2022-02-08", 5086],
+        ["2022-02-10", 6225],
+        ["2022-02-15", 8076],
+        ["2022-02-17", 8669],
+        ["2022-02-22", 9617],
+        ["2022-02-24", 10265],
+        ["2022-03-01", 11788],
+        ["2022-03-03", 12751],
+        ["2022-03-07", 13427]
+      ]
+    },
+    {
+      "id": "publishedOnDay",
+      "frequency": "daily",
+      "unit": "count",
+      "points": [
+        ["2022-02-01", 313],
+        ["2022-02-03", 1756],
+        ["2022-02-08", 3017],
+        ["2022-02-10", 1139],
+        ["2022-02-15", 1851],
+        ["2022-02-17", 593],
+        ["2022-02-22", 948],
+        ["2022-02-24", 648],
+        ["2022-03-01", 1523],
+        ["2022-03-03", 963],
+        ["2022-03-07", 676]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "byMandate2022",
+      "unit": "count",
+      "period": "2022",
+      "values": [
+        ["mayors", 9207],
+        ["departmentalCouncils", 1594],
+        ["regionalCouncils", 1120],
+        ["parliament", 826],
+        ["europeanParliament", 66],
+        ["otherMandates", 614]
+      ]
+    },
+    {
+      "id": "byMandate2017",
+      "unit": "count",
+      "period": "2017",
+      "values": [
+        ["mayors", 10310],
+        ["departmentalCouncils", 1727],
+        ["regionalCouncils", 1101],
+        ["parliament", 666],
+        ["europeanParliament", 60],
+        ["otherMandates", 432]
+      ]
+    },
+    {
+      "id": "qualifiedAndOthers2022",
+      "unit": "count",
+      "period": "2022",
+      "values": [
+        ["qualified", 12195],
+        ["otherPeople", 1232]
+      ]
+    },
+    {
+      "id": "mayorsQualifiedAndOthers2022",
+      "unit": "count",
+      "period": "2022",
+      "values": [
+        ["qualified", 8117],
+        ["otherPeople", 1090]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "id": "byCandidate2022",
+      "unit": "count",
+      "period": "2022",
+      "rows": [
+        ["PÉCRESSE Valérie", 2636],
+        ["MACRON Emmanuel", 2098],
+        ["HIDALGO Anne", 1440],
+        ["MÉLENCHON Jean-Luc", 906],
+        ["ZEMMOUR Éric", 741],
+        ["JADOT Yannick", 712],
+        ["LASSALLE Jean", 642],
+        ["ROUSSEL Fabien", 626],
+        ["LE PEN Marine", 622],
+        ["DUPONT-AIGNAN Nicolas", 600],
+        ["POUTOU Philippe", 596],
+        ["ARTHAUD Nathalie", 576]
+      ]
+    },
+    {
+      "id": "mayorsByCandidate2022",
+      "unit": "count",
+      "period": "2022",
+      "rows": [
+        ["PÉCRESSE Valérie", 1373],
+        ["MACRON Emmanuel", 1296],
+        ["HIDALGO Anne", 712],
+        ["MÉLENCHON Jean-Luc", 698],
+        ["ZEMMOUR Éric", 671],
+        ["LASSALLE Jean", 623],
+        ["DUPONT-AIGNAN Nicolas", 591],
+        ["ARTHAUD Nathalie", 575],
+        ["POUTOU Philippe", 545],
+        ["ROUSSEL Fabien", 408],
+        ["LE PEN Marine", 313],
+        ["JADOT Yannick", 312]
+      ]
+    },
+    {
+      "id": "departmentsByCandidate2022",
+      "unit": "count",
+      "period": "2022",
+      "rows": [
+        ["PÉCRESSE Valérie", 107],
+        ["MACRON Emmanuel", 107],
+        ["MÉLENCHON Jean-Luc", 104],
+        ["LE PEN Marine", 101],
+        ["JADOT Yannick", 98],
+        ["HIDALGO Anne", 96],
+        ["ZEMMOUR Éric", 95],
+        ["ROUSSEL Fabien", 95],
+        ["POUTOU Philippe", 91],
+        ["LASSALLE Jean", 86],
+        ["DUPONT-AIGNAN Nicolas", 84],
+        ["ARTHAUD Nathalie", 75]
+      ]
+    }
+  ]
+}

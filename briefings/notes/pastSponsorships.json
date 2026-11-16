@@ -1,0 +1,44 @@
+{
+  "fr": [
+    "Le fichier ne compte que les parrainages validés. Le Conseil constitutionnel a reçu 13 672 formulaires en 2022 et en a validé 13 427, contre 14 586 et 14 296 en 2017 (décision n° 2022-198 PDR) ; il vérifie la signature manuscrite, la date, le mandat de l'élue ou de l'élu, et qu'un seul parrainage a été envoyé.",
+    "La date est celle de la publication par le Conseil constitutionnel, onze fois du 1er février au 7 mars 2022, pas celle de l'envoi : les formulaires sont arrivés du 27 janvier au 4 mars 2022 à 18 h.",
+    "Une candidature doit réunir 500 parrainages venus d'au moins 30 départements ou collectivités d'outre-mer, dont 50 au plus d'un même département : au-delà, les parrainages sont publiés mais ne comptent pas. Les Français de l'étranger et le Parlement européen comptent chacun pour un département.",
+    "Environ 42 000 élues et élus peuvent parrainer ; 32 % l'ont fait en 2022, contre 34 % en 2017 et 36 % en 2012, selon le ministère de l'Intérieur. Il compte 13 437 élues et élus qui ont parrainé en 2022, dix de plus que les parrainages validés du Conseil constitutionnel, un écart qu'aucun des deux n'explique."
+  ],
+  "en": [
+    "The file counts validated sponsorships only. The Constitutional Council received 13,672 forms in 2022 and validated 13,427 of them, against 14,586 and 14,296 in 2017 (decision no. 2022-198 PDR); it checks the handwritten signature, the date, the official's mandate, and that only one sponsorship was sent.",
+    "The date is the day the Constitutional Council published them, eleven times from 1 February to 7 March 2022, not the day they were sent: the forms arrived from 27 January to 4 March 2022 at 6 pm.",
+    "A candidacy needs 500 sponsorships from at least 30 departments or overseas collectivities, at most 50 of them from one department: beyond that, sponsorships are published but do not count. French citizens abroad and the European Parliament each count as one department.",
+    "About 42,000 elected officials can sponsor a candidate; 32% did so in 2022, against 34% in 2017 and 36% in 2012, according to the Ministry of the Interior. It counts 13,437 officials who sponsored one in 2022, ten more than the sponsorships the Constitutional Council validated, a gap neither explains."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend qu'il faut 500 signatures de maires pour être candidat ou candidate.",
+        "answer": "En 2022, 9 207 des 13 427 parrainages validés venaient de maires, y compris les maires délégués ou déléguées et d'arrondissement. Les autres venaient de membres des conseils départementaux (1 594), des conseils régionaux et de l'Assemblée de Corse (1 120), du Parlement (826), du Parlement européen (66) et d'autres mandats (614), d'après le fichier du Conseil constitutionnel."
+      },
+      {
+        "heard": "On entend que les parrainages restent secrets.",
+        "answer": "Le Conseil constitutionnel publie chaque parrainage validé, avec le nom et le mandat de l'élue ou de l'élu : en 2022, il a publié les 13 427 parrainages validés en onze listes, du 1er février au 7 mars."
+      },
+      {
+        "heard": "On entend qu'une candidature peut trouver ses 500 parrainages dans une seule région.",
+        "answer": "Le Conseil constitutionnel ne retient une candidature qu'avec des parrainages venus d'au moins 30 départements ou collectivités, et n'en compte que 50 au plus par département. En 2022, les candidatures retenues avaient des parrainages dans 75 à 107 départements ou collectivités, d'après son fichier."
+      }
+    ],
+    "en": [
+      {
+        "heard": "You hear that a candidate needs the signatures of 500 mayors.",
+        "answer": "In 2022, 9,207 of the 13,427 validated sponsorships came from mayors, deputy and district mayors included. The others came from members of departmental councils (1,594), of regional councils and the Assembly of Corsica (1,120), of Parliament (826), of the European Parliament (66) and from other mandates (614), according to the Constitutional Council's file."
+      },
+      {
+        "heard": "You hear that sponsorships stay secret.",
+        "answer": "The Constitutional Council publishes every validated sponsorship, with the official's name and mandate: in 2022, it published the 13,427 validated sponsorships in eleven lists, from 1 February to 7 March."
+      },
+      {
+        "heard": "You hear that a candidacy can find its 500 sponsorships in a single region.",
+        "answer": "The Constitutional Council only retains a candidacy whose sponsorships come from at least 30 departments or collectivities, and counts no more than 50 from one department. In 2022, the candidacies it retained had sponsorships from 75 to 107 departments or collectivities, according to its file."
+      }
+    ]
+  }
+}

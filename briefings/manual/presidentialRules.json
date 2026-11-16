@@ -1,0 +1,342 @@
+{
+  "id": "presidentialRules",
+  "retrievedOn": "2026-11-16",
+  "sources": [
+    {
+      "producer": "Légifrance",
+      "publication": "Loi n° 62-1292 du 6 novembre 1962 relative à l'élection du Président de la République au suffrage universel",
+      "publishedOn": "2026-11-16"
+    },
+    {
+      "producer": "Légifrance",
+      "publication": "Code électoral",
+      "publishedOn": "2026-07-01"
+    },
+    {
+      "producer": "Légifrance",
+      "publication": "Loi n° 77-808 du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion",
+      "publishedOn": "2026-11-16"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Constitution du 4 octobre 1958",
+      "publishedOn": "2026-11-15"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2019-1 RIP du 9 mai 2019",
+      "publishedOn": "2019-05-15"
+    },
+    {
+      "producer": "CNCCFP",
+      "publication": "Guide à l'usage des candidats à l'élection du Président de la République et de leur mandataire, édition 2026-2027",
+      "publishedOn": "2026-06-11"
+    },
+    {
+      "producer": "Service-Public.fr",
+      "publication": "Les dates de l'élection présidentielle de 2027 sont annoncées",
+      "publishedOn": "2026-07-02"
+    }
+  ],
+  "headline": {
+    "series": "requiredSponsorships",
+    "period": "2027",
+    "value": 500,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "requiredSponsorships",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Loi n° 62-1292, art. 3, I",
+      "points": [
+        [
+          "2027",
+          500
+        ]
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "fundingPeriod",
+      "date": "2026-04-01",
+      "status": "computed",
+      "source": 0,
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0II"
+    },
+    {
+      "id": "adsBan",
+      "date": "2026-10-01",
+      "status": "computed",
+      "source": 1,
+      "article": "Code électoral, art.\u00a0L.\u00a052-1"
+    },
+    {
+      "id": "convocation",
+      "date": "2027-02-07",
+      "deadline": true,
+      "status": "computed",
+      "source": 0,
+      "article": "Loi n°\u00a062-1292, art.\u00a01\u00a0bis"
+    },
+    {
+      "id": "sponsorshipsDeadline",
+      "date": "2027-03-12",
+      "time": "18:00",
+      "status": "computed",
+      "source": 0,
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I"
+    },
+    {
+      "id": "candidatesList",
+      "date": "2027-03-26",
+      "deadline": true,
+      "status": "computed",
+      "source": 0,
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I"
+    },
+    {
+      "id": "officialCampaign",
+      "date": "2027-04-05",
+      "status": "computed",
+      "source": 1,
+      "article": "Code électoral, art.\u00a0L.\u00a047\u00a0A"
+    },
+    {
+      "id": "sponsorsPublished",
+      "date": "2027-04-10",
+      "deadline": true,
+      "status": "computed",
+      "source": 0,
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I"
+    },
+    {
+      "id": "pollingSilence",
+      "date": "2027-04-17",
+      "time": "00:00",
+      "status": "computed",
+      "source": 2,
+      "article": "Loi n°\u00a077-808, art.\u00a011"
+    },
+    {
+      "id": "firstRound",
+      "date": "2027-04-18",
+      "status": "announced",
+      "source": 6
+    },
+    {
+      "id": "secondRound",
+      "date": "2027-05-02",
+      "status": "announced",
+      "source": 6
+    }
+  ],
+  "provisions": [
+    {
+      "id": "sponsorships",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I",
+      "quote": "La liste des candidats est préalablement établie par le Conseil constitutionnel au vu des présentations qui lui sont adressées par au moins cinq cents citoyens membres du Parlement, des conseils régionaux, de l'Assemblée de Corse […]",
+      "source": 0,
+      "value": 500,
+      "unit": "count"
+    },
+    {
+      "id": "departments",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I",
+      "quote": "Une candidature ne peut être retenue que si, parmi les signataires de la présentation, figurent des élus d'au moins trente départements ou collectivités d'outre-mer, sans que plus d'un dixième d'entre eux puissent être les élus d'un même département ou d'une même collectivité d'outre-mer.",
+      "source": 0,
+      "value": 30,
+      "unit": "count"
+    },
+    {
+      "id": "filing",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I",
+      "quote": "Les présentations doivent parvenir au Conseil constitutionnel au plus tard le sixième vendredi précédant le premier tour de scrutin à dix-huit heures.",
+      "source": 0,
+      "milestone": "sponsorshipsDeadline"
+    },
+    {
+      "id": "sponsorsPublished",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I",
+      "quote": "le Conseil constitutionnel rend publics, au moins deux fois par semaine, le nom et la qualité des citoyens qui ont valablement présenté des candidats à l'élection présidentielle. […] Huit jours au moins avant le premier tour de scrutin, le Conseil constitutionnel rend publics le nom et la qualité des citoyens qui ont valablement proposé les candidats.",
+      "source": 0,
+      "milestone": "sponsorsPublished"
+    },
+    {
+      "id": "candidatesList",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I",
+      "quote": "Au plus tard le quatrième vendredi précédant le premier tour de scrutin ouvert pour l'élection du Président de la République, le Gouvernement assure la publication de la liste des candidats.",
+      "source": 0,
+      "milestone": "candidatesList"
+    },
+    {
+      "id": "fundingPeriod",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0II",
+      "quote": "le mandataire recueille, pendant l'année précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du compte de campagne du candidat, les fonds destinés au financement de la campagne",
+      "source": 0,
+      "milestone": "fundingPeriod"
+    },
+    {
+      "id": "firstRoundCap",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0II",
+      "quote": "Le plafond des dépenses électorales prévu par l'article L.\u00a052-11 du code électoral est fixé à 13,7 millions d'euros pour un candidat à l'élection du Président de la République.",
+      "source": 0,
+      "value": 16851000,
+      "unit": "euro",
+      "valueSource": 5
+    },
+    {
+      "id": "finalistCap",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0II",
+      "quote": "Il est porté à 18,3 millions d'euros pour chacun des candidats présents au second tour.",
+      "source": 0,
+      "value": 22509000,
+      "unit": "euro",
+      "valueSource": 5
+    },
+    {
+      "id": "capFreeze",
+      "article": "Code électoral, art.\u00a0L.\u00a052-11",
+      "quote": "Il n'est pas procédé à une telle actualisation à compter de 2012 et jusqu'à l'année au titre de laquelle le déficit public des administrations publiques est nul.",
+      "source": 1
+    },
+    {
+      "id": "spendingOverrun",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0II",
+      "quote": "Dans tous les cas où un dépassement du plafond des dépenses électorales est constaté, la commission fixe une somme, égale au montant du dépassement, que le candidat est tenu de verser au Trésor public.",
+      "source": 0
+    },
+    {
+      "id": "advance",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0V",
+      "quote": "Lors de la publication de la liste des candidats au premier tour, l'État verse à chacun d'entre eux une somme de 200\u00a0000\u00a0euros, à titre d'avance sur le remboursement forfaitaire de leurs dépenses de campagne",
+      "source": 0,
+      "value": 200000,
+      "unit": "euro"
+    },
+    {
+      "id": "refundBase",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0V",
+      "quote": "Une somme égale à 4,75\u00a0% du montant du plafond des dépenses de campagne qui leur est applicable est remboursée, à titre forfaitaire, à chaque candidat",
+      "source": 0,
+      "value": 4.75,
+      "unit": "percent"
+    },
+    {
+      "id": "refundOver5",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0V",
+      "quote": "cette somme est portée à 47,5\u00a0% dudit plafond pour chaque candidat ayant obtenu plus de 5\u00a0% du total des suffrages exprimés au premier tour. Elle ne peut excéder le montant des dépenses du candidat retracées dans son compte de campagne.",
+      "source": 0,
+      "value": 47.5,
+      "unit": "percent"
+    },
+    {
+      "id": "convocation",
+      "article": "Loi n°\u00a062-1292, art.\u00a01\u00a0bis",
+      "quote": "les électeurs sont convoqués par un décret publié au moins dix semaines avant la date du premier tour de scrutin",
+      "source": 0,
+      "milestone": "convocation"
+    },
+    {
+      "id": "commercialAds",
+      "article": "Code électoral, art.\u00a0L.\u00a052-1",
+      "quote": "Pendant les six mois précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où celle-ci est acquise, l'utilisation à des fins de propagande électorale de tout procédé de publicité commerciale par la voie de la presse ou par tout moyen de communication audiovisuelle est interdite.",
+      "source": 1,
+      "milestone": "adsBan"
+    },
+    {
+      "id": "officialCampaign",
+      "article": "Code électoral, art.\u00a0L.\u00a047\u00a0A",
+      "quote": "La campagne électorale est ouverte à partir du deuxième lundi qui précède la date du scrutin et prend fin la veille du scrutin à zéro heure.",
+      "source": 1,
+      "milestone": "officialCampaign"
+    },
+    {
+      "id": "secondRound",
+      "article": "Constitution, art.\u00a07",
+      "quote": "Si celle-ci n'est pas obtenue au premier tour de scrutin, il est procédé, le quatorzième jour suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.",
+      "source": 3,
+      "milestone": "secondRound"
+    },
+    {
+      "id": "equity",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I\u00a0bis",
+      "quote": "À compter de la publication de la liste des candidats et jusqu'à la veille du début de la campagne, les éditeurs de services de communication audiovisuelle respectent, sous le contrôle de l'Autorité de régulation de la communication audiovisuelle et numérique, le principe d'équité […]",
+      "source": 0,
+      "milestone": "candidatesList"
+    },
+    {
+      "id": "equality",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0I\u00a0bis",
+      "quote": "À compter du début de la campagne et jusqu'au tour de scrutin où l'élection est acquise, les éditeurs de services de communication audiovisuelle respectent, sous le contrôle de l'Autorité de régulation de la communication audiovisuelle et numérique, le principe d'égalité […]",
+      "source": 0,
+      "milestone": "officialCampaign"
+    },
+    {
+      "id": "pollingSilence",
+      "article": "Loi n°\u00a077-808, art.\u00a011",
+      "quote": "aucun sondage électoral ne peut faire l'objet, par quelque moyen que ce soit, d'une publication, d'une diffusion ou d'un commentaire. […] cette interdiction prend effet sur l'ensemble du territoire national à compter du samedi précédant le scrutin à zéro heure. Cette interdiction prend fin à la fermeture du dernier bureau de vote sur le territoire métropolitain.",
+      "source": 2,
+      "milestone": "pollingSilence"
+    },
+    {
+      "id": "earlierPolls",
+      "article": "Loi n°\u00a077-808, art.\u00a011",
+      "quote": "Cette interdiction ne fait obstacle ni à la poursuite de la diffusion de sondages publiés avant la veille de chaque scrutin ni au commentaire de ces sondages, à condition que soient indiqués la date de première publication ou diffusion, le média qui les a publiés ou diffusés et l'organisme qui les a réalisés.",
+      "source": 2
+    },
+    {
+      "id": "votingHours",
+      "article": "Loi n°\u00a062-1292, art.\u00a03,\u00a0II\u00a0bis",
+      "quote": "Le jour du vote, le scrutin est ouvert à huit heures et clos à dix-neuf heures. Toutefois, pour faciliter l'exercice du droit de vote, et sans que le scrutin puisse être clos après vingt heures […]",
+      "source": 0
+    },
+    {
+      "id": "results",
+      "article": "Code électoral, art.\u00a0L.\u00a052-2,\u00a0II",
+      "quote": "Par dérogation au premier alinéa du I, lorsque la République forme une circonscription unique, aucun résultat d'élection, partiel ou définitif, ne peut être communiqué au public par quelque moyen que ce soit avant la fermeture du dernier bureau de vote sur le territoire métropolitain.",
+      "source": 1
+    },
+    {
+      "id": "deputies",
+      "article": "Constitution, art.\u00a024",
+      "quote": "Les députés à l'Assemblée nationale, dont le nombre ne peut excéder cinq cent soixante-dix-sept, sont élus au suffrage direct.",
+      "source": 3,
+      "value": 577,
+      "unit": "count"
+    },
+    {
+      "id": "senators",
+      "article": "Constitution, art.\u00a024",
+      "quote": "Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, est élu au suffrage indirect.",
+      "source": 3,
+      "value": 348,
+      "unit": "count"
+    },
+    {
+      "id": "ripMembers",
+      "article": "Constitution, art.\u00a011",
+      "quote": "Un référendum portant sur un objet mentionné au premier alinéa peut être organisé à l'initiative d'un cinquième des membres du Parlement […]",
+      "source": 3,
+      "value": 185,
+      "unit": "count",
+      "computed": true
+    },
+    {
+      "id": "ripVoters",
+      "article": "Constitution, art.\u00a011",
+      "quote": "[…] soutenue par un dixième des électeurs inscrits sur les listes électorales.",
+      "source": 3
+    },
+    {
+      "id": "rip2019",
+      "article": "Décision n°\u00a02019-1 RIP du 9\u00a0mai 2019, cons.\u00a011",
+      "quote": "Le nombre de soutiens d'électeurs inscrits sur les listes électorales à recueillir est de 4\u00a0717\u00a0396.",
+      "source": 4,
+      "value": 4717396,
+      "unit": "count"
+    }
+  ]
+}
