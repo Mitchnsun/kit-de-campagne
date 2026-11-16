@@ -1,11 +1,11 @@
 {
   "id": "youthUnemployment",
-  "retrievedOn": "2026-11-09",
+  "retrievedOn": "2026-11-16",
   "sources": [
     {
       "producer": "Insee",
-      "publication": "Au deuxième trimestre 2026, le taux de chômage augmente de 0,2 point et atteint 8,3 %, Informations rapides n° 192",
-      "publishedOn": "2026-08-07"
+      "publication": "Au troisième trimestre 2026, le taux de chômage s’établit à 8,2 %, en hausse de 0,4 point sur un an, Informations rapides n° 270",
+      "publishedOn": "2026-11-10"
     },
     {
       "producer": "Insee",
@@ -35,9 +35,9 @@
   ],
   "headline": {
     "series": "youthRate",
-    "period": "2026-Q2",
-    "value": 21.6,
-    "trend": "up"
+    "period": "2026-Q3",
+    "value": 21,
+    "trend": "down"
   },
   "series": [
     {
@@ -46,8 +46,8 @@
       "unit": "percent",
       "sourceId": "011818548",
       "points": [
-        ["2026-Q1", 21.2],
-        ["2026-Q2", 21.6]
+        ["2026-Q2", 21.5],
+        ["2026-Q3", 21]
       ]
     },
     {
@@ -56,8 +56,8 @@
       "unit": "percent",
       "sourceId": "011818613",
       "points": [
-        ["2026-Q1", 9.2],
-        ["2026-Q2", 9.3]
+        ["2026-Q2", 9.3],
+        ["2026-Q3", 9]
       ]
     },
     {
