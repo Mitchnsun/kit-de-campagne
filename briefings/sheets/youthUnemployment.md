@@ -68,6 +68,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2 réécrite, 2 ← 1 réécrite, 3 ← 3, 4 ← 4 réécrite.
 - 16/11/2026 (Mitchnsun/moi-president#439) : le 3e trimestre 2026, publié par l'Insee le 10/11/2026 (Informations rapides n° 270), pour que le volet, la page du chômage (`data/unemployment.json`) et la question du débat disent le même chiffre. `youthRate` : 21,5 (2e trimestre, révisé de 21,6) et 21,0 (3e trimestre) ; `youthShare` : 9,3 et 9,0 ; chiffre clé 21,0 % au 3e trimestre 2026, en baisse ; la 1re source passe du n° 192 au n° 270 (registre de l'application mis à jour dans la même PR, #439) ; le 1er « À savoir » et la 1re réponse de « Ce qu'on entend » suivent. Les autres valeurs ne changent pas. La double vérification de ces chiffres est à faire (voir le tableau).
 
 ## Relecture

@@ -53,7 +53,7 @@ Faite le 10/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 + 2, 3 ← 3 complétée, 4 ← 4 réécrite ; fait ajouté (note 1) : Banque de France, Working Paper n° 886, C. Grislain-Letrémy et C. Trevien, « The long-term impact of housing subsidies on the rental sector: the French example », 23/09/2022 (page mise à jour le 24/09/2026), https://www.banque-france.fr/en/publications-and-statistics/publications/long-term-impact-housing-subsidies-rental-sector-french-example, seconde vérification : conforme, « le nombre de logements loués » devenu « une hausse des quantités », plus près de la source ; fait ajouté (note 3) : Insee, Courrier des statistiques n° 15, juillet 2026, https://www.insee.fr/fr/statistiques/fichier/9002026/web_INSEE_CS15_article1.pdf, seconde vérification : conforme, la note dit « pas encore » au 16/11/2026 (premiers résultats annoncés par l'Insee pour la fin de 2026).
 
 ## Relecture
 

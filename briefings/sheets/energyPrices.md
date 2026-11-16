@@ -17,7 +17,7 @@
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1, 3 ← 2, 4 ← 3 + 4 ; mention d'éditeur retirée (« ceux du kit ») ; fait ajouté (note 1) : Insee, Informations rapides n° 247, 15 octobre 2026, « En septembre 2026, les prix à la consommation augmentent de 3,1 % sur un an », https://www.insee.fr/fr/statistiques/9080209, seconde vérification : conforme.
 
 ## Relecture
 

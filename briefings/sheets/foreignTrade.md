@@ -46,7 +46,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2, 2 nouvelle, 3 ← 3, 4 ← 1 ; ancienne note 4 retirée (les ruptures de série de 1988 et 1991) ; fait ajouté (note 2) : Douanes, « Le chiffre du commerce extérieur, Analyse annuelle 2025 », publié le 06/02/2026, https://www.douane.gouv.fr/sites/default/files/2026-02/09/chiffre-comex-Analyse-Annuelle-2025.pdf, seconde vérification : conforme.
 
 ## Relecture
 

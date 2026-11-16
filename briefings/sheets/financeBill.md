@@ -289,6 +289,7 @@ Données ouvertes de l'Assemblée : Licence Ouverte (version non précisée sur 
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2 réécrite, 2 ← 1, 3 ← 3 réécrite, 4 ← 4 réécrite.
 - **03/11/2026, décision du PO** : la page dit « chiffres du projet déposé », avec une note sur l'article liminaire supprimé en séance à l'Assemblée le 14/10/2026. La loi de finances pour 2027, une fois promulguée, sera saisie dans une nouvelle édition ; la navette n'est pas suivie.
 
 ## Relecture

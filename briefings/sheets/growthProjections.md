@@ -45,7 +45,7 @@ Points d'attention, sans effet sur les chiffres : la date de l'édition de juin 
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; note 1 réécrite.
 
 ## Relecture
 

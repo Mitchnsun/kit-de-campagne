@@ -59,7 +59,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 ← 2 corrigée (la réforme de 2023 telle que la décrit l'Unédic, sans les seuils de France Travail), 3 ← 3 réécrite, 4 nouvelle ; fait ajouté (note 2) : Unédic, « Réforme 2023 : premiers effets de la réforme de contracyclicité », 18/12/2025 et Unédic, « Effets de l'adaptation des règles d'assurance chômage à la conjoncture », 24/02/2023, https://www.unedic.org/publications/reforme-2023-premiers-effets-de-la-reforme-de-contracyclicite et https://www.unedic.org/publications/effets-de-ladaptation-des-regles-dassurance-chomage-la-conjoncture, seconde vérification : conforme (la note ne cite pas les seuils de France Travail) ; fait ajouté (note 4) : Insee, définition « Catégories des inscrits à France Travail » (mise à jour 22/04/2026), https://www.insee.fr/fr/metadonnees/definition/c2010, seconde vérification : écart expliqué, la note ajoute les catégories F et G (depuis janvier 2025).
 
 ## Relecture
 

@@ -148,7 +148,7 @@ L'Insee Première n° 2106 (29/05/2026) donne un déficit 2025 de **152,5 Md€*
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 3 complétée, 2 ← 1 réécrite, 3 ← 4, 4 ← 2 ; fait ajouté (note 1) : Insee, « Critères de convergence (traité de Maastricht) », dernière mise à jour 28/01/2021, https://www.insee.fr/fr/metadonnees/definition/c1348, seconde vérification : conforme ; fait ajouté (note 1) : Insee, « Dette et déficit publics au sens de Maastricht en 2025 », paru le 28/08/2026, https://www.insee.fr/fr/statistiques/8988843, seconde vérification : conforme.
 
 ## Relecture
 

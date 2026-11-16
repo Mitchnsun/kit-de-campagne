@@ -61,7 +61,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 3, 3 ← 1 + 4, 4 ← 2 réécrite ; sigles développés ; fait ajouté (note 1) : Cour des comptes, Sécurité sociale 2025, chapitre III « Maîtriser la dynamique des allègements généraux de cotisations sociales », mai 2025, https://www.ccomptes.fr/sites/default/files/2025-05/20250526-RALFSS-2025-Maitriser-dynamique-allegements-generaux-de-cotisations-sociales.pdf, seconde vérification : écart, « jusqu'en 2025 » n'étant pas dans la source : la note cite « jusqu'à 3,5 Smic brut encore récemment ».
 
 ## Relecture
 

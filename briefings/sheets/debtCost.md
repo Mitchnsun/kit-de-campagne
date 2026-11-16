@@ -59,6 +59,8 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 réécrite, 2 ← 4, 3 ← 3 complétée, 4 ← 2 ; sigle développé ; fait ajouté (note 3) : Cour des comptes, « Analyse de l'exécution budgétaire 2025, Compte de commerce Gestion de la dette et de la trésorerie de l'État », avril 2026, https://www.ccomptes.fr/sites/default/files/2026-04/NEB-2026-Gestion-dette-et-tresorerie-Etat.pdf, seconde vérification : conforme.
+
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que la dette, c'est 50 000 € par Français. ».
 - **09/11/2026** : l'affirmation sur la dette par habitant revient, à la demande du PO, sous la forme d'une fausse vérité (« chaque Français doit 50 000 € à cause de la dette publique ») : la dette publique est celle des administrations, pas une dette personnelle exigible des habitants ; le calcul (environ 50 100 €, 3 460,1 Md€ pour 69,1 millions d'habitants) et la dette nette (3 242,7 Md€) restent ceux de la contre-vérification.
 

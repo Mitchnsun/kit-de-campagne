@@ -235,7 +235,7 @@ Sources qui n'ont pas pu être lues (valeurs citées dans aucune conclusion ci-d
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 3 réécrite, 2 ← 1, 3 ← 4 réécrite, 4 ← 2.
 
 ## Relecture
 

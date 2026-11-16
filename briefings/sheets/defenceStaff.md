@@ -42,6 +42,7 @@ Faite le 15/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 ← 2 complétée, 3 ← 2 réécrite, 4 ← 3 réécrite ; sigles développés ; ancienne note 2 scindée en deux ; fait ajouté (note 2) : Projet annuel de performances 2026, mission « Monde combattant, mémoire et liens avec la Nation », notice commune à tous les PAP (PDF du 10/10/2025, publié sur assemblee-nationale.fr), https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1087951/file/PAP2026_BG_Monde_combattants_memoire_liens_nation_MB.pdf, seconde vérification : conforme.
 - **16/11/2026** (#442 de l'app, suite de la double vérification sur le web par un agent Claude (modèle Sonnet), 16/11/2026 (rapport `check-defence-notes.md`, § 4)) : les 80 000 de 2030 sont un « objectif de recruter 80 000 réservistes » (projet annuel, p. 92), pas un effectif au 31 décembre : le point 2030 quitte la série `reservists` (2024 à 2029 désormais) et la note 1 cite le verbe du document ; à côté du chiffre clé, la cible de 2029. La note 4 (les 202 000 militaires comptés par l'OTAN) est retirée tant que le volet `natoShare` attend la réponse de l'OTAN (décision du PO du 16/11/2026, voir `natoShare.md`) : la page ne montre plus aucun chiffre de l'OTAN. Trois notes restent.
 
 ## Relecture

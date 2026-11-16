@@ -51,7 +51,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 3 complétée, 2 ← 2 + 3, 3 ← 1, 4 ← 4 réécrite ; fait ajouté (note 1) : Direction du budget, annexe au PLF 2027 « Relations financières avec l'Union européenne » (PDF du 12/10/2026), https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1129751/file/13-Jaune%202027%20-%20Relations%20financi%C3%A8res%20avec%20l'Union%20europ%C3%A9enne.pdf, seconde vérification : conforme, « estimé » ajouté comme dans la source.
 
 ## Relecture
 

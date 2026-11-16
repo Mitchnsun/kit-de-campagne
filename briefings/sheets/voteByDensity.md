@@ -99,6 +99,7 @@ Aucune publication de l'Insee, du CEVIPOF, de la Fondation Jean-Jaurès ou des d
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 réécrite, 2 ← 4, 3 ← 3 réécrite, 4 ← 2 réécrite.
 - **16/11/2026** : la participation de chaque territoire du jeu, lue dans ce fichier par l'app (section « Choix »). Le fichier ne change pas.
 
 ## Relecture

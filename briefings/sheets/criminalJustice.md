@@ -57,6 +57,8 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 réécrite, 3 ← 2 réécrite, 4 ← 3 + 4 ; mention d'éditeur retirée (« la loi de finances 2026 votée n'a pas été vérifiée ») ; fait ajouté (note 1) : Ministère de la Justice (SSER), Infostat Justice n° 199, avril 2025 et Dossier Méthode n° 1, « La récidive, ses définitions et sa mesure statistique », février 2025, https://www.justice.gouv.fr/sites/default/files/2025-04/Infostat_Justice_199_0.pdf et https://www.justice.gouv.fr/sites/default/files/2025-02/SSER_Dossier_Me%CC%81thode_1.pdf, seconde vérification : conforme.
+
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que ce sont toujours les mêmes : les récidivistes. » ; « On entend que la France manque de juges et de policiers. ».
 
 ## Relecture

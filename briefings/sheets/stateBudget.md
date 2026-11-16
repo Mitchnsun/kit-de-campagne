@@ -61,7 +61,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 nouvelle, 3 ← 4 réécrite, 4 ← 2 + 3 ; fait ajouté (note 2) : Cour des comptes, « Analyse de l'exécution budgétaire 2025, Compte d'affectation spéciale Pensions », avril 2026, https://www.ccomptes.fr/sites/default/files/2026-04/NEB-2026-Pensions.pdf, seconde vérification : écart expliqué, la note reprend « l'équilibre du compte à moyen terme » de la source.
 
 ## Relecture
 

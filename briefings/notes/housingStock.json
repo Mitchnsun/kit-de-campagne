@@ -1,15 +1,15 @@
 {
   "fr": [
-    "Les 2,9 millions de logements vacants de 2026 (Insee, provisoire) comprennent la vacance de rotation : logements en vente ou en location, en attente de succession, vétustes. C'est le chiffre vrai, mais pas un gisement : selon l'Insee, « la vacance de courte durée est inhérente au fonctionnement du marché immobilier ».",
-    "Dans le parc privé, 1 179 845 logements sont vacants depuis plus de deux ans (LOVAC, millésime 2026, au 1er janvier 2025 selon le dictionnaire du fichier) : une source fiscale, pas le recensement. Elle a deux ruptures de série, en 2023 et en 2025 : ses millésimes ne se comparent pas.",
-    "En 2026 (provisoire), 57,3 % des ménages sont propriétaires de leur résidence principale : 19,8 % d'accédants, qui remboursent encore un emprunt, et 37,6 % de non-accédants. Selon l'Insee, cette part est « quasi stable depuis 2011 ». Ce sont des ménages, pas des personnes.",
-    "Un bailleur public (17,3 % des ménages en 2026 en sont locataires), c'est un organisme HLM, une SEM, l'État ou une collectivité, que le logement soit conventionné ou non : plus large que le parc locatif social du RPLS, dont les logements loués font 15,9 % des résidences principales (volet « Logement social »)."
+    "Les 2,9 millions de logements vacants de 2026 (Insee, provisoire) incluent la vacance de rotation : logements en vente ou en location, en attente de succession, vétustes. Le chiffre est exact sans mesurer un gisement : selon l'Insee, « la vacance de courte durée est inhérente au fonctionnement du marché immobilier ».",
+    "En 2026 (provisoire), 57,3 % des ménages sont propriétaires de leur résidence principale : 19,8 % d'accédants, qui remboursent encore un emprunt, et 37,6 % de non-accédants. Selon l'Insee, cette part est « quasi stable depuis 2011 ». Le décompte porte sur des ménages.",
+    "Dans le parc privé, 1 179 845 logements sont vacants depuis plus de deux ans selon le fichier fiscal LOVAC (millésime 2026, au 1er janvier 2025), qui n'est pas le recensement. Ses millésimes ne se comparent pas : il a deux ruptures de série, en 2023 et en 2025.",
+    "Un bailleur public (17,3 % des ménages en sont locataires en 2026) est un organisme HLM, une société d'économie mixte, l'État ou une collectivité : un champ plus large que le parc social du répertoire des bailleurs sociaux (RPLS), 15,9 % des résidences principales (volet « Logement social »)."
   ],
   "en": [
-    "The 2.9 million vacant dwellings of 2026 (Insee, provisional) include turnover vacancy: dwellings for sale or for rent, awaiting a succession, run-down. It is the true figure, but not a reserve: according to the Insee, “short-term vacancy is inherent in the working of the property market” (translated).",
-    "In the private stock, 1,179,845 dwellings have been vacant for more than two years (LOVAC, 2026 vintage, at 1 January 2025 according to the file’s dictionary): a tax source, not the census. It has two breaks in series, in 2023 and in 2025: its vintages do not compare.",
-    "In 2026 (provisional), 57.3% of households own their main residence: 19.8% still repaying a loan for it, 37.6% without one. According to the Insee, this share is “almost stable since 2011” (translated). These are households, not people.",
-    "A public landlord (17.3% of households in 2026 rent from one) is a social housing body (HLM), a semi-public company, the State or a local authority, whether the dwelling is subsidised or not: wider than the RPLS social rented stock, whose let dwellings are 15.9% of main residences (“Social housing” tab)."
+    "The 2.9 million vacant dwellings of 2026 (Insee, provisional) include turnover vacancy: dwellings for sale or for rent, awaiting a succession, run-down. The figure is accurate, but it does not measure a reserve: according to the Insee, “short-term vacancy is inherent in the working of the property market” (translated).",
+    "In 2026 (provisional), 57.3% of households own their main residence: 19.8% still repaying a loan for it, 37.6% without one. According to the Insee, this share is “almost stable since 2011” (translated). The count is of households.",
+    "In the private stock, 1,179,845 dwellings have been vacant for more than two years according to the LOVAC tax file (2026 vintage, at 1 January 2025), which is not the census. Its vintages do not compare: it has two breaks in series, in 2023 and in 2025.",
+    "A public landlord (17.3% of households rent from one in 2026) is a social housing body (HLM), a semi-public company, the State or a local authority: a wider scope than the social stock of the social landlords’ register (RPLS), 15.9% of main residences (“Social housing” tab)."
   ],
   "claims": {
     "fr": [

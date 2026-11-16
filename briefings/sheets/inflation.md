@@ -139,6 +139,8 @@ Autres sources
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 2, 3 ← 3 réécrite, 4 ← 1 réécrite ; fait ajouté (note 1) : BCE, « La stabilité des prix » (page non datée, © 2026), https://www.ecb.europa.eu/mopo/strategy/pricestab/html/index.fr.html, seconde vérification : conforme.
+
 **13/11/2026**, `yarn briefings inflation`, pour la prochaine édition et le quiz du débat de l'app (`DEBATE_FACTS`, Mitchnsun/moi-president#340) :
 - **Nouvelle période** : octobre 2026, résultats définitifs publiés le 13/11/2026 (Informations rapides n° 271). IPC +3,4 % sur un an (+3,1 % en septembre), IPCH +3,7 % (+3,4 % en septembre). Septembre est marqué révisé par la BDM (`OBS_REV`), sans changement à la décimale : 3,1 %.
 - **Écart avec le provisoire du 30/10/2026** (IR n° 266) : l'IPC est confirmé (+3,4 % sur un an, +0,4 % sur un mois) ; l'IPCH annuel est révisé de +3,8 % à +3,7 %.

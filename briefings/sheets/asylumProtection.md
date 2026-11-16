@@ -58,6 +58,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; notes 1, 2 et 3 réécrites ; sigles développés.
 - **16/11/2026** (#448 de l'app, notes « À savoir » à compléter) : les points 1 et 4 fusionnés, le point 4 sur le pacte européen (sources ci-dessus, fin de « À savoir »). Dates confirmées par la double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (rapport `check-gap-g2.md`, § 3 : règlements 2024/1347, 1348, 1349, 1351, 1356, 1358, 1359 et directive 2024/1346). Le pacte ne s'applique pas en bloc le 12 juin 2026 : la règle de relecture du jeu qui le disait est corrigée par #440.
 
 ## Relecture

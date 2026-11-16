@@ -49,7 +49,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; note 1 complétée ; notes 3 et 4 réécrites ; fait ajouté (note 1) : Eurostat, tableau tec00105 « Inward FDI stocks in % of GDP » (mis à jour le 11/11/2026) et métadonnées bop_fdi_esms (16/12/2013), https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tec00105?format=JSON&lang=EN&geo=FR&geo=DE&geo=EU27_2020 et https://ec.europa.eu/eurostat/cache/metadata/en/bop_fdi_esms.htm, seconde vérification : conforme.
 
 ## Relecture
 

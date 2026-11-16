@@ -171,6 +171,8 @@ Limites : les pages de séries BDM (`statistiques/series/...`) sont rendues en J
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 réécrite, 2 ← 3, 3 ← 2, 4 ← 4 ; sigle développé.
+
 **12/11/2026**, `yarn briefings unemployment`, pour l'édition 0003 (Mitchnsun/moi-president#357) :
 - **Nouvelle période** : le 3e trimestre 2026, publié le 10/11/2026 (Informations rapides n° 270). Taux de chômage 8,2 % (8,3 % au 2e trimestre), 15-24 ans 21,0 %, taux d'emploi des 15-64 ans 69,1 %. Les inscrits à France Travail (déjà au 3e trimestre) et les taux par département (encore au 2e trimestre, prochaine publication le 6 janvier 2027) ne changent pas.
 - **Révisions de l'Insee**, 0,1 point chacune : le taux d'ensemble en 2016-T1 (10,3 → 10,2) et 2026-T1 (8,1 → 8,2) ; onze trimestres des 15-24 ans, dont 2026-T2 (21,6 → 21,5) ; six du taux d'emploi, dont 2025-T1 (69,4 → 69,3) ; 2019-T1 de la série depuis 1975 (8,8 → 8,7).

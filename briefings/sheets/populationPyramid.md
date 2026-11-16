@@ -253,6 +253,8 @@ Les quatre notes sont justes. Les reformulations proposées plus haut précisent
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 ← 2 réécrite, 3 ← 3 + 4.
+
 **16/11/2026**, `yarn briefings populationPyramid`, pour une page qui montre une année sur cinq (Mitchnsun/moi-president#452, décision du PO du 16/11/2026) :
 - **Nouvelles années de la pyramide** : 1996, 2001, 2011, 2016 et 2021 rejoignent 1991, 2006 et 2026, lues dans POP3 (même fichier, mêmes contrôles : la somme des âges égale le total France de l'onglet, colonnes F à H, les colonnes C à E étant la métropole seule ; le champ et la classe ouverte lus dans l'onglet) et recoupées avec POP5. 1991 et 1996 : France hors Mayotte, « 100 ou plus » ; 2001, 2006 et 2011 : France hors Mayotte, « 105 ou plus » ; 2016, 2021 et 2026 : France, « 105 ou plus » (2026 provisoire).
 - **Totaux de chaque année** (hommes + femmes = total de POP3 = total de POP5 = somme du fichier de la pyramide interactive) :

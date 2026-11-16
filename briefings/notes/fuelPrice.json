@@ -1,15 +1,15 @@
 {
   "fr": [
-    "La TVA à 20 % porte aussi sur l'accise (BOFiP) : 12,15 centimes par litre de gazole, 13,40 de SP95-E10 (calculé). L'UE réserve les taux réduits à l'annexe III de la directive TVA, sans les carburants ; le gaz naturel en sort le 1er janvier 2030, date limite des dérogations de 2021 sur les énergies fossiles.",
-    "La part des taxes vaut 1/6 + accise / prix TTC (calculé) : l'accise est fixe par litre et la TVA fait 1/6 du prix TTC. Elle baisse quand le prix monte, et ne dépasse 50 % que si le gazole coûte moins de 1,8225 € le litre et le SP95-E10 moins de 2,0106 € (calculé d'après les tarifs des Douanes).",
-    "Depuis le 1er août 2025, les régions ne modulent plus l'accise, et la majoration d'Île-de-France Mobilités a pris fin le 1er janvier 2026 (guide du ministère de la Transition écologique) : l'accise est la même dans toutes les régions continentales. La Corse garde ses tarifs (Douanes) et une TVA à 13 %.",
-    "Avant la pompe, la DGEC suit le cours du Brent (69,10 $ le baril en 2025, 123,93 $ en octobre 2026) et une marge brute de raffinage (4,22 $ le baril en 2019, 8,72 $ en 2025, 38,05 $ en août 2026) : des indicateurs de tendance en dollars, ni la marge réelle des raffineries ni une part du prix d'un litre."
+    "L'accise est un montant fixe par litre et la TVA fait 1/6 du prix TTC : la part des taxes baisse donc quand le prix monte. Elle ne dépasse 50 % que si le gazole coûte moins de 1,8225 € le litre et le SP95-E10 moins de 2,0106 € (calculé d'après les tarifs des Douanes).",
+    "La TVA de 20 % porte aussi sur l'accise : 12,15 centimes par litre de gazole, 13,40 de SP95-E10 (calculé). La directive européenne sur la TVA n'ouvre pas de taux réduit aux carburants.",
+    "Depuis le 1er août 2025, les régions ne modulent plus l'accise, et la majoration d'Île-de-France Mobilités a pris fin le 1er janvier 2026 (guide du ministère de la Transition écologique) : l'accise est la même dans toutes les régions continentales. La Corse garde ses tarifs (Douanes) et une TVA à 13 %.",
+    "Avant la pompe, la direction générale de l'énergie et du climat (DGEC) suit le Brent (69,10 $ le baril en 2025, 123,93 $ en octobre 2026) et une marge brute de raffinage (4,22 $ en 2019, 8,72 $ en 2025, 38,05 $ en août 2026) : des indicateurs de tendance, ni la marge réelle des raffineries ni une part du prix."
   ],
   "en": [
-    "The 20% VAT is also charged on the excise (BOFiP): 12.15 cents per litre of diesel, 13.40 of SP95-E10 (calculated). The EU keeps reduced rates for Annex III of the VAT directive, without fuels; natural gas leaves it on 1 January 2030, the deadline for the 2021 derogations on fossil fuels.",
-    "The share of taxes is 1/6 + excise / price including taxes (calculated): the excise is fixed per litre and VAT is 1/6 of the price including taxes. It falls when the price rises, and exceeds 50% only if diesel costs less than €1.8225 a litre and SP95-E10 less than €2.0106 (calculated from the Douanes' rates).",
+    "The excise is a fixed amount per litre and VAT is 1/6 of the price including taxes: the share of taxes therefore falls when the price rises. It exceeds 50% only if diesel costs less than €1.8225 a litre and SP95-E10 less than €2.0106 (calculated from the Douanes’ rates).",
+    "The 20% VAT is also charged on the excise: 12.15 cents per litre of diesel, 13.40 of SP95-E10 (calculated). The EU VAT directive opens no reduced rate to fuels.",
     "Since 1 August 2025, the regions no longer adjust the excise, and the Île-de-France Mobilités surcharge ended on 1 January 2026 (guide of the Ministry for the Ecological Transition): the excise is the same in every mainland region. Corsica keeps its own rates (Douanes) and a 13% VAT.",
-    "Before the pump, the DGEC follows the Brent price ($69.10 a barrel in 2025, $123.93 in October 2026) and a gross refining margin ($4.22 a barrel in 2019, $8.72 in 2025, $38.05 in August 2026): trend indicators in dollars, neither the refineries' actual margin nor a share of the price of a litre."
+    "Before the pump, the directorate-general for energy and climate (DGEC) follows the Brent price ($69.10 a barrel in 2025, $123.93 in October 2026) and a gross refining margin ($4.22 in 2019, $8.72 in 2025, $38.05 in August 2026): trend indicators, neither the refineries’ actual margin nor a share of the price."
   ],
   "claims": {
     "fr": [

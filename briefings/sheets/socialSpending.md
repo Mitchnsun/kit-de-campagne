@@ -51,6 +51,8 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2, 2 ← 1 réécrite, 3 ← 3 complétée, 4 ← 4 ; fait ajouté (note 3) : Eurostat, tableau tps00098 « Expenditure on social protection as percentage of GDP » (mis à jour le 26/10/2026), https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tps00098?geo=FR&geo=EU27_2020&geo=DE, seconde vérification : conforme.
+
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que la France est championne d'Europe des dépenses sociales. » ; « On entend que les arrêts maladie explosent. ».
 
 ## Relecture

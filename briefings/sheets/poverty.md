@@ -182,7 +182,7 @@ Les fichiers téléchargés et les scripts de lecture sont restés dans l'espace
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 nouvelle, 3 ← 2 + 3, 4 ← 4 ; fait ajouté (note 2) : Insee, Insee Première n° 2117, juillet 2026, https://www.insee.fr/fr/statistiques/9019316, seconde vérification : conforme.
 
 ## Relecture
 

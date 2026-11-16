@@ -61,6 +61,8 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 3 réécrite, 2 nouvelle, 3 ← 1, 4 ← 2 + 4 ; fait ajouté (note 2) : DILA, service-public.gouv.fr, « Obligation de quitter le territoire français (OQTF) » (F18362, « Vérifié le 13 novembre 2024 », page « en cours de mise à jour »), https://www.service-public.gouv.fr/particuliers/vosdroits/F18362, seconde vérification : écart expliqué (fiche antérieure au pacte européen sur la migration et l'asile), la note la date de novembre 2024, à relire après sa mise à jour.
+
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : affirmations retirées : « On entend que les OQTF ne sont jamais exécutées, que 7 % ou 10 % seulement le sont. » ; « On entend que les déboutés de l'asile ne partent jamais. ».
 - **09/11/2026** : l'affirmation sur le nombre de « clandestins » ajoute, à la demande du PO, que faute de mesure aucun de ces nombres ne peut être tenu pour établi : l'absence de chiffre officiel ne prouve pas l'affirmation.
 

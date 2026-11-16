@@ -242,6 +242,7 @@ SDES, CCNUCC, EEA, autres
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 1 réécrite, 3 ← 2 + 3, 4 ← 4 ; sigle développé ; fait ajouté (note 1) : Ministère de la Transition écologique, « Fiche SECTEN 2026 » (données Citepa, inventaire Secten édition 2026, PDF du 15/07/2026), https://www.ecologie.gouv.fr/sites/default/files/documents/Fiche_SECTEN_2026_V4_mini-site_SNBC_clean.pdf, seconde vérification : conforme.
 - **03/11/2026, décision du PO** : citer le Citepa suffit. Ses conditions autorisent la reproduction en citant la source ; le kit reprend des chiffres avec la source et la date, jamais ses fichiers ni ses figures. Pas de demande au Citepa.
 
 ## Relecture

@@ -54,7 +54,7 @@ Faite le 11/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 nouvelle, 2 ← 2, 3 ← 1 réécrite, 4 ← 3 ; fait ajouté (note 1) : DREES, « Les dépenses de santé en 2025 – Résultats des comptes de la santé – Édition 2026 », 01/10/2026, et sa fiche 29 « Comparaisons internationales de la dépense courante de santé en 2024 et 2025 », https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse-infographie-documents-de-reference/261001-les-d%C3%A9penses-de-sant%C3%A9-en-2025-edition-2026-panorama-de-la-drees, seconde vérification : non trouvé (site de la DREES non ouvert), valeurs gardées : la recherche les a relues dans la fiche 29 de la DREES, téléchargée.
 
 ## Relecture
 

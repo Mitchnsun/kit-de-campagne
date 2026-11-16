@@ -47,6 +47,8 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 4 réécrite, 2 ← 2 remplacée (par la répartition entre les trois versants), 3 ← 1 + 2, 4 ← 3 ; fait ajouté (note 2) : DGAFP, Fonction publique, Chiffres clés, édition 2026, tableau 2, https://www.fonction-publique.gouv.fr/files/files/publications/publications-dgafp/cc-2026-web.pdf, seconde vérification : conforme.
+
 **09/11/2026** : le bloc « Ce qu'on entend » ne garde que les fausses vérités que les chiffres de la page démentent (décision du PO) : reformulées : « On entend qu'il y a trop de fonctionnaires, 5,9 millions de fonctionnaires. » devient « On entend qu'il y a 5,9 millions de fonctionnaires. ».
 
 ## Relecture

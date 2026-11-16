@@ -54,7 +54,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web 
 
 ## Mises à jour
 
-Aucune.
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; ordre inchangé ; note 1 remplacée (le Smic net daté du 1er juin 2026 au lieu des dates de vérification de service-public.gouv.fr) ; notes 2 et 4 réécrites ; sigle développé ; fait ajouté (note 1) : DILA, service-public.gouv.fr, « Smic » (F2300, « Vérifié le 01 juin 2026 ») et Journal officiel du 24 mai 2026, texte 12 (arrêté du 22 mai 2026, copie PDF), https://www.service-public.gouv.fr/particuliers/vosdroits/F2300 et https://www.ghr.fr/IMG/pdf/joe_20260524_0121_0012.pdf, seconde vérification : conforme.
 
 ## Relecture
 

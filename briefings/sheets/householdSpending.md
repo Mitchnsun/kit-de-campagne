@@ -49,6 +49,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 4, 2 ← 1 réécrite, 3 ← 2, 4 ← 3.
 - 10/11/2026 : le logement sans les loyers imputés pèse 15,6 % de la dépense effectivement payée, et non 13,3 %. Ce dernier chiffre retranchait 14,7 points des 28,0 % sans retirer les loyers imputés du total de la dépense (relevé par la revue automatique de la PR n° 36). Note, réponse et texte de l'app corrigés.
 
 ## Relecture

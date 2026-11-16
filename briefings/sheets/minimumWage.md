@@ -174,6 +174,7 @@ Consultées sans succès (page inaccessible ou illisible)
 
 ## Mises à jour
 
+- **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1, 2 ← 4, 3 ← 2, 4 ← 3 réécrite.
 - **16/11/2026** (#448 de l'app, notes « À savoir » à compléter) : l'ancien point 4 (Mayotte) passe à la fin du point 1, sans changement de texte ; le point 2 dit la durée légale, 35 heures par semaine soit 1 607 heures par an ; nouveau point 4, le salaire net médian de 2024 (sources aux points 2 et 4 ci-dessus). Chiffres et citations confirmés par la double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (rapport `check-gap-g2.md`, § 3) ; le salaire annuel moyen de 32 791 € que proposait la recherche n'est ni dans la page ni dans le fichier de l'Insee : la note ne donne que les 2 733 € par mois du fichier.
 
 ## Relecture
