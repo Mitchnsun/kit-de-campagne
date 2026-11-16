@@ -54,6 +54,7 @@ Faite le 09/11/2026 par un agent Claude (modèle Sonnet) qui cherche sur le web,
 ## Mises à jour
 
 - **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2, 2 ← 1 complétée, 3 ← 4, 4 ← 3 réécrite ; fait ajouté (note 2) : DILA, service-public.gouv.fr (entreprendre), « Aides de minimis… », publié le 19/12/2025, mis à jour le 29/12/2025 (règlement (UE) 2023/2831), https://entreprendre.service-public.gouv.fr/actualites/A17026, seconde vérification : conforme, source secondaire (la Commission européenne n'a pas pu être ouverte).
+- **16/11/2026** (Mitchnsun/moi-president#457, revue de la PR) : note 2 corrigée, « trois exercices fiscaux glissants » (formule de service-public.gouv.fr) devient « toute période glissante de trois ans », celle du règlement, désormais cité ; source : règlement (UE) 2023/2831 de la Commission du 13/12/2023, JO L du 15/12/2023, http://data.europa.eu/eli/reg/2023/2831/oj, considérant 11 (« La période de trois ans à prendre en considération aux fins du présent règlement doit être appréciée sur une base glissante. ») et article 3, paragraphe 2 (« ne peut excéder 300 000 EUR sur une période de trois ans »), vérifiée par un agent Claude (modèle Sonnet).
 
 ## Relecture
 
