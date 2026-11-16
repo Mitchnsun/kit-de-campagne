@@ -20,7 +20,7 @@
 
 > **L'intrus sur scène**
 >
-> En plein meeting, un opposant monte sur scène, vous arrache le micro et déploie une banderole devant les caméras. La salle retient son souffle.
+> En plein meeting, un opposant monte sur scène, vous arrache le micro et harangue la salle devant les caméras. La salle retient son souffle.
 
 ## Le moment choisi
 
@@ -51,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Retenue telle quelle par le PO (16/11/2026). L'intrus est de dos et n'a pas de banderole, seulement le micro arraché : le texte de la carte la décrit, l'image s'en passe. Rien ne dit son camp.
+Retenue telle quelle par le PO (16/11/2026). L'intrus est de dos et n'a pas de banderole, seulement le micro arraché : le PO a préféré changer le texte de la carte plutôt que l'image (16/11/2026), l'intrus « harangue la salle » au lieu de « déploie une banderole ». Rien ne dit son camp.
 
 ## Essais écartés
 
