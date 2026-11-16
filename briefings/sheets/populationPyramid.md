@@ -5,21 +5,21 @@
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `populationPyramid`, dossier « Électorat » (`electorate`), page de type pyramide, ticket #22 de l'app (statut `planned` : les chiffres et la fiche avant la page) |
-| Données | `briefings/data/populationPyramid.json`, écrit par `yarn briefings populationPyramid` le 2026-11-02 |
-| Sources | Insee, « Bilan démographique 2025 - Tableaux rétrospectifs », https://www.insee.fr/fr/statistiques/8721185 (en français seulement ; l'Insee Première n° 2087 a une page anglaise, résumé seulement : https://www.insee.fr/en/statistiques/8726555), parue le 13/01/2026 : POP3 `3_Pop1janv_age.xlsx` (âge détaillé, un onglet par année) et POP5 `5_Pop1janv_grands_grages.xlsx` (onglet FR-Ensemble) ; Licence Ouverte 2.0 |
+| Données | `briefings/data/populationPyramid.json`, écrit par `yarn briefings populationPyramid` le 2026-11-02, relancé le 2026-11-16 pour les années de la pyramide (Mitchnsun/moi-president#452) |
+| Sources | Insee, « Bilan démographique 2025 - Tableaux rétrospectifs », https://www.insee.fr/fr/statistiques/8721185 (en français seulement ; l'Insee Première n° 2087 a une page anglaise, résumé seulement : https://www.insee.fr/en/statistiques/8726555), parue le 13/01/2026 : POP3 `3_Pop1janv_age.xlsx` (âge détaillé, un onglet par année) et POP5 `5_Pop1janv_grands_grages.xlsx` (onglet FR-Ensemble) ; Licence Ouverte 2.0. Seconde source (#452) : Insee, « Pyramide des âges interactive », https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm (en anglais : le bouton « English » de l'outil, https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm#!l=en ; données `data/FR/donnees_pyramide_act.csv`), toutes les années de 1991 à 2026 par sexe et âge (dernier âge « 99 ou plus ») ; Licence Ouverte 2.0 (mentions légales de l'Insee) |
 | Séries | `population` : population au 1er janvier, France, POP5, annuel, 1991 à 2026, 36 points, 2024 à 2026 provisoires ; `share75` : part des 75 ans ou plus dans la population, calculée sur POP5 (11,1 % en 2026) |
-| Pyramides | `pyramids` : hommes et femmes par âge révolu de 0 à la classe ouverte, pour 1991 (France hors Mayotte, « 100 ou plus »), 2006 (France hors Mayotte, « 105 ou plus ») et 2026 (France, « 105 ou plus », provisoire), les années que donne #22 en exemple ; la somme des âges égale le total de l'onglet, et 2026 égale le total de POP5 |
+| Pyramides | `pyramids` : hommes et femmes par âge révolu de 0 à la classe ouverte, une année sur cinq (#452) : 1991 et 1996 (France hors Mayotte, « 100 ou plus »), 2001, 2006 et 2011 (France hors Mayotte, « 105 ou plus »), 2016, 2021 et 2026 (France, « 105 ou plus » ; 2026 provisoire) ; dans le fichier de la plus ancienne à la plus récente, la page montre 2026 en premier. Pour chaque année, la somme des âges égale le total de l'onglet et celui de POP5 |
 | Chiffre clé | 69 081 996 habitants au 1er janvier 2026 (« 69,1 millions »), en hausse après 68,9 millions |
 | Contrôle | La pyramide de 2026 redonne la répartition des 18 ans ou plus que #22 a vérifiée : 17,4 / 23,2 / 23,8 / 21,7 / 13,9 % (18-29 / 30-44 / 45-59 / 60-74 / 75 ans ou plus) ; la vérification la retrouve par l'outil pyramide et l'Insee Première n° 2087 |
-| Règles | Le champ et la dernière classe d'âge viennent de l'onglet de chaque année ; le statut, de la mention « Estimation provisoire arrêtée à fin 2025 » de l'onglet et des « (p) » de POP5, qui doivent concorder. Les années de la pyramide (1991, 2006, la dernière) sont confirmées par le PO le 02/11/2026 (#22 disait « par exemple ») |
+| Règles | Le champ et la dernière classe d'âge viennent de l'onglet de chaque année ; le statut, de la mention « Estimation provisoire arrêtée à fin 2025 » de l'onglet et des « (p) » de POP5, qui doivent concorder. Les années de la pyramide : décision du PO du 16/11/2026 (#452), une année sur cinq, la plus récente en premier : 2026, 2021, 2016, 2011, 2006, 2001, 1996, 1991 (auparavant 1991, 2006 et 2026, PO, 02/11/2026). Le script (`pyramidYears`) part de la dernière année de POP5 et recule de cinq ans tant qu'il reste au moins cinq ans avant la première année de la série (1991), toujours gardée : l'édition 2027 donnerait 2027, 2022, 2017, 2012, 2007, 2002, 1997 et 1991 (huit années, jamais 1992 à côté de 1991 ; le dernier écart passe à six ans). La pyramide interactive doit contenir chaque année de POP5, avec le total de POP5 pour chaque année montrée ; elle prend la date de parution du bilan (sa page n'a pas de « Paru le » ; la recherche d'insee.fr date sa mise à jour « au 1er janvier 2026 » du 13/01/2026, 11 h, jour du bilan) |
 | Première édition | À remplir à la publication |
 
 ## « À savoir »
 
 1. Habitants au 1er janvier, toutes nationalités, âge en années révolues (Insee Première n° 2087) ; l'électorat est un autre ensemble (Insee Focus n° 378 et n° 328).
-2. « Champ : France hors Mayotte jusqu'en 2013, France à partir de 2014 » (note de POP5, Insee Première n° 2087).
+2. Le champ et la dernière classe, que la page écrit sous chaque année (#452 : les anciennes notes 2 et 4 réunies pour faire place à la note 4) : « Champ : France hors Mayotte jusqu'en 2013, France à partir de 2014 » (note de POP5, Insee Première n° 2087) ; « 100 ou plus » de 1991 à 1998, « 105 ou plus » ensuite (onglets de POP3 ; tableau T6 de l'édition 2020) ; aucune page de l'Insee n'énonce la rupture des classes, la note dit seulement qu'elles ne se comparent pas telles quelles.
 3. « Données provisoires arrêtées à fin 2025 » (libellé public de l'Insee, plutôt que « résultats provisoires ») ; révision constatée : le 1er janvier 2025 valait 68 605 616 en novembre 2025 et vaut 68 851 996 dans le bilan 2025.
-4. « 100 ou plus » de 1991 à 1998, « 105 ou plus » ensuite (onglets de POP3 ; tableau T6 de l'édition 2020) ; aucune page de l'Insee n'énonce la rupture, la note dit seulement que les classes ne se comparent pas telles quelles.
+4. (#452, demande du PO du 16/11/2026) L'Insee publie chaque année en janvier la population au 1er janvier par sexe et âge (« Comme chaque année en janvier, l'Insee a publié le 13 janvier 2026 le bilan démographique », blog de l'Insee, voir la double vérification, point 8) ; la page en montre une année sur cinq ; la pyramide interactive, seconde source de la page (« Voir sur insee.fr »), a toutes les années de 1991 à 2026 (son fichier, lu par le script, et son curseur de 1991 à 2026, vus le 16/11/2026).
 
 Non repris : l'écart entre les enfants de 0 an au 1er janvier 2026 (598 115) et les naissances de 2025 (environ 645 000), que la vérification relève dans toutes les sources de l'Insee ; la page ne dira pas « nés en 2025 ». L'écart d'Eurostat (30 000 à 44 000 de plus sur les totaux), un autre périmètre.
 
@@ -253,7 +253,24 @@ Les quatre notes sont justes. Les reformulations proposées plus haut précisent
 
 ## Mises à jour
 
-Aucune.
+**16/11/2026**, `yarn briefings populationPyramid`, pour une page qui montre une année sur cinq (Mitchnsun/moi-president#452, décision du PO du 16/11/2026) :
+- **Nouvelles années de la pyramide** : 1996, 2001, 2011, 2016 et 2021 rejoignent 1991, 2006 et 2026, lues dans POP3 (même fichier, mêmes contrôles : la somme des âges égale le total France de l'onglet, colonnes F à H, les colonnes C à E étant la métropole seule ; le champ et la classe ouverte lus dans l'onglet) et recoupées avec POP5. 1991 et 1996 : France hors Mayotte, « 100 ou plus » ; 2001, 2006 et 2011 : France hors Mayotte, « 105 ou plus » ; 2016, 2021 et 2026 : France, « 105 ou plus » (2026 provisoire).
+- **Totaux de chaque année** (hommes + femmes = total de POP3 = total de POP5 = somme du fichier de la pyramide interactive) :
+
+| Année | Hommes | Femmes | Total |
+| --- | --- | --- | --- |
+| 1991 | 28 374 772 | 29 905 363 | 58 280 135 |
+| 1996 | 28 912 291 | 30 575 122 | 59 487 413 |
+| 2001 | 29 560 017 | 31 381 393 | 60 941 410 |
+| 2006 | 30 570 044 | 32 616 073 | 63 186 117 |
+| 2011 | 31 440 957 | 33 492 443 | 64 933 400 |
+| 2016 | 32 230 087 | 34 372 558 | 66 602 645 |
+| 2021 | 32 767 086 | 34 930 005 | 67 697 091 |
+| 2026 (p) | 33 551 197 | 35 530 799 | 69 081 996 |
+
+- **Inchangés** : les séries `population` et `share75`, le chiffre clé et les pyramides de 1991, 2006 et 2026 sont identiques à ceux du 02/11/2026.
+- **Seconde source** : la pyramide interactive de l'Insee (5014911), pour la note 4 et le lien « Voir sur insee.fr ». Le 16/11/2026, chaque âge de 0 à 98 et la classe « 99 ou plus » de son fichier `donnees_pyramide_act.csv` égalent ceux du kit pour les huit années (hommes et femmes). Son fichier a une erreur sans effet sur la page : la ligne des femmes de 99 ans ou plus de 2022 (39 539) porte l'année 1994, si bien que ses totaux de 1994 (+39 539) et de 2022 (-39 539) diffèrent de POP5 ; le script le signale sans échouer, ces années n'étant pas montrées. Dans l'outil, le tableau par tranches de 2022 affiche « Total NaN » (vu le 16/11/2026, https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm#!y=2022). L'outil titre 2024 à 2026 « Données provisoires de population » (« Prospective population data » en anglais), les années d'avant « Population en début d'année ».
+- **Vérification à refaire** : seconde vérification sur le web des totaux ci-dessus et de l'outil (à faire).
 
 ## Relecture
 
@@ -262,3 +279,4 @@ Aucune.
 - [x] La licence de chaque source vérifiée, et la mention qu'elle demande.
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
 - [ ] Relue par le PO.
+- **Seconde vérification du 16/11/2026** (agent Claude, modèle Sonnet, `check-pyramid-years.md`) : les huit années identiques à POP3 à tous les âges (colonnes F à H) et à POP5 ; les 36 points de la population et de la part des 75 ans ou plus égaux à POP5 ; la classe ouverte passe à « 105 ou plus » en 1999 ; l'erreur du fichier de la pyramide interactive (la ligne des femmes de 99 ans ou plus de 2022 libellée 1994) confirmée, une erreur de l'Insee. Non trouvé : la date du 13/01/2026 sur l'entrée de catalogue de l'outil (la page « Visualiser les données » dit mise à jour le 08/06/2026) ; le kit garde la date du bilan, dont l'outil reprend les chiffres.
