@@ -1,0 +1,64 @@
+{
+  "id": "defenceStaff",
+  "retrievedOn": "2026-11-16",
+  "sources": [
+    {
+      "producer": "Direction du budget",
+      "publication": "Projet annuel de performances 2027, mission « Défense »",
+      "publishedOn": "2026-10-01"
+    }
+  ],
+  "headline": { "series": "reservists", "period": "2025", "value": 48801, "trend": "up" },
+  "series": [
+    {
+      "id": "reservists",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Indicateur 4.1, p. 106",
+      "status": {
+        "2026": "projection",
+        "2027": "projection",
+        "2028": "projection",
+        "2029": "projection"
+      },
+      "points": [
+        ["2024", 43797],
+        ["2025", 48801],
+        ["2026", 52000],
+        ["2027", 57500],
+        ["2028", 64000],
+        ["2029", 71500]
+      ]
+    },
+    {
+      "id": "staffTotal",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Programme 212, emplois, p. 237",
+      "status": { "2027": "projection" },
+      "points": [["2027", 277877.45]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "staff2027",
+      "unit": "count",
+      "period": "2027",
+      "status": "projection",
+      "sourceId": "Programme 212, emplois, p. 236-237",
+      "values": [
+        ["categoryA", 19887.96],
+        ["categoryB", 17422.94],
+        ["categoryC", 18973.08],
+        ["stateWorkers", 9072.38],
+        ["officers", 37074.27],
+        ["nonCommissionedOfficers", 92816.13],
+        ["enlisted", 74665.86],
+        ["volunteers", 884.08],
+        ["smvTrainees", 1300.0],
+        ["militaryApprentices", 1780.75],
+        ["conscripts", 4000.0]
+      ]
+    }
+  ]
+}

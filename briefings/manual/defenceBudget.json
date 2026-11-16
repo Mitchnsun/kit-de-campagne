@@ -1,0 +1,79 @@
+{
+  "id": "defenceBudget",
+  "retrievedOn": "2026-11-16",
+  "sources": [
+    {
+      "producer": "Direction du budget",
+      "publication": "Projet annuel de performances 2027, mission « Défense »",
+      "publishedOn": "2026-10-01"
+    },
+    {
+      "producer": "Assemblée nationale",
+      "publication": "Loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense",
+      "publishedOn": "2026-08-18"
+    }
+  ],
+  "headline": {
+    "series": "missionCredits",
+    "period": "2026",
+    "value": 66.475476236,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "missionCredits",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Récapitulation des crédits, p. 23",
+      "status": { "2027": "projection" },
+      "points": [
+        ["2026", 66.475476236],
+        ["2027", 73.153440797]
+      ]
+    },
+    {
+      "id": "missionCreditsExPensions",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Présentation stratégique, p. 10",
+      "status": { "2027": "projection" },
+      "points": [["2027", 63.4]]
+    },
+    {
+      "id": "lpmUpdated",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Article 3",
+      "status": {
+        "2027": "projection",
+        "2028": "projection",
+        "2029": "projection",
+        "2030": "projection"
+      },
+      "points": [
+        ["2024", 47.2],
+        ["2025", 50.5],
+        ["2026", 57.1],
+        ["2027", 63.3],
+        ["2028", 69.5],
+        ["2029", 72.6],
+        ["2030", 75.7]
+      ]
+    },
+    {
+      "id": "lpmInitial",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "sourceId": "Article 3",
+      "points": [
+        ["2024", 47.2],
+        ["2025", 50.5],
+        ["2026", 53.7],
+        ["2027", 56.9],
+        ["2028", 60.4],
+        ["2029", 63.9],
+        ["2030", 67.4]
+      ]
+    }
+  ]
+}
