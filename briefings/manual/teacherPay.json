@@ -6,6 +6,11 @@
       "producer": "DEPP",
       "publication": "L’évolution du salaire des enseignants fonctionnaires ou assimilés entre 2023 et 2024",
       "publishedOn": "2026-08-20"
+    },
+    {
+      "producer": "OCDE",
+      "publication": "Salaires effectifs des enseignants relatif à la rémunération des actifs occupés",
+      "publishedOn": "2026-09-29"
     }
   ],
   "headline": {
@@ -166,6 +171,66 @@
         [
           "all",
           100.0
+        ]
+      ]
+    },
+    {
+      "id": "oecdRatioFrance",
+      "unit": "ratio",
+      "period": "2023",
+      "sourceId": "DF_TCH_REL FRA SAL_ACT_REL_TER",
+      "values": [
+        [
+          "primary",
+          0.81
+        ],
+        [
+          "lowerSecondary",
+          0.9
+        ],
+        [
+          "upperSecondary",
+          0.98
+        ]
+      ]
+    },
+    {
+      "id": "oecdRatioOecd",
+      "unit": "ratio",
+      "period": "2025",
+      "sourceId": "DF_TCH_REL OECD SAL_ACT_REL_TER",
+      "values": [
+        [
+          "primary",
+          0.87
+        ],
+        [
+          "lowerSecondary",
+          0.9
+        ],
+        [
+          "upperSecondary",
+          0.94
+        ]
+      ]
+    },
+    {
+      "id": "oecdRatioEu",
+      "unit": "ratio",
+      "period": "2025",
+      "sourceId": "DF_TCH_REL EU25 SAL_ACT_REL_TER",
+      "values": [
+        [
+          "primary",
+          0.83
+        ],
+        [
+          "lowerSecondary",
+          0.86
+        ],
+        [
+          "upperSecondary",
+          0.91
         ]
       ]
     }

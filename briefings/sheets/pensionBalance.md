@@ -1,6 +1,6 @@
 # `pensionBalance` · Le solde des retraites (partie de la page « Retraites », saisie à la main)
 
-**Vérifiée le 17/11/2026** : les valeurs saisies sont celles du fichier du COR ; le texte du rapport les recoupe pour 2025, 2030 et 2070 (section « Double vérification »). À confirmer par le PO : l'accord écrit du COR du 03/11/2026 vise la série `contributorsPerRetiree` ; cette page reprend une autre série du même fichier, avec la même mention.
+**Vérifiée le 17/11/2026** : les valeurs saisies sont celles du fichier du COR ; le texte du rapport les recoupe pour 2025, 2030 et 2070 (section « Double vérification »). L'accord écrit du COR du 03/11/2026 couvre tout son fichier de données, donc cette série (déclaration du PO du 17/11/2026) ; la mention est « COR, rapport annuel de juin 2026 » (voir `contributorsPerRetiree.md`).
 
 | Champ | Valeur |
 | --- | --- |
@@ -44,5 +44,5 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande : l'accord du COR pour cette série reste à confirmer par le PO.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande : l'accord du COR couvre tout le fichier (PO, 17/11/2026).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.

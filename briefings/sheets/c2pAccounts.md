@@ -1,6 +1,6 @@
 # `c2pAccounts` · Les comptes de pénibilité (partie de la page « Retraites », saisie à la main)
 
-**Vérifiée le 17/11/2026** : les valeurs saisies sont celles du rapport, relues dans le PDF ; aucune autre publication récente ne donne ces cumuls (section « Double vérification »). Le rapport se contredit sur le cumul : son schéma 1 écrit « 2,3 million de salariés depuis 2015 », son texte et son graphique 1 « près de 2,7 millions fin 2024 » ; le fichier suit le texte et le graphique, et une note le dit.
+**Vérifiée le 17/11/2026** : les valeurs saisies sont celles du rapport, relues dans le PDF ; aucune autre publication récente ne donne ces cumuls (section « Double vérification »). Le rapport se contredit sur le cumul : son schéma 1 écrit « 2,3 million de salariés depuis 2015 », son texte et son graphique 1 « près de 2,7 millions fin 2024 » ; le jeu suit le texte et le graphique, et sa note 2 le dit en clair, en français et en anglais (PO, 17/11/2026).
 
 | Champ | Valeur |
 | --- | --- |

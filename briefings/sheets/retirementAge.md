@@ -1,6 +1,6 @@
 # `retirementAge` · L'âge de départ à la retraite (partie de la page « Retraites », saisie à la main)
 
-**Vérifiée le 17/11/2026** : les valeurs saisies sont celles du fichier du COR et de la feuille de la DREES, relues par un script de lecture ; le texte du rapport du COR et le Panorama 2024 de la DREES les recoupent (section « Double vérification »). À confirmer par le PO : l'accord écrit du COR du 03/11/2026 vise la série `contributorsPerRetiree` ; cette page reprend une autre série du même fichier, avec la même mention.
+**Vérifiée le 17/11/2026** : les valeurs saisies sont celles du fichier du COR et de la feuille de la DREES, relues par un script de lecture ; le texte du rapport du COR et le Panorama 2024 de la DREES les recoupent (section « Double vérification »). L'accord écrit du COR du 03/11/2026 couvre tout son fichier de données, donc cette série (déclaration du PO du 17/11/2026) ; la mention est « COR, rapport annuel de juin 2026 » (voir `contributorsPerRetiree.md`).
 
 | Champ | Valeur |
 | --- | --- |
@@ -8,7 +8,7 @@
 | Données | `briefings/manual/retirementAge.json`, saisi le 2026-11-17 (projections : saisie à la main, guide 8 de l'app) |
 | Sources | 1. COR, rapport annuel de juin 2026, publié le 11/06/2026, « Données juin 2026 – partie 2 » (https://www.cor-retraites.fr/sites/default/files/2026-06/Donn%C3%A9es_RA2026_P2.xlsx), onglet « Fig 2.5 » ; chiffres cités, mention « COR, rapport annuel de juin 2026 ». 2. DREES, EACR, « 62 EACR diffusée Part 1 - version du 26 mai 2026.xlsx », feuille `A-Age_conjoncturel` ; Licence Ouverte 2.0 |
 | Séries | `retirementAge` : âge conjoncturel de départ, tous régimes, retraités de droit direct résidant en France et à l'étranger (ligne « Obs » de 2000 à 2025, ligne « Tous scénarios » de 2026 à 2070), arrondi au centième, 71 points ; 2025 `provisional` (estimé : « Les chiffres 2025 sont estimés », note 62 du rapport, modèle Ancêtre de la DREES), 2026 à 2070 `projection`. `cnav` (code 0015), `stateCivilServants` (0012), `cnracl` (0032), `cnieg` (0100), `sncf` (0060), `ratp` (0300), `enim` (0070), `canssm` (0080) : âge conjoncturel de 2024, deux sexes (`Sexe` « Ensemble »), un point chacun |
-| Chiffre clé | 63,13 ans en 2025 (estimé), en hausse après 62,95 en 2024 |
+| Chiffre clé | 63,13 ans en 2025 (estimé), en hausse après 62,95 en 2024 : la dernière année de la série, même provisoire (PO, 17/11/2026) |
 | Règles | Les valeurs « Obs » et « Tous scénarios » de 2025 sont égales (vérifié) ; la feuille de la DREES n'a pas de ligne tous régimes et ses âges par régime ne se moyennent pas ; huit grands régimes retenus sur les treize de 2024 (non repris : Agirc-Arrco, complémentaire du régime général, ERAFP, additionnel, Banque de France, CRPCEN, FSPOEIE) |
 | Première édition | À remplir à la publication |
 
@@ -44,5 +44,5 @@ Aucune.
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source.
 - [x] Chaque « À savoir » soutenu par une source, en français et en anglais.
-- [ ] La licence de chaque source vérifiée, et la mention qu'elle demande : l'accord du COR pour cette série reste à confirmer par le PO.
+- [x] La licence de chaque source vérifiée, et la mention qu'elle demande : l'accord du COR couvre tout le fichier (PO, 17/11/2026).
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
