@@ -27,6 +27,7 @@ Relue le 16/11/2026 à la construction de la page : la décision n° 2026-907 DC
 ## Mises à jour
 
 - **16/11/2026** (décision du PO) : le volet `natoShare` reste `planned` jusqu'à la réponse de l'OTAN sur l'usage de son nom dans un jeu (voir `natoShare.md`) : la page a deux onglets, « Budget » et « Effectifs », et le chiffre de sa ligne reste celui du budget. Le texte lu d'abord nomme toujours les trois périmètres, sans renvoyer à un onglet de l'OTAN ; aucune note ne cite plus un chiffre de l'OTAN (`defenceStaff.md`). Le « 80 000 » de 2030 est un nombre de réservistes à recruter, pas un effectif (`defenceStaff.md`).
+- **17/11/2026** (#442 de l'app, décision du PO) : l'OTAN a autorisé par écrit la reprise de ses chiffres, la source citée avec le lien de sa publication et sans son logo (voir `natoShare.md`) : le volet `natoShare` passe `published`, la page a ses trois onglets, « Budget », « OTAN » et « Effectifs », et le chiffre de sa ligne reste celui du budget, son premier volet.
 
 ## Relecture
 
