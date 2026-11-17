@@ -1,0 +1,14 @@
+{
+  "fr": [
+    "Le SDES ne compte ici que les 471 data centers de métropole consommant plus de 1 GWh par an au moins une année depuis 2018. Avec les centres plus petits, au moins 200, il estime la consommation de tous les data centers entre 4,3 et 6 TWh en 2024, soit 1 à 1,5 % de l'électricité consommée en France.",
+    "La consommation est très concentrée : en 2024, 21 % de ces data centers consomment 75 % de leur électricité, et l'Île-de-France en consomme 63 %. Entre 2018 et 2024, la consommation des centres de plus de 50 GWh a progressé de 155 %, contre 31 % pour l'ensemble.",
+    "Le SDES compte les data centers par point de livraison et estime leur consommation avec les données d'Enedis et de RTE ou la base OPERAT de l'Ademe, en complétant les années manquantes. Chaque édition révise toute la série : 2023 passe de 3,9 TWh (édition d'octobre 2025) à 4,05 TWh (juillet 2026).",
+    "RTE estime de son côté la consommation de 2024 à 4 ou 5 TWh pour les data centers sur sites dédiés, et entre 5 et 10 TWh avec les salles serveurs des entreprises : d'autres périmètres que celui du SDES, à ne pas mettre sur sa courbe."
+  ],
+  "en": [
+    "The SDES only counts here the 471 data centres of metropolitan France using more than 1 GWh a year in at least one year since 2018. With the smaller centres, at least 200, it puts the consumption of all data centres between 4.3 and 6 TWh in 2024, 1 to 1.5% of the electricity consumed in France.",
+    "Consumption is highly concentrated: in 2024, 21% of these data centres use 75% of their electricity, and Île-de-France uses 63% of it. Between 2018 and 2024, the consumption of the centres of more than 50 GWh rose by 155%, against 31% for all of them.",
+    "The SDES counts data centres by delivery point and estimates their consumption with Enedis and RTE data or Ademe’s OPERAT base, filling in the missing years. Each edition revises the whole series: 2023 moves from 3.9 TWh (October 2025 edition) to 4.05 TWh (July 2026).",
+    "RTE, for its part, puts 2024 consumption at 4 to 5 TWh for data centres on dedicated sites, and between 5 and 10 TWh with companies’ own server rooms: other scopes than the SDES’s, not to be put on its curve."
+  ]
+}

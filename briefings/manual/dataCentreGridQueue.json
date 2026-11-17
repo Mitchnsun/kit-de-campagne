@@ -1,0 +1,103 @@
+{
+  "id": "dataCentreGridQueue",
+  "retrievedOn": "2026-11-17",
+  "sources": [
+    {
+      "producer": "RTE",
+      "publication": "Les data centers en chiffres clés",
+      "publishedOn": "2026-06-01"
+    },
+    {
+      "producer": "RTE",
+      "publication": "Bilan prévisionnel 2025-2035, principaux résultats",
+      "publishedOn": "2025-12-16"
+    },
+    {
+      "producer": "RTE",
+      "publication": "Bilan prévisionnel 2025-2035, chapitre « La consommation d’électricité »",
+      "publishedOn": "2025-12-23"
+    }
+  ],
+  "headline": {
+    "series": "reserved",
+    "period": "2026-05",
+    "value": 18,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "reserved",
+      "frequency": "monthly",
+      "unit": "gw",
+      "sourceId": "RTE, chiffres clés, juin 2026",
+      "points": [["2026-05", 18]]
+    },
+    {
+      "id": "reservedNov2025",
+      "frequency": "monthly",
+      "unit": "gw",
+      "sourceId": "Bilan prévisionnel 2025, p. 21",
+      "points": [["2025-11", 14]]
+    },
+    {
+      "id": "reservedEnd2024",
+      "frequency": "monthly",
+      "unit": "gw",
+      "sourceId": "RTE, chiffres clés, juin 2026",
+      "points": [["2024-12", 5]]
+    },
+    {
+      "id": "outlookSlow",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "Bilan prévisionnel 2025, figure 2.10",
+      "status": {
+        "2030": "projection",
+        "2035": "projection"
+      },
+      "points": [
+        ["2030", 10],
+        ["2035", 21]
+      ]
+    },
+    {
+      "id": "outlookRapid",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "Bilan prévisionnel 2025, figure 2.10",
+      "status": {
+        "2030": "projection",
+        "2035": "projection"
+      },
+      "points": [
+        ["2030", 15],
+        ["2035", 32]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "byRegion",
+      "unit": "gw",
+      "period": "2026-05",
+      "sourceId": "RTE, chiffres clés, juin 2026",
+      "values": [
+        ["total", 18],
+        ["ileDeFrance", 7],
+        ["hautsDeFrance", 6]
+      ]
+    },
+    {
+      "id": "bySector",
+      "unit": "gw",
+      "period": "2025-11",
+      "sourceId": "Bilan prévisionnel 2025, p. 21",
+      "values": [
+        ["dataCentres", 14],
+        ["hydrogen", 9.5],
+        ["industry", 6.5],
+        ["total", 30]
+      ]
+    }
+  ]
+}
