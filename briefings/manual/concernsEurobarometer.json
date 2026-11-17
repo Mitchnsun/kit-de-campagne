@@ -16,6 +16,7 @@
         "sponsor": "Commission européenne, direction générale de la communication",
         "mode": "faceToFace",
         "sampling": "random",
+        "responseRate": 35.0,
         "margin": "Pour des échantillons d'environ 1 000 entretiens, les pourcentages réels oscillent de ±1,4 point (résultat de 5 % ou 95 %) à ±3,1 points (résultat de 50 %), au niveau de confiance de 95 %",
         "publishedBy": "Commission européenne",
         "questions": [
