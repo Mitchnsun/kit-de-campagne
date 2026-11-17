@@ -51,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Retenue telle quelle par le PO (15/11/2026). La maire regarde vers les mâts plutôt que vers le spectateur : seul l'adjoint le regarde. Le drapeau européen, plissé par le vent, ne montre que onze étoiles : invisible à la taille de la carte, à retoucher si le PO le souhaite. Le pupitre est vu de dos, sans micro.
+Retenue telle quelle par le PO (15/11/2026). La maire regarde vers les mâts plutôt que vers le spectateur : seul l'adjoint le regarde. Le drapeau européen, plissé par le vent, ne montre que onze étoiles : la douzième est cachée par la tête d'un personnage, et le PO garde l'image telle quelle (17/11/2026). Le pupitre est vu de dos, sans micro.
 
 ## Essais écartés
 
