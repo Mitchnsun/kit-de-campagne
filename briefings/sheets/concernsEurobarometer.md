@@ -98,6 +98,7 @@ Relu le 16/11/2026 lors de la saisie, sur de nouveaux téléchargements (non rev
 
 - **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 2, 2 ← 1 réécrite, 3 ← 4 réécrite, 4 ← 3.
 - **16/11/2026, décisions du PO** : le titre de la page devient « Ce qui préoccupe en France » ; les problèmes sont rangés de la part la plus haute de la France au printemps 2026 à la plus basse, dans les ventilations et les séries du fichier (barres, tableau et puces de l'app). Aucune valeur ne change.
+- **17/11/2026** (Mitchnsun/moi-president#447, décision du PO) : le taux de réponse de la vague 105 en France, 35,0 % (spécifications techniques, ST4, déjà relevé dans « Méthode » et vérifié), entre dans les mentions du sondage (`responseRate` de `survey`), que l'app affiche sous « Taux de réponse » ; le communiqué de la Commission des sondages du 05/11/2026 le demande. Les vagues plus anciennes n'ont pas le leur : l'app n'affiche que les mentions de la vague 105. Décision du PO du même jour : l'onglet part avec la prochaine édition, sans attendre la réponse de l'avocat (#178) sur la loi n° 77-808.
 
 ## Relecture
 
