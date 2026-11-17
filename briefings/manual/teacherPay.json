@@ -1,0 +1,173 @@
+{
+  "id": "teacherPay",
+  "retrievedOn": "2026-11-17",
+  "sources": [
+    {
+      "producer": "DEPP",
+      "publication": "L’évolution du salaire des enseignants fonctionnaires ou assimilés entre 2023 et 2024",
+      "publishedOn": "2026-08-20"
+    }
+  ],
+  "headline": {
+    "series": "meanNetPay",
+    "period": "2024",
+    "value": 3090,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "meanNetPay",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Figure 1, Ensemble",
+      "points": [
+        [
+          "2024",
+          3090
+        ]
+      ]
+    },
+    {
+      "id": "fullTimeNetPay",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "Figure 1, Ensemble",
+      "points": [
+        [
+          "2024",
+          3180
+        ]
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "byBody",
+      "unit": "euro",
+      "period": "2024",
+      "sourceId": "Figure 1",
+      "values": [
+        [
+          "schoolTeachers",
+          2850
+        ],
+        [
+          "certified",
+          3130
+        ],
+        [
+          "physicalEducation",
+          3180
+        ],
+        [
+          "vocational",
+          3390
+        ],
+        [
+          "agreges",
+          4080
+        ],
+        [
+          "all",
+          3090
+        ]
+      ]
+    },
+    {
+      "id": "byBodyFullTime",
+      "unit": "euro",
+      "period": "2024",
+      "sourceId": "Figure 1",
+      "values": [
+        [
+          "schoolTeachers",
+          2950
+        ],
+        [
+          "certified",
+          3220
+        ],
+        [
+          "physicalEducation",
+          3240
+        ],
+        [
+          "vocational",
+          3440
+        ],
+        [
+          "agreges",
+          4190
+        ],
+        [
+          "all",
+          3180
+        ]
+      ]
+    },
+    {
+      "id": "byBodyPartTime",
+      "unit": "euro",
+      "period": "2024",
+      "sourceId": "Figure 1",
+      "values": [
+        [
+          "schoolTeachers",
+          2090
+        ],
+        [
+          "certified",
+          2500
+        ],
+        [
+          "physicalEducation",
+          2550
+        ],
+        [
+          "vocational",
+          2600
+        ],
+        [
+          "agreges",
+          3040
+        ],
+        [
+          "all",
+          2340
+        ]
+      ]
+    },
+    {
+      "id": "shareOfTeachers",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "Figure 1",
+      "values": [
+        [
+          "schoolTeachers",
+          47.6
+        ],
+        [
+          "certified",
+          33.1
+        ],
+        [
+          "physicalEducation",
+          4.1
+        ],
+        [
+          "vocational",
+          7.8
+        ],
+        [
+          "agreges",
+          7.3
+        ],
+        [
+          "all",
+          100.0
+        ]
+      ]
+    }
+  ]
+}
