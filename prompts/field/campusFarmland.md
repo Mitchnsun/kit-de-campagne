@@ -1,18 +1,18 @@
 # `campusFarmland` · Un campus de calcul dans les champs
 
-**À générer.** La fiche est prête ; l'image, la relecture et la validation du PO restent à faire.
+**Retenue par le PO le 18/11/2026**, au quatrième essai. Elle sert telle quelle en clair et en sombre.
 
-L'image ira en `illustrations/field/campusFarmland.webp`, et cette ligne deviendra son aperçu.
+![Un campus de calcul dans les champs](../../illustrations/field/campusFarmland.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `campusFarmland`, catégorie `field` (Rencontre), poids 0,15, toute semaine, un peu plus souvent pour une position écologiste (`leaning`, écologie 0,3) ; exclut `nightGenerators` (Mitchnsun/moi-president, PO, 17/11/2026) |
 | Style | Reportage dessiné |
 | Ton | Tendu sans éclat, néons d’une salle des fêtes un soir d’hiver |
-| Date | À compléter |
-| Outil | À compléter (modèle et effort) |
+| Date | 2026-11-18 |
+| Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 250 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -51,11 +51,29 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-À compléter.
+Retenue par le PO (18/11/2026) pour son regard : le maraîcher et la conseillère fixent le spectateur, comme le prompt le demande. Son rendu est plus fini que la référence, une peinture presque photographique sous une texture de hachures, celui que le gabarit appelle une dérive ; le PO l'a préférée aux deuxième et troisième essais, au trait juste mais au regard qui passe au-dessus du spectateur. Une table ronde remplace la petite table du premier plan ; les deux hommes en casquette plate, à gauche et à droite, ont des visages différents.
 
 ## Essais écartés
 
-Aucun.
+- **Essai 1** (18/11/2026), au prompt complet : la composition et le regard justes, le rendu presque photographique sous un filtre de hachures et de craquelures.
+- **Essai 2** (18/11/2026), au message de correction ci-dessous : le rendu de la référence, traits d'encre et lavis clairs, la scène redessinée ; le maraîcher regarde au-dessus du spectateur, la conseillère en l'air.
+- **Essai 3** (18/11/2026), au second message ci-dessous : presque identique à l'essai 2, les regards inchangés.
+
+### Messages de correction
+
+Après l'essai 1, dans la même conversation :
+
+```
+Keep the same scene, the same people, the same places and the same poses, but match the rendering of the reference image much more closely: a quick reportage drawing on warm paper, pencil and ink lines, loose watercolour washes, plenty of white paper showing through, lighter and less saturated overall; no photographic rendering, no hatching filter over a finished digital painting; every face is drawn like the clothes, with an ink outline, a few hatching strokes and flat watercolour washes. Every outline is a continuous pencil or ink line: no dotted or dashed outlines anywhere, and no mottled, crackled or speckled texture laid over the faces, the clothes, the chairs or the fields. Everything else stays the same: nothing readable, exactly five fingers on every visible hand.
+```
+
+Après l'essai 2 :
+
+```
+Keep exactly the same picture, rendering and people; only change the gaze: the market gardener on the right and the councillor at the table look straight at the viewer, waiting for an answer.
+```
+
+L'essai 4, retenu, est une nouvelle génération, à compléter (nouvelle conversation ou même conversation, et le message envoyé).
 
 ## Retouches
 
@@ -63,12 +81,12 @@ Aucune.
 
 ## Relecture
 
-À faire.
+Faite le 18/11/2026, à confirmer par le PO.
 
-- [ ] Aucun texte lisible : journaux, pancartes, enseignes, plans, tampons, écrans.
-- [ ] Aucun sosie d'une personne réelle, hors une ressemblance voulue notée plus haut.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : le plan ne montre que des parcelles, des maisons et des rectangles gris ; carnet vierge, pancarte retournée, téléphone illisible.
+- [x] Aucun sosie d'une personne réelle repéré.
+- [x] Le candidat du joueur est hors champ : seuls son micro et son carnet, au premier plan.
+- [x] Mains et visages sans défaut visible à 343 px de large : bras croisés de l'agricultrice, mains jointes du maire et de la conseillère, mains dans les poches du maraîcher, mains de la lycéenne sur la pancarte.
+- [x] Aucune couleur, aucun logo ni aucun drapeau de parti ; seule l'écharpe tricolore du maire. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 16:9 : pas de recadrage.
+- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
