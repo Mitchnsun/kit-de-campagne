@@ -1,18 +1,18 @@
 # `foreignHost` · Les données de santé hébergées ailleurs
 
-**À générer.** La fiche est prête ; l'image, la relecture et la validation du PO restent à faire.
+**Validée par le PO le 18/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
 
-L'image ira en `illustrations/institutions/foreignHost.webp`, et cette ligne deviendra son aperçu.
+![Les données de santé hébergées ailleurs](../../illustrations/institutions/foreignHost.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `foreignHost`, catégorie `institutions` (Institutions), poids 0,1, toute semaine, un peu plus souvent pour une position antisystème (`leaning`, système 0,3) (Mitchnsun/moi-president, PO, 17/11/2026) |
 | Style | Reportage dessiné |
 | Ton | Observateur, une galerie de palais sous une lumière d’après-midi |
-| Date | À compléter |
-| Outil | À compléter (modèle et effort) |
+| Date | 2026-11-18 |
+| Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 190 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -51,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-À compléter.
+Retenue telle quelle par le PO (18/11/2026). Les visages du premier plan sont plus finis que dans la référence, sans filtre marqué ; la journaliste sourit légèrement plutôt que d'attendre. Le responsable juridique s'éloigne avec trois conseils, dont une femme, et le dossier du candidat est posé sur une table au premier plan.
 
 ## Essais écartés
 
@@ -63,12 +63,12 @@ Aucune.
 
 ## Relecture
 
-À faire.
+Faite le 18/11/2026, validée par le PO le même jour.
 
-- [ ] Aucun texte lisible : journaux, pancartes, enseignes, plans, tampons, écrans.
-- [ ] Aucun sosie d'une personne réelle, hors une ressemblance voulue notée plus haut.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : l'écran ne montre que la table de l'audition ; badge vierge, carnet, micro, caméra et téléphones sans inscription.
+- [x] Aucun sosie d'une personne réelle repéré.
+- [x] Le candidat du joueur est hors champ : seuls son dossier et son badge visiteur, au premier plan.
+- [x] Mains et visages sans défaut visible à 343 px de large : la main au micro, celles du caméraman, du photographe et de la journaliste au téléphone.
+- [x] Aucune couleur, aucun logo ni aucun drapeau de parti ; seuls les drapeaux tricolore et européen du Sénat. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 16:9 : pas de recadrage.
+- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
