@@ -10,8 +10,8 @@
 | Style | Reportage dessiné |
 | Ton | Tendu, la nuit, lumières orangées de la rue et blanches du site |
 | Date | 2026-11-18 |
-| Outil | ChatGPT Images, à compléter (modèle et effort) |
-| Conversation | À compléter |
+| Outil | ChatGPT Images |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 220 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
