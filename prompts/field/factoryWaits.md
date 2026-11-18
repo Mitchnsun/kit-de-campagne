@@ -1,18 +1,18 @@
 # `factoryWaits` · La fonderie qui attend le réseau
 
-**À générer.** La fiche est prête ; l'image, la relecture et la validation du PO restent à faire.
+**Validée par le PO le 18/11/2026**, au deuxième essai, après un message de correction. Elle sert telle quelle en clair et en sombre.
 
-L'image ira en `illustrations/field/factoryWaits.webp`, et cette ligne deviendra son aperçu.
+![La fonderie qui attend le réseau](../../illustrations/field/factoryWaits.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `factoryWaits`, catégorie `field` (Rencontre), poids 0,12, toute semaine, sans condition (Mitchnsun/moi-president, PO, 17/11/2026) |
 | Style | Reportage dessiné |
 | Ton | Observateur, la lueur orangée du four dans une halle grise |
-| Date | À compléter |
-| Outil | À compléter (modèle et effort) |
+| Date | 2026-11-18 |
+| Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 166 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -51,11 +51,19 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-À compléter.
+Retenue par le PO (18/11/2026). Le casque de visiteur n'est plus qu'un arc blanc au bas du cadre ; les couleurs sont plus pâles que sur les deux autres cartes de la série, hors la lueur du four.
+
+### Message de correction
+
+Après l'essai 1, dans la même conversation ; il a donné l'image retenue :
+
+```
+Keep the same scene, the same people, the same places and the same poses, but match the rendering of the reference image much more closely: a quick reportage drawing on warm paper, pencil and ink lines, loose watercolour washes, plenty of white paper showing through, lighter and less saturated overall; no photographic rendering, no oil-paint texture, no hatching filter over a finished digital painting; every face, hand and piece of clothing is drawn with an ink outline, a few hatching strokes and flat watercolour washes. Every outline is a continuous pencil or ink line: no dotted or dashed outlines anywhere, and no mottled, crackled or speckled texture laid over the faces, the jackets, the silver suits, the metal or the hills. The white hard hat in the foreground is smaller, only its edge at the bottom of the frame, and the director stands a little further from the right edge, his whole head inside the frame. Everything else stays the same: nothing readable, exactly five fingers on every visible hand.
+```
 
 ## Essais écartés
 
-Aucun.
+- **Essai 1** (18/11/2026), au prompt complet : la composition, le regard et le geste justes, mais une peinture épaisse à texture d'huile et de taches, un casque de visiteur qui occupait le bas du cadre et la tête du directeur au bord droit.
 
 ## Retouches
 
@@ -63,12 +71,12 @@ Aucune.
 
 ## Relecture
 
-À faire.
+Faite le 18/11/2026, validée par le PO le même jour.
 
-- [ ] Aucun texte lisible : journaux, pancartes, enseignes, plans, tampons, écrans.
-- [ ] Aucun sosie d'une personne réelle, hors une ressemblance voulue notée plus haut.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : classeur, combinaisons, machines et casque sans inscription.
+- [x] Aucun sosie d'une personne réelle repéré.
+- [x] Le candidat du joueur est hors champ : seul le bord de son casque de visiteur, au bas du cadre.
+- [x] Mains et visages sans défaut visible à 343 px de large : la main du directeur qui pointe, les mains de l'ingénieure sur le classeur.
+- [x] Aucune couleur, aucun logo ni aucun drapeau de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 16:9 : pas de recadrage.
+- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
