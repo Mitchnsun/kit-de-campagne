@@ -1,19 +1,19 @@
-# `teacherPay` · Le salaire des enseignants (partie de la page « PISA, sortants précoces, budget et salaires », saisie à la main)
+# `teacherPay` · Le salaire des enseignants (partie de la page « PISA, sortants précoces, budget et salaires »)
 
-**Vérifiée le 17/11/2026** : les valeurs saisies sont celles de la figure 1 de la note, relue dans le PDF, et celles de l'API de l'OCDE, relue par un script Python ; la presse du jour de publication et le chapitre de l'OCDE les recoupent (section « Double vérification »).
+**Vérifiée le 18/11/2026** : le fichier du script concorde avec le PDF de la note (figure 1) et avec une lecture indépendante du fichier de données (Python, openpyxl) ; la presse du jour de publication et le chapitre de l'OCDE recoupent les chiffres clés (section « Double vérification »).
 
 | Champ | Valeur |
 | --- | --- |
 | Indicateur | `teacherPay`, quatrième volet de la page `schools`, dossier « Éducation » (`education`), page de type comparaison, recherche du 17/11/2026 (#21) |
-| Données | `briefings/manual/teacherPay.json`, saisi le 2026-11-17 depuis le PDF (guide 8 de l'app : le fichier de données de la note n'a pas été trouvé, les pages de la DEPP répondent 403 aux scripts ; les noms de fichier essayés sur le modèle des autres notes répondent 404) ; les ratios de l'OCDE, saisis le même jour depuis la réponse de son API SDMX (un indicateur est soit écrit par un script, soit saisi à la main : ceux de la DEPP n'ayant pas de script, ceux de l'OCDE sont saisis avec eux) |
-| Source | DEPP, Note d'Information n° 26.36, août 2026, « L'évolution du salaire des enseignants fonctionnaires ou assimilés entre 2023 et 2024 », https://www.education.gouv.fr/sites/default/files/document/depp-ni-2026-36pdf-519727.pdf (page https://www.education.gouv.fr/depp/l-evolution-du-salaire-des-enseignants-fonctionnaires-ou-assimiles-entre-2023-et-2024-505401), figure 1, page 1 ; publiée le jeudi 20/08/2026 selon la presse (L'Info durable du 20/08/2026 : « publiée jeudi » ; fichier PDF créé le 05/08/2026) ; licence : voir `schools.md` |
+| Données | `briefings/data/teacherPay.json`, écrit par `yarn briefings teacherPay` le 2026-11-18 (il était saisi à la main depuis le PDF le 17/11/2026, le fichier de données n'ayant pas été trouvé ; le compte rendu de la page lue pour le PO le 18/11/2026 en donne l'adresse : mêmes valeurs) |
+| Source | DEPP, Drégoir M., 2026, « L’évolution du salaire des enseignants fonctionnaires ou assimilés entre 2023 et 2024 », Note d'Information n° 26-36 (« n° 26.36 » dans le PDF et le fichier), publiée le 20/08/2026 (date affichée sur la page, lue pour le PO le 18/11/2026 ; le PDF a été créé le 05/08/2026) ; page https://www.education.gouv.fr/depp/l-evolution-du-salaire-des-enseignants-fonctionnaires-ou-assimiles-entre-2023-et-2024-505401 (en français seulement : `hreflang="fr"`, aucune version anglaise) ; PDF https://www.education.gouv.fr/sites/default/files/document/depp-ni-2026-36pdf-519727.pdf ; fichier de données https://www.education.gouv.fr/sites/default/files/document/depp-ni-2026-26-36-donneesxlsx-519733.xlsx (14 onglets, « Figure 1 » ; certains noms d'onglet finissent par une espace, « Figure 6 - Web », « Figure 8 - Web ») ; DOI https://doi.org/10.48464/ni-26-36 (le registre n'a pas de champ DOI : il est dans son commentaire) ; licence : aucune sur la page ni dans le fichier, seul le pied de page du site, « Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0 » (Licence Ouverte 2.0) |
 | Source 2 | OCDE, « Salaires effectifs des enseignants relatif à la rémunération des actifs occupés » (flux `OECD.EDU.IMEP,DSD_EAG_SAL_ACT@DF_TCH_REL`, version 2.1, Regards sur l'éducation 2026, publié le 29/09/2026), https://data-explorer.oecd.org/vis?lc=fr&df[ds]=DisseminateFinal&df[id]=DSD_EAG_SAL_ACT%40DF_TCH_REL&df[ag]=OECD.EDU.IMEP ; requête https://sdmx.oecd.org/public/rest/data/OECD.EDU.IMEP,DSD_EAG_SAL_ACT@DF_TCH_REL,/FRA+OECD+EU25.SAL_ACT_REL_TER..INST_EDU_PUB.ISCED11_1+ISCED11_24+ISCED11_34.Y25T64._T...... (CSV) ; licence CC BY 4.0 aux conditions de l'OCDE (`oecd`, PO, 17/11/2026), https://www.oecd.org/fr/about/terms-conditions.html |
 | Séries | `meanNetPay` : 3 090 € (2024) ; `fullTimeNetPay` : 3 180 € (2024) ; répartitions de 2024 par corps (`schoolTeachers`, `certified`, `physicalEducation`, `vocational`, `agreges`, `all`) : `byBody` (ensemble), `byBodyFullTime`, `byBodyPartTime` (en euros nets mensuels), `shareOfTeachers` (structure, en %) ; répartitions de l'OCDE (ratio, deux décimales comme l'attribut `DECIMALS` de l'OCDE) par niveau (`primary` ISCED11_1, `lowerSecondary` ISCED11_24, `upperSecondary` ISCED11_34), mesure `SAL_ACT_REL_TER`, établissements publics, enseignants de 25 à 64 ans, deux sexes : `oecdRatioFrance` (2023 : 0,81, 0,90, 0,98), `oecdRatioOecd` (2025 : 0,87, 0,90, 0,94), `oecdRatioEu` (UE à 25, 2025 : 0,83, 0,86, 0,91). La période est l'attribut `REF_PERIOD` (« Reference period » des salaires) ; les rémunérations des diplômés sont de l'année `BASE_PER` (« Reference year of earnings data » : 2022 pour la France, 2024 pour les moyennes). Le flux n'a pas de dimension de temps |
 | Chiffre clé | 3 090 € nets par mois en 2024 ; pas de tendance (une seule année : la note avertit que ses niveaux ne se comparent pas à ceux de la publication précédente) |
-| Règles | Les colonnes de la figure 1, sans calcul ; la part des enseignants à temps complet par corps (88,9 % à 93,6 %) n'est pas reprise ; la structure ne fait pas 100,0 (99,9) : d'autres corps (PEGC, adjoints d'enseignement) sont dans l'ensemble |
+| Règles | Le script lit l'onglet « Figure 1 » : il exige le titre « Répartition des salaires nets moyens et des enseignants selon leur corps, en <année> », les intitulés de colonnes sur la dernière ligne d'en-tête (exceljs répète un en-tête fusionné dans chaque cellule qu'il couvre), les cinq corps et « Ensemble1 », le champ « France hors Mayotte », des salaires de 1 000 à 10 000 € et des parts de 0 à 100 ; il arrondit les parts au dixième comme la note (le fichier a les valeurs non arrondies, 47,6047959847569) et garde les salaires tels quels. La part des enseignants à temps complet par corps (88,9 % à 93,6 %) n'est pas reprise ; la structure ne fait pas 100,0 (99,9) : d'autres corps (PEGC, adjoints d'enseignement) sont dans l'ensemble. L'API de l'OCDE : il exige les colonnes et les codes fixes (mesure, unité, public, 25-64 ans, deux sexes, enseignants), un ratio de 0,3 à 2 par zone et par niveau, une seule année par zone, et réessaie une erreur 500 du serveur |
 | Première édition | À remplir à la publication |
 
-À actualiser : à la note suivante de la DEPP (août ou septembre) ; chercher alors son fichier « données » pour un script.
+À actualiser : à la note suivante de la DEPP (août ou septembre) : changer l'adresse du fichier et la date dans `DEPP` du script ; à chaque Regards sur l'éducation (septembre) : la date dans `OECD`.
 
 ## « À savoir »
 
@@ -29,6 +29,8 @@ Faite le 17/11/2026 par un agent Claude (modèle Opus) par la recherche web.
 
 | Élément | Valeur du fichier | Valeur trouvée | Source (URL) | Verdict |
 | --- | --- | --- | --- | --- |
+| Fichier de données, figure 1 | les 24 valeurs de salaire et les 6 parts | Identiques, lues dans le classeur par un script Python (openpyxl) ; identiques au compte rendu de la page lue pour le PO le 18/11/2026 (3 090 € et 3 180 € « confirmé ») et au PDF, figure 1 | https://www.education.gouv.fr/sites/default/files/document/depp-ni-2026-26-36-donneesxlsx-519733.xlsx | Conforme |
+| Évolutions sur 2023 | + 6,4 % courants, + 4,3 % constants (notes « À savoir ») | Les mêmes sur la page ; aucune évolution par corps dans la figure 1 | Compte rendu du 18/11/2026 | Conforme |
 | Chiffre clé | 3 090 € | « 3.090 euros nets » | https://www.linfodurable.fr/les-enseignants-gagnaient-en-moyenne-3090-euros-en-2024-selon-une-etude-58660 (20/08/2026) | Conforme |
 | Temps complet, ensemble | 3 180 € | « 3.180 euros nets » | même article | Conforme |
 | Agrégés, temps complet | 4 190 € | 4 190 € | même article | Conforme |
@@ -40,11 +42,11 @@ Faite le 17/11/2026 par un agent Claude (modèle Opus) par la recherche web.
 
 **Conclusion.** Conforme ; les ratios de la France restent à recouper dans le tableau D3 de Regards sur l'éducation 2026.
 
-**Pages consultées** le 17/11/2026 : celles du tableau.
+**Pages consultées** le 17/11/2026 et le 18/11/2026 : celles du tableau.
 
 ## Mises à jour
 
-Aucune.
+- **18/11/2026** : le compte rendu de la page de la note, lue pour le PO, donne le titre, le numéro (« n° 26-36 »), la référence bibliographique, la date affichée, le DOI, le fichier de données et la licence du site ; l'indicateur passe d'une saisie à la main au script `teacherPay.ts` (fichier de données de la DEPP et API de l'OCDE), mêmes valeurs ; `briefings/manual/teacherPay.json` est supprimé.
 
 ## Relecture
 

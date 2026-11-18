@@ -1,0 +1,124 @@
+{
+  "id": "teacherPay",
+  "retrievedOn": "2026-11-18",
+  "sources": [
+    {
+      "producer": "DEPP",
+      "publication": "L’évolution du salaire des enseignants fonctionnaires ou assimilés entre 2023 et 2024",
+      "publishedOn": "2026-08-20"
+    },
+    {
+      "producer": "OCDE",
+      "publication": "Salaires effectifs des enseignants relatif à la rémunération des actifs occupés",
+      "publishedOn": "2026-09-29"
+    }
+  ],
+  "headline": { "series": "meanNetPay", "period": "2024", "value": 3090, "trend": null },
+  "series": [
+    {
+      "id": "meanNetPay",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "NI 26-36 figure 1, Ensemble",
+      "points": [["2024", 3090]]
+    },
+    {
+      "id": "fullTimeNetPay",
+      "frequency": "annual",
+      "unit": "euro",
+      "sourceId": "NI 26-36 figure 1, Ensemble",
+      "points": [["2024", 3180]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "shareOfTeachers",
+      "unit": "percent",
+      "period": "2024",
+      "sourceId": "NI 26-36 figure 1",
+      "values": [
+        ["schoolTeachers", 47.6],
+        ["certified", 33.1],
+        ["physicalEducation", 4.1],
+        ["vocational", 7.8],
+        ["agreges", 7.3],
+        ["all", 100]
+      ]
+    },
+    {
+      "id": "byBody",
+      "unit": "euro",
+      "period": "2024",
+      "sourceId": "NI 26-36 figure 1",
+      "values": [
+        ["schoolTeachers", 2850],
+        ["certified", 3130],
+        ["physicalEducation", 3180],
+        ["vocational", 3390],
+        ["agreges", 4080],
+        ["all", 3090]
+      ]
+    },
+    {
+      "id": "byBodyFullTime",
+      "unit": "euro",
+      "period": "2024",
+      "sourceId": "NI 26-36 figure 1",
+      "values": [
+        ["schoolTeachers", 2950],
+        ["certified", 3220],
+        ["physicalEducation", 3240],
+        ["vocational", 3440],
+        ["agreges", 4190],
+        ["all", 3180]
+      ]
+    },
+    {
+      "id": "byBodyPartTime",
+      "unit": "euro",
+      "period": "2024",
+      "sourceId": "NI 26-36 figure 1",
+      "values": [
+        ["schoolTeachers", 2090],
+        ["certified", 2500],
+        ["physicalEducation", 2550],
+        ["vocational", 2600],
+        ["agreges", 3040],
+        ["all", 2340]
+      ]
+    },
+    {
+      "id": "oecdRatioFrance",
+      "unit": "ratio",
+      "period": "2023",
+      "sourceId": "DF_TCH_REL FRA SAL_ACT_REL_TER",
+      "values": [
+        ["primary", 0.81],
+        ["lowerSecondary", 0.9],
+        ["upperSecondary", 0.98]
+      ]
+    },
+    {
+      "id": "oecdRatioOecd",
+      "unit": "ratio",
+      "period": "2025",
+      "sourceId": "DF_TCH_REL OECD SAL_ACT_REL_TER",
+      "values": [
+        ["primary", 0.87],
+        ["lowerSecondary", 0.9],
+        ["upperSecondary", 0.94]
+      ]
+    },
+    {
+      "id": "oecdRatioEu",
+      "unit": "ratio",
+      "period": "2025",
+      "sourceId": "DF_TCH_REL EU25 SAL_ACT_REL_TER",
+      "values": [
+        ["primary", 0.83],
+        ["lowerSecondary", 0.86],
+        ["upperSecondary", 0.91]
+      ]
+    }
+  ]
+}
