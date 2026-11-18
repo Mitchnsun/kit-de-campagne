@@ -1,0 +1,104 @@
+{
+  "id": "dataCentreConsumption",
+  "retrievedOn": "2026-11-17",
+  "sources": [
+    {
+      "producer": "SDES",
+      "publication": "La consommation d'électricité des data centers en 2024",
+      "publishedOn": "2026-07-02"
+    }
+  ],
+  "headline": { "series": "total", "period": "2024", "value": 4.339, "trend": "up" },
+  "series": [
+    {
+      "id": "under2",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "SDES, Figure 1",
+      "points": [
+        ["2018", 0.185],
+        ["2019", 0.185],
+        ["2020", 0.185],
+        ["2021", 0.193],
+        ["2022", 0.204],
+        ["2023", 0.212],
+        ["2024", 0.21]
+      ]
+    },
+    {
+      "id": "from2To5",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "SDES, Figure 1",
+      "points": [
+        ["2018", 0.377],
+        ["2019", 0.399],
+        ["2020", 0.404],
+        ["2021", 0.393],
+        ["2022", 0.399],
+        ["2023", 0.416],
+        ["2024", 0.397]
+      ]
+    },
+    {
+      "id": "from5To10",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "SDES, Figure 1",
+      "points": [
+        ["2018", 0.432],
+        ["2019", 0.458],
+        ["2020", 0.469],
+        ["2021", 0.477],
+        ["2022", 0.502],
+        ["2023", 0.538],
+        ["2024", 0.555]
+      ]
+    },
+    {
+      "id": "from10To50",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "SDES, Figure 1",
+      "points": [
+        ["2018", 1.765],
+        ["2019", 1.778],
+        ["2020", 1.624],
+        ["2021", 1.652],
+        ["2022", 1.675],
+        ["2023", 1.671],
+        ["2024", 1.769]
+      ]
+    },
+    {
+      "id": "over50",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "SDES, Figure 1",
+      "points": [
+        ["2018", 0.553],
+        ["2019", 0.661],
+        ["2020", 0.85],
+        ["2021", 1.035],
+        ["2022", 1.13],
+        ["2023", 1.216],
+        ["2024", 1.408]
+      ]
+    },
+    {
+      "id": "total",
+      "frequency": "annual",
+      "unit": "twh",
+      "sourceId": "SDES, Figure 1",
+      "points": [
+        ["2018", 3.311],
+        ["2019", 3.481],
+        ["2020", 3.531],
+        ["2021", 3.751],
+        ["2022", 3.91],
+        ["2023", 4.052],
+        ["2024", 4.339]
+      ]
+    }
+  ]
+}
