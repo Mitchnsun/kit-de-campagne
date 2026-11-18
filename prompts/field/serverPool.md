@@ -1,18 +1,18 @@
 # `serverPool` · La piscine chauffée aux serveurs
 
-**À générer.** La fiche est prête ; l'image, la relecture et la validation du PO restent à faire.
+**Validée par le PO le 18/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
 
-L'image ira en `illustrations/field/serverPool.webp`, et cette ligne deviendra son aperçu.
+![La piscine chauffée aux serveurs](../../illustrations/field/serverPool.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `serverPool`, catégorie `field` (Rencontre), poids 0,1, toute semaine, un peu plus souvent pour une position écologiste (`leaning`, écologie 0,2) (Mitchnsun/moi-president, PO, 17/11/2026) |
 | Style | Reportage dessiné |
 | Ton | Chaleureux, avec une pointe d’ironie, lumière d’un bassin au soleil |
-| Date | À compléter |
-| Outil | À compléter (modèle et effort) |
+| Date | 2026-11-18 |
+| Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 192 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -51,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-À compléter.
+Retenue telle quelle par le PO (18/11/2026). Le militant attend dans le hall de la piscine, près des portes vitrées, plutôt que derrière la vitre de l'entrée ; le nageur âgé, rond et torse nu, est dessiné sans moquerie. Des plots à dessus bleu bordent le bassin, et un clocher se devine parmi les colombages.
 
 ## Essais écartés
 
@@ -63,12 +63,12 @@ Aucune.
 
 ## Relecture
 
-À faire.
+Faite le 18/11/2026, validée par le PO le même jour.
 
-- [ ] Aucun texte lisible : journaux, pancartes, enseignes, plans, tampons, écrans.
-- [ ] Aucun sosie d'une personne réelle, hors une ressemblance voulue notée plus haut.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : pupitre, ruban, feuille du militant, tuyau et bâtiment sans inscription.
+- [x] Aucun sosie d'une personne réelle repéré.
+- [x] Le candidat du joueur est hors champ : seule la serviette qu'on lui tend, au premier plan.
+- [x] Mains et visages sans défaut visible à 343 px de large : les deux mains de la maire, celles des nageurs sur leurs serviettes, de la photographe et du militant.
+- [x] Aucune couleur, aucun logo ni aucun drapeau de parti ; seule l'écharpe tricolore de la maire, et le ruban tricolore de l'inauguration. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 16:9 : pas de recadrage.
+- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
