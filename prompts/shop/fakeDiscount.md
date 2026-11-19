@@ -1,16 +1,18 @@
 # `fakeDiscount` · La fausse promotion
 
-**Pas encore générée.** La fiche donne le prompt du premier essai, à valider par le PO. L'image ira en `illustrations/shop/fakeDiscount.webp`.
+**Validée par le PO le 19/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+
+![La fausse promotion](../../illustrations/shop/fakeDiscount.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `fakeDiscount`, catégorie `shop` (Boutique), poids 0,25, tant que la boutique est ouverte ; carte ajoutée par la PR #460 de l'app (Mitchnsun/moi-president#265) |
 | Style | Reportage dessiné |
 | Ton | Ironique, une tentation |
-| Date | À compléter |
-| Outil | À compléter |
+| Date | 2026-11-19 |
+| Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 221 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -49,20 +51,20 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Essais écartés
 
-Aucun : l'image n'est pas encore générée.
+Aucun.
 
 ## Retouches
 
-Aucune.
+Aucune. La pastille rouge occupe une case de la page plutôt que de couvrir les prix : écart accepté, elle dit encore la promotion à côté des produits.
 
 ## Relecture
 
-À faire par le PO, sur l'image retenue.
+Faite et validée par le PO le 19/11/2026.
 
-- [ ] Aucun texte lisible : journaux, pancartes, enseignes, plans, tampons, écrans.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : la pastille rouge est un disque uni, sans chiffre ni mot ; la liste des prix et le carnet ne portent que des traits ; les produits de la page n'ont ni logo ni lettre.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : seuls son carnet ouvert et son stylo, au premier plan.
+- [x] Mains et visages sans défaut visible à 343 px de large : la main de la responsable de la croissance tendue vers l'écran et celle sur l'ordinateur, les bras croisés du comptable.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure. Les peaux de la chamoiserie au mur, la Sèvre et ses saules par la fenêtre.
+- [x] En 16:9 : pas de recadrage.
+- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
