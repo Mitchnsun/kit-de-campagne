@@ -1,16 +1,18 @@
 # `sweatshop` · L'atelier de misère
 
-**Pas encore générée.** La fiche donne le prompt du premier essai, à valider par le PO. L'image ira en `illustrations/shop/sweatshop.webp`.
+**Validée par le PO le 19/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+
+![L'atelier de misère](../../illustrations/shop/sweatshop.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `sweatshop`, catégorie `shop` (Boutique), poids 0,25, tant que la boutique est ouverte, seulement quand ses produits sont importés ; trois fois plus fréquente quand la campagne défend la production en France (une mesure qui la défend au programme, ou une position de 0,4 ou plus sur l'axe de l'Europe) ; carte ajoutée par la PR #460 de l'app (Mitchnsun/moi-president#265) |
 | Style | Reportage dessiné |
 | Ton | Grave, sans pathos |
-| Date | À compléter |
-| Outil | À compléter |
+| Date | 2026-11-19 |
+| Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 219 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -49,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Essais écartés
 
-Aucun : l'image n'est pas encore générée.
+Aucun.
 
 ## Retouches
 
@@ -57,12 +59,12 @@ Aucune.
 
 ## Relecture
 
-À faire par le PO, sur l'image retenue.
+Faite et validée par le PO le 19/11/2026.
 
-- [ ] Aucun texte lisible : journaux, pancartes, enseignes, plans, tampons, écrans.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : les photos, l'écran du portable, les feuilles de l'imprimante, le carnet et les boîtes d'archives sont vierges.
+- [x] Aucun sosie d'une personne réelle, militant compris.
+- [x] Le candidat du joueur est absent.
+- [x] Mains et visages sans défaut visible à 343 px de large : la main du chargé d'enquête sur la punaise, celles de sa collègue sur le clavier.
+- [x] Aucune couleur ni aucun logo de parti, aucun drapeau. Sur les photos, des ouvrières et des ouvriers adultes, concentrés et dignes, sans corps souffrant. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 16:9 : pas de recadrage.
+- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
