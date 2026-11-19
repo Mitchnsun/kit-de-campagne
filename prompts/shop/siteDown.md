@@ -1,16 +1,18 @@
 # `siteDown` · Le site tombe
 
-**Pas encore générée.** La fiche donne le prompt du premier essai, à valider par le PO. L'image ira en `illustrations/shop/siteDown.webp`.
+**Validée par le PO le 19/11/2026**, au premier essai, avec une retouche. Elle sert telle quelle en clair et en sombre.
+
+![Le site tombe](../../illustrations/shop/siteDown.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `siteDown`, catégorie `shop` (Boutique), poids 0,4, tant que la boutique est ouverte ; carte ajoutée par la PR #460 de l'app (Mitchnsun/moi-president#265) |
 | Style | Reportage dessiné |
 | Ton | Tendu, la nuit |
-| Date | À compléter |
-| Outil | À compléter |
+| Date | 2026-11-19 |
+| Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 192 Ko, sans recadrage, fait depuis la copie WebP de la conversation retouchée (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -49,20 +51,21 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Essais écartés
 
-Aucun : l'image n'est pas encore générée.
+Aucun.
 
 ## Retouches
 
-Aucune.
+Une marque de constructeur esquissée sur le bas du cadre de l'écran du milieu (environ 16 × 11 px, vers x 1084, y 544 sur l'image de 1672 × 941) est recouverte par le bord du cadre voisin, au Python (PIL), avant l'export (19/11/2026). Le grain de peinture visible sur toute l'image est accepté : il ne se voit plus à la taille de la page.
 
 ## Relecture
 
-À faire par le PO, sur l'image retenue.
+Faite et validée par le PO le 19/11/2026.
 
-- [ ] Aucun texte lisible : journaux, pancartes, enseignes, plans, tampons, écrans.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : la page d'erreur ne montre que la prise débranchée, la courbe et les journaux sont des traits ; les boîtes à pizza, le carnet et le téléphone sont vierges.
+- [x] Aucun logo de plateforme ni de constructeur, après la retouche du cadre de l'écran.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : seuls son téléphone et un gobelet, au premier plan.
+- [x] Mains et visages sans défaut visible à 343 px de large : les mains de la développeuse sur le clavier, celle du collègue sous le menton.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure. Derrière la verrière, une presse d'imprimerie et les façades du 11e.
+- [x] En 16:9 : pas de recadrage.
+- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
