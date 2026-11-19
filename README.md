@@ -53,6 +53,7 @@ Dans les deux dossiers, images et fiches sont rangées par catégorie d'événem
 | `polemic` | Polémique |
 | `private` | Vie privée |
 | `rendezvous` | Rendez-vous |
+| `shop` | Boutique |
 | `sponsorships` | Parrainages |
 | `support` | Offre de soutien |
 | `team` | Crise d'équipe |
