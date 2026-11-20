@@ -2,7 +2,7 @@
 
 **Vérifiée le 02/11/2026** : les valeurs saisies concordent avec les courbes du rapport de juin 2026 et de son diaporama (lecture des coordonnées des figures), et avec le texte arrondi (2,1 ; 1,8 ; 1,3). Corrigé : ce que compte le rapport (l'emploi total de la comptabilité nationale pour un retraité de droit direct, en France ou à l'étranger), 2025 marqué estimé (`provisional`) et non projeté, comme dans le rapport ; notes précisées.
 
-**Réutilisation autorisée** (03/11/2026) : le COR a confirmé par écrit, à la demande du PO, que le jeu peut utiliser les données de cette série et faire figurer la mention « COR, rapport annuel de juin 2026 ». Le kit ne reprend que la série de chiffres, avec cette mention, jamais le rapport ni ses figures.
+**Réutilisation autorisée** (03/11/2026) : le COR a confirmé par écrit, à la demande du PO, que le jeu peut utiliser les données de son fichier « Données juin 2026 – partie 2 » (`Données_RA2026_P2.xlsx`) en entier, avec la mention « COR, rapport annuel de juin 2026 » (déclaration du PO du 17/11/2026 : l'accord couvre tout le fichier, donc aussi `retirementAge` et `pensionBalance`). Le kit ne reprend que les séries de chiffres, avec cette mention, jamais le rapport ni ses figures.
 
 | Champ | Valeur |
 | --- | --- |
@@ -10,7 +10,7 @@
 | Données | `briefings/manual/contributorsPerRetiree.json`, saisi le 2026-11-02 depuis « Données juin 2026 – partie 2 » du COR, onglet « Fig 2.3 », ligne « 2.2b Rapport entre le nombre de cotisants et le nombre de retraités » (PO, 02/11/2026 : projections du COR saisies à la main), arrondi à deux décimales |
 | Source | COR, rapport annuel de juin 2026, « Évolutions et perspectives des retraites en France », publié le 11/06/2026, figure 2.3 ; chiffres cités ; en français seulement (pas de version anglaise du rapport ni de sa synthèse) |
 | Série | `contributorsPerRetiree` : cotisants par retraité de droit direct, observé de 2002 à 2024, 2025 estimé, projeté de 2026 à 2070 dans le scénario de référence (statut `projection`) |
-| Chiffre clé | 1,77 cotisant par retraité en 2024, en baisse (2,14 en 2002 ; quasi stable depuis 2012, entre 1,72 et 1,78) |
+| Chiffre clé | 1,77 cotisant par retraité en 2025 (estimé, `provisional`), stable par rapport à 2024 (1,77) au centième affiché ; 2,14 en 2002, quasi stable depuis 2012, entre 1,72 et 1,78. Depuis le 17/11/2026 (PO) : la dernière année de la série, même provisoire, comme le COR la met en avant ; jusque-là, 2024 |
 | Première édition | À remplir à la publication |
 
 À actualiser : à chaque rapport annuel du COR (juin) ; toute la série projetée change avec les hypothèses.
@@ -276,6 +276,8 @@ Résumés de moteur de recherche ([R], non utilisés comme preuve) : recherches 
 Fichiers de lecture graphique (dans le dossier de téléchargements) : `fig23.svg` (figure 2.3 du rapport), `slide20.svg` (diaporama), `fig24_2025.svg` (figure 2.4b du rapport 2025), `fig23_full.svg` (contrôle sur le PDF complet : mêmes nombres de points, 23 observés et 47 projetés pour le ratio).
 
 ## Mises à jour
+
+- **17/11/2026** : chiffre clé passé de 2024 à 2025 (1,77, estimé), règle du PO du 17/11/2026 ; aucune valeur changée. L'accord du COR couvre tout le fichier (déclaration du PO du même jour).
 
 - **16/11/2026** (Mitchnsun/moi-president#457) : notes « À savoir » relues (revue d'un joueur, réécriture, recherches et contre-vérification par des agents Claude, modèle Sonnet, validées par le PO) ; notes (← ancien numéro) : 1 ← 1 réécrite, 2 ← 3 réécrite, 3 ← 2 réécrite, 4 ← 4 ; sigle développé.
 - **16/11/2026** (#448 de l'app, notes « À savoir » à compléter) : les anciens points 2 (2025 une estimation, les hypothèses du scénario de référence de juin 2026) et 4 (les projections changent à chaque rapport) sont fusionnés en un point 2, sans la productivité horaire (+0,7 % par an), ni l'horizon de 2028 de la fécondité, ni les hypothèses de juin 2025 (fécondité de 1,8, solde migratoire de +70 000) ; nouveau point 4, le calendrier de l'âge légal. Source : Cnav, circulaire n° 2026-07 du 05/03/2026, « Âge légal de la retraite et durée d'assurance pour les assurés nés à compter du 1er septembre 1961 dont la retraite prend effet à compter du 1er septembre 2026 », https://legislation.lassuranceretraite.fr/Pdf/circulaire_cnav_2026_07_05032026.pdf, p. 2-3 (« l'article 105 (I) de la loi n°2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026, prévoit un décalage du relèvement de l'âge légal de départ en retraite pour les générations 1964 à 1968 : L'âge légal pour les assurés nés du 1er janvier 1963 au 31 mars 1965 est fixé à 62 ans et 9 mois, L'âge légal pour les assurés nés entre le 1er avril 1965 et le 31 décembre 1968 est abaissé d'un trimestre, L'âge cible de 64 ans s'applique à compter de la génération 1969 (au lieu de 1968). ») ; recoupé avec Service-Public, F14043 et F35063. Le texte décale le calendrier, sans date de fin : la note n'écrit pas « gel jusqu'en 2028 ». Citations confirmées par la double vérification sur le web par un agent Claude (modèle Sonnet), 15/11/2026 (rapport `check-gap-g2.md`, § 3).

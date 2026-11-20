@@ -1,6 +1,6 @@
 # `schools` · Éducation (page composite)
 
-La page « Éducation » (#32) n'a pas de fichier : ses trois parties ont le leur (`pisaScores`, `earlySchoolLeavers`, `educationSpending`, PO, 02/11/2026). Cette fiche porte la double vérification commune aux trois.
+La page « Éducation » (#32) n'a pas de fichier : ses parties ont le leur (`pisaScores`, `earlySchoolLeavers`, `educationSpending`, PO, 02/11/2026, et `teacherPay`, 17/11/2026, dont la fiche porte sa propre double vérification). Cette fiche porte la double vérification commune aux trois premières.
 
 **Vérifiée le 02/11/2026** : aucun chiffre faux ; corrections portées sur les notes des parties (voir leurs fiches).
 
