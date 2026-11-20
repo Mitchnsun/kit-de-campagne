@@ -1,17 +1,19 @@
 # `wealthExit` · Un fondateur plie bagage
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/media/wealthExit.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![Un fondateur plie bagage](../../illustrations/media/wealthExit.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `wealthExit`, catégorie `media` (Opportunité médiatique), poids 0,2, à partir de l'officialisation, une carte du programme : tirée si le programme tient un impôt sur la fortune ou un barème plus progressif (`wealthTax`, `financialWealthTax`, `progressiveTax`) (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Tendu, lumière blanche du matin |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 219 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : les écrans, le téléphone, la revue de presse, l'ordinateur et les murs ; aucun bandeau ni aucun logo de chaîne.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Aucun logo de chaîne, d'entreprise ni de compagnie aérienne. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : les écrans, le téléphone (dos tourné), la revue de presse, l'ordinateur et les murs ; aucun bandeau ni tableau des départs.
+- [x] Aucun sosie d'une personne réelle ; le fondateur n'est jamais montré.
+- [x] Le candidat du joueur est hors champ : son café entamé et la revue de presse pliée sur le bureau.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Aucun logo de chaîne, d'entreprise, de compagnie aérienne ni de téléphone. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : l'économiste est assise et non debout ; le téléphone, vu de dos, montre son double objectif, sans logo ; les économistes des écrans restent minuscules et sans visage reconnaissable.
