@@ -1,17 +1,19 @@
 # `renovationFreeze` · Les chantiers d'isolation en attente
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/field/renovationFreeze.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![Les chantiers d'isolation en attente](../../illustrations/field/renovationFreeze.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `renovationFreeze`, catégorie `field` (Rencontre), poids 0,2, à partir de l'officialisation, une carte du programme : tirée si le programme tient un plan d'isolation ou une planification écologique (`insulation`, `ecologicalPlanning`) (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Observateur et un peu las, matin gris |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 253 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : le dossier, la camionnette, les rouleaux d'isolant, la bâche et le carnet.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Aucun logo d'entreprise. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : le dossier, la camionnette (sans nom d'entreprise), les rouleaux d'isolant, la bâche et le carnet.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : son carnet et la tasse de café sur la table du jardin.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large, la main du retraité qui montre le dossier comprise.
+- [x] Aucune couleur ni aucun logo de parti. Aucun logo d'entreprise. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : un grain craquelé, en mosaïque, sur toute l'image, que le prompt interdisait, plus marqué que sur les cartes précédentes ; le dessin plus fini que la référence.
