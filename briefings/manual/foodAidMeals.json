@@ -1,0 +1,65 @@
+{
+  "id": "foodAidMeals",
+  "retrievedOn": "2026-11-19",
+  "sources": [
+    {
+      "producer": "Les Restos du Cœur",
+      "publication": "Les Restos du Cœur lancent leur 42e campagne",
+      "publishedOn": "2026-11-16"
+    },
+    {
+      "producer": "Les Restos du Cœur",
+      "publication": "Rapport annuel 2023-2024",
+      "publishedOn": "2024-11-15"
+    },
+    {
+      "producer": "Les Restos du Cœur",
+      "publication": "Rapport annuel 2022-2023",
+      "publishedOn": "2023-11-07"
+    },
+    {
+      "producer": "Les Restos du Cœur",
+      "publication": "Rapport annuel 2020-2021",
+      "publishedOn": "2021-10-27"
+    },
+    {
+      "producer": "Les Restos du Cœur",
+      "publication": "Rapport annuel 2019-2020",
+      "publishedOn": "2021-02-03"
+    },
+    {
+      "producer": "Les Restos du Cœur",
+      "publication": "Rapport annuel 2016-2017, le rapport moral",
+      "publishedOn": "2017-10-27"
+    },
+    {
+      "producer": "Les Restos du Cœur",
+      "publication": "Rapport annuel 2014-2015, extraits du rapport moral",
+      "publishedOn": "2015-11-05"
+    }
+  ],
+  "headline": {
+    "series": "meals",
+    "period": "2026",
+    "value": 186000000,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "meals",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        ["2015", 128500000],
+        ["2017", 135800000],
+        ["2020", 136500000],
+        ["2021", 142000000],
+        ["2022", 142000000],
+        ["2023", 171000000],
+        ["2024", 163000000],
+        ["2025", 161000000],
+        ["2026", 186000000]
+      ]
+    }
+  ]
+}
