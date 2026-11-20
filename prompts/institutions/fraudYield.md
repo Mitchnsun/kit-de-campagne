@@ -1,17 +1,19 @@
 # `fraudYield` · La fraude paiera-t-elle ?
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/institutions/fraudYield.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![La fraude paiera-t-elle ?](../../illustrations/institutions/fraudYield.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `fraudYield`, catégorie `institutions` (Institutions), poids 0,25, à partir de l'officialisation, une carte du programme : tirée si le programme tient la lutte contre la fraude (`fightFraud`) (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Tendu, lumière froide de plateau du soir |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 197 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -49,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Aucune pour le moment.
+- **L'économiste est un homme** (PO, 20/11/2026) : le prompt demandait une économiste d'une soixantaine d'années, le dessin en fait un homme aux cheveux argentés. Le plateau compte trois hommes et une femme, la régisseuse au fond ; le PO garde l'image telle quelle.
 
 ## Essais écartés
 
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : l'écran, le rapport, les fiches, la tablette et les caméras ; aucun bandeau ni aucun chiffre.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Aucun logo ni habillage d'une chaîne réelle. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : l'écran et le rapport ne montrent que deux barres et des pièces, l'horloge est sans chiffres, les fiches sont retournées ; aucun bandeau ni aucun chiffre.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : son verre d'eau et ses fiches retournées sur la table.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Aucun logo de chaîne, un plateau inventé. Des personnes variées par l'âge, le corps et la coiffure ; l'économiste est un homme, voir les décisions.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : la tour Eiffel par la baie du plateau ; le rapport du journaliste reprend le graphique de l'écran ; un grain en mosaïque sur l'image.
