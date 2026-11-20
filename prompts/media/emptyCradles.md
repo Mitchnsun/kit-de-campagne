@@ -1,17 +1,19 @@
 # `emptyCradles` · Plus de décès que de naissances
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/media/emptyCradles.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![Plus de décès que de naissances](../../illustrations/media/emptyCradles.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `emptyCradles`, catégorie `media` (Opportunité médiatique), poids 0,2, à partir de l'officialisation, une carte du programme : tirée si le programme tient une politique de la natalité (`birthPolicy`, `newbornCapital`, `parentalLeave`) (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Observateur, lumière claire du matin |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 237 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : les écrans, la feuille, les fiches, la tablette et les caméras ; aucun bandeau ni aucun chiffre.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Aucun logo ni habillage d'une chaîne réelle. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : les écrans ne montrent que deux courbes et une poussette vide dans un parc ; rien sur la feuille, les fiches, la tablette ni les caméras ; ni chiffres ni bandeau.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : son mug et des fiches vierges au premier plan.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Aucun logo de chaîne, un plateau inventé. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : Notre-Dame et la Seine par la baie vitrée ; des branches de cerisier en fleur ; les courbes en bleu et rouge, sur l'écran et la feuille de la démographe.
