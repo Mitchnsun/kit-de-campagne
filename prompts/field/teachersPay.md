@@ -1,17 +1,19 @@
 # `teachersPay` · Combien pour les professeurs ?
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/field/teachersPay.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![Combien pour les professeurs ?](../../illustrations/field/teachersPay.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `teachersPay`, catégorie `field` (Rencontre), poids 0,25, à partir de l'officialisation, une carte du programme : tirée si le programme tient la revalorisation des enseignants (`teacherPay`) ; exclut `teachersUnion`, `schoolBlockade` et `classClosures`, une histoire d'école par partie (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Observateur et tendu, lumière claire du matin |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 232 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : le tableau blanc (deux courbes seulement), les casiers, le panneau d'affichage, les copies et l'ordinateur.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Aucun logo de syndicat. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : le tableau blanc ne porte que deux courbes, les notes du panneau, les casiers, les copies et l'ordinateur sont vierges.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : son manteau sur une chaise et un gobelet de café au premier plan.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Aucun logo de syndicat. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : le professeur proche de la retraite porte des lunettes et regarde sa collègue au tableau plutôt que de hocher la tête ; le dessin plus fini que la référence, avec peu de fondu dans le papier aux bords.
