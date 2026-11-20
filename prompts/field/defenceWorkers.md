@@ -1,17 +1,19 @@
 # `defenceWorkers` · L'usine qui ne trouve pas de soudeurs
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/field/defenceWorkers.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![L'usine qui ne trouve pas de soudeurs](../../illustrations/field/defenceWorkers.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `defenceWorkers`, catégorie `field` (Rencontre), poids 0,2, à partir de l'officialisation, une carte du programme : tirée si le programme tient une mesure pour l'industrie de défense (`armsExpropriation`, `europeanDefenceLoan`, `nationalDefenceLoan`) (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Observateur, lumière industrielle |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 263 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : les gilets, les casques, les caisses, les machines et les combinaisons ; aucun nom d'industriel.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Aucun logo d'entreprise, de syndicat ni insigne militaire. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : les gilets, les casques, les caisses, les machines, les écrans et les combinaisons.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : le casque et les lunettes de sécurité préparés sur l'établi.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large, les mains sur le chalumeau comprises.
+- [x] Aucune couleur ni aucun logo de parti. Aucun logo d'entreprise ou de syndicat, aucun insigne militaire ; des caisses de blindés nues, sans tourelle ni canon. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : un gilet jaune fluo plutôt qu'orange ; de petits écrans d'atelier aux interfaces illisibles ; la cathédrale de Bourges au fond, par la grande porte ; un grain en mosaïque sur les vêtements et l'acier.
