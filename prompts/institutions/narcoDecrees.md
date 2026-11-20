@@ -1,17 +1,19 @@
 # `narcoDecrees` · Les décrets se font attendre
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/institutions/narcoDecrees.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![Les décrets se font attendre](../../illustrations/institutions/narcoDecrees.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `narcoDecrees`, catégorie `institutions` (Institutions), poids 0,2, à partir de l'officialisation, une carte du programme : tirée si le programme tient une mesure de sécurité (`narcoEmergency`, `policeJusticeMeans`, `morePoliceOnStreets`, `municipalPolice`) (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Observateur et tendu, lumière claire et froide du matin |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 242 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : le volume relié, la chemise, le carnet, l'uniforme et les papiers.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Seuls le drapeau tricolore du bureau et l'écharpe du maire. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : le volume de la loi, la chemise, le carnet (croquis et gribouillis), l'uniforme et les papiers ; aucun titre sur la loi.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ : son carnet et une tasse de café au bord du bureau.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Aucune armoirie de la ville, ni drogue ni arme. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : le carnet du candidat porte des croquis de la Loire et des lignes ondulées, sans lettres ; un tableau de château au mur ; l'écharpe tricolore posée en boule sur le bureau.
