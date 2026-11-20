@@ -1,17 +1,19 @@
 # `overcrowdedPrison` · Une maison d'arrêt à bout de souffle
 
-**À générer** : le prompt est prêt, l'image n'est pas encore faite ni validée par le PO. Elle ira en `illustrations/field/overcrowdedPrison.webp`.
+**Validée par le PO le 20/11/2026**, au premier essai, avec `primeTime.webp` comme référence. Elle sert telle quelle en clair et en sombre.
+
+![Une maison d'arrêt à bout de souffle](../../illustrations/field/overcrowdedPrison.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `overcrowdedPrison`, catégorie `field` (Rencontre), poids 0,2, à partir de l'officialisation, une carte du programme : tirée si le programme tient une mesure pénale (`prisonPlaces`, `minimumSentences`, `shortSentences`, `endAutomaticRemission`) (Mitchnsun/moi-president, PO, 17/11/2026) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Tendu et retenu, lumière grise d'une petite fenêtre |
-| Date | À compléter (prompt écrit le 2026-11-18) |
+| Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | À compléter |
-| Conversation | À compléter |
-| Format rendu | À compléter : export en 1290 × 726 px (16:9) ou 1290 × 860 px (3:2), WebP de qualité 75, sans recadrage |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 175 Ko, sans recadrage |
+| Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
@@ -49,7 +51,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Aucune pour le moment.
+- **La main du candidat reste dans l'image** (PO, 20/11/2026) : elle tient le badge de visiteur en bas à droite, au lieu du badge seul dans l'embrasure. C'est la seule partie du candidat visible dans le kit ; elle ne dit rien de son genre.
 
 ## Essais écartés
 
@@ -61,12 +63,14 @@ Aucune.
 
 ## Relecture
 
-À faire après la génération.
+Faite et validée par le PO le 20/11/2026.
 
-- [ ] Aucun texte lisible : les uniformes, la porte, le badge, le livre et la télévision ; aucun numéro sur la porte.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Aucun écusson lisible. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : les uniformes, la porte, le badge, le livre et la télévision ; aucun numéro sur la porte.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ, sauf sa main qui tient le badge en bas à droite : une exception acceptée par le PO (20/11/2026), la première du kit.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Aucun écusson lisible. Des personnes variées par l'âge, le corps, l'origine et la coiffure ; les détenus dessinés avec dignité.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
+
+Ce que la relecture a accepté : le détenu âgé porte une barbe grise et non une moustache, et son origine ne se lit pas ; le second surveillant manque dans le couloir ; la cellule est peinte plutôt qu'en pierre. Le trait, plus libre, est plus proche de primeTime que celui des deux cartes précédentes.
