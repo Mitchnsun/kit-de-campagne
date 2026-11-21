@@ -10,7 +10,7 @@
 | Données | `briefings/data/<id>.json`, écrit par `yarn briefings <id>` le AAAA-MM-JJ ; ou saisi à la main depuis <document> le AAAA-MM-JJ |
 | Sources | Producteur, « titre de la publication », page d'origine, fichier ou API, licence |
 | Séries | `<id-de-série>` : <ce qu'elle mesure>, identifiant du producteur, première et dernière période, nombre de points |
-| Chiffre clé | Valeur, période, tendance par rapport à la période précédente |
+| Chiffre clé | Valeur, période, tendance par rapport à la période précédente ; la période est la dernière de la série, même provisoire, jamais une projection (PO, 17/11/2026) |
 | Règles | Ce que le script garde ou écarte (chiffres définitifs seulement, dernière année, départements…) |
 | Première édition | `kit-france-AAMM-NNNN` |
 
