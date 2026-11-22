@@ -1,6 +1,6 @@
 # `offshoreBank` · La banque lointaine
 
-**Deuxième essai le 22/11/2026, à valider par le PO** : une texture craquelée régulière couvre l'image et la table a des reflets brillants ; invisibles ou presque à la taille de la carte.
+**Validée par le PO le 22/11/2026**, au deuxième essai, telle quelle en clair et en sombre : une texture craquelée régulière et des reflets sur la table, acceptés : invisibles ou presque à la taille de la carte.
 
 ![La banque lointaine](../../illustrations/campaignFinance/offshoreBank.webp)
 
@@ -55,16 +55,16 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Retouches
 
-Aucune pour l'instant.
+Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite et validée par le PO le 22/11/2026.
 
-- [ ] Aucun texte lisible.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains et visages sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 16:9 : pas de recadrage.
+- [x] Aucun texte lisible.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains et visages sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 16:9 : pas de recadrage.
 - [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
