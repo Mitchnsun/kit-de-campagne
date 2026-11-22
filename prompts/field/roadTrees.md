@@ -10,7 +10,7 @@
 | Style | Reportage dessiné |
 | Ton | Tendu mais calme, soleil d'hiver bas |
 | Date | 2026-11-15 |
-| Outil | ChatGPT Images, à compléter (modèle et effort) |
+| Outil | ChatGPT Images, modèle GPT 6.2, effort Light |
 | Conversation | À compléter |
 | Format rendu | 1671 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 267 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
