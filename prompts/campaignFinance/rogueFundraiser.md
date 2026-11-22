@@ -1,6 +1,8 @@
 # `rogueFundraiser` · La cagnotte des fans
 
-**À générer.** Fiche préparée le 22/11/2026, en attente de l'image et de la validation du PO.
+**Validée le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+
+![La cagnotte des fans](../../illustrations/campaignFinance/rogueFundraiser.webp)
 
 | Champ | Valeur |
 | --- | --- |
@@ -10,7 +12,7 @@
 | Date | 2026-11-22 |
 | Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -47,22 +49,26 @@ Constraints: realistic proportions, natural expressions, never cartoonish or car
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
 
+## Décisions prises sur cette image
+
+Par la porte du balcon, le Castillet, la porte fortifiée de Perpignan, et des palmiers : la ville se reconnaît sans un mot. L'affiche de la campagne est une composition de formes et d'une foule en silhouettes, sans lettre ; le tee-shirt du fan de droite porte des formes géométriques bleues, rouges et blanches, sans drapeau ni sigle.
+
 ## Essais écartés
 
-Aucun pour l'instant.
+Aucun.
 
 ## Retouches
 
-Aucune pour l'instant.
+Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite le 22/11/2026.
 
-- [ ] Aucun texte lisible.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains et visages sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 16:9 : pas de recadrage.
+- [x] Aucun texte lisible : la jauge est une barre sans chiffre, l'affiche, les boîtes et le tee-shirt sont sans inscription.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur n'apparaît pas.
+- [x] Mains et visages sans défaut visible à 343 px de large : le pouce levé, le doigt pointé vers l'écran, les mains qui applaudissent.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'origine, le corps et la coiffure.
+- [x] En 16:9 : pas de recadrage.
 - [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
