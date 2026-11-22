@@ -8,7 +8,7 @@
 | Style | Reportage dessiné |
 | Ton | Ironique, une matinale |
 | Date | À compléter |
-| Outil | À compléter |
+| Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
 | Format rendu | À compléter (export en 1290 × 726 px, WebP de qualité 75) |
 | Fichier d'origine | À compléter (hors du dépôt) |
