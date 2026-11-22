@@ -1,6 +1,8 @@
 # `patronLoan` · Le prêt du mécène
 
-**À générer.** Fiche préparée le 22/11/2026, en attente de l'image et de la validation du PO.
+**Premier essai le 22/11/2026, à valider par le PO** : un rendu plus fini et plus brillant que les autres reportages dessinés (le combiné, le bureau verni).
+
+![Le prêt du mécène](../../illustrations/campaignFinance/patronLoan.webp)
 
 | Champ | Valeur |
 | --- | --- |
@@ -10,7 +12,7 @@
 | Date | 2026-11-22 |
 | Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 264 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
