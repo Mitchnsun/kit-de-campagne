@@ -10,7 +10,7 @@
 | Style | Reportage dessiné |
 | Ton | Ironique, un peu dégonflé |
 | Date | 2026-11-09 |
-| Outil | ChatGPT Images, à compléter (modèle et effort) |
+| Outil | ChatGPT Images, modèle GPT 6.2 (effort à compléter) |
 | Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 160 Ko, sans recadrage, fait depuis le PNG de la conversation |
 | Fichier d'origine | À compléter (hors du dépôt) |

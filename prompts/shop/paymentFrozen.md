@@ -10,7 +10,7 @@
 | Style | Reportage dessiné |
 | Ton | Observateur, une patience à bout |
 | Date | 2026-11-19 |
-| Outil | ChatGPT Images, à compléter (modèle et effort) |
+| Outil | ChatGPT Images, modèle GPT 6.2 (effort à compléter) |
 | Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 235 Ko, sans recadrage, fait depuis la copie WebP de la conversation retouchée (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
