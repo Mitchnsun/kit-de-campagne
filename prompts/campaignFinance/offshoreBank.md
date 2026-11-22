@@ -10,7 +10,7 @@
 | Style | Reportage dessiné |
 | Ton | Lisse et inquiétant |
 | Date | 2026-11-22 |
-| Outil | ChatGPT Images, modèle GPT 6.2 Astra (effort à compléter) |
+| Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 217 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |

@@ -10,7 +10,7 @@
 | Style | Reportage dessiné |
 | Ton | Chaleureux en surface, une générosité qui met mal à l'aise |
 | Date | 2026-11-22 |
-| Outil | ChatGPT Images, modèle GPT 6.2 Astra (effort à compléter) |
+| Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
 | Format rendu | 1536 × 1024 (3:2) : 80 px retirés en haut et en bas (1536 × 864), export en 1290 × 726 px, WebP de qualité 75, 254 Ko, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
