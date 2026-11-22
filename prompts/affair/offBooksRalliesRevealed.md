@@ -12,7 +12,7 @@
 | Date | 2026-11-22 |
 | Outil | ChatGPT Images (modèle à compléter) |
 | Conversation | À compléter |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 272 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 271 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
