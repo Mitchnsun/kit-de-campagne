@@ -1,6 +1,8 @@
 # `offshoreBank` · La banque lointaine
 
-**À générer.** Fiche préparée le 22/11/2026, en attente de l'image et de la validation du PO.
+**Deuxième essai le 22/11/2026, à valider par le PO** : une texture craquelée régulière couvre l'image et la table a des reflets brillants ; invisibles ou presque à la taille de la carte.
+
+![La banque lointaine](../../illustrations/campaignFinance/offshoreBank.webp)
 
 | Champ | Valeur |
 | --- | --- |
@@ -10,7 +12,7 @@
 | Date | 2026-11-22 |
 | Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 217 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
