@@ -13,7 +13,7 @@
 | Outil | ChatGPT Images, modèle GPT 6.2, effort Light |
 | Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 224 Ko, sans recadrage, fait depuis le PNG de la conversation |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte

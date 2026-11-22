@@ -12,8 +12,8 @@
 | Date | 2026-11-22 |
 | Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
-| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 247 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 247 Ko, sans recadrage, fait depuis la copie WebP de la conversation |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte
