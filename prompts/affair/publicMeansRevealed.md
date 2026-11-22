@@ -1,16 +1,18 @@
 # `publicMeansRevealed` · Les moyens publics de la campagne
 
-**Brouillon, à générer.** Une fois l'image validée : la date, l'essai, l'outil et le format, et l'image en `illustrations/affair/publicMeansRevealed.webp`.
+**Validée par le PO le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+
+![Les moyens publics de la campagne](../../illustrations/affair/publicMeansRevealed.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `publicMeansRevealed`, catégorie `affair` (Affaire), jamais tirée par son poids : la révélation de la triche « Utiliser les moyens publics », imposée la semaine qui suit le tirage caché qui l'a découverte ; carte ajoutée par la PR #472 de l'app (Mitchnsun/moi-president#60) |
 | Style | Reportage dessiné |
 | Ton | Ironique, un petit matin pris sur le fait |
-| Date | À compléter |
+| Date | 2026-11-22 |
 | Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
-| Format rendu | À compléter (export en 1290 × 726 px, WebP de qualité 75) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 254 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -50,6 +52,9 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 ## Décisions prises sur cette image
 
 - **Avant la génération** : pas de grille entre la journaliste et la voiture, car un personnage derrière une vitre ou une grille sort mal ([`parliamentaryStaffRevealed`](parliamentaryStaffRevealed.md)). L'agent pris sur le fait n'est pas le seul personnage d'origine non européenne mis en avant : les origines sont réparties entre les deux agents.
+- **Le Capitole et un blason proche de celui de Toulouse** (PO, 22/11/2026) : le générateur a dessiné l'hôtel de ville de Toulouse au lieu d'un hôtel de département, avec un clocher toulousain au fond, et sur la portière un blason aux fleurs de lys et à la tour dorée. Une correction qui les neutralisait a été proposée ; le PO garde l'image telle quelle.
+- **L'agent à la moustache** jette un œil vers la gauche, pas vers la journaliste à droite : la scène se lit quand même.
+- **Une texture mouchetée légère** couvre l'image, comme sur [`parliamentaryStaffRevealed`](parliamentaryStaffRevealed.md).
 
 ## Essais écartés
 
@@ -61,12 +66,12 @@ Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite et validée par le PO le 22/11/2026.
 
-- [ ] Aucun texte lisible : ni sur les cartons, ni sur les tracts, ni sur la voiture et son blason, ni sur l'écran du téléphone.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : ni sur les cartons, ni sur les tracts, ni sur la voiture et son blason, ni sur l'écran du téléphone.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : rien d'important dans les 80 px du haut et du bas.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
