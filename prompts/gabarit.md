@@ -84,7 +84,7 @@ Pour changer un visage, régénérer plutôt que corriger ([`primeTime`](media/p
 
 ## Après la génération
 
-1. Garder le fichier d'origine (PNG) hors du dépôt, et noter dans la fiche où il est rangé.
+1. Envoyer l'image telle que ChatGPT la donne dans la conversation avec Claude, qui en fait l'export (PO, 22/11/2026) : la copie partagée suffit, les générations sont gardées telles quelles. Le fichier d'origine reste chez le PO, hors du dépôt.
 2. Relire l'image en zoomant : les mains, tout ce qui pourrait porter du texte (journaux, enseignes, plans, tampons, formulaires), les sosies possibles, et toute image du candidat.
 3. Remplir la fiche : le prompt complet et les messages envoyés ensuite, les décisions, les essais écartés, la relecture.
 4. Exporter en `illustrations/<catégorie>/<id-de-la-carte>.webp`, sans recadrage, en 1290 × 726 px pour une image en 16:9 (1290 × 860 px si elle est restée en 3:2 : c'est l'app qui recadre), **en WebP de qualité 75, même au-delà de 180 Ko** (PO, 31/10/2026, [`starEndorsement`](breakthrough/starEndorsement.md)) : les images de la première série font de 110 à 255 Ko.

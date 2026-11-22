@@ -2,18 +2,18 @@
 
 **Validée par le PO le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
 
-![L'industriel sympathisant](../../illustrations/campaignFinance/friendlyCompany.webp)
+![L'industriel sympathisant](../../illustrations/support/friendlyCompany.webp)
 
 | Champ | Valeur |
 | --- | --- |
-| Carte | `friendlyCompany`, catégorie `campaignFinance` (Finances de campagne), poids 0,25, de la précampagne à la campagne officielle ; une offre piège (un concours en nature interdit, L.52-8), carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
+| Carte | `friendlyCompany`, catégorie `support` (Offre de soutien), poids 0,25, de la précampagne à la campagne officielle ; une offre piège (un concours en nature interdit, L.52-8), carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
 | Style | Reportage dessiné |
 | Ton | Chaleureux en surface, une générosité qui met mal à l'aise |
 | Date | 2026-11-22 |
 | Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
-| Format rendu | 1536 × 1024 (3:2) : 80 px retirés en haut et en bas (1536 × 864), export en 1290 × 726 px, WebP de qualité 75, 254 Ko, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
-| Fichier d'origine | À compléter (hors du dépôt) |
+| Format rendu | 1536 × 1024 (3:2) : 80 px retirés en haut et en bas (1536 × 864), export en 1290 × 726 px, WebP de qualité 75, 254 Ko, fait depuis la copie WebP de la conversation |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | À compléter |
 
 ## Texte de la carte

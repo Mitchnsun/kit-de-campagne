@@ -14,8 +14,8 @@
 | Date | AAAA-MM-JJ |
 | Outil | ChatGPT avec le modèle … en effort …, et ChatGPT Images <version> |
 | Conversation | Lien de la conversation (il ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | L × H (16:9) : export en 1290 × 726 px depuis le PNG d'origine, WebP de qualité 75, NNN Ko, sans recadrage |
-| Fichier d'origine | Nom du fichier, et où il est rangé (hors du dépôt) |
+| Format rendu | L × H (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, NNN Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-AAMM-NNNN` |
 
 ## Texte de la carte
