@@ -2,11 +2,11 @@
 
 **Validée le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
 
-![La Commission des comptes s'interroge](../../illustrations/campaignFinance/accountsInquiry.webp)
+![La Commission des comptes s'interroge](../../illustrations/affair/accountsInquiry.webp)
 
 | Champ | Valeur |
 | --- | --- |
-| Carte | `accountsInquiry`, catégorie `campaignFinance` (Finances de campagne), jamais tirée par son poids : l'enquête d'un piège découvert (l'entreprise amie, le prêt du mécène, la cagnotte), imposée comme carte suivante ; carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
+| Carte | `accountsInquiry`, catégorie `affair` (Affaire), jamais tirée par son poids : l'enquête d'un piège découvert (l'entreprise amie, le prêt du mécène, la cagnotte), imposée comme carte suivante ; carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
 | Style | Reportage dessiné |
 | Ton | Grave et méthodique |
 | Date | 2026-11-22 |

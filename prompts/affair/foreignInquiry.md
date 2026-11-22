@@ -2,11 +2,11 @@
 
 **Validée le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
 
-![Le parquet ouvre une enquête](../../illustrations/campaignFinance/foreignInquiry.webp)
+![Le parquet ouvre une enquête](../../illustrations/affair/foreignInquiry.webp)
 
 | Champ | Valeur |
 | --- | --- |
-| Carte | `foreignInquiry`, catégorie `campaignFinance` (Finances de campagne), jamais tirée par son poids : l'enquête de la banque lointaine découverte, imposée comme carte suivante ; carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
+| Carte | `foreignInquiry`, catégorie `affair` (Affaire), jamais tirée par son poids : l'enquête de la banque lointaine découverte, imposée comme carte suivante ; carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
 | Style | Reportage dessiné |
 | Ton | Tendu, une matinée de perquisition |
 | Date | 2026-11-22 |

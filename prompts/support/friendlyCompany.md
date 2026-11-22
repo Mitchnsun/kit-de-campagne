@@ -2,11 +2,11 @@
 
 **Validée par le PO le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
 
-![L'industriel sympathisant](../../illustrations/campaignFinance/friendlyCompany.webp)
+![L'industriel sympathisant](../../illustrations/support/friendlyCompany.webp)
 
 | Champ | Valeur |
 | --- | --- |
-| Carte | `friendlyCompany`, catégorie `campaignFinance` (Finances de campagne), poids 0,25, de la précampagne à la campagne officielle ; une offre piège (un concours en nature interdit, L.52-8), carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
+| Carte | `friendlyCompany`, catégorie `support` (Offre de soutien), poids 0,25, de la précampagne à la campagne officielle ; une offre piège (un concours en nature interdit, L.52-8), carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
 | Style | Reportage dessiné |
 | Ton | Chaleureux en surface, une générosité qui met mal à l'aise |
 | Date | 2026-11-22 |

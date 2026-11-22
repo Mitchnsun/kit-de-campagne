@@ -2,11 +2,11 @@
 
 **Validée le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
 
-![La cagnotte des fans](../../illustrations/campaignFinance/rogueFundraiser.webp)
+![La cagnotte des fans](../../illustrations/support/rogueFundraiser.webp)
 
 | Champ | Valeur |
 | --- | --- |
-| Carte | `rogueFundraiser`, catégorie `campaignFinance` (Finances de campagne), poids 0,25, une fois la notoriété montée de 5 points ; une offre piège (de l'argent hors du mandataire, des dons au-delà de 4 600 €), carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
+| Carte | `rogueFundraiser`, catégorie `support` (Offre de soutien), poids 0,25, une fois la notoriété montée de 5 points ; une offre piège (de l'argent hors du mandataire, des dons au-delà de 4 600 €), carte ajoutée par la PR #464 de l'app (Mitchnsun/moi-president#267) |
 | Style | Reportage dessiné |
 | Ton | Enthousiaste et naïf |
 | Date | 2026-11-22 |
