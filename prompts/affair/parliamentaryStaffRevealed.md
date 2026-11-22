@@ -1,16 +1,18 @@
 # `parliamentaryStaffRevealed` · Des assistants parlementaires dans l'équipe
 
-**Brouillon, à générer.** Une fois l'image validée : la date, l'essai, l'outil et le format, et l'image en `illustrations/affair/parliamentaryStaffRevealed.webp`.
+**Validée par le PO le 22/11/2026**, au premier essai du second prompt. Elle sert telle quelle en clair et en sombre.
+
+![Des assistants parlementaires dans l'équipe](../../illustrations/affair/parliamentaryStaffRevealed.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `parliamentaryStaffRevealed`, catégorie `affair` (Affaire), jamais tirée par son poids : la révélation de la triche « Faire appel aux assistants parlementaires », imposée la semaine qui suit le tirage caché qui l'a découverte ; carte ajoutée par la PR #472 de l'app (Mitchnsun/moi-president#60) |
 | Style | Reportage dessiné |
 | Ton | Tendu, une soirée de flash |
-| Date | À compléter |
+| Date | 2026-11-22 |
 | Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
-| Format rendu | À compléter (export en 1290 × 726 px, WebP de qualité 75) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 252 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -49,7 +51,9 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Aucune pour l'instant.
+- **Le rendu est gardé tel quel** (PO, 22/11/2026) : une texture mouchetée couvre l'image, surtout le blouson du photographe, la pluie et les murs, et le visage du photographe est plus fini que le reste. Un message de correction a été proposé pour revenir au dessin de la référence ; le PO a préféré garder l'image.
+- **La flèche de la basilique Saint-Michel** se voit par la porte ouverte : un monument réel, permis pour situer Bordeaux.
+- **Le photographe** paraît plus âgé que la cinquantaine du prompt.
 
 ## Essais écartés
 
@@ -61,12 +65,12 @@ Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite et validée par le PO le 22/11/2026.
 
-- [ ] Aucun texte lisible : ni sur les tracts, ni sur les enveloppes, ni sur les badges, ni sur l'appareil photo.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : ni sur les tracts, ni sur les enveloppes, ni sur les badges, ni sur l'appareil photo.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : rien d'important dans les 80 px du haut et du bas.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
