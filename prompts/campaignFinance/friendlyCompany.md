@@ -1,6 +1,8 @@
 # `friendlyCompany` · L'industriel sympathisant
 
-**À générer.** Fiche préparée le 22/11/2026, en attente de l'image et de la validation du PO.
+**Validée par le PO le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+
+![L'industriel sympathisant](../../illustrations/campaignFinance/friendlyCompany.webp)
 
 | Champ | Valeur |
 | --- | --- |
@@ -10,7 +12,7 @@
 | Date | 2026-11-22 |
 | Outil | ChatGPT Images, à compléter (modèle et effort) |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1536 × 1024 (3:2) : 80 px retirés en haut et en bas (1536 × 864), export en 1290 × 726 px, WebP de qualité 75, 254 Ko, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -47,22 +49,26 @@ Constraints: realistic proportions, natural expressions, never cartoonish or car
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
 
+## Décisions prises sur cette image
+
+Le hangar s'ouvre sur un parking de camions et, au loin, un clocher et les toits d'un bourg vendéen. Sur la calandre d'un camion, une petite forme claire peut évoquer l'emblème d'une marque : sans dessin lisible, invisible à la taille de la carte, gardée. Les broderies des tee-shirts sont des traits de couleur, sans lettre.
+
 ## Essais écartés
 
-Aucun pour l'instant.
+Aucun.
 
 ## Retouches
 
-Aucune pour l'instant.
+Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite le 22/11/2026.
 
-- [ ] Aucun texte lisible.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains et visages sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 16:9 : pas de recadrage.
+- [x] Aucun texte lisible : cartons, camions, broderies et murs sans inscription.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains et visages sans défaut visible à 343 px de large : la main ouverte de l'industriel a ses cinq doigts, l'autre dans la poche ; la cariste, mains sur le volant.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : 80 px retirés en haut et en bas, rien d'important perdu (le haut de la lampe).
 - [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
