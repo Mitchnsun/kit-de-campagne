@@ -1,16 +1,18 @@
 # `offBooksRalliesRevealed` · Des meetings hors des comptes
 
-**Brouillon, à générer.** Une fois l'image validée : la date, l'essai, l'outil et le format, et l'image en `illustrations/affair/offBooksRalliesRevealed.webp`.
+**Essai 1 retenu, en attente de la validation du PO.** Elle sert telle quelle en clair et en sombre.
+
+![Des meetings hors des comptes](../../illustrations/affair/offBooksRalliesRevealed.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `offBooksRalliesRevealed`, catégorie `affair` (Affaire), jamais tirée par son poids : la révélation de la triche « Meeting payé par le parti », imposée la semaine qui suit le tirage caché qui l'a découverte ; carte ajoutée par la PR #472 de l'app (Mitchnsun/moi-president#60) |
 | Style | Reportage dessiné |
 | Ton | Tendu, ironie sèche |
-| Date | À compléter |
-| Outil | À compléter |
+| Date | 2026-11-22 |
+| Outil | ChatGPT Images (modèle à compléter) |
 | Conversation | À compléter |
-| Format rendu | À compléter (export en 1290 × 726 px, WebP de qualité 75) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 272 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -49,7 +51,9 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Aucune pour l'instant.
+- **Le beffroi et les façades flamandes de la Grand-Place** se voient par la fenêtre : un monument réel, permis pour situer Lille.
+- **Une plante en pot** s'est ajoutée au fond, sans gêner la lecture : gardée.
+- **La pile mince** est sur la table, au milieu, devant la pile épaisse : le contraste des deux piles se lit, moins fort que dans le prompt.
 
 ## Essais écartés
 
