@@ -10,7 +10,7 @@
 | Style | Reportage dessiné, le rendu tirant vers la peinture numérique (voir les décisions) |
 | Ton | Tendu |
 | Date | 2026-11-08 |
-| Outil | ChatGPT Images, modèle GPT 6.2 (effort à compléter) |
+| Outil | ChatGPT Images, modèle GPT 6.2, effort Light |
 | Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 257 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
