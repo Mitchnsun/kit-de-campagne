@@ -1,16 +1,18 @@
 # `cheatIndictment` · Mise en examen
 
-**Brouillon, à générer.** Une fois l'image validée : la date, l'essai, l'outil et le format, et l'image en `illustrations/affair/cheatIndictment.webp`.
+**Validée par le PO le 22/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+
+![Mise en examen](../../illustrations/affair/cheatIndictment.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `cheatIndictment`, catégorie `affair` (Affaire), jamais tirée par son poids : la mise en examen, imposée deux semaines après la réponse à la révélation d'un meeting payé par le parti, des assistants parlementaires ou d'un parrainage acheté ; jamais entre les deux tours ; carte ajoutée par la PR #472 de l'app (Mitchnsun/moi-president#60) |
 | Style | Reportage dessiné |
 | Ton | Tendu, une sortie de tribunal la nuit |
-| Date | À compléter |
+| Date | 2026-11-22 |
 | Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
-| Format rendu | À compléter (export en 1290 × 726 px, WebP de qualité 75) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 267 Ko, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -49,7 +51,11 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-Aucune pour l'instant.
+- **L'avocate ressemble à la journaliste de [`offBooksRalliesRevealed`](offBooksRalliesRevealed.md)** (PO, 22/11/2026) : même visage anguleux, mêmes cheveux bruns bouclés, mêmes créoles dorées, avec des mèches grises. Une correction qui lui donnait d'autres traits a été proposée ; le PO garde l'image telle quelle.
+- **Une marque illisible sur le portique de sécurité**, en forme de lettres sans mot lisible, invisible à 343 px de large : gardée avec l'image.
+- **Le premier plan** montre le bord d'un carton plutôt que d'un dossier, sans main visible : le candidat reste hors champ.
+- **La tour des Batignolles** et des policiers devant l'entrée situent le tribunal de Paris : un monument réel, permis pour situer la scène.
+- **Une texture mouchetée légère** couvre l'image, comme sur [`parliamentaryStaffRevealed`](parliamentaryStaffRevealed.md).
 
 ## Essais écartés
 
@@ -61,12 +67,12 @@ Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite et validée par le PO le 22/11/2026.
 
-- [ ] Aucun texte lisible : ni sur les micros, ni sur les caméras, ni sur le dossier, ni sur le bâtiment.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : ni sur les micros, ni sur les caméras, ni sur le dossier, ni sur le bâtiment.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large.
+- [x] Aucune couleur ni aucun logo de parti. Drapeaux, écharpes et Marianne seulement pour signaler un lieu ou un élu officiel. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : rien d'important dans les 80 px du haut et du bas.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
