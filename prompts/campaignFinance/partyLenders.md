@@ -1,16 +1,18 @@
 # `partyLenders` · Les prêteurs du parti
 
-**À générer.** Fiche préparée le 22/11/2026, en attente de l'image et de la validation du PO.
+**Validée le 23/11/2026**, au premier essai. Elle sert telle quelle en clair et en sombre.
+
+![Les prêteurs du parti](../../illustrations/campaignFinance/partyLenders.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `partyLenders`, catégorie `campaignFinance` (Finances de campagne), jamais tirée par son poids : en semaine 11 ou 12, quand l'emprunt du parti dépasse le budget restant et qu'un tirage caché l'envoie dans la campagne plutôt qu'en 2032 ; carte ajoutée pour Mitchnsun/moi-president#473 |
 | Style | Reportage dessiné |
 | Ton | Inquiet et digne, un appel qu'on aurait voulu ne pas passer |
-| Date | 2026-11-22 |
+| Date | 2026-11-23 |
 | Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À compléter |
-| Format rendu | À compléter |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | À compléter |
 
@@ -48,22 +50,26 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ```
 
+## Décisions prises sur cette image
+
+Par la fenêtre, la Loire de nuit, un pont de pierre et la cathédrale de Nevers ; au mur, un dessin encadré de la ville. Les lettres des prêteurs, le registre et les fiches sont couverts d'une écriture manuscrite illisible. Une légère texture craquelée couvre l'image ; acceptée, elle ne se voit plus à la taille de la page.
+
 ## Essais écartés
 
-Aucun pour l'instant.
+Aucun.
 
 ## Retouches
 
-Aucune pour l'instant.
+Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite le 23/11/2026.
 
-- [ ] Aucun texte lisible.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ.
-- [ ] Mains et visages sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 16:9 : pas de recadrage.
+- [x] Aucun texte lisible : lettres, enveloppes, registre, calculatrice et classeurs sans mot lisible ; aucun nom ni logo de parti.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ, au bout du fil.
+- [x] Mains et visages sans défaut visible à 343 px de large : la main au combiné, celle qui tient la lettre, les mains du bénévole sur l'enveloppe.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 16:9 : pas de recadrage.
 - [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, une fois la carte publiée.
