@@ -1,0 +1,66 @@
+{
+  "id": "tobaccoSeizures",
+  "retrievedOn": "2026-11-24",
+  "sources": [
+    {
+      "producer": "Douanes",
+      "publication": "Bilan de la douane 2025",
+      "publishedOn": "2026-02-19"
+    },
+    {
+      "producer": "Douanes",
+      "publication": "Bilan DGDDI 2024",
+      "publishedOn": "2025-03-24"
+    },
+    {
+      "producer": "Douanes",
+      "publication": "Résultats 2019",
+      "publishedOn": "2020-06-02"
+    },
+    {
+      "producer": "Douanes",
+      "publication": "Résultats 2018",
+      "publishedOn": "2019-03-19"
+    },
+    {
+      "producer": "Douanes",
+      "publication": "Résultats 2017",
+      "publishedOn": "2018-05-29"
+    },
+    {
+      "producer": "OFDT",
+      "publication": "Tabagisme et arrêt du tabac en 2025",
+      "publishedOn": "2026-05-27"
+    },
+    {
+      "producer": "OFDT",
+      "publication": "L’approvisionnement en tabac des fumeurs en France 2014-2022",
+      "publishedOn": "2024-05-31"
+    }
+  ],
+  "headline": {
+    "series": "seizures",
+    "period": "2025",
+    "value": 547.94,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "seizures",
+      "frequency": "annual",
+      "unit": "tonne",
+      "points": [
+        ["2016", 259],
+        ["2017", 238.2],
+        ["2018", 241.1],
+        ["2019", 360.3],
+        ["2020", 284.54],
+        ["2021", 402.07],
+        ["2022", 649.07],
+        ["2023", 521.04],
+        ["2024", 488.73],
+        ["2025", 547.94]
+      ]
+    }
+  ]
+}

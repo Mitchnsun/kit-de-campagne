@@ -1,0 +1,63 @@
+{
+  "id": "tobaccoTax",
+  "retrievedOn": "2026-11-24",
+  "sources": [
+    {
+      "producer": "Commission des comptes de la sécurité sociale",
+      "publication": "Les comptes de la Sécurité sociale, résultats 2025, prévisions 2026 et 2027",
+      "publishedOn": "2026-10-05"
+    },
+    {
+      "producer": "Commission des comptes de la sécurité sociale",
+      "publication": "Rapports à la Commission des comptes de la Sécurité sociale, 2012 à 2025",
+      "publishedOn": "2026-10-05"
+    },
+    {
+      "producer": "OFDT",
+      "publication": "Le coût social des drogues : estimation en France en 2019",
+      "publishedOn": "2023-07-01"
+    },
+    {
+      "producer": "Douanes",
+      "publication": "Synthèse de l’étude TAFE (tabac échappant à la fiscalité nationale)",
+      "publishedOn": "2025-09-24"
+    }
+  ],
+  "headline": {
+    "series": "excise",
+    "period": "2025",
+    "value": 12.687,
+    "trend": "down"
+  },
+  "series": [
+    {
+      "id": "excise",
+      "frequency": "annual",
+      "unit": "billionEuro",
+      "status": {
+        "2026": "projection",
+        "2027": "projection"
+      },
+      "points": [
+        ["2010", 10.518],
+        ["2011", 10.978],
+        ["2012", 11.134],
+        ["2013", 11.2],
+        ["2014", 11.24],
+        ["2015", 11.42],
+        ["2016", 11.22],
+        ["2017", 11.4],
+        ["2018", 12.324],
+        ["2019", 12.632],
+        ["2020", 14.42],
+        ["2021", 14.346],
+        ["2022", 13.398],
+        ["2023", 13.252],
+        ["2024", 12.744],
+        ["2025", 12.687],
+        ["2026", 11.49],
+        ["2027", 10.723]
+      ]
+    }
+  ]
+}

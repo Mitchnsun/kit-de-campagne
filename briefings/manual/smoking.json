@@ -1,0 +1,104 @@
+{
+  "id": "smoking",
+  "retrievedOn": "2026-11-24",
+  "sources": [
+    {
+      "producer": "Santé publique France",
+      "publication": "Tabagisme : usage, envie d'arrêter et tentatives d'arrêt. Baromètre de Santé publique France : résultats de l'édition 2024",
+      "publishedOn": "2025-11-24"
+    },
+    {
+      "producer": "Santé publique France",
+      "publication": "Tabac : Prévalence selon le sexe",
+      "publishedOn": "2025-01-10"
+    },
+    {
+      "producer": "OFDT",
+      "publication": "Les drogues à 17 ans. Analyse de l’enquête ESCAPAD 2022",
+      "publishedOn": "2023-03-09"
+    },
+    {
+      "producer": "Santé publique France",
+      "publication": "Vapotage : Prévalence",
+      "publishedOn": "2025-01-09"
+    },
+    {
+      "producer": "Santé publique France",
+      "publication": "Vapotage : usage et évolutions récentes. Baromètre de Santé publique France : résultats de l’édition 2024",
+      "publishedOn": "2025-12-11"
+    },
+    {
+      "producer": "Santé publique France",
+      "publication": "Les décès attribuables au tabagisme. Mise à jour des estimations pour l’année 2023",
+      "publishedOn": "2026-02-16"
+    },
+    {
+      "producer": "Eurostat",
+      "publication": "Smoking of tobacco products by sex, age and educational attainment level",
+      "publishedOn": "2022-04-01"
+    }
+  ],
+  "headline": {
+    "series": "daily",
+    "period": "2024",
+    "value": 18.2,
+    "trend": "down"
+  },
+  "series": [
+    {
+      "id": "daily",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2000", 29.97],
+        ["2005", 27.51],
+        ["2010", 29.73],
+        ["2014", 28.55],
+        ["2015", 29.37],
+        ["2016", 29.4],
+        ["2017", 26.94],
+        ["2018", 25.45],
+        ["2019", 23.98],
+        ["2020", 25.45],
+        ["2021", 25.3],
+        ["2022", 24.48],
+        ["2023", 23.12],
+        ["2024", 18.2]
+      ]
+    },
+    {
+      "id": "daily17",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2000", 41.1],
+        ["2002", 39.5],
+        ["2003", 37.6],
+        ["2005", 33.0],
+        ["2008", 28.9],
+        ["2011", 31.5],
+        ["2014", 32.4],
+        ["2017", 25.1],
+        ["2022", 15.6]
+      ]
+    },
+    {
+      "id": "vapingDaily",
+      "frequency": "annual",
+      "unit": "percent",
+      "points": [
+        ["2014", 2.97],
+        ["2015", 3.03],
+        ["2016", 2.55],
+        ["2017", 2.7],
+        ["2018", 3.82],
+        ["2019", 4.37],
+        ["2020", 4.32],
+        ["2021", 5.04],
+        ["2022", 5.46],
+        ["2023", 6.08],
+        ["2024", 6.5]
+      ]
+    }
+  ]
+}

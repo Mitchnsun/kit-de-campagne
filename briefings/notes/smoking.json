@@ -1,0 +1,60 @@
+{
+  "fr": [
+    "La méthode du Baromètre a changé en 2024 : échantillon tiré par l'Insee, réponse par internet ou par téléphone, enquête obligatoire, 18-79 ans et outre-mer. Pour comparer, Santé publique France s'en tient aux 18-75 ans de l'Hexagone et demande de lire la baisse de 2024 avec précaution.",
+    "Trois années viennent d'autres enquêtes de la même série : 2015 (Baromètre Cancer), 2022 (un échantillon réduit de 3 229 personnes) et 2023 (enquête EROPP de l'OFDT). Il n'y a pas eu d'enquête nationale en 2001-2004, 2006-2009 et 2011-2013.",
+    "Le tabagisme suit le diplôme et le revenu : en 2024, 13,0 % des titulaires d'un diplôme supérieur au bac fument chaque jour, contre 20,9 % des personnes sans diplôme ou sous le bac, et 30,0 % des personnes qui jugent leur situation financière difficile (18-79 ans).",
+    "Santé publique France estime à 68 021 les décès attribuables au tabac en 2023, 10,9 % des décès, avec une méthode révisée : la baisse par rapport aux 75 000 décès de 2015 tient en partie à ce changement. Le tabac reste la première cause de mortalité évitable."
+  ],
+  "en": [
+    "The Baromètre’s method changed in 2024: a sample drawn by Insee, answers online or by phone, a compulsory survey, 18 to 79 year olds and the overseas regions. To compare, Santé publique France keeps to the 18 to 75 year olds of metropolitan France and asks for the 2024 fall to be read with caution.",
+    "Three years come from other surveys of the same series: 2015 (Baromètre Cancer), 2022 (a reduced sample of 3,229 people) and 2023 (the OFDT’s EROPP survey). There was no national survey in 2001-2004, 2006-2009 and 2011-2013.",
+    "Smoking follows education and income: in 2024, 13.0% of people with a degree above the baccalauréat smoke every day, against 20.9% of those without a diploma or below it, and 30.0% of those who find their financial situation difficult (18 to 79 year olds).",
+    "Santé publique France estimates the deaths attributable to tobacco at 68,021 in 2023, 10.9% of deaths, with a revised method: the fall from the 75,000 deaths of 2015 is partly due to that change. Tobacco remains the first avoidable cause of death."
+  ],
+  "claims": {
+    "fr": [
+      {
+        "heard": "On entend que le tabac tue 75 000 personnes par an.",
+        "answer": "C'était l'estimation pour 2015. Selon Santé publique France (février 2026), le tabac a causé 68 021 décès en 2023, 10,9 % des décès : 49 361 hommes et 18 660 femmes. La baisse tient en partie à la disparition des générations qui fumaient le plus, en partie à une méthode révisée. À méthode identique, la mortalité des femmes liée au tabac augmente toujours."
+      },
+      {
+        "heard": "On entend que les jeunes fument toujours autant.",
+        "answer": "Selon l'enquête ESCAPAD de l'OFDT, 15,6 % des jeunes de 17 ans fumaient chaque jour en 2022, contre 25,1 % en 2017 et 41,1 % en 2000. La baisse n'a pas été continue : après 2006, la consommation a stagné, voire augmenté, avant de reculer fortement depuis 2014."
+      },
+      {
+        "heard": "On entend que les Français fument plus que leurs voisins européens.",
+        "answer": "Cela dépend de la mesure. Selon Eurostat (enquête EHIS de 2019, 15 ans et plus), 18,5 % des Français fument chaque jour, contre 19,3 % dans l'Union. Mais Santé publique France rappelle que, d'après l'Eurobaromètre de 2023, la part des fumeurs, quotidiens ou non, est en France 3 points au-dessus de la moyenne européenne."
+      },
+      {
+        "heard": "On entend que la baisse de 2024 vient seulement de la nouvelle enquête.",
+        "answer": "Santé publique France demande de lire 2024 avec précaution, car la méthode a changé. Mais d'autres chiffres baissent aussi : selon la même synthèse, les ventes de tabac aux buralistes ont reculé de 12 % de 2023 à 2024, et de 24 % de 2021 à 2024."
+      },
+      {
+        "heard": "On entend que le vapotage remplace la cigarette.",
+        "answer": "En 2024, 6,5 % des 18-75 ans vapotent chaque jour en France hexagonale, contre 3,0 % en 2014, selon Santé publique France. Mais 47,7 % des vapoteurs quotidiens fument aussi ; 49,5 % sont d'anciens fumeurs."
+      }
+    ],
+    "en": [
+      {
+        "heard": "People say tobacco kills 75,000 people a year.",
+        "answer": "That was the estimate for 2015. According to Santé publique France (February 2026), tobacco caused 68,021 deaths in 2023, 10.9% of deaths: 49,361 men and 18,660 women. The fall is partly due to the passing of the generations who smoked most, partly to a revised method. With the same method, women’s tobacco-related mortality is still rising."
+      },
+      {
+        "heard": "People say young people smoke as much as ever.",
+        "answer": "According to the OFDT’s ESCAPAD survey, 15.6% of 17 year olds smoked every day in 2022, against 25.1% in 2017 and 41.1% in 2000. The fall was not continuous: after 2006, consumption stagnated or even rose, before falling sharply since 2014."
+      },
+      {
+        "heard": "People say the French smoke more than their European neighbours.",
+        "answer": "It depends on the measure. According to Eurostat (EHIS survey of 2019, aged 15 and over), 18.5% of French people smoke every day, against 19.3% in the Union. But Santé publique France recalls that, according to the 2023 Eurobarometer, the share of smokers, daily or not, is 3 points above the European average in France."
+      },
+      {
+        "heard": "People say the 2024 fall only comes from the new survey.",
+        "answer": "Santé publique France asks for 2024 to be read with caution, as the method changed. But other figures fall too: according to the same summary, tobacco sales to tobacconists fell by 12% from 2023 to 2024, and by 24% from 2021 to 2024."
+      },
+      {
+        "heard": "People say vaping is replacing cigarettes.",
+        "answer": "In 2024, 6.5% of 18 to 75 year olds vape every day in metropolitan France, against 3.0% in 2014, according to Santé publique France. But 47.7% of daily vapers also smoke; 49.5% are former smokers."
+      }
+    ]
+  }
+}
