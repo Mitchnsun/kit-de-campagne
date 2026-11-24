@@ -58,6 +58,7 @@ Dans les deux dossiers, images et fiches sont rangées par catégorie d'événem
 | `support` | Offre de soutien |
 | `team` | Crise d'équipe |
 | `touringIncident` | Contretemps de tournée |
+| `endings` | Fins de campagne : une image qui n'est pas celle d'une carte, l'écran d'une fin (« Pays paralysé », `paralysedCountry`) |
 
 ## Comment les données des Dossiers sont faites
 
