@@ -14,7 +14,7 @@
 | Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 190 Ko, sans recadrage, fait depuis la copie WebP de la conversation |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
-| Première édition | À compléter |
+| Première édition | `kit-france-2611-0004` |
 
 ## Texte de la carte
 
