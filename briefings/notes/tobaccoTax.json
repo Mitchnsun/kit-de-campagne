@@ -1,0 +1,36 @@
+{
+ "fr": [
+  "Depuis 2017, l'Assurance maladie reçoit seule les droits de consommation sur le tabac ; ils étaient partagés avant entre plusieurs caisses et fonds. Ils ne comprennent pas la TVA, environ 2,17 € sur un paquet à 13 € selon l'OFDT.",
+  "Le pic de 2020 tient au confinement : frontières fermées, les achats se sont reportés chez les buralistes, des « effets non anticipés de la crise sanitaire », selon la Commission des comptes de la Sécurité sociale.",
+  "Les recettes baissent avec les volumes : la Commission prévoit 11,4 milliards d'euros en 2026 et 10,7 en 2027. En 2025, le chiffre net des frais de recouvrement est de 12,6 milliards, et les buralistes paient en plus 0,3 milliard de droits de licence.",
+  "Selon l'OFDT, le coût social du tabac atteint 156 milliards d'euros en 2019, en comptant par convention la valeur des 73 189 vies perdues. Les soins à eux seuls coûtent 16,5 milliards, plus que les 13 milliards de taxes."
+ ],
+ "en": [
+  "Since 2017, the health insurance alone receives the excise duties on tobacco; they used to be shared between several funds. They exclude VAT, about €2.17 on a €13 pack according to the OFDT.",
+  "The 2020 peak is due to the lockdown: with borders closed, purchases moved to the tobacconists, “unanticipated effects of the health crisis”, according to the Social Security Accounts Commission.",
+  "Revenue falls with volumes: the Commission forecasts €11.4 billion in 2026 and €10.7 billion in 2027. In 2025, the figure net of collection costs is €12.6 billion, and tobacconists also pay €0.3 billion in licence duties.",
+  "According to the OFDT, the social cost of tobacco reaches €156 billion in 2019, counting by convention the value of the 73,189 lives lost. Care alone costs €16.5 billion, more than the €13 billion of taxes."
+ ],
+ "claims": {
+  "fr": [
+   {
+    "heard": "On entend que le tabac rapporte à l'État plus qu'il ne coûte.",
+    "answer": "Selon l'OFDT (2023), le tabac a rapporté environ 13 milliards d'euros de taxes en 2019, moins que les 16,5 milliards de soins qu'il a coûtés : un déficit public de 1,7 milliard. Avec la valeur des vies perdues, son coût social atteint 156 milliards. L'OFDT conclut que « l'idée que les drogues comme le tabac et l'alcool apporteraient à l'État des bénéfices est donc infondée »."
+   },
+   {
+    "heard": "On entend que la contrebande fait perdre des milliards à l'État.",
+    "answer": "Les douanes estiment à 4,3 milliards d'euros par an en moyenne (de 2,8 à 5,8 milliards en 2023) la perte due au tabac qui échappe à la fiscalité française, mais surtout par des achats légaux dans les pays voisins : « bien loin des scénarios alarmistes sur le marché noir », selon l'étude TAFE. Le rapport commandé par Philip Morris avance 10,4 milliards."
+   }
+  ],
+  "en": [
+   {
+    "heard": "People say tobacco brings the State more than it costs.",
+    "answer": "According to the OFDT (2023), tobacco brought about €13 billion in taxes in 2019, less than the €16.5 billion of care it cost: a public deficit of €1.7 billion. With the value of lives lost, its social cost reaches €156 billion. The OFDT concludes that “the idea that drugs such as tobacco and alcohol would bring the State profits is therefore unfounded”."
+   },
+   {
+    "heard": "People say smuggling costs the State billions.",
+    "answer": "Customs estimate at €4.3 billion a year on average (€2.8 to 5.8 billion in 2023) the loss due to tobacco escaping French taxation, but mostly through legal purchases in neighbouring countries: “far from the alarmist black-market scenarios”, according to the TAFE study. The report commissioned by Philip Morris puts it at €10.4 billion."
+   }
+  ]
+ }
+}

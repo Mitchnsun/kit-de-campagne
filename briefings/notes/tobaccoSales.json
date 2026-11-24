@@ -1,0 +1,44 @@
+{
+ "fr": [
+  "Ce sont les livraisons de Logista, premier distributeur de tabac, aux buralistes de France continentale, et non les achats des fumeurs. Une cigarette y compte pour 1 g, un poids « probablement surestimé » selon l'OFDT.",
+  "Les ventes ont baissé de plus de moitié depuis 2000. Les deux plus fortes chutes suivent des hausses de prix : 2003-2004, avec le premier plan Cancer, et 2017-2020, quand le paquet le plus vendu est passé de 7 à 10 €. De 2017 à 2020, les ventes ont reculé de 15,6 %, selon l'OFDT.",
+  "Le réseau compte environ 22 200 buralistes en 2025 selon les douanes, contre 32 850 en 2002 selon le ministère du Budget. Leur remise sur le prix du tabac est passée de 9,44 % en 2017 à 10,29 % en 2025, selon l'OFDT.",
+  "Le chiffre d'affaires du tabac en France continentale reste proche de celui de 2017 : 18,4 milliards d'euros en 2025, contre 18,1 en 2017, selon l'OFDT. Les volumes baissent, les prix montent."
+ ],
+ "en": [
+  "These are the deliveries of Logista, the first tobacco distributor, to the tobacconists of mainland France, not smokers’ purchases. A cigarette counts as 1 g, a weight the OFDT calls “probably overestimated”.",
+  "Sales have fallen by more than half since 2000. The two sharpest drops follow price rises: 2003-2004, with the first Cancer plan, and 2017-2020, when the best-selling pack went from €7 to €10. From 2017 to 2020, sales fell by 15.6%, according to the OFDT.",
+  "The network has about 22,200 tobacconists in 2025 according to customs, against 32,850 in 2002 according to the Budget ministry. Their margin on the price of tobacco rose from 9.44% in 2017 to 10.29% in 2025, according to the OFDT.",
+  "Tobacco turnover in mainland France stays close to its 2017 level: €18.4 billion in 2025, against €18.1 billion in 2017, according to the OFDT. Volumes fall, prices rise."
+ ],
+ "claims": {
+  "fr": [
+   {
+    "heard": "On entend que près d'une cigarette sur deux échappe au réseau légal.",
+    "answer": "Ce chiffre s'appuie sur le rapport du cabinet KPMG commandé par Philip Morris : selon lui, 53,6 % des cigarettes fumées en France en 2025 ne viennent pas du réseau français, mais ce total compte aussi les achats légaux faits à l'étranger (12,2 %). Les estimations publiques (Insee, Santé publique France, OFDT, douanes) donnent 10 à 20 % : l'étude TAFE des douanes retient 17,7 % en 2023, surtout des achats dans les pays voisins."
+   },
+   {
+    "heard": "On entend qu'augmenter le prix du tabac fait exploser la contrebande.",
+    "answer": "De 2017 à 2020, le paquet le plus vendu est passé de 7 à 10 € et les ventes aux buralistes ont baissé de 15,6 %, selon l'OFDT. Le report se fait surtout aux frontières : selon l'étude TAFE des douanes, les achats transfrontaliers sont « la principale source de contournement fiscal », et les achats dans la rue pèsent moins de 1 % du marché en 2023."
+   },
+   {
+    "heard": "On entend que les buralistes disparaissent.",
+    "answer": "Le réseau recule depuis longtemps : 32 850 débits en 2002 selon le ministère du Budget, environ 22 200 en 2025 selon les douanes, un tiers de moins. Mais le chiffre d'affaires du tabac se maintient (18,4 milliards d'euros en 2025, 18,1 en 2017) et la remise des buralistes est passée de 9,44 % à 10,29 % du prix, selon l'OFDT."
+   }
+  ],
+  "en": [
+   {
+    "heard": "People say nearly one cigarette in two escapes the legal network.",
+    "answer": "The figure rests on the report of the firm KPMG commissioned by Philip Morris: according to it, 53.6% of the cigarettes smoked in France in 2025 do not come from the French network, but that total also counts legal purchases made abroad (12.2%). Public estimates (Insee, Santé publique France, OFDT, customs) give 10 to 20%: the customs’ TAFE study finds 17.7% in 2023, mostly purchases in neighbouring countries."
+   },
+   {
+    "heard": "People say raising the price of tobacco makes smuggling explode.",
+    "answer": "From 2017 to 2020, the best-selling pack went from €7 to €10 and sales to tobacconists fell by 15.6%, according to the OFDT. The shift happens mostly at the borders: according to the customs’ TAFE study, cross-border purchases are “the main source of tax avoidance”, and street purchases weigh less than 1% of the market in 2023."
+   },
+   {
+    "heard": "People say tobacconists are disappearing.",
+    "answer": "The network has been shrinking for a long time: 32,850 outlets in 2002 according to the Budget ministry, about 22,200 in 2025 according to customs, a third fewer. But tobacco turnover holds up (€18.4 billion in 2025, €18.1 billion in 2017) and the tobacconists’ margin rose from 9.44% to 10.29% of the price, according to the OFDT."
+   }
+  ]
+ }
+}
