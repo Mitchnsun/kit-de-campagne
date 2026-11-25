@@ -6,7 +6,7 @@
 | --- | --- |
 | Indicateur | `seniorEmployment`, volet de « Retraites » (`pensions`), dossier « Travail et retraites » (`work`), page de type série, ticket #540 de l'app |
 | Données | `briefings/data/seniorEmployment.json`, écrit par `yarn briefings seniorEmployment` le 2026-11-25 |
-| Sources | Eurostat, « Employment and activity by sex and age - annual data » (`lfsi_emp_a`), https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a/default/table?lang=fr ; API https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?format=JSON&lang=fr&geo=FR&geo=EU27_2020&indic_em=EMP_LFS&sex=T&age=Y55-64&unit=PC_POP ; politique de réutilisation d'Eurostat (mention de la source) |
+| Sources | Eurostat, « Employment and labour force by sex and age - annual data » (`lfsi_emp_a`), https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a/default/table?lang=fr ; API https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a?format=JSON&lang=fr&geo=FR&geo=EU27_2020&indic_em=EMP_LFS&sex=T&age=Y55-64&unit=PC_POP ; politique de réutilisation d'Eurostat (mention de la source) |
 | Séries | `france` : taux d'emploi des 55-64 ans, France, 2003 à 2025, 23 points, drapeau `d` (définition différente) de 2021 à 2025 ; `europeanUnion` : UE à 27, 2009 à 2025, 17 points ; mise à jour d'Eurostat du 06/11/2026 |
 | Chiffre clé | 61,7 % en 2025, en hausse (60,3 % en 2024) ; l'UE à côté, 66,4 % |
 | Règles | Toutes les années d'Eurostat ; un drapeau `b` devient une rupture de la série ; le script échoue sur un autre jeu de données, une année manquante, un territoire absent ou un taux hors de 10 à 100 % |
