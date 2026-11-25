@@ -1,20 +1,20 @@
 # `paralysedCountry` · Pays paralysé
 
-**À générer.** L'illustration d'une fin de campagne, pas d'une carte : l'écran de fin « Pays paralysé » (Mitchnsun/moi-president#205), quand la crise des milices va au bout de ses trois jours. Elle sert telle quelle en clair et en sombre.
+**Proposée au PO le 25/11/2026**, dans le trait de `primeTime`, sur le prompt qui montre les traces des heurts et la police (voir « Décisions »). L'illustration d'une fin de campagne, pas d'une carte : l'écran de fin « Pays paralysé » (Mitchnsun/moi-president#205), quand la crise des milices va au bout de ses trois jours. Elle sert telle quelle en clair et en sombre.
 
 ![Pays paralysé](../../illustrations/endings/paralysedCountry.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | Aucune : la fin `paralysed`, catégorie `endings` (Fins de campagne). L'app la lit sous l'identifiant `paralysedCountry` (`constants/Illustrations.ts`) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, trait de `primeTime` ; un grain d'aquarelle plus uniforme que la référence |
 | Ton | Tendu |
-| Date | À remplir |
-| Outil | À remplir |
-| Conversation | À remplir |
-| Format rendu | À remplir : export en 1290 × 726 px, WebP de qualité 75 |
-| Fichier d'origine | Image de ChatGPT, chez le PO |
-| Première édition | À remplir |
+| Date | 2026-11-25 |
+| Outil | ChatGPT Images |
+| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, 289 Ko, sans recadrage |
+| Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
+| Première édition | La prochaine Release qui suit le merge de la PR #533 de l'app |
 
 ## Texte de l'écran
 
@@ -65,13 +65,13 @@ Aucune.
 
 ## Relecture
 
-À faire par le PO.
+Faite par Claude le 25/11/2026, à valider par le PO.
 
-- [ ] Aucun texte lisible : affichette, tracts, urnes, boucliers, véhicules.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; ses tracts n'ont ni visage ni texte.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Les traces des heurts et la présence policière se lisent à 343 px de large ; aucun affrontement en cours, aucun blessé.
-- [ ] Aucune couleur ni aucun logo de parti. Drapeau seulement pour signaler l'école. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur l'écran de fin, en clair et en sombre.
+- [x] Aucun texte lisible : l'affichette et la carte d'électeur ne portent que des lignes grises, les fourgons, les boucliers et le blindé n'ont rien d'écrit.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ ; ses tracts, au premier plan, sont blancs.
+- [x] Mains et visages sans défaut visible à 343 px de large : la gardienne garde une main dans sa poche, ses clés pendues au doigt ; l'électeur tient sa carte. La ligne de CRS, au fond, répète un peu les silhouettes.
+- [x] Aucune couleur ni aucun logo de parti. Le drapeau, bleu côté hampe, signale l'école. Des personnes variées par l'âge, l'origine et la coiffure.
+- [x] Les traces des heurts (voiture calcinée, abribus brisé, palettes, poubelles, verre, grenades vides, vitrines condamnées) et la police (une douzaine de CRS, deux fourgons, un blindé, un hélicoptère) se lisent à 343 px de large ; aucun affrontement en cours, aucun blessé.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [ ] Lisible sur l'écran de fin, en clair et en sombre : à vérifier dans l'app, le kit installé.
