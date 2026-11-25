@@ -1,0 +1,95 @@
+{
+  "id": "blankVotes",
+  "retrievedOn": "2026-11-25",
+  "sources": [
+    {
+      "producer": "Ministère de l'Intérieur, data.gouv.fr",
+      "publication": "Données des élections agrégées",
+      "publishedOn": "2026-04-05"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2012-152 PDR du 25 avril 2012",
+      "publishedOn": "2012-04-25"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2012-154 PDR du 10 mai 2012",
+      "publishedOn": "2012-05-10"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2007-139 PDR du 25 avril 2007",
+      "publishedOn": "2007-04-25"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2007-141 PDR du 10 mai 2007",
+      "publishedOn": "2007-05-10"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2002-109 PDR du 24 avril 2002",
+      "publishedOn": "2002-04-24"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2002-111 PDR du 8 mai 2002",
+      "publishedOn": "2002-05-08"
+    }
+  ],
+  "headline": {
+    "series": "secondRound",
+    "period": "2022",
+    "value": 8.66,
+    "trend": "down"
+  },
+  "series": [
+    {
+      "id": "secondRound",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "votants moins exprimés, 2nd tour",
+      "points": [
+        ["2002", 5.39],
+        ["2007", 4.2],
+        ["2012", 5.82],
+        ["2017", 11.52],
+        ["2022", 8.66]
+      ]
+    },
+    {
+      "id": "firstRound",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "votants moins exprimés, 1er tour",
+      "points": [
+        ["2002", 3.38],
+        ["2007", 1.44],
+        ["2012", 1.92],
+        ["2017", 2.57],
+        ["2022", 2.2]
+      ]
+    },
+    {
+      "id": "blankSecondRound",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "blancs, 2nd tour",
+      "points": [
+        ["2017", 8.52],
+        ["2022", 6.37]
+      ]
+    },
+    {
+      "id": "blankFirstRound",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "blancs, 1er tour",
+      "points": [
+        ["2017", 1.78],
+        ["2022", 1.51]
+      ]
+    }
+  ]
+}
