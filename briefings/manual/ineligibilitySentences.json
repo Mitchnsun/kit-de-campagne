@@ -1,0 +1,112 @@
+{
+  "id": "ineligibilitySentences",
+  "retrievedOn": "2026-11-25",
+  "sources": [
+    {
+      "producer": "Sénat",
+      "publication": "Rapport n° 89 (2025-2026) fait au nom de la commission des lois sur la proposition de loi visant à créer un fichier national des personnes inéligibles",
+      "publishedOn": "2025-10-29"
+    }
+  ],
+  "headline": {
+    "series": "pronounced",
+    "period": "2024",
+    "value": 15723,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "convictions",
+      "frequency": "annual",
+      "unit": "count",
+      "status": {
+        "2023": "provisional",
+        "2024": "provisional"
+      },
+      "points": [
+        [
+          "2020",
+          18768
+        ],
+        [
+          "2021",
+          27281
+        ],
+        [
+          "2022",
+          30184
+        ],
+        [
+          "2023",
+          34570
+        ],
+        [
+          "2024",
+          37693
+        ]
+      ]
+    },
+    {
+      "id": "pronounced",
+      "frequency": "annual",
+      "unit": "count",
+      "status": {
+        "2023": "provisional",
+        "2024": "provisional"
+      },
+      "points": [
+        [
+          "2020",
+          1497
+        ],
+        [
+          "2021",
+          3726
+        ],
+        [
+          "2022",
+          6839
+        ],
+        [
+          "2023",
+          11332
+        ],
+        [
+          "2024",
+          15723
+        ]
+      ]
+    },
+    {
+      "id": "rate",
+      "frequency": "annual",
+      "unit": "percent",
+      "status": {
+        "2023": "provisional",
+        "2024": "provisional"
+      },
+      "points": [
+        [
+          "2020",
+          8
+        ],
+        [
+          "2021",
+          14
+        ],
+        [
+          "2022",
+          23
+        ],
+        [
+          "2023",
+          33
+        ],
+        [
+          "2024",
+          42
+        ]
+      ]
+    }
+  ]
+}
