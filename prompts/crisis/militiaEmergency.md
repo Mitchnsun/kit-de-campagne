@@ -77,4 +77,4 @@ Faite par Claude le 25/11/2026, à valider par le PO.
 - [x] Aucune couleur ni aucun logo de parti, aucune arme sortie (un étui fermé à la ceinture).
 - [ ] La salle de concert demandée est devenue une scène en plein air sur une place, et la technicienne sur l'escabeau n'est pas dessinée : à juger par le PO.
 - [x] En 3:2 : sans objet, l'image est en 16:9.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, le kit installé.
+- [x] Lisible sur la page de l'événement, en clair et en sombre : vérifié dans l'app web de la PR #533 (Chromium, 420 px), le kit servi en local, le 25/11/2026.

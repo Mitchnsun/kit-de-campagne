@@ -83,4 +83,4 @@ Faite par Claude le 25/11/2026, à valider par le PO.
 - [x] Mains et visages sans défaut visible à 343 px de large : la responsable presse tient son téléphone d'une main, l'autre sur l'ordinateur, cinq doigts chacune ; le directeur a les bras croisés, la conseillère écrit.
 - [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure, aucune en double.
 - [x] En 3:2 : sans objet, l'image est en 16:9.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, le kit installé.
+- [x] Lisible sur la page de l'événement, en clair et en sombre : vérifié dans l'app web de la PR #533 (Chromium, 420 px), le kit servi en local, le 25/11/2026.

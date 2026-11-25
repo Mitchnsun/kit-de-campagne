@@ -76,4 +76,4 @@ Faite par Claude le 25/11/2026, à valider par le PO.
 - [x] Mains et visages sans défaut visible à 343 px de large : la patronne tient le verre et le torchon, cinq doigts ; le retraité tient son journal.
 - [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps et l'origine (italienne, algérienne, turque).
 - [x] En 3:2 : sans objet, l'image est en 16:9.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre : à vérifier dans l'app, le kit installé.
+- [x] Lisible sur la page de l'événement, en clair et en sombre : vérifié dans l'app web de la PR #533 (Chromium, 420 px), le kit servi en local, le 25/11/2026.
