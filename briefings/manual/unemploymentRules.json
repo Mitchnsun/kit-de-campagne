@@ -1,0 +1,155 @@
+{
+  "id": "unemploymentRules",
+  "retrievedOn": "2026-11-25",
+  "sources": [
+    {
+      "producer": "Unédic",
+      "publication": "Texte consolidé du règlement général annexé à la convention du 15 novembre 2024 relative à l'Assurance chômage",
+      "publishedOn": "2026-09-01"
+    },
+    {
+      "producer": "Unédic",
+      "publication": "Texte consolidé de la convention du 15 novembre 2024 relative à l'Assurance chômage",
+      "publishedOn": "2026-09-01"
+    },
+    {
+      "producer": "Ministère du Travail",
+      "publication": "Code du travail, article L5422-2-2",
+      "publishedOn": "2025-10-26"
+    },
+    {
+      "producer": "Unédic",
+      "publication": "Durée d'indemnisation",
+      "publishedOn": "2026-10-05"
+    }
+  ],
+  "headline": {
+    "series": "maxUnder55",
+    "period": "2026",
+    "value": 548,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "maxUnder55",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Règlement général, art. 9, § 4, 2°",
+      "points": [["2026", 548]]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "coefficientStart",
+      "date": "2023-02-01",
+      "status": "set",
+      "source": 3
+    },
+    {
+      "id": "ageThresholds",
+      "date": "2025-04-01",
+      "deadline": true,
+      "status": "set",
+      "source": 1,
+      "article": "Convention du 15 novembre 2024, art. 11, § 1er"
+    },
+    {
+      "id": "conventionalBreakRule",
+      "date": "2026-09-01",
+      "status": "set",
+      "source": 1,
+      "article": "Convention du 15 novembre 2024, art. 11, § 7"
+    }
+  ],
+  "provisions": [
+    {
+      "id": "maxUnder55",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 4, 2°",
+      "quote": "Après application du coefficient réducteur prévu au second alinéa du 1° du §1 du présent article, les durées maximales d’indemnisation correspondent à : 548 jours calendaires pour les salariés privés d’emploi âgés de moins 55 ans à la date de fin de leur contrat de travail ; […]",
+      "source": 0,
+      "value": 548,
+      "unit": "count"
+    },
+    {
+      "id": "max55to56",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 4, 2°",
+      "quote": "685 jours calendaires pour les salariés privés d’emploi âgés d’au moins 55 ans et de moins de 57 ans à la date de fin de leur contrat de travail ; 822 jours calendaires pour les salariés privés d’emploi âgés de 57 ans et plus à la date de fin de leur contrat de travail.",
+      "source": 0,
+      "value": 685,
+      "unit": "count"
+    },
+    {
+      "id": "max57AndOver",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 4, 2°",
+      "quote": "685 jours calendaires pour les salariés privés d’emploi âgés d’au moins 55 ans et de moins de 57 ans à la date de fin de leur contrat de travail ; 822 jours calendaires pour les salariés privés d’emploi âgés de 57 ans et plus à la date de fin de leur contrat de travail.",
+      "source": 0,
+      "value": 822,
+      "unit": "count"
+    },
+    {
+      "id": "coefficient",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 1er, 1°",
+      "quote": "Il est appliqué à cette durée un coefficient égal à 0,75. Le nombre de jours en résultant est arrondi à l'entier supérieur.",
+      "source": 0,
+      "value": 0.75,
+      "unit": "ratio"
+    },
+    {
+      "id": "floor",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 4, 1°",
+      "quote": "La durée d'indemnisation calculée conformément au premier alinéa du 1° du §1er et au 3° du même §1er donnant lieu au versement de l'allocation ne peut être inférieure à 182 jours calendaires.",
+      "source": 0,
+      "value": 182,
+      "unit": "count"
+    },
+    {
+      "id": "breakUnder55",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 8, 2°, a)",
+      "quote": "[…] les durées maximales d’indemnisation des demandeurs d’emploi mentionnés à l’alinéa précédent correspondent à : - 456 jours calendaires pour les salariés privés d’emploi âgés de moins de 55 ans à la date de fin de leur contrat de travail ; - 624 jours calendaires pour les salariés privés d’emploi âgés de 55 ans et plus à la date de fin de leur contrat de travail.",
+      "source": 0,
+      "value": 456,
+      "unit": "count"
+    },
+    {
+      "id": "break55AndOver",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 8, 2°, a)",
+      "quote": "[…] les durées maximales d’indemnisation des demandeurs d’emploi mentionnés à l’alinéa précédent correspondent à : - 456 jours calendaires pour les salariés privés d’emploi âgés de moins de 55 ans à la date de fin de leur contrat de travail ; - 624 jours calendaires pour les salariés privés d’emploi âgés de 55 ans et plus à la date de fin de leur contrat de travail.",
+      "source": 0,
+      "value": 624,
+      "unit": "count"
+    },
+    {
+      "id": "breakExtension",
+      "article": "Convention du 15 novembre 2024, art. 2, § 14",
+      "quote": "Les allocataires de 55 ans et plus, sous condition de l’appréciation des démarches effectives pour la réalisation de leur projet professionnel, peuvent demander la prolongation de leur indemnisation dans la limite de la durée maximale de droit commun (affectée du coefficient de 0,75 uniquement pour les allocataires résidant en France métropolitaine).",
+      "source": 1
+    },
+    {
+      "id": "breakStart",
+      "article": "Convention du 15 novembre 2024, art. 11, § 7",
+      "quote": "Les dispositions des §8 et §9 de l’article 9, […] dans leur rédaction issue de l’avenant n° 2 du 10 avril 2026 à la convention du 15 novembre 2024 relative à l’assurance chômage, sont applicables aux travailleurs privés d’emploi dont la fin de contrat de travail est intervenue à compter du 1er septembre 2026, sous réserve de l’évolution du cadre légal.",
+      "source": 1,
+      "milestone": "conventionalBreakRule"
+    },
+    {
+      "id": "supplement",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9, § 1er, 2°",
+      "quote": "Il est attribué un complément de fin de droits à l'allocataire dont le reliquat des droits, résultant du 1° du présent § 1er, augmentés le cas échéant de l’allongement prévu au §5 ou du complément de fin de formation prévu au §7, est de trente jours ou moins au cours d'un mois pendant lequel les conditions mentionnées au §1er de l'article 9 bis sont satisfaites.",
+      "source": 0
+    },
+    {
+      "id": "supplementTrigger",
+      "article": "Règlement général annexé à la convention du 15 novembre 2024, art. 9 bis, § 1er",
+      "quote": "une augmentation sur un trimestre de 0,8 point ou plus de l'estimation du taux chômage pour la France, hors Mayotte, au sens du Bureau international du travail ; l'atteinte, pour l'estimation de ce même taux, d'un niveau égal ou excédant 9,0 %.",
+      "source": 0,
+      "value": 9,
+      "unit": "percent"
+    },
+    {
+      "id": "modulation",
+      "article": "Code du travail, art. L. 5422-2-2",
+      "quote": "Les conditions d'activité antérieure pour l'ouverture ou le rechargement des droits et la durée des droits à l'allocation d'assurance peuvent être modulées en tenant compte d'indicateurs conjoncturels sur l'emploi et le fonctionnement du marché du travail.",
+      "source": 2
+    }
+  ]
+}
