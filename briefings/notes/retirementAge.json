@@ -2,11 +2,13 @@
   "fr": [
     "L'âge moyen de départ d'une génération fictive qui aurait, à chaque âge, les taux de départ de l'année. Le COR le calcule pour les retraités de droit direct de tous les régimes obligatoires, en France et à l'étranger : ce n'est ni l'âge légal ni l'âge moyen des nouveaux retraités.",
     "Il passe de 60,5 ans en 2010 à 63,0 ans en 2024. 2025 (63,1 ans) est une estimation ; à partir de 2026, ce sont les projections du COR de juin 2026, les mêmes dans tous ses scénarios : 64,1 ans en 2031, 64,5 ans en 2040, 64,6 ans en 2070.",
-    "Par régime, selon la DREES, en 2024 : de 54,8 ans aux mines (CANSSM) et 56,9 ans à la RATP à 63,6 ans au régime général. Qui a cotisé à plusieurs régimes compte dans chacun, et ce fichier de la DREES ne donne pas de moyenne de tous les régimes : l'âge tous régimes est celui du COR."
+    "Par régime, selon la DREES, en 2024 : de 54,8 ans aux mines (CANSSM) et 56,9 ans à la RATP à 63,6 ans au régime général. Qui a cotisé à plusieurs régimes compte dans chacun, et ce fichier de la DREES ne donne pas de moyenne de tous les régimes : l'âge tous régimes est celui du COR.",
+    "La loi de financement de la sécurité sociale pour 2026 (art. 105) décale d'un trimestre le calendrier de l'âge légal, pour les pensions prenant effet dès le 1er septembre 2026 : 62 ans et 9 mois pour les personnes nées de 1963 à mars 1965, 64 ans dès 1969 ; 170 trimestres requis pour elles, 172 dès 1966."
   ],
   "en": [
     "The mean retirement age of a fictional generation that would have, at each age, the year’s retirement rates. The COR computes it for direct-entitlement retirees of all compulsory schemes, in France and abroad: it is neither the legal age nor the mean age of new retirees.",
     "It rises from 60.5 in 2010 to 63.0 in 2024. 2025 (63.1) is an estimate; from 2026 on, these are the COR’s June 2026 projections, the same in all its scenarios: 64.1 in 2031, 64.5 in 2040, 64.6 in 2070.",
-    "By scheme, according to the DREES, in 2024: from 54.8 for miners (CANSSM) and 56.9 at the RATP to 63.6 in the general scheme. A person who paid into several schemes counts in each, and this DREES file gives no average of all schemes: the all-scheme age is the COR’s."
+    "By scheme, according to the DREES, in 2024: from 54.8 for miners (CANSSM) and 56.9 at the RATP to 63.6 in the general scheme. A person who paid into several schemes counts in each, and this DREES file gives no average of all schemes: the all-scheme age is the COR’s.",
+    "The 2026 social security financing act (art. 105) shifts the timetable of the legal age by one quarter, for pensions starting from 1 September 2026: 62 years and 9 months for people born from 1963 to March 1965, 64 from 1969; 170 quarters required for them, 172 from 1966."
   ]
 }

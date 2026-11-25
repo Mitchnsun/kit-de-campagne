@@ -1,0 +1,123 @@
+{
+  "id": "energyLabels",
+  "retrievedOn": "2026-11-25",
+  "sources": [
+    {
+      "producer": "SDES",
+      "publication": "Le parc de logements par classe de performance énergétique au 1er janvier 2025",
+      "publishedOn": "2025-11-12"
+    },
+    {
+      "producer": "SDES",
+      "publication": "Le parc de logements par classe de performance énergétique au 1er janvier 2023",
+      "publishedOn": "2023-11-20"
+    }
+  ],
+  "headline": {
+    "series": "poorShare",
+    "period": "2025",
+    "value": 12.7,
+    "trend": "down"
+  },
+  "series": [
+    {
+      "id": "poorShare",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, Passoires",
+      "points": [
+        ["2023", 15.7],
+        ["2024", 13.9],
+        ["2025", 12.7]
+      ]
+    },
+    {
+      "id": "poorCount",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Ensemble, Passoires",
+      "points": [
+        ["2023", 4751000],
+        ["2024", 4242000],
+        ["2025", 3915000]
+      ]
+    },
+    {
+      "id": "labelA",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, A",
+      "points": [
+        ["2023", 1.9],
+        ["2024", 2.6],
+        ["2025", 3.3]
+      ]
+    },
+    {
+      "id": "labelB",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, B",
+      "points": [
+        ["2023", 3.9],
+        ["2024", 4.6],
+        ["2025", 5.3]
+      ]
+    },
+    {
+      "id": "labelC",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, C",
+      "points": [
+        ["2023", 24.0],
+        ["2024", 25.7],
+        ["2025", 27.2]
+      ]
+    },
+    {
+      "id": "labelD",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, D",
+      "points": [
+        ["2023", 32.9],
+        ["2024", 32.1],
+        ["2025", 33.7]
+      ]
+    },
+    {
+      "id": "labelE",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, E",
+      "points": [
+        ["2023", 21.4],
+        ["2024", 21.1],
+        ["2025", 17.8]
+      ]
+    },
+    {
+      "id": "labelF",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, F",
+      "points": [
+        ["2023", 9.4],
+        ["2024", 8.1],
+        ["2025", 7.9]
+      ]
+    },
+    {
+      "id": "labelG",
+      "frequency": "annual",
+      "unit": "percent",
+      "sourceId": "Ensemble, G",
+      "points": [
+        ["2023", 6.3],
+        ["2024", 5.7],
+        ["2025", 4.8]
+      ]
+    }
+  ]
+}

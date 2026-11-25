@@ -1,0 +1,145 @@
+{
+  "id": "institutionsRules",
+  "retrievedOn": "2026-11-25",
+  "sources": [
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Constitution du 4 octobre 1958",
+      "publishedOn": "2026-11-15"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2019-1 RIP du 9 mai 2019",
+      "publishedOn": "2019-05-15"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "Décision n° 2019-1-8 RIP du 26 mars 2020",
+      "publishedOn": "2020-03-26"
+    },
+    {
+      "producer": "Conseil constitutionnel",
+      "publication": "L'histoire du référendum sous la Ve République",
+      "publishedOn": "2020-02-11"
+    },
+    {
+      "producer": "Insee",
+      "publication": "Code officiel géographique au 1er janvier 2026",
+      "publishedOn": "2026-02-24"
+    }
+  ],
+  "headline": {
+    "series": "deputies",
+    "period": "2026",
+    "value": 577,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "deputies",
+      "frequency": "annual",
+      "unit": "count",
+      "sourceId": "Constitution, art. 24",
+      "points": [["2026", 577]]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "lastReferendum",
+      "date": "2005-05-29",
+      "status": "set",
+      "source": 3
+    },
+    {
+      "id": "ripCollectionEnd",
+      "date": "2020-03-12",
+      "status": "set",
+      "source": 2,
+      "article": "Décision n° 2019-1-8 RIP du 26 mars 2020, cons. 4"
+    }
+  ],
+  "provisions": [
+    {
+      "id": "deputies",
+      "article": "Constitution, art. 24",
+      "quote": "Les députés à l'Assemblée nationale, dont le nombre ne peut excéder cinq cent soixante-dix-sept, sont élus au suffrage direct.",
+      "source": 0,
+      "value": 577,
+      "unit": "count"
+    },
+    {
+      "id": "senators",
+      "article": "Constitution, art. 24",
+      "quote": "Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, est élu au suffrage indirect.",
+      "source": 0,
+      "value": 348,
+      "unit": "count"
+    },
+    {
+      "id": "referendums",
+      "article": "Conseil constitutionnel, L'histoire du référendum sous la Ve République",
+      "quote": "Neuf référendums ont été organisés sur le fondement des articles 11 et 89 de la Constitution.",
+      "source": 3,
+      "value": 9,
+      "unit": "count"
+    },
+    {
+      "id": "ripMembers",
+      "article": "Constitution, art. 11",
+      "quote": "Un référendum portant sur un objet mentionné au premier alinéa peut être organisé à l'initiative d'un cinquième des membres du Parlement […]",
+      "source": 0,
+      "value": 185,
+      "unit": "count",
+      "computed": true
+    },
+    {
+      "id": "ripVoters",
+      "article": "Constitution, art. 11",
+      "quote": "[…] soutenue par un dixième des électeurs inscrits sur les listes électorales.",
+      "source": 0
+    },
+    {
+      "id": "rip2019",
+      "article": "Décision n° 2019-1 RIP du 9 mai 2019, cons. 11",
+      "quote": "Le nombre de soutiens d'électeurs inscrits sur les listes électorales à recueillir est de 4 717 396.",
+      "source": 1,
+      "value": 4717396,
+      "unit": "count"
+    },
+    {
+      "id": "ripSupports",
+      "article": "Décision n° 2019-1-8 RIP du 26 mars 2020, cons. 6",
+      "quote": "Il y a lieu de constater que la proposition de loi a recueilli le soutien de 1 093 030 électeurs inscrits sur les listes électorales. Elle n'a donc pas obtenu le soutien d'au moins un dixième des électeurs inscrits sur les listes électorales.",
+      "source": 2,
+      "value": 1093030,
+      "unit": "count"
+    },
+    {
+      "id": "regions",
+      "article": "Constitution, art. 72",
+      "quote": "Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par l'article 74.",
+      "source": 0,
+      "value": 18,
+      "unit": "count",
+      "valueSource": 4
+    },
+    {
+      "id": "departments",
+      "article": "Constitution, art. 72",
+      "quote": "Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par l'article 74.",
+      "source": 0,
+      "value": 101,
+      "unit": "count",
+      "valueSource": 4
+    },
+    {
+      "id": "communes",
+      "article": "Constitution, art. 72",
+      "quote": "Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par l'article 74.",
+      "source": 0,
+      "value": 34875,
+      "unit": "count",
+      "valueSource": 4
+    }
+  ]
+}

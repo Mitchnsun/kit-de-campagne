@@ -1,6 +1,6 @@
 {
   "id": "minimumWage",
-  "retrievedOn": "2026-11-02",
+  "retrievedOn": "2026-11-25",
   "sources": [
     {
       "producer": "Insee",
@@ -16,6 +16,11 @@
       "producer": "Insee",
       "publication": "Les salaires dans le secteur privé en 2024",
       "publishedOn": "2025-12-18"
+    },
+    {
+      "producer": "Ministère du Travail",
+      "publication": "SMIC : une augmentation au 1er décembre 2026, quelles conséquences sur les salaires ?",
+      "publishedOn": "2026-11-17"
     }
   ],
   "headline": { "series": "hourly", "period": "2026-06", "value": 12.31, "trend": "up" },
