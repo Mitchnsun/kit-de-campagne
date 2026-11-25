@@ -139,13 +139,13 @@
     {
       "id": "corporateTax",
       "unit": "percent",
-      "period": "2025",
+      "period": "2026",
       "sourceId": "DF_CIT",
       "values": [
         ["france", 36.13],
         ["franceWithoutSurtax", 25],
         ["malta", 35],
-        ["portugal", 30.5],
+        ["portugal", 29.5],
         ["germany", 30.13],
         ["italy", 27.81],
         ["netherlands", 25.8]
