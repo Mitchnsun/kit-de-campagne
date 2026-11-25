@@ -74,4 +74,4 @@ Faite par Claude le 25/11/2026, à valider par le PO.
 - [x] Aucune couleur ni aucun logo de parti. Le drapeau, bleu côté hampe, signale l'école. Des personnes variées par l'âge, l'origine et la coiffure.
 - [x] Les traces des heurts (voiture calcinée, abribus brisé, palettes, poubelles, verre, grenades vides, vitrines condamnées) et la police (une douzaine de CRS, deux fourgons, un blindé, un hélicoptère) se lisent à 343 px de large ; aucun affrontement en cours, aucun blessé.
 - [x] En 3:2 : sans objet, l'image est en 16:9.
-- [ ] Lisible sur l'écran de fin, en clair et en sombre : à vérifier dans l'app, le kit installé.
+- [x] Lisible sur l'écran de fin, en clair et en sombre : vérifié dans l'app web (Chromium, 420 px), le kit installé depuis un serveur local, le 25/11/2026.
