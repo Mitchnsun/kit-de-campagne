@@ -14,7 +14,7 @@
 | Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
-| Première édition | À compléter |
+| Première édition | `kit-france-2611-0004` |
 
 ## Texte de la carte
 
