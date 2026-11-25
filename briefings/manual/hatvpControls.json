@@ -1,0 +1,102 @@
+{
+  "id": "hatvpControls",
+  "retrievedOn": "2026-11-25",
+  "sources": [
+    {
+      "producer": "HATVP",
+      "publication": "Synthèse du rapport d’activité 2025",
+      "publishedOn": "2026-05-19"
+    },
+    {
+      "producer": "HATVP",
+      "publication": "Rapports d’activité 2017 à 2024 : les chiffres clés",
+      "publishedOn": "2025-04-29"
+    }
+  ],
+  "headline": {
+    "series": "controlled",
+    "period": "2025",
+    "value": 5795,
+    "trend": "up"
+  },
+  "series": [
+    {
+      "id": "received",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        [
+          "2017",
+          10622
+        ],
+        [
+          "2018",
+          5787
+        ],
+        [
+          "2019",
+          5360
+        ],
+        [
+          "2020",
+          17113
+        ],
+        [
+          "2021",
+          15574
+        ],
+        [
+          "2022",
+          10659
+        ],
+        [
+          "2023",
+          8816
+        ],
+        [
+          "2024",
+          13103
+        ],
+        [
+          "2025",
+          10362
+        ]
+      ]
+    },
+    {
+      "id": "controlled",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        [
+          "2019",
+          4057
+        ],
+        [
+          "2020",
+          2457
+        ],
+        [
+          "2021",
+          3150
+        ],
+        [
+          "2022",
+          4170
+        ],
+        [
+          "2023",
+          3536
+        ],
+        [
+          "2024",
+          5122
+        ],
+        [
+          "2025",
+          5795
+        ]
+      ]
+    }
+  ]
+}

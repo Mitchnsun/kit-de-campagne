@@ -1,0 +1,65 @@
+{
+  "id": "electedOfficialsAttacks",
+  "retrievedOn": "2026-11-25",
+  "sources": [
+    {
+      "producer": "Ministère de l’Intérieur (Calaé)",
+      "publication": "Centre d’analyse et de lutte contre les atteintes aux élus, rapport d’activité 2025",
+      "publishedOn": "2026-06-30"
+    }
+  ],
+  "headline": {
+    "series": "procedures",
+    "period": "2025",
+    "value": 2478,
+    "trend": "stable"
+  },
+  "series": [
+    {
+      "id": "procedures",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        [
+          "2022",
+          2430
+        ],
+        [
+          "2023",
+          2759
+        ],
+        [
+          "2024",
+          2501
+        ],
+        [
+          "2025",
+          2478
+        ]
+      ]
+    },
+    {
+      "id": "closed",
+      "frequency": "annual",
+      "unit": "count",
+      "points": [
+        [
+          "2022",
+          1080
+        ],
+        [
+          "2023",
+          1149
+        ],
+        [
+          "2024",
+          1293
+        ],
+        [
+          "2025",
+          1190
+        ]
+      ]
+    }
+  ]
+}
