@@ -18,9 +18,9 @@
       "publishedOn": "2025-10-26"
     },
     {
-      "producer": "Unédic",
-      "publication": "Durée d'indemnisation",
-      "publishedOn": "2026-10-05"
+      "producer": "Légifrance",
+      "publication": "Décret n° 2023-33 du 26 janvier 2023 relatif au régime d'assurance chômage",
+      "publishedOn": "2023-01-27"
     }
   ],
   "headline": {
@@ -43,7 +43,8 @@
       "id": "coefficientStart",
       "date": "2023-02-01",
       "status": "set",
-      "source": 3
+      "source": 3,
+      "article": "Décret n° 2023-33, art. 1"
     },
     {
       "id": "ageThresholds",

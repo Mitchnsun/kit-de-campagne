@@ -30,7 +30,7 @@
 ## « À savoir »
 
 1. Tableau ci-dessus (2022-197 PDR : « Bulletins blancs : 2 233 904 », « Bulletins nuls : 805 249 ») ; 11,52 % est le plus haut des dix tours.
-2. Code électoral, art. L. 65 : « Les bulletins blancs sont décomptés séparément et annexés au procès-verbal. Ils n'entrent pas en compte pour la détermination des suffrages exprimés, mais il en est fait spécialement mention dans les résultats des scrutins. », lu par un agent Claude (modèle Sonnet) dans la copie de codes.droit.org, non officielle (Légifrance en 403), le 25/11/2026. La règle date de la loi n° 2014-172 du 21 février 2014 (non ouverte). Pour la présidentielle, les proclamations de 2017 et de 2022 donnent les blancs à part, comme la note le dit.
+2. Code électoral, art. L. 65 : « Les bulletins blancs sont décomptés séparément et annexés au procès-verbal. Ils n'entrent pas en compte pour la détermination des suffrages exprimés, mais il en est fait spécialement mention dans les résultats des scrutins. », lu sur Légifrance le 25/11/2026, https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027477739 (version en vigueur depuis le 22 mars 2015 ; la phrase est issue de la loi n° 2014-172 du 21 février 2014, art. 1, en vigueur au 1er avril 2014). L. 65 s'applique à la présidentielle : loi n° 62-1292 du 6 novembre 1962, art. 3, II (« L. 57-1 à L. 78 »).
 3. Les proclamations de 2002 à 2012 ne donnent ni « blancs » ni « nuls » (relevé de l'agent : « not written »).
 4. Rapports du second au premier tour, calculés : 1,6 (2002), 2,9 (2007), 3,0 (2012), 4,5 (2017), 3,9 (2022).
 
@@ -53,6 +53,6 @@ Aucune.
 ## Relecture
 
 - [x] Les chiffres clés et quelques points de chaque série recoupés ailleurs que dans la source.
-- [x] Chaque « À savoir » soutenu par une source, en français et en anglais (l'article L. 65 dans une copie non officielle).
+- [x] Chaque « À savoir » soutenu par une source, en français et en anglais (l'article L. 65 lu sur Légifrance).
 - [x] La licence de chaque source vérifiée, et la mention qu'elle demande.
 - [x] Aucune donnée interne du jeu, aucun sondage d'intention de vote pour 2027.
