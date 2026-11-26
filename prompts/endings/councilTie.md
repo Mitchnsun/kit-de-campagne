@@ -10,7 +10,7 @@
 | Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Solennel |
 | Date | 2026-11-26 |
-| Outil | À remplir (image fournie par le PO dans la conversation avec Claude) |
+| Outil | ChatGPT Images |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, 254 Ko, sans recadrage |
 | Première édition | La prochaine Release qui suit le merge de la PR de l'app qui livre #147 |
 
