@@ -18,7 +18,7 @@
 
 > **Égalité parfaite**
 >
-> 0 voix d'écart entre {ahead} et {behind}. La Constitution ne prévoit pas l'égalité : le Conseil constitutionnel tranche, et proclame la victoire de {winner}.
+> Pas une voix d'écart entre {ahead} et {behind}. La Constitution ne prévoit pas ce cas : le Conseil constitutionnel tranche, et proclame la victoire de {winner}.
 
 ## Le moment choisi
 
