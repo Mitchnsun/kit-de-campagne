@@ -1,15 +1,17 @@
 # `councilTie` · Égalité parfaite
 
-**À proposer au PO**, dans le trait de `primeTime`, comme `paralysedCountry`. L'illustration d'un moment de la soirée électorale, pas d'une carte : l'écran « Conseil constitutionnel » quand une égalité parfaite, au premier tour ou au second, est tranchée par le Conseil en faveur du joueur (Mitchnsun/moi-president#147). Elle sert telle quelle en clair et en sombre.
+**Fournie par le PO le 26/11/2026**, dans le trait de `primeTime`, comme `paralysedCountry`. L'illustration d'un moment de la soirée électorale, pas d'une carte : l'écran « Conseil constitutionnel » quand une égalité parfaite, au premier tour ou au second, est tranchée par le Conseil en faveur du joueur (Mitchnsun/moi-president#147). Elle sert telle quelle en clair et en sombre.
+
+![Égalité parfaite](../../illustrations/endings/councilTie.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | Aucune : le moment `councilFirst` ou `councilSecond` de la soirée, catégorie `endings` (Fins de campagne). L'app la lit sous l'identifiant `councilTie` (`constants/Illustrations.ts`) |
 | Style | Reportage dessiné, trait de `primeTime` |
 | Ton | Solennel |
-| Date | À remplir |
-| Outil | À remplir |
-| Format rendu | 16:9, export en 1290 px de large, WebP de qualité 75, sous 300 Ko |
+| Date | 2026-11-26 |
+| Outil | À remplir (image fournie par le PO dans la conversation avec Claude) |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, 254 Ko, sans recadrage |
 | Première édition | La prochaine Release qui suit le merge de la PR de l'app qui livre #147 |
 
 ## Texte de l'écran
@@ -61,4 +63,13 @@ Aucune.
 
 ## Relecture
 
-À faire une fois l'image générée.
+Faite par Claude le 26/11/2026, image retenue par le PO.
+
+- [x] Aucun texte lisible : ni plaque sur le bâtiment, ni logo sur les caméras et les camions, ni écran lisible sur le téléphone.
+- [x] Aucun sosie d'une personne réelle, aucun membre du Conseil visible.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains et visages sans défaut visible à 343 px de large : la journaliste tient son téléphone à deux mains, le militant serre le bras de sa voisine, qui porte une main à la bouche.
+- [x] Aucune couleur ni aucun logo de parti. Les drapeaux français et européen signalent l'institution. Des personnes variées par l'âge, l'origine et la coiffure.
+- [x] Lisible à 343 px de large : les trois personnages de gauche, la presse derrière les barrières et la porte qui se ferme ; le fondu du bas de l'écran tombe sur les pavés.
+- [ ] Écart au prompt, accepté : un rendu plus fini et plus peint que l'esquisse de `primeTime`, et une scène plus ouverte que l'étroite rue de Montpensier.
+- [ ] Lisible sur l'écran du Conseil, en clair et en sombre : à vérifier dans l'app une fois l'édition du kit publiée.
