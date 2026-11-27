@@ -11,7 +11,6 @@
 | Ton | Inquiet et digne, un appel qu'on aurait voulu ne pas passer |
 | Date | 2026-11-23 |
 | Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
-| Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, sans recadrage, fait depuis la copie WebP de la conversation (à refaire depuis le PNG d'origine) |
 | Fichier d'origine | À compléter (hors du dépôt) |
 | Première édition | `kit-france-2611-0004` |

@@ -11,7 +11,6 @@
 | Ton | Solennel et légèrement ironique |
 | Date | 2026-11-15 |
 | Outil | ChatGPT Images, modèle GPT 6.2, effort Light |
-| Conversation | À compléter |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 215 Ko, sans recadrage, fait depuis le PNG d'origine |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0004` |

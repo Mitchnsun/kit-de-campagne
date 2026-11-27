@@ -11,7 +11,6 @@
 | Ton | Tendu |
 | Date | 2026-11-06 |
 | Outil | ChatGPT Images |
-| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 172 Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude (WebP, 1672 × 941) |
 | Première édition | La prochaine Release qui suit le merge de la branche de l'app |

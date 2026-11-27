@@ -11,7 +11,6 @@
 | Ton | Observateur et calme, la première lumière de l'aube, ombres bleu nuit sur le parking, lueur abricot sur les collines et le visage |
 | Date | 2026-11-19 |
 | Outil | ChatGPT Images |
-| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 241 Ko, sans recadrage, fait depuis la copie WebP reçue |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0004` |

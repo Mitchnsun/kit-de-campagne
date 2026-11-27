@@ -11,7 +11,6 @@
 | Ton | Tendu et chaleureux, lumière douce du matin |
 | Date | 2026-11-20 (prompt écrit le 2026-11-18) |
 | Outil | GPT 6.2 Astra |
-| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 179 Ko, sans recadrage |
 | Fichier d'origine | Image chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | `kit-france-2611-0004` |
