@@ -12,7 +12,7 @@
 | Style | Reportage dessiné ; ce qui s'écarte du style, s'il y a lieu |
 | Ton | Observateur / Ironique / Tendu / Chaleureux, ou plus précis |
 | Date | AAAA-MM-JJ |
-| Outil | ChatGPT avec le modèle … en effort …, et ChatGPT Images <version> |
+| Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light (le modèle en usage, donné par le [gabarit](../gabarit.md), sauf si le PO en précise un autre) |
 | Conversation | Lien de la conversation (il ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | L × H (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, NNN Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |

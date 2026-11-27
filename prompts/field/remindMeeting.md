@@ -10,7 +10,7 @@
 | Style | Reportage dessiné ; une texture tissée couvre les vêtements, gardée par le PO |
 | Ton | Attentif, une salle qui attend la réponse |
 | Date | 2026-11-27 |
-| Outil | ChatGPT Images |
+| Outil | ChatGPT Images, modèle GPT 6.2 Astra, effort Light |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, 272 Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt est fait depuis la copie partagée dans la conversation avec Claude |
