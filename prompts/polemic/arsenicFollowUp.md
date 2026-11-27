@@ -11,7 +11,6 @@
 | Ton | Tendu, lumière froide du matin |
 | Date | 2026-11-27 |
 | Outil | ChatGPT Images |
-| Conversation | La conversation habituelle du PO, la même pour toutes les images (PO, 27/11/2026) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 232 Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | La prochaine Release qui suit le merge de la PR de Mitchnsun/moi-president#562 |
