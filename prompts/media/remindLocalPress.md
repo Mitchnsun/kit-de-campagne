@@ -1,18 +1,18 @@
 # `remindLocalPress` · La question du journal local
 
-**À valider par le PO.**
+**Validée par le PO le 27/11/2026**, au premier essai, malgré les écarts notés plus bas. Elle sert telle quelle en clair et en sombre.
 
 ![La question du journal local](../../illustrations/media/remindLocalPress.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `remindLocalPress`, catégorie `media` (Opportunité médiatique), carte ajoutée par la PR #561 de l'app (Mitchnsun/moi-president#499) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné, plus saturé que la référence ; une texture tissée couvre les vestes et le ciel, gardée par le PO |
 | Ton | Observateur |
 | Date | 2026-11-27 |
 | Outil | ChatGPT Images |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | À remplir |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, 239 Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt est fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | La prochaine Release qui suit le merge de la PR #561 de l'app |
 
@@ -51,6 +51,12 @@ Constraints: realistic proportions, natural expressions, never cartoonish or car
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
 
+## Décisions prises sur cette image
+
+- Le PO a gardé le premier essai (27/11/2026) sans message de correction, avec l'écart au gabarit le plus net des trois cartes « Rappelez-nous votre mesure » : la texture tissée la plus forte, jusque dans le ciel, un sol mouillé aux reflets brillants, un rendu plus saturé et un visage du journaliste plus fini que ceux de [`remindMeeting`](../field/remindMeeting.md) et [`remindAssociation`](../support/remindAssociation.md). Le message de correction proposé n'a pas été envoyé.
+- Au premier plan, la portière avant d'une berline sombre, au lieu de la portière arrière d'une petite voiture électrique : gardée.
+- Une cheminée d'usine fume derrière l'extension vitrée, que le prompt ne demandait pas : gardée.
+
 ## Essais écartés
 
 Aucun.
@@ -61,12 +67,12 @@ Aucune.
 
 ## Relecture
 
-À faire.
+Faite et validée par le PO le 27/11/2026.
 
-- [ ] Aucun texte lisible : carnet, téléphones, appareil photo, voiture, gilets, bobines, bâtiments.
-- [ ] Aucun sosie d'une personne réelle, journaliste compris. Ni le journal ni la papeterie ne sont reconnaissables.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible à 343 px de large. En zoom, une inscription griffonnée sur le dessus de l'appareil photo évoque une marque, et un petit logo se devine sur la polaire de la directrice : illisibles, gardés par le PO.
+- [x] Aucun sosie d'une personne réelle, journaliste compris. Ni le journal ni la papeterie ne sont reconnaissables.
+- [x] Le candidat du joueur est hors champ : seulement la portière de sa voiture.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large : la main au téléphone, celle au carnet, celles de la photographe et du membre de l'équipe ont cinq doigts.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
