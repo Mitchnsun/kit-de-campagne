@@ -19,7 +19,9 @@
 
 > **Des slogans dans le cortège**
 >
-> Une marche pour Gaza traverse la ville où vous tenez meeting, et des militantes et militants de votre campagne y défilent. Le soir, une vidéo montre quelques manifestants scander des slogans antisémites : on vous demande de réagir.
+> Une marche pour Gaza traverse la ville où vous tenez meeting. Le soir, une vidéo montre quelques manifestants scander des slogans antisémites, et la presse demande à chaque candidature de réagir.
+>
+> (Texte réécrit le 27/11/2026 pour valoir pour toute candidature : l'image, faite avant, reste juste.)
 
 Ses réponses : condamner ces slogans sans détour ; défendre la marche, des milliers de personnes pacifiques ; prendre vos distances avec la marche ; ne rien dire.
 
