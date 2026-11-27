@@ -20,9 +20,9 @@
 
 > **Des soldats français au front ?**
 >
-> Une enquête révèle que des soldats français sont déployés en secret dans le pays attaqué aux portes de l'Union. Le gouvernement se tait. Au sortir d'un meeting, un journaliste vous tend son micro : « Faut-il y envoyer nos soldats ? »
+> Une enquête révèle que des soldats français sont déployés en secret en Ukraine, en guerre contre la Russie aux portes de l'Union. Le gouvernement se tait. Au sortir d'un meeting, un journaliste vous tend son micro : « Faut-il y envoyer nos soldats ? »
 
-Ses réponses : assumer le soutien au pays attaqué, exiger un débat au Parlement, « Ce n'est pas notre guerre », ne pas commenter des opérations militaires.
+Ses réponses : assumer le soutien à l'Ukraine, exiger un débat au Parlement, « Ce n'est pas notre guerre », ne pas commenter des opérations militaires.
 
 ## Le moment choisi
 
