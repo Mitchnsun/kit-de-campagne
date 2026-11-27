@@ -53,7 +53,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- Le premier essai a une texture marbrée sur toute l'image (les parkas, le ciel, le trottoir), des visages plus finis que demandé (le journaliste, le militant) et des couleurs plus saturées que `primeTime`. Claude a proposé le message de correction du gabarit ; le PO a gardé l'image telle quelle (27/11/2026).
+- Le premier essai a une texture marbrée sur toute l'image (les parkas, le ciel, le trottoir), des visages plus finis que demandé (le journaliste, le militant) et des couleurs plus saturées que `primeTime`. Claude a proposé le message de correction du gabarit ; le PO a gardé l'image telle quelle (27/11/2026) : la texture ressemble à celle du modèle `primeTime`.
 
 ## Essais écartés
 
