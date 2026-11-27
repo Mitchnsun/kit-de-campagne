@@ -7,11 +7,11 @@
 | Champ | Valeur |
 | --- | --- |
 | Carte | `arsenicFollowUp`, catégorie `polemic` (Polémique), tirée seulement avec l'étiquette du soutien pro-russe, deux semaines au moins après [`arsenicKiss`](../support/arsenicKiss.md) ; carte ajoutée pour Mitchnsun/moi-president#562 |
-| Style | Reportage dessiné, trait de `primeTime`, avec une texture sur toute l'image (voir « Décisions ») |
+| Style | Reportage dessiné, trait et texture de `primeTime` |
 | Ton | Tendu, lumière froide du matin |
 | Date | 2026-11-27 |
 | Outil | ChatGPT Images |
-| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Conversation | La conversation habituelle du PO, la même pour toutes les images (PO, 27/11/2026) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 232 Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | La prochaine Release qui suit le merge de la PR de Mitchnsun/moi-president#562 |
@@ -53,7 +53,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- Une texture couvre toute l'image (les panneaux acoustiques, la table, le pull), comme sur [`troopsQuestion`](../abroad/troopsQuestion.md). Claude l'a relevée comme la « texture posée sur l'image » que le gabarit écarte et a proposé le message de correction ; le PO l'a gardée : elle ressemble à la texture du modèle `primeTime` (27/11/2026).
+- Une texture couvre toute l'image (les panneaux acoustiques, la table, le pull), comme sur [`troopsQuestion`](../abroad/troopsQuestion.md). Claude l'a relevée comme la « texture posée sur l'image » que le gabarit écarte et a proposé le message de correction ; le PO l'a gardée : elle ressemble à la texture du modèle `primeTime` (27/11/2026), et le [gabarit](../gabarit.md) l'accepte depuis.
 
 ## Essais écartés
 

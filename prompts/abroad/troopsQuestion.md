@@ -7,11 +7,11 @@
 | Champ | Valeur |
 | --- | --- |
 | Carte | `troopsQuestion`, catégorie `abroad` (International), poids 0,15, jamais dans la même partie que [`peaceAccord`](peaceAccord.md) ; carte ajoutée pour Mitchnsun/moi-president#562 |
-| Style | Reportage dessiné, trait de `primeTime` ; une texture marbrée sur toute l'image (voir « Décisions ») |
+| Style | Reportage dessiné, trait et texture de `primeTime` |
 | Ton | Tendu, nuit d'hiver |
 | Date | 2026-11-27 |
 | Outil | ChatGPT Images |
-| Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
+| Conversation | La conversation habituelle du PO, la même pour toutes les images (PO, 27/11/2026) |
 | Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px, WebP de qualité 75, 215 Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt a été fait depuis la copie partagée dans la conversation avec Claude |
 | Première édition | La prochaine Release qui suit le merge de la PR de Mitchnsun/moi-president#562 |
@@ -53,7 +53,7 @@ Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and t
 
 ## Décisions prises sur cette image
 
-- Le premier essai a une texture marbrée sur toute l'image (les parkas, le ciel, le trottoir), des visages plus finis que demandé (le journaliste, le militant) et des couleurs plus saturées que `primeTime`. Claude a proposé le message de correction du gabarit ; le PO a gardé l'image telle quelle (27/11/2026) : la texture ressemble à celle du modèle `primeTime`.
+- Le premier essai a une texture marbrée sur toute l'image (les parkas, le ciel, le trottoir), des visages plus finis que demandé (le journaliste, le militant) et des couleurs plus saturées que `primeTime`. Claude a proposé le message de correction du gabarit ; le PO a gardé l'image telle quelle (27/11/2026) : la texture ressemble à celle du modèle `primeTime`, et le [gabarit](../gabarit.md) l'accepte depuis.
 
 ## Essais écartés
 
