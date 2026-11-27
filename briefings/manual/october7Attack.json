@@ -1,0 +1,54 @@
+{
+  "id": "october7Attack",
+  "retrievedOn": "2026-11-27",
+  "sources": [
+    {
+      "producer": "Commission d'enquête de l'ONU",
+      "publication": "Rapport de la Commission internationale indépendante chargée d’enquêter dans le Territoire palestinien occupé, y compris Jérusalem-Est, et en Israël (A/HRC/56/26)",
+      "publishedOn": "2024-06-14"
+    }
+  ],
+  "headline": {
+    "series": "killed",
+    "period": "2023-10-07",
+    "value": 1200,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "killed",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "A/HRC/56/26, § 9",
+      "points": [["2023-10-07", 1200]]
+    },
+    {
+      "id": "civiliansKilled",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "A/HRC/56/26, § 9",
+      "points": [["2023-10-07", 809]]
+    },
+    {
+      "id": "militaryKilled",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "A/HRC/56/26, § 9",
+      "points": [["2023-10-07", 314]]
+    },
+    {
+      "id": "hospitalised",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "A/HRC/56/26, § 9",
+      "points": [["2023-10-07", 14970]]
+    },
+    {
+      "id": "hostages",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "A/HRC/56/26, § 9",
+      "points": [["2023-10-07", 252]]
+    }
+  ]
+}

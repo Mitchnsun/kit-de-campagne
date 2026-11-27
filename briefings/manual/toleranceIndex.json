@@ -1,0 +1,46 @@
+{
+  "id": "toleranceIndex",
+  "retrievedOn": "2026-11-27",
+  "sources": [
+    {
+      "producer": "CNCDH",
+      "publication": "La lutte contre le racisme, l'antisémitisme et la xénophobie - Année 2025",
+      "publishedOn": "2026-06-25"
+    }
+  ],
+  "headline": {
+    "series": "tolerance",
+    "period": "2025",
+    "value": 64,
+    "trend": "stable"
+  },
+  "series": [
+    {
+      "id": "tolerance",
+      "frequency": "annual",
+      "unit": "points",
+      "sourceId": "Figure 13",
+      "points": [
+        ["1990", 52],
+        ["1991", 46],
+        ["1993", 50],
+        ["1994", 49],
+        ["1995", 50],
+        ["1998", 56],
+        ["2000", 49],
+        ["2002", 59],
+        ["2003", 61],
+        ["2005", 55],
+        ["2009", 63],
+        ["2013", 51],
+        ["2017", 63],
+        ["2018", 62],
+        ["2019", 65],
+        ["2022", 65],
+        ["2023", 63],
+        ["2024", 64],
+        ["2025", 64]
+      ]
+    }
+  ]
+}

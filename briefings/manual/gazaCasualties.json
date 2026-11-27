@@ -1,0 +1,66 @@
+{
+  "id": "gazaCasualties",
+  "retrievedOn": "2026-11-27",
+  "sources": [
+    {
+      "producer": "OCHA (ONU)",
+      "publication": "Reported Impact Snapshot | Gaza Strip (18 November 2026)",
+      "publishedOn": "2026-11-19"
+    },
+    {
+      "producer": "OCHA (ONU)",
+      "publication": "Humanitarian Situation Report | 26 November 2026",
+      "publishedOn": "2026-11-26"
+    }
+  ],
+  "headline": {
+    "series": "reportedKilled",
+    "period": "2026-11-18",
+    "value": 74710,
+    "trend": null
+  },
+  "series": [
+    {
+      "id": "reportedKilled",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "MoH Gaza, OCHA",
+      "points": [["2026-11-18", 74710]]
+    },
+    {
+      "id": "reportedInjured",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "MoH Gaza, OCHA",
+      "points": [["2026-11-18", 176131]]
+    },
+    {
+      "id": "ceasefireKilled",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "MoH Gaza, OCHA",
+      "points": [["2026-11-23", 1679]]
+    },
+    {
+      "id": "ceasefireInjured",
+      "frequency": "daily",
+      "unit": "count",
+      "sourceId": "MoH Gaza, OCHA",
+      "points": [["2026-11-23", 6100]]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "identifiedKilled",
+      "unit": "count",
+      "period": "2026-10-07",
+      "sourceId": "MoH Gaza, OCHA",
+      "values": [
+        ["men", 35555],
+        ["children", 21976],
+        ["women", 11301],
+        ["elderly", 5405]
+      ]
+    }
+  ]
+}
