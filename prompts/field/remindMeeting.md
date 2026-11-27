@@ -1,20 +1,20 @@
 # `remindMeeting` · Une question dans la salle
 
-**À valider par le PO.**
+**Validée par le PO le 27/11/2026**, au premier essai, malgré la texture notée plus bas. Elle sert telle quelle en clair et en sombre.
 
 ![Une question dans la salle](../../illustrations/field/remindMeeting.webp)
 
 | Champ | Valeur |
 | --- | --- |
 | Carte | `remindMeeting`, catégorie `field` (Rencontre), carte ajoutée par la PR #561 de l'app (Mitchnsun/moi-president#499) |
-| Style | Reportage dessiné |
+| Style | Reportage dessiné ; une texture tissée couvre les vêtements, gardée par le PO |
 | Ton | Attentif, une salle qui attend la réponse |
 | Date | 2026-11-27 |
-| Outil | À remplir |
+| Outil | ChatGPT Images |
 | Conversation | À remplir (le lien ne s'ouvre qu'avec le compte qui l'a créée) |
-| Format rendu | À remplir |
+| Format rendu | 1672 × 941 (16:9) : export en 1290 × 726 px depuis l'image partagée dans la conversation avec Claude, WebP de qualité 75, 272 Ko, sans recadrage |
 | Fichier d'origine | Image de ChatGPT, chez le PO. L'export du dépôt est fait depuis la copie partagée dans la conversation avec Claude |
-| Première édition | À remplir |
+| Première édition | La prochaine Release qui suit le merge de la PR #561 de l'app |
 
 ## Texte de la carte
 
@@ -51,6 +51,12 @@ Constraints: realistic proportions, natural expressions, never cartoonish or car
 Format: if 16:9 is not available, make 1536 × 1024 and keep the top 80 px and the bottom 80 px free of anything important (faces, hands, the main action): they will be cropped.
 ```
 
+## Décisions prises sur cette image
+
+- Le PO a gardé le premier essai (27/11/2026) sans message de correction, alors qu'une texture tissée est posée sur toute l'image, surtout sur les doudounes, le gilet et les pantalons. Le gabarit l'interdit ; le message de correction proposé n'a pas été envoyé.
+- La bouteille d'eau est posée sur le bord de la scène, pas sur le tabouret ; les fiches sont sur le tabouret.
+- Dans les rangs du fond, plusieurs visages aux cheveux châtains bouclés se ressemblent, et une église de village se dessine dans la fenêtre, petite : gardés.
+
 ## Essais écartés
 
 Aucun.
@@ -61,12 +67,12 @@ Aucune.
 
 ## Relecture
 
-À faire.
+Faite et validée par le PO le 27/11/2026.
 
-- [ ] Aucun texte lisible : fiches, téléphones, bouteille, murs.
-- [ ] Aucun sosie d'une personne réelle.
-- [ ] Le candidat du joueur est hors champ ; toute image de lui (affiche, tract, double) n'a ni visage ni genre.
-- [ ] Mains, visages et foules sans défaut visible à 343 px de large.
-- [ ] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure.
-- [ ] En 3:2 : rien d'important dans les 80 px du haut et du bas.
-- [ ] Lisible sur la page de l'événement, en clair et en sombre.
+- [x] Aucun texte lisible : fiches, téléphones, bouteille, murs.
+- [x] Aucun sosie d'une personne réelle.
+- [x] Le candidat du joueur est hors champ.
+- [x] Mains, visages et foules sans défaut visible à 343 px de large : la main ouverte de la militante, celles de la dame sur sa canne et du bénévole ont cinq doigts.
+- [x] Aucune couleur ni aucun logo de parti. Des personnes variées par l'âge, le corps, l'origine et la coiffure, sauf au fond (plus haut).
+- [x] En 3:2 : sans objet, l'image est en 16:9.
+- [x] Lisible sur la page de l'événement, en clair et en sombre.
